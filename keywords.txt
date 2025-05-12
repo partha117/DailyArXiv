@@ -1,6 +1,12 @@
-LLM
-Large Language Model
-Software Engineering
-Code Generation
-Test Generation
-Automatic Debugging
+"code generation"
+"test generation"
+"debugging"
+"bug localization"
+"program repair"
+"software maintenance"
+"automated testing"
+"llm"
+"large language model"
+"prompt engineering"
+"nl2code"
+"code completion"
