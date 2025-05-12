@@ -4,134 +4,235 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## LLM
+## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
-| **[From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling](http://arxiv.org/abs/2505.06184v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at MisD @ AAAI ICWSM 2025</p></details> |
-| **[A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets](http://arxiv.org/abs/2505.06150v1)** | 2025-05-09 |  |
-| **[k-LLMmeans: Scalable, Stable, and Interpretable Text Clustering via LLM-based Centroids](http://arxiv.org/abs/2502.09667v2)** | 2025-05-09 |  |
-| **[Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs](http://arxiv.org/abs/2505.06096v1)** | 2025-05-09 | Accepted at DAC 2025 |
-| **[Healthy LLMs? Benchmarking LLM Knowledge of UK Government Public Health Information](http://arxiv.org/abs/2505.06046v1)** | 2025-05-09 | <details><summary>24 pa...</summary><p>24 pages, 10 pages main text</p></details> |
-| **[Estimating LLM Uncertainty with Evidence](http://arxiv.org/abs/2502.00290v5)** | 2025-05-09 |  |
-| **[What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips](http://arxiv.org/abs/2505.05794v1)** | 2025-05-09 | 36 pages, 22 figures |
-| **[Rethinking Graph Structure Learning in the Era of LLMs](http://arxiv.org/abs/2503.21223v3)** | 2025-05-09 | 29 pages, 9 figures |
-| **[Sparse Attention Remapping with Clustering for Efficient LLM Decoding on PIM](http://arxiv.org/abs/2505.05772v1)** | 2025-05-09 |  |
-| **[Multi-Agent Systems for Robotic Autonomy with LLMs](http://arxiv.org/abs/2505.05762v1)** | 2025-05-09 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 5 tables, submitted for publication</p></details> |
-| **[APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning](http://arxiv.org/abs/2505.05758v1)** | 2025-05-09 |  |
-| **[Harnessing LLMs Explanations to Boost Surrogate Models in Tabular Data Classification](http://arxiv.org/abs/2505.05744v1)** | 2025-05-09 |  |
-| **[Medha: Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations](http://arxiv.org/abs/2409.17264v3)** | 2025-05-09 |  |
-| **[Adaptive Stress Testing Black-Box LLM Planners](http://arxiv.org/abs/2505.05665v1)** | 2025-05-08 | <details><summary>26 pa...</summary><p>26 pages, 16 figures, 4 tables</p></details> |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[Multi-objective optimisation via the R2 utilities](http://arxiv.org/abs/2305.11774v4)** | 2025-05-08 | <details><summary>SIAM ...</summary><p>SIAM Review 2025. 47 pages. Code is available at: https://github.com/benmltu/scalarize</p></details> |
+| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v2)** | 2025-05-09 |  |
+| **[Automated detection of underdiagnosed medical conditions via opportunistic imaging](http://arxiv.org/abs/2409.11686v3)** | 2025-05-08 |  |
+| **[Artifact Sharing for Information Retrieval Research](http://arxiv.org/abs/2505.05434v1)** | 2025-05-08 | SIGIR 2025 (demo) |
+| **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v1)** | 2025-05-08 | Technical Report |
+| **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
+| **[Robustly optimal dynamics for active matter reservoir computing](http://arxiv.org/abs/2505.05420v1)** | 2025-05-08 | <details><summary>55 pa...</summary><p>55 pages, 30 figures. Supplementary Videos: https://doi.org/10.18419/DARUS-4619. Replication Data: https://doi.org/10.18419/DARUS-4620</p></details> |
+| **[Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It](http://arxiv.org/abs/2505.05409v1)** | 2025-05-08 |  |
+| **[Crosslingual Reasoning through Test-Time Scaling](http://arxiv.org/abs/2505.05408v1)** | 2025-05-08 |  |
+| **[Representing spherical tensors with scalar-based machine-learning models](http://arxiv.org/abs/2505.05404v1)** | 2025-05-08 |  |
+| **[A Pain Assessment Framework based on multimodal data and Deep Machine Learning methods](http://arxiv.org/abs/2505.05396v1)** | 2025-05-08 |  |
+| **[TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining](http://arxiv.org/abs/2504.02107v2)** | 2025-05-08 | <details><summary>Code ...</summary><p>Code available at: https://github.com/apple/ml-tic-lm</p></details> |
+| **[Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks](http://arxiv.org/abs/2505.05375v2)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis](http://arxiv.org/abs/2505.05371v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
 
-## Large Language Model
+## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
-| **[From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling](http://arxiv.org/abs/2505.06184v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at MisD @ AAAI ICWSM 2025</p></details> |
-| **[A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows](http://arxiv.org/abs/2505.06178v1)** | 2025-05-09 |  |
-| **[MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills](http://arxiv.org/abs/2505.06176v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH 2025 [ACM Transactions on Graphics]; Project website: https://monetgpt.github.io</p></details> |
-| **[Turbo-ICL: In-Context Learning-Based Turbo Equalization](http://arxiv.org/abs/2505.06175v1)** | 2025-05-09 |  |
-| **[A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets](http://arxiv.org/abs/2505.06150v1)** | 2025-05-09 |  |
-| **[Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning](http://arxiv.org/abs/2503.24289v2)** | 2025-05-09 |  |
-| **[Can open source large language models be used for tumor documentation in Germany? -- An evaluation on urological doctors' notes](http://arxiv.org/abs/2501.12106v3)** | 2025-05-09 | 53 pages, 5 figures |
-| **["Set It Up!": Functional Object Arrangement with Compositional Generative Models](http://arxiv.org/abs/2405.11928v3)** | 2025-05-09 | <details><summary>10 pa...</summary><p>10 pages main paper, 21 pages appendix, RSS 2024</p></details> |
-| **[The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support](http://arxiv.org/abs/2401.14362v3)** | 2025-05-09 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work; typos corrected and post-review revisions incorporated</p></details> |
-| **[LLMs Outperform Experts on Challenging Biology Benchmarks](http://arxiv.org/abs/2505.06108v1)** | 2025-05-09 |  |
-| **[Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs](http://arxiv.org/abs/2505.06096v1)** | 2025-05-09 | Accepted at DAC 2025 |
-| **[Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities](http://arxiv.org/abs/2505.06085v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted to the Computational Aspects of Deep Learning Workshop at ISC High Performance 2025. To appear in the ISC High Performance 2025 Workshop Proceedings</p></details> |
-| **[An Invitation to Deep Reinforcement Learning](http://arxiv.org/abs/2312.08365v3)** | 2025-05-09 | <details><summary>Publi...</summary><p>Published at Foundations and Trends in Optimization</p></details> |
-| **[Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models](http://arxiv.org/abs/2505.02847v2)** | 2025-05-09 | <details><summary>code:...</summary><p>code: https://github.com/Tencent/digitalhuman/tree/main/SAGE</p></details> |
+| **[Facets of Disparate Impact: Evaluating Legally Consistent Bias in Machine Learning](http://arxiv.org/abs/2505.05471v1)** | 2025-05-08 | CIKM 2024 |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[Multi-objective optimisation via the R2 utilities](http://arxiv.org/abs/2305.11774v4)** | 2025-05-08 | <details><summary>SIAM ...</summary><p>SIAM Review 2025. 47 pages. Code is available at: https://github.com/benmltu/scalarize</p></details> |
+| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v2)** | 2025-05-09 |  |
+| **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v1)** | 2025-05-08 | Technical Report |
+| **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
+| **[Robustly optimal dynamics for active matter reservoir computing](http://arxiv.org/abs/2505.05420v1)** | 2025-05-08 | <details><summary>55 pa...</summary><p>55 pages, 30 figures. Supplementary Videos: https://doi.org/10.18419/DARUS-4619. Replication Data: https://doi.org/10.18419/DARUS-4620</p></details> |
+| **[Reasoning Models Don't Always Say What They Think](http://arxiv.org/abs/2505.05410v1)** | 2025-05-08 |  |
+| **[Hide & Seek: Transformer Symmetries Obscure Sharpness & Riemannian Geometry Finds It](http://arxiv.org/abs/2505.05409v1)** | 2025-05-08 |  |
+| **[Crosslingual Reasoning through Test-Time Scaling](http://arxiv.org/abs/2505.05408v1)** | 2025-05-08 |  |
 
-## Software Engineering
+## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Susceptibility to Fraud of Monetary Incentive Mechanisms for Strengthening FOSS Projects](http://arxiv.org/abs/2505.05897v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at ARES 2025</p></details> |
-| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
-| **[From Bias To Improved Prompts: A Case Study of Bias Mitigation of Clone Detection Models](http://arxiv.org/abs/2505.05679v1)** | 2025-05-08 |  |
-| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
-| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](http://arxiv.org/abs/2410.15236v2)** | 2025-05-08 |  |
-| **[Overcoming the hurdle of legal expertise: A reusable model for smartwatch privacy policies](http://arxiv.org/abs/2505.05214v1)** | 2025-05-08 |  |
-| **[Identifying Critical Dependencies in Large-Scale Continuous Software Engineering](http://arxiv.org/abs/2504.21437v3)** | 2025-05-08 |  |
+| **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](http://arxiv.org/abs/2505.05063v1)** | 2025-05-08 |  |
 | **[Quantum Artificial Intelligence for Software Engineering: the Road Ahead](http://arxiv.org/abs/2505.04797v1)** | 2025-05-07 |  |
-| **[Revolutionizing Newcomers' Onboarding Process in OSS Communities: The Future AI Mentor](http://arxiv.org/abs/2505.04277v1)** | 2025-05-07 |  |
-| **[Facilitating Trustworthy Human-Agent Collaboration in LLM-based Multi-Agent System oriented Software Engineering](http://arxiv.org/abs/2505.04251v1)** | 2025-05-07 |  |
-| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](http://arxiv.org/abs/2505.03901v1)** | 2025-05-06 | <details><summary>25 pa...</summary><p>25 pages, 10 images, 2 tables, Manuscript submitted to a journal (2025)</p></details> |
-| **[Enhancing Women's Experiences in Software Engineering](http://arxiv.org/abs/2505.03866v1)** | 2025-05-06 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, published at the International Conference on Software Engineering 2025 (ICSE 2025)</p></details> |
-| **[The Struggles of LLMs in Cross-lingual Code Clone Detection](http://arxiv.org/abs/2408.04430v3)** | 2025-05-06 | <details><summary>Accep...</summary><p>Accepted for publication at the ACM International Conference on the Foundations of Software Engineering (FSE) 2025</p></details> |
-| **[Knowledge Augmented Complex Problem Solving with Large Language Models: A Survey](http://arxiv.org/abs/2505.03418v1)** | 2025-05-06 |  |
-| **[An Empirical Study on the Impact of Gender Diversity on Code Quality in AI Systems](http://arxiv.org/abs/2505.03082v1)** | 2025-05-06 |  |
+| **[Scratch Copilot: Supporting Youth Creative Coding with AI](http://arxiv.org/abs/2505.03867v1)** | 2025-05-06 | 5 figures, 14 pages |
+| **[From Glue-Code to Protocols: A Critical Analysis of A2A and MCP Integration for Scalable Agent Systems](http://arxiv.org/abs/2505.03864v1)** | 2025-05-06 |  |
+| **[Automating Traffic Model Enhancement with AI Research Agent](http://arxiv.org/abs/2409.16876v3)** | 2025-05-06 | 27 pages, 12 figures |
+| **[Refining Fuzzed Crashing Inputs for Better Fault Diagnosis](http://arxiv.org/abs/2505.02305v2)** | 2025-05-06 | <details><summary>This ...</summary><p>This paper will be presented in the Posters track at FSE 2025 (https://conf.researchr.org/track/fse-2025/fse-2025-posters)</p></details> |
+| **[El Agente: An Autonomous Agent for Quantum Chemistry](http://arxiv.org/abs/2505.02484v1)** | 2025-05-05 |  |
+| **[On the Need for a Statistical Foundation in Scenario-Based Testing of Autonomous Vehicles](http://arxiv.org/abs/2505.02274v1)** | 2025-05-04 | under review |
+| **[LASSI: An LLM-based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes](http://arxiv.org/abs/2407.01638v2)** | 2025-05-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 7 tables</p></details> |
+| **[Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency](http://arxiv.org/abs/2505.02133v1)** | 2025-05-04 |  |
+| **[SE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering](http://arxiv.org/abs/2502.01860v4)** | 2025-05-04 | <details><summary>Check...</summary><p>Check the arena at https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena</p></details> |
+| **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
+| **[LLPut: Investigating Large Language Models for Bug Report-Based Input Generation](http://arxiv.org/abs/2503.20578v4)** | 2025-05-01 |  |
+| **[A Framework for Testing and Adapting REST APIs as LLM Tools](http://arxiv.org/abs/2504.15546v2)** | 2025-05-01 |  |
+| **[Evaluating the AI-Lab Intervention: Impact on Student Perception and Use of Generative AI in Early Undergraduate Computer Science Courses](http://arxiv.org/abs/2505.00100v1)** | 2025-04-30 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 17 tables, submitted for publication</p></details> |
 
-## Code Generation
+## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Invitation to Deep Reinforcement Learning](http://arxiv.org/abs/2312.08365v3)** | 2025-05-09 | <details><summary>Publi...</summary><p>Published at Foundations and Trends in Optimization</p></details> |
-| **[SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation](http://arxiv.org/abs/2411.11053v5)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025</p></details> |
-| **[From Bias To Improved Prompts: A Case Study of Bias Mitigation of Clone Detection Models](http://arxiv.org/abs/2505.05679v1)** | 2025-05-08 |  |
+| **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
+| **[Novel Deep Neural OFDM Receiver Architectures for LLR Estimation](http://arxiv.org/abs/2503.20500v3)** | 2025-05-08 | <details><summary>Submi...</summary><p>Submitted to IEEE Globecom 2025</p></details> |
+| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
+| **[PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes](http://arxiv.org/abs/2505.05288v1)** | 2025-05-08 | <details><summary>Tech ...</summary><p>Tech report. Project page: https://nianticlabs.github.io/placeit3d/</p></details> |
+| **[T-T: Table Transformer for Tagging-based Aspect Sentiment Triplet Extraction](http://arxiv.org/abs/2505.05271v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by IJCAI2025</p></details> |
+| **[Adaptive Attention-Based Model for 5G Radio-based Outdoor Localization](http://arxiv.org/abs/2503.23810v2)** | 2025-05-08 | 6 pages, 6 figures |
+| **[Stochastic Variational Propagation: Local, Scalable and Efficient Alternative to Backpropagation](http://arxiv.org/abs/2505.05181v1)** | 2025-05-08 | 14 pages, 5 figures |
+| **[Local linear Fréchet curve regression in manifolds](http://arxiv.org/abs/2505.05168v1)** | 2025-05-08 |  |
+| **[Understanding In-context Learning of Addition via Activation Subspaces](http://arxiv.org/abs/2505.05145v1)** | 2025-05-08 | 16 pages |
+| **[Learning dynamically inspired invariant subspaces for Koopman and transfer operator approximation](http://arxiv.org/abs/2505.05085v1)** | 2025-05-08 | 20 pages, 13 figures |
+| **[FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment](http://arxiv.org/abs/2504.08603v2)** | 2025-05-08 | 11 pages, 5 figures |
+| **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
+| **[LIVS: A Pluralistic Alignment Dataset for Inclusive Public Spaces](http://arxiv.org/abs/2503.01894v2)** | 2025-05-08 | ICML 2025 |
+| **[FedRE: Robust and Effective Federated Learning with Privacy Preference](http://arxiv.org/abs/2505.04889v1)** | 2025-05-08 |  |
+| **[ValuesRAG: Enhancing Cultural Alignment Through Retrieval-Augmented Contextual Learning](http://arxiv.org/abs/2501.01031v3)** | 2025-05-08 | preprint |
+
+## "program repair"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
+| **[Scalable Chain of Thoughts via Elastic Reasoning](http://arxiv.org/abs/2505.05315v1)** | 2025-05-08 |  |
+| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
+| **[ICNN-enhanced 2SP: Leveraging input convex neural networks for solving two-stage stochastic programming](http://arxiv.org/abs/2505.05261v1)** | 2025-05-08 |  |
+| **[Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction](http://arxiv.org/abs/2412.09507v2)** | 2025-05-08 | <details><summary>Work ...</summary><p>Work partly supported by the RA Science Committee grant No. 22rl-052 (DISTAL) and the EU under Italian National Recovery and Resilience Plan of NextGenerationEU on "Telecommunications of the Future" (PE00000001 - program "RESTART")</p></details> |
 | **[Type-Constrained Code Generation with Language Models](http://arxiv.org/abs/2504.09246v2)** | 2025-05-08 |  |
 | **[CodeMixBench: Evaluating Large Language Models on Code Generation with Code-Mixed Prompts](http://arxiv.org/abs/2505.05063v1)** | 2025-05-08 |  |
+| **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
+| **[Neural Pathways to Program Success: Hopfield Networks for PERT Analysis](http://arxiv.org/abs/2505.05047v1)** | 2025-05-08 |  |
+| **[Smaller but Better: Self-Paced Knowledge Distillation for Lightweight yet Effective LCMs](http://arxiv.org/abs/2408.03680v2)** | 2025-05-08 | Accepted by FSE 2025 |
+| **[Graph Neural Network Aided Deep Reinforcement Learning for Resource Allocation in Dynamic Terahertz UAV Networks](http://arxiv.org/abs/2505.04981v1)** | 2025-05-08 |  |
+| **[ReadMe.LLM: A Framework to Help LLMs Understand Your Library](http://arxiv.org/abs/2504.09798v3)** | 2025-05-08 | 15 pages, 18 figures |
+| **[Chain-of-Thought Tokens are Computer Program Variables](http://arxiv.org/abs/2505.04955v1)** | 2025-05-08 |  |
+| **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v2)** | 2025-05-08 |  |
+| **[Precise gradient descent training dynamics for finite-width multi-layer neural networks](http://arxiv.org/abs/2505.04898v1)** | 2025-05-08 |  |
+
+## "software maintenance"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
+| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
+| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
+| **[General Machine Learning Models for Interpreting and Predicting Efficiency Degradation in Organic Solar Cells](http://arxiv.org/abs/2404.00173v3)** | 2025-05-08 |  |
+| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](http://arxiv.org/abs/2410.15236v2)** | 2025-05-08 |  |
+| **[Overcoming the hurdle of legal expertise: A reusable model for smartwatch privacy policies](http://arxiv.org/abs/2505.05214v1)** | 2025-05-08 |  |
+| **[On the Role of Search Budgets in Model-Based Software Refactoring Optimization](http://arxiv.org/abs/2308.15179v2)** | 2025-05-08 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2212.08385</p></details> |
+| **[Identifying Critical Dependencies in Large-Scale Continuous Software Engineering](http://arxiv.org/abs/2504.21437v3)** | 2025-05-08 |  |
 | **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
 | **[Smaller but Better: Self-Paced Knowledge Distillation for Lightweight yet Effective LCMs](http://arxiv.org/abs/2408.03680v2)** | 2025-05-08 | Accepted by FSE 2025 |
 | **[ReadMe.LLM: A Framework to Help LLMs Understand Your Library](http://arxiv.org/abs/2504.09798v3)** | 2025-05-08 | 15 pages, 18 figures |
 | **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v2)** | 2025-05-08 |  |
-| **[A Proposal for Evaluating the Operational Risk for ChatBots based on Large Language Models](http://arxiv.org/abs/2505.04784v1)** | 2025-05-07 | 21 pages |
-| **[Comparative Analysis of Carbon Footprint in Manual vs. LLM-Assisted Code Development](http://arxiv.org/abs/2505.04521v1)** | 2025-05-07 |  |
-| **[YABLoCo: Yet Another Benchmark for Long Context Code Generation](http://arxiv.org/abs/2505.04406v1)** | 2025-05-07 | <details><summary>Prese...</summary><p>Presented at LLM4Code 2025 Workshop co-located wtih ICSE 2025</p></details> |
-| **[LLM Code Customization with Visual Results: A Benchmark on TikZ](http://arxiv.org/abs/2505.04670v1)** | 2025-05-07 |  |
-| **[CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain](http://arxiv.org/abs/2504.21043v2)** | 2025-05-07 |  |
-| **[MARCO: A Multi-Agent System for Optimizing HPC Code Generation Using Large Language Models](http://arxiv.org/abs/2505.03906v1)** | 2025-05-06 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
+| **[The Design Space of Lockfiles Across Package Managers](http://arxiv.org/abs/2505.04834v1)** | 2025-05-07 |  |
+| **[Protecting Privacy in Software Logs: What Should Be Anonymized?](http://arxiv.org/abs/2409.11313v2)** | 2025-05-07 |  |
 
-## Test Generation
+## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
-| **[Requirements-Based Test Generation: A Comprehensive Survey](http://arxiv.org/abs/2505.02015v2)** | 2025-05-07 |  |
-| **[AI-powered software testing tools: A systematic review and empirical assessment of their features and limitations](http://arxiv.org/abs/2409.00411v3)** | 2025-05-01 |  |
-| **[Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation](http://arxiv.org/abs/2505.01456v1)** | 2025-05-01 | <details><summary>The d...</summary><p>The dataset and code are publicly available at https://github.com/Vaidehi99/UnLOK-VQA</p></details> |
-| **[Automated Test Generation from Program Documentation Encoded in Code Comments](http://arxiv.org/abs/2504.21161v1)** | 2025-04-29 |  |
-| **[Tracking the Moving Target: A Framework for Continuous Evaluation of LLM Test Generation in Industry](http://arxiv.org/abs/2504.18985v1)** | 2025-04-26 | <details><summary>Accep...</summary><p>Accepted for publication at the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[Toward Automated Test Generation for Dockerfiles Based on Analysis of Docker Image Layers](http://arxiv.org/abs/2504.18150v1)** | 2025-04-25 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication in the proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](http://arxiv.org/abs/2504.17977v1)** | 2025-04-24 |  |
-| **[Harden and Catch for Just-in-Time Assured LLM-Based Software Testing: Open Research Challenges](http://arxiv.org/abs/2504.16472v1)** | 2025-04-23 | <details><summary>To Ap...</summary><p>To Appear as keynote paper at FSE 2025</p></details> |
-| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v1)** | 2025-04-22 | <details><summary>Under...</summary><p>Under review for a conference</p></details> |
-| **[VeriCoder: Enhancing LLM-Based RTL Code Generation through Functional Correctness Validation](http://arxiv.org/abs/2504.15659v1)** | 2025-04-22 |  |
-| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v1)** | 2025-04-19 | Under review |
-| **[Using Cooperative Co-evolutionary Search to Generate Metamorphic Test Cases for Autonomous Driving Systems](http://arxiv.org/abs/2412.03843v2)** | 2025-04-15 | <details><summary>33 pa...</summary><p>33 pages, 16 figures, to be published in IEEE Transactions on Software Engineering</p></details> |
+| **[Facets of Disparate Impact: Evaluating Legally Consistent Bias in Machine Learning](http://arxiv.org/abs/2505.05471v1)** | 2025-05-08 | CIKM 2024 |
+| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v2)** | 2025-05-09 |  |
+| **[Automated detection of underdiagnosed medical conditions via opportunistic imaging](http://arxiv.org/abs/2409.11686v3)** | 2025-05-08 |  |
+| **[Robustly optimal dynamics for active matter reservoir computing](http://arxiv.org/abs/2505.05420v1)** | 2025-05-08 | <details><summary>55 pa...</summary><p>55 pages, 30 figures. Supplementary Videos: https://doi.org/10.18419/DARUS-4619. Replication Data: https://doi.org/10.18419/DARUS-4620</p></details> |
+| **[Reasoning Models Don't Always Say What They Think](http://arxiv.org/abs/2505.05410v1)** | 2025-05-08 |  |
+| **[Crosslingual Reasoning through Test-Time Scaling](http://arxiv.org/abs/2505.05408v1)** | 2025-05-08 |  |
+| **[Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting](http://arxiv.org/abs/2505.05381v1)** | 2025-05-08 |  |
+| **[Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks](http://arxiv.org/abs/2505.05375v2)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis](http://arxiv.org/abs/2505.05371v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
+| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
+| **[Scalable Chain of Thoughts via Elastic Reasoning](http://arxiv.org/abs/2505.05315v1)** | 2025-05-08 |  |
+| **[A Two-Sample Test of Text Generation Similarity](http://arxiv.org/abs/2505.05269v1)** | 2025-05-08 |  |
+| **[Demonstrating ViSafe: Vision-enabled Safety for High-speed Detect and Avoid](http://arxiv.org/abs/2505.03694v2)** | 2025-05-08 | <details><summary>13 pa...</summary><p>13 pages, RSS 2025 Demo track, https://theairlab.org/visafe/</p></details> |
+| **[Rejection via Learning Density Ratios](http://arxiv.org/abs/2405.18686v2)** | 2025-05-08 | <details><summary>Compa...</summary><p>Compared to published version, a typo in Appendix Section E has been fixed</p></details> |
+| **[General Machine Learning Models for Interpreting and Predicting Efficiency Degradation in Organic Solar Cells](http://arxiv.org/abs/2404.00173v3)** | 2025-05-08 |  |
 
-## Automatic Debugging
+## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RocketPPA: Ultra-Fast LLM-Based PPA Estimator at Code-Level Abstraction](http://arxiv.org/abs/2503.21971v2)** | 2025-04-29 |  |
-| **[A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation](http://arxiv.org/abs/2411.07586v1)** | 2024-11-12 | <details><summary>A sur...</summary><p>A survey of recent developments in AI-assisted automated program repair</p></details> |
-| **[Combining Logic with Large Language Models for Automatic Debugging and Repair of ASP Programs](http://arxiv.org/abs/2410.20962v1)** | 2024-10-28 |  |
-| **[RGD: Multi-LLM Based Agent Debugger via Refinement and Generation Guidance](http://arxiv.org/abs/2410.01242v2)** | 2024-10-03 |  |
-| **[DREAM: Debugging and Repairing AutoML Pipelines](http://arxiv.org/abs/2401.00379v1)** | 2023-12-31 | 12 pages, 10 figures |
-| **[Large Language Models for Test-Free Fault Localization](http://arxiv.org/abs/2310.01726v1)** | 2023-10-03 |  |
-| **[Explainable Automated Debugging via Large Language Model-driven Scientific Debugging](http://arxiv.org/abs/2304.02195v1)** | 2023-04-05 |  |
-| **[Automatically Debugging AutoML Pipelines using Maro: ML Automated Remediation Oracle (Extended Version)](http://arxiv.org/abs/2205.01311v2)** | 2022-05-05 | <details><summary>Exten...</summary><p>Extended version of MAPS 2022 paper</p></details> |
-| **[TraceDiff: Debugging Unexpected Code Behavior Using Trace Divergences](http://arxiv.org/abs/1708.03786v1)** | 2017-08-12 | VL/HCC 2017 |
-| **[Automated Fixing of Programs with Contracts](http://arxiv.org/abs/1403.1117v3)** | 2014-04-25 | <details><summary>Minor...</summary><p>Minor changes after proofreading</p></details> |
-| **[Optimal Divide and Query (extended version)](http://arxiv.org/abs/1107.0350v3)** | 2011-07-26 |  |
-| **[Model-Based Debugging using Multiple Abstract Models](http://arxiv.org/abs/cs/0309030v1)** | 2003-09-17 | <details><summary>In M....</summary><p>In M. Ronsse, K. De Bosschere (eds), proceedings of the Fifth International Workshop on Automated Debugging (AADEBUG 2003), September 2003, Ghent. cs.SE/0309027</p></details> |
-| **[Automatic Debugging Support for UML Designs](http://arxiv.org/abs/cs/0011017v1)** | 2000-11-13 | <details><summary>In M....</summary><p>In M. Ducasse (ed), proceedings of the Fourth International Workshop on Automated Debugging (AADEBUG 2000), August 2000, Munich. cs.SE/0010035</p></details> |
+| **[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](http://arxiv.org/abs/2505.05467v1)** | 2025-05-08 |  |
+| **[ComPO: Preference Alignment via Comparison Oracles](http://arxiv.org/abs/2505.05465v1)** | 2025-05-08 | 25 pages |
+| **[Conversational Process Model Redesign](http://arxiv.org/abs/2505.05453v1)** | 2025-05-08 |  |
+| **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](http://arxiv.org/abs/2504.18039v2)** | 2025-05-08 |  |
+| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v2)** | 2025-05-09 |  |
+| **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
+| **[Let's Ask GNN: Empowering Large Language Model for Graph In-Context Learning](http://arxiv.org/abs/2410.07074v3)** | 2025-05-08 |  |
+| **[TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining](http://arxiv.org/abs/2504.02107v2)** | 2025-05-08 | <details><summary>Code ...</summary><p>Code available at: https://github.com/apple/ml-tic-lm</p></details> |
+| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
+| **[PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes](http://arxiv.org/abs/2505.05288v1)** | 2025-05-08 | <details><summary>Tech ...</summary><p>Tech report. Project page: https://nianticlabs.github.io/placeit3d/</p></details> |
+| **[Generating Symbolic World Models via Test-time Scaling of Large Language Models](http://arxiv.org/abs/2502.04728v2)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by TMLR2025 (32 pages, 6 figures)</p></details> |
+| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](http://arxiv.org/abs/2410.15236v2)** | 2025-05-08 |  |
+| **[Latte: Transfering LLMs` Latent-level Knowledge for Few-shot Tabular Learning](http://arxiv.org/abs/2505.05237v1)** | 2025-05-08 |  |
+| **[Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems](http://arxiv.org/abs/2505.05196v1)** | 2025-05-08 |  |
+| **[Revealing Weaknesses in Text Watermarking Through Self-Information Rewrite Attacks](http://arxiv.org/abs/2505.05190v1)** | 2025-05-08 | ICML 2025 Accpeted |
+
+## "large language model"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](http://arxiv.org/abs/2505.05467v1)** | 2025-05-08 |  |
+| **[ComPO: Preference Alignment via Comparison Oracles](http://arxiv.org/abs/2505.05465v1)** | 2025-05-08 | 25 pages |
+| **[Multi-objective optimisation via the R2 utilities](http://arxiv.org/abs/2305.11774v4)** | 2025-05-08 | <details><summary>SIAM ...</summary><p>SIAM Review 2025. 47 pages. Code is available at: https://github.com/benmltu/scalarize</p></details> |
+| **[Conversational Process Model Redesign](http://arxiv.org/abs/2505.05453v1)** | 2025-05-08 |  |
+| **[RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](http://arxiv.org/abs/2505.05452v1)** | 2025-05-08 |  |
+| **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](http://arxiv.org/abs/2504.18039v2)** | 2025-05-08 |  |
+| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v2)** | 2025-05-09 |  |
+| **[Automated detection of underdiagnosed medical conditions via opportunistic imaging](http://arxiv.org/abs/2409.11686v3)** | 2025-05-08 |  |
+| **[Artifact Sharing for Information Retrieval Research](http://arxiv.org/abs/2505.05434v1)** | 2025-05-08 | SIGIR 2025 (demo) |
+| **[Barren Plateaus in Variational Quantum Computing](http://arxiv.org/abs/2405.00781v2)** | 2025-05-08 | <details><summary>24 pa...</summary><p>24 pages, 10 boxes, updated to published version</p></details> |
+| **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
+| **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v1)** | 2025-05-08 | Technical Report |
+| **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
+| **[Robustly optimal dynamics for active matter reservoir computing](http://arxiv.org/abs/2505.05420v1)** | 2025-05-08 | <details><summary>55 pa...</summary><p>55 pages, 30 figures. Supplementary Videos: https://doi.org/10.18419/DARUS-4619. Replication Data: https://doi.org/10.18419/DARUS-4620</p></details> |
+
+## "prompt engineering"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Conversational Process Model Redesign](http://arxiv.org/abs/2505.05453v1)** | 2025-05-08 |  |
+| **[Reasoning Models Don't Always Say What They Think](http://arxiv.org/abs/2505.05410v1)** | 2025-05-08 |  |
+| **[DEGAP: Dual Event-Guided Adaptive Prefixes for Templated-Based Event Argument Extraction with Slot Querying](http://arxiv.org/abs/2405.13325v3)** | 2025-05-08 | <details><summary>Publi...</summary><p>Published as a conference paper in COLING 2025</p></details> |
+| **[On-device Anomaly Detection in Conveyor Belt Operations](http://arxiv.org/abs/2411.10729v2)** | 2025-05-08 | <details><summary>Prepr...</summary><p>Preprint submitted to IEEE Sensors Journal</p></details> |
+| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
+| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
+| **[PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes](http://arxiv.org/abs/2505.05288v1)** | 2025-05-08 | <details><summary>Tech ...</summary><p>Tech report. Project page: https://nianticlabs.github.io/placeit3d/</p></details> |
+| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
+| **[FLARE: A Framework for Stellar Flare Forecasting using Stellar Physical Properties and Historical Records](http://arxiv.org/abs/2502.18218v2)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by IJCAI 2025</p></details> |
+| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](http://arxiv.org/abs/2410.15236v2)** | 2025-05-08 |  |
+| **[Latte: Transfering LLMs` Latent-level Knowledge for Few-shot Tabular Learning](http://arxiv.org/abs/2505.05237v1)** | 2025-05-08 |  |
+| **[ChemRxivQuest: A Curated Chemistry Question-Answer Database Extracted from ChemRxiv Preprints](http://arxiv.org/abs/2505.05232v1)** | 2025-05-08 |  |
+| **[Overcoming the hurdle of legal expertise: A reusable model for smartwatch privacy policies](http://arxiv.org/abs/2505.05214v1)** | 2025-05-08 |  |
+| **[Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation](http://arxiv.org/abs/2502.03501v3)** | 2025-05-08 |  |
+| **[Biomed-DPT: Dual Modality Prompt Tuning for Biomedical Vision-Language Models](http://arxiv.org/abs/2505.05189v1)** | 2025-05-08 |  |
+
+## "nl2code"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Concept Distillation from Strong to Weak Models via Hypotheses-to-Theories Prompting](http://arxiv.org/abs/2408.09365v2)** | 2025-02-23 | <details><summary>Accep...</summary><p>Accepted to NAACL 2025; 17 pages, 8 figures</p></details> |
+| **[ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries](http://arxiv.org/abs/2410.14748v3)** | 2024-12-18 | <details><summary>11 pa...</summary><p>11 pages, 6 Figures, 5 Tables</p></details> |
+| **[PromptIntern: Saving Inference Costs by Internalizing Recurrent Prompt during Large Language Model Fine-tuning](http://arxiv.org/abs/2407.02211v2)** | 2024-10-15 | <details><summary>This ...</summary><p>This paper has been accepted by EMNLP 2024</p></details> |
+| **[On the Limitations of Embedding Based Methods for Measuring Functional Correctness for Code Generation](http://arxiv.org/abs/2405.01580v1)** | 2024-04-26 |  |
+| **[Large Language Models Meet NL2Code: A Survey](http://arxiv.org/abs/2212.09420v2)** | 2023-05-08 | <details><summary>Accep...</summary><p>Accepted to the main conference of ACL 2023 (long paper)</p></details> |
+
+## "code completion"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[Multi-objective optimisation via the R2 utilities](http://arxiv.org/abs/2305.11774v4)** | 2025-05-08 | <details><summary>SIAM ...</summary><p>SIAM Review 2025. 47 pages. Code is available at: https://github.com/benmltu/scalarize</p></details> |
+| **[Conversational Process Model Redesign](http://arxiv.org/abs/2505.05453v1)** | 2025-05-08 |  |
+| **[Automated detection of underdiagnosed medical conditions via opportunistic imaging](http://arxiv.org/abs/2409.11686v3)** | 2025-05-08 |  |
+| **[Artifact Sharing for Information Retrieval Research](http://arxiv.org/abs/2505.05434v1)** | 2025-05-08 | SIGIR 2025 (demo) |
+| **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v1)** | 2025-05-08 | Technical Report |
+| **[TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining](http://arxiv.org/abs/2504.02107v2)** | 2025-05-08 | <details><summary>Code ...</summary><p>Code available at: https://github.com/apple/ml-tic-lm</p></details> |
+| **[Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks](http://arxiv.org/abs/2505.05375v2)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted by IJCNN 2025. \c{opyright} 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, including reprinting/republishing this material for advertising or promotional purposes, collecting new collected works for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis](http://arxiv.org/abs/2505.05371v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 2 tables</p></details> |
+| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
+| **[Scalable Chain of Thoughts via Elastic Reasoning](http://arxiv.org/abs/2505.05315v1)** | 2025-05-08 |  |
+| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
+| **[Transformer-based assignment decision network for multiple object tracking](http://arxiv.org/abs/2208.03571v3)** | 2025-05-08 | <details><summary>Prepr...</summary><p>Preprint version. Under consideration at Computer Vision and Image Understanding</p></details> |
+| **[Multi-Objective Reinforcement Learning for Adaptive Personalized Autonomous Driving](http://arxiv.org/abs/2505.05223v1)** | 2025-05-08 |  |
+| **[LAPSO: A Unified Optimization View for Learning-Augmented Power System Operations](http://arxiv.org/abs/2505.05203v1)** | 2025-05-08 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Machine-Learning Compositional Study of Exoplanetary Material Accreted Onto Five Helium-Atmosphere White Dwarfs with $\texttt{cecilia}$](http://arxiv.org/abs/2505.06228v1)** | 2025-05-09 | <details><summary>28 pa...</summary><p>28 pages, 14 figures, 5 tables. Accepted for publication in MNRAS</p></details> |
-| **[Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks](http://arxiv.org/abs/2505.06224v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2025</p></details> |
-| **[Let Humanoids Hike! Integrative Skill Development on Complex Trails](http://arxiv.org/abs/2505.06218v1)** | 2025-05-09 | <details><summary>CVPR ...</summary><p>CVPR 2025. Project page: https://lego-h-humanoidrobothiking.github.io/</p></details> |
-| **[Distributional Drift Detection in Medical Imaging with Sketching and Fine-Tuned Transformer](http://arxiv.org/abs/2408.08456v2)** | 2025-05-09 |  |
-| **[Leveraging Multi-Task Learning for Multi-Label Power System Security Assessment](http://arxiv.org/abs/2505.06207v1)** | 2025-05-09 |  |
-| **[Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising](http://arxiv.org/abs/2505.06203v1)** | 2025-05-09 | 16 pages, 4 figures |
-| **[Neuro-Symbolic Concepts](http://arxiv.org/abs/2505.06191v1)** | 2025-05-09 | <details><summary>To ap...</summary><p>To appear in Communications of the ACM</p></details> |
+| **[Facets of Disparate Impact: Evaluating Legally Consistent Bias in Machine Learning](http://arxiv.org/abs/2505.05471v1)** | 2025-05-08 | CIKM 2024 |
+| **[Flow-GRPO: Training Flow Matching Models via Online RL](http://arxiv.org/abs/2505.05470v1)** | 2025-05-08 | <details><summary>Code:...</summary><p>Code: https://github.com/yifan123/flow_grpo</p></details> |
+| **[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](http://arxiv.org/abs/2505.05467v1)** | 2025-05-08 |  |
+| **[ComPO: Preference Alignment via Comparison Oracles](http://arxiv.org/abs/2505.05465v1)** | 2025-05-08 | 25 pages |
+| **[Multi-objective optimisation via the R2 utilities](http://arxiv.org/abs/2305.11774v4)** | 2025-05-08 | <details><summary>SIAM ...</summary><p>SIAM Review 2025. 47 pages. Code is available at: https://github.com/benmltu/scalarize</p></details> |
+| **[Conversational Process Model Redesign](http://arxiv.org/abs/2505.05453v1)** | 2025-05-08 |  |
+| **[RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles](http://arxiv.org/abs/2505.05452v1)** | 2025-05-08 |  |
+| **[MultiMind: Enhancing Werewolf Agents with Multimodal Reasoning and Theory of Mind](http://arxiv.org/abs/2504.18039v2)** | 2025-05-08 |  |
+| **[EcoAgent: An Efficient Edge-Cloud Collaborative Multi-Agent Framework for Mobile Automation](http://arxiv.org/abs/2505.05440v2)** | 2025-05-09 |  |
+| **[Automated detection of underdiagnosed medical conditions via opportunistic imaging](http://arxiv.org/abs/2409.11686v3)** | 2025-05-08 |  |
+| **[Artifact Sharing for Information Retrieval Research](http://arxiv.org/abs/2505.05434v1)** | 2025-05-08 | SIGIR 2025 (demo) |
+| **[Barren Plateaus in Variational Quantum Computing](http://arxiv.org/abs/2405.00781v2)** | 2025-05-08 | <details><summary>24 pa...</summary><p>24 pages, 10 boxes, updated to published version</p></details> |
 | **[LiTransProQA: an LLM-based Literary Translation evaluation metric with Professional Question Answering](http://arxiv.org/abs/2505.05423v2)** | 2025-05-09 | Update WIP |
-| **[Query-driven Document-level Scientific Evidence Extraction from Biomedical Studies](http://arxiv.org/abs/2505.06186v1)** | 2025-05-09 |  |
-| **[Brain Hematoma Marker Recognition Using Multitask Learning: SwinTransformer and Swin-Unet](http://arxiv.org/abs/2505.06185v1)** | 2025-05-09 | 8 pages,4 figures |
-| **[From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling](http://arxiv.org/abs/2505.06184v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at MisD @ AAAI ICWSM 2025</p></details> |
-| **[Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach](http://arxiv.org/abs/2505.06182v1)** | 2025-05-09 | 16 pages; 13 figures |
-| **[A Large Language Model-Enhanced Q-learning for Capacitated Vehicle Routing Problem with Time Windows](http://arxiv.org/abs/2505.06178v1)** | 2025-05-09 |  |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[MonetGPT: Solving Puzzles Enhances MLLMs' Image Retouching Skills](http://arxiv.org/abs/2505.06176v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at SIGGRAPH 2025 [ACM Transactions on Graphics]; Project website: https://monetgpt.github.io</p></details> |
+| **[TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation](http://arxiv.org/abs/2505.05422v1)** | 2025-05-08 | Technical Report |
+| **[Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models](http://arxiv.org/abs/2503.01876v2)** | 2025-05-08 |  |
 
