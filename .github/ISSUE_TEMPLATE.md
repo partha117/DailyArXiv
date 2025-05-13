@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2025
+title: Latest 15 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,33 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[The Hidden Bloat in Machine Learning Systems](http://arxiv.org/abs/2503.14226v2)** | 2025-05-09 |  |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI](http://arxiv.org/abs/2505.07583v1)** | 2025-05-12 |  |
+| **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
+| **[A Systematic Mapping Study on Contract-based Software Design for Dependable Systems](http://arxiv.org/abs/2505.07542v1)** | 2025-05-12 | 8 pages, 7 figures |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis](http://arxiv.org/abs/2505.07487v1)** | 2025-05-12 |  |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[A Systematic Literature Review on Neural Code Translation](http://arxiv.org/abs/2505.07425v1)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection](http://arxiv.org/abs/2505.05777v1)** | 2025-05-09 |  |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
+| **[A Systematic Mapping Study on Contract-based Software Design for Dependable Systems](http://arxiv.org/abs/2505.07542v1)** | 2025-05-12 | 8 pages, 7 figures |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
+| **[BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models](http://arxiv.org/abs/2505.07360v1)** | 2025-05-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, to be published in IJCAI 2025</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -45,6 +57,11 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
+| **[Explainable Artificial Intelligence Techniques for Software Development Lifecycle: A Phase-specific Survey](http://arxiv.org/abs/2505.07058v1)** | 2025-05-11 | <details><summary>Accep...</summary><p>Accepted to IEEE COMPSAC 2025</p></details> |
+| **[EffiLearner: Enhancing Efficiency of Generated Code via Self-Optimization](http://arxiv.org/abs/2405.15189v4)** | 2025-05-10 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2024</p></details> |
+| **[A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models](http://arxiv.org/abs/2504.21569v2)** | 2025-05-09 |  |
 | **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
 | **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
 | **[PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection](http://arxiv.org/abs/2505.05777v1)** | 2025-05-09 |  |
@@ -53,106 +70,110 @@ labels: documentation
 | **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
 | **[Checkification: A Practical Approach for Testing Static Analysis Truths](http://arxiv.org/abs/2501.12093v3)** | 2025-05-07 | <details><summary>Accep...</summary><p>Accepted for publication in Theory and Practice of Logic Programming (TPLP). Extended, revised version of our work published in LOPSTR 2020</p></details> |
 | **[Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning](http://arxiv.org/abs/2504.18827v2)** | 2025-05-07 |  |
-| **[Requirements-Based Test Generation: A Comprehensive Survey](http://arxiv.org/abs/2505.02015v2)** | 2025-05-07 |  |
-| **[Identification and Optimization of Redundant Code Using Large Language Models](http://arxiv.org/abs/2505.04040v1)** | 2025-05-07 |  |
-| **[Gender Disparities in Contributions, Leadership, and Collaboration: An Exploratory Study on Software Systems Research](http://arxiv.org/abs/2412.15661v3)** | 2025-05-07 |  |
-| **[Racing Against the Clock: Exploring the Impact of Scheduled Deadlines on Technical Debt](http://arxiv.org/abs/2505.04027v1)** | 2025-05-07 | <details><summary>The 2...</summary><p>The 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[Refining Fuzzed Crashing Inputs for Better Fault Diagnosis](http://arxiv.org/abs/2505.02305v2)** | 2025-05-06 | <details><summary>This ...</summary><p>This paper will be presented in the Posters track at FSE 2025 (https://conf.researchr.org/track/fse-2025/fse-2025-posters)</p></details> |
-| **[DiffSpec: Differential Testing with LLMs using Natural Language Specifications and Code Artifacts](http://arxiv.org/abs/2410.04249v3)** | 2025-05-06 |  |
-| **[The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models](http://arxiv.org/abs/2505.02931v1)** | 2025-05-05 | <details><summary>Accep...</summary><p>Accepted for publication in the research track of the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE), 17-20 June 2025, Istanbul, T\"urkiye</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[Exploring the Susceptibility to Fraud of Monetary Incentive Mechanisms for Strengthening FOSS Projects](http://arxiv.org/abs/2505.05897v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at ARES 2025</p></details> |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
-| **[Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection](http://arxiv.org/abs/2505.05600v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 3 tables, DCAI'25: Distributed Computing and Artificial Intelligence 2025</p></details> |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
-| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
-| **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
-| **[Smaller but Better: Self-Paced Knowledge Distillation for Lightweight yet Effective LCMs](http://arxiv.org/abs/2408.03680v2)** | 2025-05-08 | Accepted by FSE 2025 |
-| **[ReadMe.LLM: A Framework to Help LLMs Understand Your Library](http://arxiv.org/abs/2504.09798v3)** | 2025-05-08 | 15 pages, 18 figures |
-| **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v2)** | 2025-05-08 |  |
-| **[OmniGIRL: A Multilingual and Multimodal Benchmark for GitHub Issue Resolution](http://arxiv.org/abs/2505.04606v1)** | 2025-05-07 | <details><summary>To ap...</summary><p>To appear at ISSTA'25</p></details> |
-| **[Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs](http://arxiv.org/abs/2505.04441v1)** | 2025-05-07 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[A Systematic Literature Review on Neural Code Translation](http://arxiv.org/abs/2505.07425v1)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection](http://arxiv.org/abs/2505.07376v1)** | 2025-05-12 | 8 pages, 3 figures |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
+| **[BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models](http://arxiv.org/abs/2505.07360v1)** | 2025-05-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, to be published in IJCAI 2025</p></details> |
+| **[Automated Repair of Ambiguous Natural Language Requirements](http://arxiv.org/abs/2505.07270v1)** | 2025-05-12 |  |
+| **[Detecting Misuse of Security APIs: A Systematic Review](http://arxiv.org/abs/2306.08869v3)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Computing Surveys, 2025</p></details> |
+| **[A Black-box Testing Framework for Oracle Quantum Programs](http://arxiv.org/abs/2505.07243v1)** | 2025-05-12 | 35 pages, 8 figures |
+| **[An Empirical Study: MEMS as a Static Performance Metric](http://arxiv.org/abs/2505.07208v1)** | 2025-05-12 |  |
+| **[Incremental Analysis of Legacy Applications Using Knowledge Graphs for Application Modernization](http://arxiv.org/abs/2505.06885v1)** | 2025-05-11 |  |
+| **[Benchmarking and Revisiting Code Generation Assessment: A Mutation-Based Approach](http://arxiv.org/abs/2505.06880v1)** | 2025-05-11 | 8 pages, 4 figures |
+| **[Crypto-Economic Analysis of Web3 Funding Programs Using the Grant Maturity Framework](http://arxiv.org/abs/2505.06801v1)** | 2025-05-11 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
-| **[Exploring the Susceptibility to Fraud of Monetary Incentive Mechanisms for Strengthening FOSS Projects](http://arxiv.org/abs/2505.05897v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at ARES 2025</p></details> |
-| **[The Hidden Bloat in Machine Learning Systems](http://arxiv.org/abs/2503.14226v2)** | 2025-05-09 |  |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection](http://arxiv.org/abs/2505.05777v1)** | 2025-05-09 |  |
-| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
-| **[From Bias To Improved Prompts: A Case Study of Bias Mitigation of Clone Detection Models](http://arxiv.org/abs/2505.05679v1)** | 2025-05-08 |  |
-| **[English Please: Evaluating Machine Translation with Large Language Models for Multilingual Bug Reports](http://arxiv.org/abs/2502.14338v4)** | 2025-05-08 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 3 Tables</p></details> |
-| **[Toward a Better Understanding of Probabilistic Delta Debugging](http://arxiv.org/abs/2408.04735v4)** | 2025-05-08 | accepted by ICSE25 |
-| **[Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection](http://arxiv.org/abs/2505.05600v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 3 tables, DCAI'25: Distributed Computing and Artificial Intelligence 2025</p></details> |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI](http://arxiv.org/abs/2505.07583v1)** | 2025-05-12 |  |
+| **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
+| **[A Systematic Mapping Study on Contract-based Software Design for Dependable Systems](http://arxiv.org/abs/2505.07542v1)** | 2025-05-12 | 8 pages, 7 figures |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis](http://arxiv.org/abs/2505.07487v1)** | 2025-05-12 |  |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[A Systematic Literature Review on Neural Code Translation](http://arxiv.org/abs/2505.07425v1)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection](http://arxiv.org/abs/2505.07376v1)** | 2025-05-12 | 8 pages, 3 figures |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection](http://arxiv.org/abs/2505.05777v1)** | 2025-05-09 |  |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
-| **[Toward a Better Understanding of Probabilistic Delta Debugging](http://arxiv.org/abs/2408.04735v4)** | 2025-05-08 | accepted by ICSE25 |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
-| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
-| **[On the Role of Search Budgets in Model-Based Software Refactoring Optimization](http://arxiv.org/abs/2308.15179v2)** | 2025-05-08 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2212.08385</p></details> |
-| **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
-| **[ReadMe.LLM: A Framework to Help LLMs Understand Your Library](http://arxiv.org/abs/2504.09798v3)** | 2025-05-08 | 15 pages, 18 figures |
-| **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v2)** | 2025-05-08 |  |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[A Systematic Mapping Study on Contract-based Software Design for Dependable Systems](http://arxiv.org/abs/2505.07542v1)** | 2025-05-12 | 8 pages, 7 figures |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis](http://arxiv.org/abs/2505.07487v1)** | 2025-05-12 |  |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection](http://arxiv.org/abs/2505.07376v1)** | 2025-05-12 | 8 pages, 3 figures |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
+| **[Automated Repair of Ambiguous Natural Language Requirements](http://arxiv.org/abs/2505.07270v1)** | 2025-05-12 |  |
+| **[A Black-box Testing Framework for Oracle Quantum Programs](http://arxiv.org/abs/2505.07243v1)** | 2025-05-12 | 35 pages, 8 figures |
+| **[An Empirical Study: MEMS as a Static Performance Metric](http://arxiv.org/abs/2505.07208v1)** | 2025-05-12 |  |
+| **[DiffGAN: A Test Generation Approach for Differential Testing of Deep Neural Networks](http://arxiv.org/abs/2410.19794v2)** | 2025-05-12 |  |
+| **[Explainable Artificial Intelligence Techniques for Software Development Lifecycle: A Phase-specific Survey](http://arxiv.org/abs/2505.07058v1)** | 2025-05-11 | <details><summary>Accep...</summary><p>Accepted to IEEE COMPSAC 2025</p></details> |
+| **[Targeted Deep Learning System Boundary Testing](http://arxiv.org/abs/2408.06258v2)** | 2025-05-11 |  |
+| **[The Future of Software Testing: AI-Powered Test Case Generation and Validation](http://arxiv.org/abs/2409.05808v2)** | 2025-05-10 | Version 2, 19 Pages |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[From Bias To Improved Prompts: A Case Study of Bias Mitigation of Clone Detection Models](http://arxiv.org/abs/2505.05679v1)** | 2025-05-08 |  |
-| **[Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection](http://arxiv.org/abs/2505.05600v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 3 tables, DCAI'25: Distributed Computing and Artificial Intelligence 2025</p></details> |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
-| **[Enhancing Differential Testing With LLMs For Testing Deep Learning Libraries](http://arxiv.org/abs/2406.07944v2)** | 2025-05-08 | <details><summary>This ...</summary><p>This work has been accepted by ACM TOSEM. Manuscript under final preparation</p></details> |
-| **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
-| **[ReadMe.LLM: A Framework to Help LLMs Understand Your Library](http://arxiv.org/abs/2504.09798v3)** | 2025-05-08 | 15 pages, 18 figures |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection](http://arxiv.org/abs/2505.07376v1)** | 2025-05-12 | 8 pages, 3 figures |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
+| **[BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models](http://arxiv.org/abs/2505.07360v1)** | 2025-05-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, to be published in IJCAI 2025</p></details> |
+| **[Automated Repair of Ambiguous Natural Language Requirements](http://arxiv.org/abs/2505.07270v1)** | 2025-05-12 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI](http://arxiv.org/abs/2505.07583v1)** | 2025-05-12 |  |
+| **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
-| **[Exploring the Susceptibility to Fraud of Monetary Incentive Mechanisms for Strengthening FOSS Projects](http://arxiv.org/abs/2505.05897v1)** | 2025-05-09 | <details><summary>Accep...</summary><p>Accepted at ARES 2025</p></details> |
-| **[The Hidden Bloat in Machine Learning Systems](http://arxiv.org/abs/2503.14226v2)** | 2025-05-09 |  |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[PyResBugs: A Dataset of Residual Python Bugs for Natural Language-Driven Fault Injection](http://arxiv.org/abs/2505.05777v1)** | 2025-05-09 |  |
-| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
-| **[JustinANN: Realistic Test Generation for Java Programs Driven by Annotations](http://arxiv.org/abs/2505.05715v1)** | 2025-05-09 |  |
-| **[From Bias To Improved Prompts: A Case Study of Bias Mitigation of Clone Detection Models](http://arxiv.org/abs/2505.05679v1)** | 2025-05-08 |  |
-| **[English Please: Evaluating Machine Translation with Large Language Models for Multilingual Bug Reports](http://arxiv.org/abs/2502.14338v4)** | 2025-05-08 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 3 Tables</p></details> |
-| **[Toward a Better Understanding of Probabilistic Delta Debugging](http://arxiv.org/abs/2408.04735v4)** | 2025-05-08 | accepted by ICSE25 |
-| **[Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection](http://arxiv.org/abs/2505.05600v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 3 tables, DCAI'25: Distributed Computing and Artificial Intelligence 2025</p></details> |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI](http://arxiv.org/abs/2505.07583v1)** | 2025-05-12 |  |
+| **[Towards Requirements Engineering for RAG Systems](http://arxiv.org/abs/2505.07553v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to EASE 2025, 17-20 June, Istanbul, Turkey</p></details> |
+| **[A Systematic Mapping Study on Contract-based Software Design for Dependable Systems](http://arxiv.org/abs/2505.07542v1)** | 2025-05-12 | 8 pages, 7 figures |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis](http://arxiv.org/abs/2505.07487v1)** | 2025-05-12 |  |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[A Systematic Literature Review on Neural Code Translation](http://arxiv.org/abs/2505.07425v1)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection](http://arxiv.org/abs/2505.07376v1)** | 2025-05-12 | 8 pages, 3 figures |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -164,26 +185,29 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[The Hidden Bloat in Machine Learning Systems](http://arxiv.org/abs/2503.14226v2)** | 2025-05-09 |  |
-| **[PR2: Peephole Raw Pointer Rewriting with LLMs for Translating C to Safer Rust](http://arxiv.org/abs/2505.04852v2)** | 2025-05-09 |  |
-| **[Software Development Life Cycle Perspective: A Survey of Benchmarks for Code Large Language Models and Agents](http://arxiv.org/abs/2505.05283v2)** | 2025-05-09 |  |
-| **[From Bias To Improved Prompts: A Case Study of Bias Mitigation of Clone Detection Models](http://arxiv.org/abs/2505.05679v1)** | 2025-05-08 |  |
-| **[English Please: Evaluating Machine Translation with Large Language Models for Multilingual Bug Reports](http://arxiv.org/abs/2502.14338v4)** | 2025-05-08 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 3 Tables</p></details> |
-| **[Enhancing Large Language Models with Faster Code Preprocessing for Vulnerability Detection](http://arxiv.org/abs/2505.05600v1)** | 2025-05-08 | <details><summary>10 pa...</summary><p>10 pages, 3 tables, DCAI'25: Distributed Computing and Artificial Intelligence 2025</p></details> |
-| **[PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization](http://arxiv.org/abs/2505.05584v1)** | 2025-05-08 |  |
-| **[TS-Detector : Detecting Feature Toggle Usage Patterns](http://arxiv.org/abs/2505.05326v1)** | 2025-05-08 | <details><summary>33rd ...</summary><p>33rd ACM International Conference on the Foundations of Software Engineering, June 23--28, 2025, Trondheim, Norway</p></details> |
-| **[Towards Mitigating API Hallucination in Code Generated by LLMs with Hierarchical Dependency Aware](http://arxiv.org/abs/2505.05057v1)** | 2025-05-08 | <details><summary>Accep...</summary><p>Accepted by FSE 2025 Industry Track</p></details> |
-| **[Smaller but Better: Self-Paced Knowledge Distillation for Lightweight yet Effective LCMs](http://arxiv.org/abs/2408.03680v2)** | 2025-05-08 | Accepted by FSE 2025 |
-| **[ReadMe.LLM: A Framework to Help LLMs Understand Your Library](http://arxiv.org/abs/2504.09798v3)** | 2025-05-08 | 15 pages, 18 figures |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI](http://arxiv.org/abs/2505.07583v1)** | 2025-05-12 |  |
+| **[A Systematic Mapping Study on Contract-based Software Design for Dependable Systems](http://arxiv.org/abs/2505.07542v1)** | 2025-05-12 | 8 pages, 7 figures |
+| **[Byam: Fixing Breaking Dependency Updates with Large Language Models](http://arxiv.org/abs/2505.07522v1)** | 2025-05-12 |  |
+| **[Linux Kernel Configurations at Scale: A Dataset for Performance and Evolution Analysis](http://arxiv.org/abs/2505.07487v1)** | 2025-05-12 |  |
+| **[LLM-assisted Mutation for Whitebox API Testing](http://arxiv.org/abs/2504.05738v2)** | 2025-05-12 |  |
+| **[A Systematic Literature Review on Neural Code Translation](http://arxiv.org/abs/2505.07425v1)** | 2025-05-12 |  |
+| **[FullStack Bench: Evaluating LLMs as Full Stack Coders](http://arxiv.org/abs/2412.00535v6)** | 2025-05-12 | 26 pages |
+| **[Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data](http://arxiv.org/abs/2505.07372v1)** | 2025-05-12 |  |
+| **[BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models](http://arxiv.org/abs/2505.07360v1)** | 2025-05-12 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, to be published in IJCAI 2025</p></details> |
+| **[Automated Repair of Ambiguous Natural Language Requirements](http://arxiv.org/abs/2505.07270v1)** | 2025-05-12 |  |
+| **[An Empirical Study: MEMS as a Static Performance Metric](http://arxiv.org/abs/2505.07208v1)** | 2025-05-12 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Fuzz Harness Degradation](http://arxiv.org/abs/2505.06177v1)** | 2025-05-09 | 16 pages, 26 figures |
-| **[CoverUp: Effective High Coverage Test Generation for Python](http://arxiv.org/abs/2403.16218v4)** | 2025-05-09 | <details><summary>21 pa...</summary><p>21 pages; to appear at FSE'25</p></details> |
-| **[GNU Aris: a web application for students](http://arxiv.org/abs/2505.05986v1)** | 2025-05-09 | <details><summary>In Pr...</summary><p>In Proceedings ThEdu24, arXiv:2505.04677</p></details> |
-| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
+| **[Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding](http://arxiv.org/abs/2505.07768v1)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted to ICSE 2025</p></details> |
+| **[The First Prompt Counts the Most! An Evaluation of Large Language Models on Iterative Example-Based Code Generation](http://arxiv.org/abs/2411.06774v2)** | 2025-05-12 | <details><summary>Accep...</summary><p>Accepted by ISSTA 2025</p></details> |
+| **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v1)** | 2025-05-12 | 49 pages, 9 figures |
+| **[A Case Study Investigating the Role of Generative AI in Quality Evaluations of Epics in Agile Software Development](http://arxiv.org/abs/2505.07664v1)** | 2025-05-12 |  |
+| **[Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning](http://arxiv.org/abs/2505.01022v2)** | 2025-05-12 |  |
+| **[Privacy-Preserving Real-Time Vietnamese-English Translation on iOS using Edge AI](http://arxiv.org/abs/2505.07583v1)** | 2025-05-12 |  |
 
