@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 20, 2025
+title: Latest 15 Papers - May 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,14 +7,21 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v1)** | 2025-05-16 | 16 pages, 10 figures |
+| **[CI at Scale: Lean, Green, and Fast](http://arxiv.org/abs/2501.03440v2)** | 2025-05-19 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
+| **[Optimizing Retrieval Augmented Generation for Object Constraint Language](http://arxiv.org/abs/2505.13129v1)** | 2025-05-19 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -38,96 +45,109 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles via Validated LLM-Guided Knowledge Extraction](http://arxiv.org/abs/2305.06018v4)** | 2025-05-15 |  |
-| **[Are Sparse Autoencoders Useful for Java Function Bug Detection?](http://arxiv.org/abs/2505.10375v1)** | 2025-05-15 | 10 pages, 10 figures |
-| **[Towards Understanding the Impact of Data Bugs on Deep Learning Models in Software Engineering](http://arxiv.org/abs/2411.12137v2)** | 2025-05-14 | <details><summary>Under...</summary><p>Under Major Revision at the Empirical Software Engineering Journal</p></details> |
-| **[Evaluating Mutation-based Fault Localization for Quantum Programs](http://arxiv.org/abs/2505.09059v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, Accepted at Short Papers, Emerging Results in the International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025</p></details> |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v1)** | 2025-05-19 |  |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
+| **[CPRet: A Dataset, Benchmark, and Model for Retrieval in Competitive Programming](http://arxiv.org/abs/2505.12925v1)** | 2025-05-19 | main 9 pages |
+| **[An Automated Blackbox Noncompliance Checker for QUIC Server Implementations](http://arxiv.org/abs/2505.12690v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted to ASIA CCS 2025. For Code & PoCs, see https://github.com/QUICTester</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
+| **[MoSE: Hierarchical Self-Distillation Enhances Early Layer Embeddings](http://arxiv.org/abs/2503.03008v2)** | 2025-05-19 |  |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v1)** | 2025-05-19 |  |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
+| **[CPRet: A Dataset, Benchmark, and Model for Retrieval in Competitive Programming](http://arxiv.org/abs/2505.12925v1)** | 2025-05-19 | main 9 pages |
+| **[NEAT: QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v1)** | 2025-05-19 |  |
+| **[Testing Access-Control Configuration Changes for Web Applications](http://arxiv.org/abs/2505.12770v1)** | 2025-05-19 |  |
+| **[CodeGRAG: Bridging the Gap between Natural Language and Programming Language via Graphical Retrieval Augmented Generation](http://arxiv.org/abs/2405.02355v4)** | 2025-05-19 |  |
+| **[How Do OSS Developers Reuse Architectural Solutions from Q&A Sites: An Empirical Study](http://arxiv.org/abs/2404.05041v4)** | 2025-05-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in IEEE Transactions on Software Engineering, 2025</p></details> |
+| **[EvoGPT: Enhancing Test Suite Robustness via LLM-Based Generation and Genetic Optimization](http://arxiv.org/abs/2505.12424v1)** | 2025-05-18 |  |
+| **[EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective](http://arxiv.org/abs/2505.12185v1)** | 2025-05-18 | 19 pages, 11 figures |
+| **[Do Code LLMs Do Static Analysis?](http://arxiv.org/abs/2505.12118v1)** | 2025-05-17 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, Preprint in review</p></details> |
+| **[Introduction to Analytical Software Engineering Design Paradigm](http://arxiv.org/abs/2505.11979v1)** | 2025-05-17 | <details><summary>The C...</summary><p>The Conference's autorization to submit a preprint was granted</p></details> |
 | **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[Do Current Language Models Support Code Intelligence for R Programming Language?](http://arxiv.org/abs/2410.07793v3)** | 2025-05-15 |  |
-| **[SafeTrans: LLM-assisted Transpilation from C to Rust](http://arxiv.org/abs/2505.10708v1)** | 2025-05-15 |  |
-| **[InfraFix: Technology-Agnostic Repair of Infrastructure as Code](http://arxiv.org/abs/2503.17220v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at ISSTA 2025</p></details> |
-| **[Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?](http://arxiv.org/abs/2505.10443v1)** | 2025-05-15 | <details><summary>10 pa...</summary><p>10 pages, 5 tables, 1 figure</p></details> |
-| **[MORepair: Teaching LLMs to Repair Code via Multi-Objective Fine-tuning](http://arxiv.org/abs/2404.12636v3)** | 2025-05-15 |  |
-| **[Biomedical Open Source Software: Crucial Packages and Hidden Heroes](http://arxiv.org/abs/2404.06672v3)** | 2025-05-14 |  |
-| **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v1)** | 2025-05-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, submitted to SEKE2025</p></details> |
-| **[Detecting Misuse of Security APIs: A Systematic Review](http://arxiv.org/abs/2306.08869v4)** | 2025-05-14 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Computing Surveys, 2025</p></details> |
-| **[Evaluating Mutation-based Fault Localization for Quantum Programs](http://arxiv.org/abs/2505.09059v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, Accepted at Short Papers, Emerging Results in the International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025</p></details> |
-| **[AI-Mediated Code Comment Improvement](http://arxiv.org/abs/2505.09021v1)** | 2025-05-13 |  |
-| **[CrashFixer: A crash resolution agent for the Linux kernel](http://arxiv.org/abs/2504.20412v2)** | 2025-05-13 |  |
-| **[How Do OSS Developers Reuse Architectural Solutions from Q&A Sites: An Empirical Study](http://arxiv.org/abs/2404.05041v3)** | 2025-05-13 |  |
-| **[The Impact of Large Language Models on Open-source Innovation: Evidence from GitHub Copilot](http://arxiv.org/abs/2409.08379v2)** | 2025-05-13 | <details><summary>JEL C...</summary><p>JEL Classification: O31, C88, J24, O35, L86</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[Compendium Manager: a tool for coordination of workflow management instances for bulk data processing in Python](http://arxiv.org/abs/2505.11385v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[Efficient Online Computation of Business Process State From Trace Prefixes via N-Gram Indexing](http://arxiv.org/abs/2409.05658v2)** | 2025-05-16 | <details><summary>Postp...</summary><p>Postprint version. Full version available at: https://doi.org/10.1109/TSC.2025.3547235</p></details> |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v1)** | 2025-05-16 | 16 pages, 10 figures |
-| **[StRuCom: A Novel Dataset of Structured Code Comments in Russian](http://arxiv.org/abs/2505.11026v1)** | 2025-05-16 |  |
-| **[Privacy and Confidentiality Requirements Engineering for Process Data](http://arxiv.org/abs/2505.10965v1)** | 2025-05-16 |  |
-| **[Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents](http://arxiv.org/abs/2505.10961v1)** | 2025-05-16 |  |
-| **[A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](http://arxiv.org/abs/2505.10924v1)** | 2025-05-16 |  |
-| **[On the Security Risks of ML-based Malware Detection Systems: A Survey](http://arxiv.org/abs/2505.10903v1)** | 2025-05-16 |  |
-| **[RAN Tester UE: An Automated Declarative UE Centric Security Testing Platform](http://arxiv.org/abs/2505.10812v1)** | 2025-05-16 | <details><summary>This ...</summary><p>This article has been accepted for publication in the ACM Symposium on Access Control Models and Technologies (SACMAT'25)</p></details> |
-| **[Do Current Language Models Support Code Intelligence for R Programming Language?](http://arxiv.org/abs/2410.07793v3)** | 2025-05-15 |  |
-| **[TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles via Validated LLM-Guided Knowledge Extraction](http://arxiv.org/abs/2305.06018v4)** | 2025-05-15 |  |
-| **[SafeTrans: LLM-assisted Transpilation from C to Rust](http://arxiv.org/abs/2505.10708v1)** | 2025-05-15 |  |
-| **[InfraFix: Technology-Agnostic Repair of Infrastructure as Code](http://arxiv.org/abs/2503.17220v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at ISSTA 2025</p></details> |
+| **[CI at Scale: Lean, Green, and Fast](http://arxiv.org/abs/2501.03440v2)** | 2025-05-19 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts](http://arxiv.org/abs/2505.13360v1)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
+| **[Prink: $k_s$-Anonymization for Streaming Data in Apache Flink](http://arxiv.org/abs/2505.13153v1)** | 2025-05-19 | <details><summary>accep...</summary><p>accepted for ARES 2025</p></details> |
+| **[Aspects of complexity in automotive software systems and their relation to maintainability effort. A case study](http://arxiv.org/abs/2505.13135v1)** | 2025-05-19 |  |
+| **[Optimizing Retrieval Augmented Generation for Object Constraint Language](http://arxiv.org/abs/2505.13129v1)** | 2025-05-19 |  |
+| **[MoSE: Hierarchical Self-Distillation Enhances Early Layer Embeddings](http://arxiv.org/abs/2503.03008v2)** | 2025-05-19 |  |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v1)** | 2025-05-19 |  |
+| **[Structure-Aware Corpus Construction and User-Perception-Aligned Metrics for Large-Language-Model Code Completion](http://arxiv.org/abs/2505.13073v1)** | 2025-05-19 | 14 pages,8 figures |
+| **[Manifesto from Dagstuhl Perspectives Workshop 24452 -- Reframing Technical Debt](http://arxiv.org/abs/2505.13009v1)** | 2025-05-19 | <details><summary>Prepr...</summary><p>Preprint of the manifesto to be published in the Dagstuhl Manifestos series (ISSN 2193-2433)</p></details> |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[Compendium Manager: a tool for coordination of workflow management instances for bulk data processing in Python](http://arxiv.org/abs/2505.11385v1)** | 2025-05-16 |  |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v1)** | 2025-05-16 | 16 pages, 10 figures |
-| **[StRuCom: A Novel Dataset of Structured Code Comments in Russian](http://arxiv.org/abs/2505.11026v1)** | 2025-05-16 |  |
-| **[Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents](http://arxiv.org/abs/2505.10961v1)** | 2025-05-16 |  |
-| **[RAN Tester UE: An Automated Declarative UE Centric Security Testing Platform](http://arxiv.org/abs/2505.10812v1)** | 2025-05-16 | <details><summary>This ...</summary><p>This article has been accepted for publication in the ACM Symposium on Access Control Models and Technologies (SACMAT'25)</p></details> |
-| **[TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles via Validated LLM-Guided Knowledge Extraction](http://arxiv.org/abs/2305.06018v4)** | 2025-05-15 |  |
-| **[SafeTrans: LLM-assisted Transpilation from C to Rust](http://arxiv.org/abs/2505.10708v1)** | 2025-05-15 |  |
-| **[InfraFix: Technology-Agnostic Repair of Infrastructure as Code](http://arxiv.org/abs/2503.17220v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at ISSTA 2025</p></details> |
-| **[The Hitchhikers Guide to Production-ready Trustworthy Foundation Model powered Software (FMware)](http://arxiv.org/abs/2505.10640v1)** | 2025-05-15 |  |
-| **[Using Cooperative Co-evolutionary Search to Generate Metamorphic Test Cases for Autonomous Driving Systems](http://arxiv.org/abs/2412.03843v3)** | 2025-05-15 | <details><summary>33 pa...</summary><p>33 pages, 16 figures, to be published in IEEE Transactions on Software Engineering (2025)</p></details> |
-| **[Unified Modeling Language Code Generation from Diagram Images Using Multimodal Large Language Models](http://arxiv.org/abs/2503.12293v2)** | 2025-05-15 | <details><summary>Publi...</summary><p>Published in the Journal of Machine Learning with Applications, Author Contributions: Averi Bates: Methodology, Development, Analysis, Data Curation, Drafting, Review. Ryan Vavricka: Data Curation, Development, Review. Shane Carleton: Supervision, Funding. Ruosi Shao: Review. Chongle Pan: Supervision, Review</p></details> |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
+| **[Optimizing Retrieval Augmented Generation for Object Constraint Language](http://arxiv.org/abs/2505.13129v1)** | 2025-05-19 |  |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v1)** | 2025-05-19 |  |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
+| **[High-Performance ARM-on-ARM Virtualization for Multicore SystemC-TLM-Based Virtual Platforms](http://arxiv.org/abs/2505.12987v1)** | 2025-05-19 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the Design, Automation and Test in Europe Conference 2025 (DATE '25)</p></details> |
+| **[CPRet: A Dataset, Benchmark, and Model for Retrieval in Competitive Programming](http://arxiv.org/abs/2505.12925v1)** | 2025-05-19 | main 9 pages |
+| **[CI/CD Configuration Practices in Open-Source Android Apps: An Empirical Study](http://arxiv.org/abs/2411.06077v2)** | 2025-05-19 |  |
+| **[AutoGEEval: A Multimodal and Automated Framework for Geospatial Code Generation on GEE with Large Language Models](http://arxiv.org/abs/2505.12900v1)** | 2025-05-19 |  |
+| **[NEAT: QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v1)** | 2025-05-19 |  |
+| **[Testing Access-Control Configuration Changes for Web Applications](http://arxiv.org/abs/2505.12770v1)** | 2025-05-19 |  |
+| **[An Automated Blackbox Noncompliance Checker for QUIC Server Implementations](http://arxiv.org/abs/2505.12690v1)** | 2025-05-19 | <details><summary>Accep...</summary><p>Accepted to ASIA CCS 2025. For Code & PoCs, see https://github.com/QUICTester</p></details> |
+| **[Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics](http://arxiv.org/abs/2505.12554v1)** | 2025-05-18 | <details><summary>29 pa...</summary><p>29 pages, 5 figures, 9 tables, submitted to EMSE</p></details> |
+| **[Event-Driven Simulation for Rapid Iterative Development of Distributed Space Flight Software](http://arxiv.org/abs/2505.12502v1)** | 2025-05-18 | <details><summary>IEEE ...</summary><p>IEEE Aerospace Conference 2025</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents](http://arxiv.org/abs/2505.10961v1)** | 2025-05-16 |  |
-| **[A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](http://arxiv.org/abs/2505.10924v1)** | 2025-05-16 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts](http://arxiv.org/abs/2505.13360v1)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v1)** | 2025-05-19 |  |
+| **[Structure-Aware Corpus Construction and User-Perception-Aligned Metrics for Large-Language-Model Code Completion](http://arxiv.org/abs/2505.13073v1)** | 2025-05-19 | 14 pages,8 figures |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
+| **[AutoGEEval: A Multimodal and Automated Framework for Geospatial Code Generation on GEE with Large Language Models](http://arxiv.org/abs/2505.12900v1)** | 2025-05-19 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
+| **[CI at Scale: Lean, Green, and Fast](http://arxiv.org/abs/2501.03440v2)** | 2025-05-19 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts](http://arxiv.org/abs/2505.13360v1)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[Compendium Manager: a tool for coordination of workflow management instances for bulk data processing in Python](http://arxiv.org/abs/2505.11385v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[Efficient Online Computation of Business Process State From Trace Prefixes via N-Gram Indexing](http://arxiv.org/abs/2409.05658v2)** | 2025-05-16 | <details><summary>Postp...</summary><p>Postprint version. Full version available at: https://doi.org/10.1109/TSC.2025.3547235</p></details> |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v1)** | 2025-05-16 | 16 pages, 10 figures |
-| **[StRuCom: A Novel Dataset of Structured Code Comments in Russian](http://arxiv.org/abs/2505.11026v1)** | 2025-05-16 |  |
-| **[Privacy and Confidentiality Requirements Engineering for Process Data](http://arxiv.org/abs/2505.10965v1)** | 2025-05-16 |  |
-| **[Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents](http://arxiv.org/abs/2505.10961v1)** | 2025-05-16 |  |
-| **[A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](http://arxiv.org/abs/2505.10924v1)** | 2025-05-16 |  |
-| **[On the Security Risks of ML-based Malware Detection Systems: A Survey](http://arxiv.org/abs/2505.10903v1)** | 2025-05-16 |  |
-| **[RAN Tester UE: An Automated Declarative UE Centric Security Testing Platform](http://arxiv.org/abs/2505.10812v1)** | 2025-05-16 | <details><summary>This ...</summary><p>This article has been accepted for publication in the ACM Symposium on Access Control Models and Technologies (SACMAT'25)</p></details> |
-| **[Do Current Language Models Support Code Intelligence for R Programming Language?](http://arxiv.org/abs/2410.07793v3)** | 2025-05-15 |  |
-| **[TARGET: Automated Scenario Generation from Traffic Rules for Testing Autonomous Vehicles via Validated LLM-Guided Knowledge Extraction](http://arxiv.org/abs/2305.06018v4)** | 2025-05-15 |  |
-| **[SafeTrans: LLM-assisted Transpilation from C to Rust](http://arxiv.org/abs/2505.10708v1)** | 2025-05-15 |  |
-| **[InfraFix: Technology-Agnostic Repair of Infrastructure as Code](http://arxiv.org/abs/2503.17220v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at ISSTA 2025</p></details> |
+| **[CI at Scale: Lean, Green, and Fast](http://arxiv.org/abs/2501.03440v2)** | 2025-05-19 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts](http://arxiv.org/abs/2505.13360v1)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v1)** | 2025-05-19 |  |
+| **[Prink: $k_s$-Anonymization for Streaming Data in Apache Flink](http://arxiv.org/abs/2505.13153v1)** | 2025-05-19 | <details><summary>accep...</summary><p>accepted for ARES 2025</p></details> |
+| **[Aspects of complexity in automotive software systems and their relation to maintainability effort. A case study](http://arxiv.org/abs/2505.13135v1)** | 2025-05-19 |  |
+| **[Optimizing Retrieval Augmented Generation for Object Constraint Language](http://arxiv.org/abs/2505.13129v1)** | 2025-05-19 |  |
+| **[MoSE: Hierarchical Self-Distillation Enhances Early Layer Embeddings](http://arxiv.org/abs/2503.03008v2)** | 2025-05-19 |  |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v1)** | 2025-05-19 |  |
+| **[Structure-Aware Corpus Construction and User-Perception-Aligned Metrics for Large-Language-Model Code Completion](http://arxiv.org/abs/2505.13073v1)** | 2025-05-19 | 14 pages,8 figures |
+| **[Manifesto from Dagstuhl Perspectives Workshop 24452 -- Reframing Technical Debt](http://arxiv.org/abs/2505.13009v1)** | 2025-05-19 | <details><summary>Prepr...</summary><p>Preprint of the manifesto to be published in the Dagstuhl Manifestos series (ISSN 2193-2433)</p></details> |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -139,19 +159,24 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v1)** | 2025-05-16 | 16 pages, 10 figures |
-| **[StRuCom: A Novel Dataset of Structured Code Comments in Russian](http://arxiv.org/abs/2505.11026v1)** | 2025-05-16 |  |
-| **[Let the Trial Begin: A Mock-Court Approach to Vulnerability Detection using LLM-Based Agents](http://arxiv.org/abs/2505.10961v1)** | 2025-05-16 |  |
-| **[Do Current Language Models Support Code Intelligence for R Programming Language?](http://arxiv.org/abs/2410.07793v3)** | 2025-05-15 |  |
-| **[SafeTrans: LLM-assisted Transpilation from C to Rust](http://arxiv.org/abs/2505.10708v1)** | 2025-05-15 |  |
-| **[InfraFix: Technology-Agnostic Repair of Infrastructure as Code](http://arxiv.org/abs/2503.17220v2)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted at ISSTA 2025</p></details> |
+| **[CI at Scale: Lean, Green, and Fast](http://arxiv.org/abs/2501.03440v2)** | 2025-05-19 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
+| **[MoSE: Hierarchical Self-Distillation Enhances Early Layer Embeddings](http://arxiv.org/abs/2503.03008v2)** | 2025-05-19 |  |
+| **[Structure-Aware Corpus Construction and User-Perception-Aligned Metrics for Large-Language-Model Code Completion](http://arxiv.org/abs/2505.13073v1)** | 2025-05-19 | 14 pages,8 figures |
+| **[Adversarial Reasoning for Repair Based on Inferred Program Intent](http://arxiv.org/abs/2505.13008v1)** | 2025-05-19 |  |
+| **[CPRet: A Dataset, Benchmark, and Model for Retrieval in Competitive Programming](http://arxiv.org/abs/2505.12925v1)** | 2025-05-19 | main 9 pages |
+| **[AutoGEEval: A Multimodal and Automated Framework for Geospatial Code Generation on GEE with Large Language Models](http://arxiv.org/abs/2505.12900v1)** | 2025-05-19 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Improving Assembly Code Performance with Large Language Models via Reinforcement Learning](http://arxiv.org/abs/2505.11480v1)** | 2025-05-16 |  |
-| **[Compendium Manager: a tool for coordination of workflow management instances for bulk data processing in Python](http://arxiv.org/abs/2505.11385v1)** | 2025-05-16 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
+| **[CI at Scale: Lean, Green, and Fast](http://arxiv.org/abs/2501.03440v2)** | 2025-05-19 |  |
+| **[XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants](http://arxiv.org/abs/2503.14281v2)** | 2025-05-19 |  |
+| **[What Prompts Don't Say: Understanding and Managing Underspecification in LLM Prompts](http://arxiv.org/abs/2505.13360v1)** | 2025-05-19 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](http://arxiv.org/abs/2505.13353v1)** | 2025-05-19 |  |
+| **[MigrationBench: Repository-Level Code Migration Benchmark from Java 8](http://arxiv.org/abs/2505.09569v2)** | 2025-05-19 |  |
+| **[Are requirements really all you need? A case study of LLM-driven configuration code generation for automotive simulations](http://arxiv.org/abs/2505.13263v1)** | 2025-05-19 |  |
 
