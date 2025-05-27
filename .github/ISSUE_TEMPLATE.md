@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 27, 2025
+title: Latest 15 Papers - May 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,24 +7,34 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Automatic Design-Time Detection of Anomalies in Migrating Monolithic Applications to Microservices](http://arxiv.org/abs/2505.17927v1)** | 2025-05-23 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
+| **[The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation](http://arxiv.org/abs/2501.07849v2)** | 2025-05-26 | 27 pages, 13 figures |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Automatic Design-Time Detection of Anomalies in Migrating Monolithic Applications to Microservices](http://arxiv.org/abs/2505.17927v1)** | 2025-05-23 |  |
-| **[Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](http://arxiv.org/abs/2505.17839v1)** | 2025-05-23 | <details><summary>10 pa...</summary><p>10 pages, presented at the A-Test Workshop of the ICST'25</p></details> |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
+| **[Requirements Coverage-Guided Minimization for Natural Language Test Cases](http://arxiv.org/abs/2505.20004v1)** | 2025-05-26 |  |
+| **[The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation](http://arxiv.org/abs/2501.07849v2)** | 2025-05-26 | 27 pages, 13 figures |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI](http://arxiv.org/abs/2505.19443v1)** | 2025-05-26 | <details><summary>35 Pa...</summary><p>35 Pages, 8 Figures, 6 Tables</p></details> |
+| **[AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers](http://arxiv.org/abs/2504.20115v2)** | 2025-05-24 |  |
+| **[Data Mining-Based Techniques for Software Fault Localization](http://arxiv.org/abs/2505.18216v1)** | 2025-05-23 |  |
 | **[Bridging the Gap: Physical PCI Device Integration Into SystemC-TLM Virtual Platforms](http://arxiv.org/abs/2505.15590v1)** | 2025-05-21 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the 25th International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XXV)</p></details> |
 | **[BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration](http://arxiv.org/abs/2505.14528v1)** | 2025-05-20 |  |
 | **[Evaluating Mutation-based Fault Localization for Quantum Programs](http://arxiv.org/abs/2505.09059v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, Accepted at Short Papers, Emerging Results in the International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025</p></details> |
@@ -37,111 +47,110 @@ labels: documentation
 | **[Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency](http://arxiv.org/abs/2505.02133v1)** | 2025-05-04 |  |
 | **[SE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering](http://arxiv.org/abs/2502.01860v4)** | 2025-05-04 | <details><summary>Check...</summary><p>Check the arena at https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena</p></details> |
 | **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
-| **[LLPut: Investigating Large Language Models for Bug Report-Based Input Generation](http://arxiv.org/abs/2503.20578v4)** | 2025-05-01 |  |
-| **[A Framework for Testing and Adapting REST APIs as LLM Tools](http://arxiv.org/abs/2504.15546v2)** | 2025-05-01 |  |
-| **[Learning Code-Edit Embedding to Model Student Debugging Behavior](http://arxiv.org/abs/2502.19407v2)** | 2025-04-29 | <details><summary>Publi...</summary><p>Published on the 26th International Conference on Artificial Intelligence in Education (AIED 2025)</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](http://arxiv.org/abs/2505.17703v1)** | 2025-05-23 |  |
-| **[A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain](http://arxiv.org/abs/2505.17634v1)** | 2025-05-23 |  |
-| **[Planning-Driven Programming: A Large Language Model Programming Workflow](http://arxiv.org/abs/2411.14503v3)** | 2025-05-23 |  |
-| **[SWE-Dev: Evaluating and Training Autonomous Feature-Driven Software Development](http://arxiv.org/abs/2505.16975v1)** | 2025-05-22 |  |
-| **[CodeMind: Evaluating Large Language Models for Code Reasoning](http://arxiv.org/abs/2402.09664v5)** | 2025-05-22 |  |
-| **[Are Sparse Autoencoders Useful for Java Function Bug Detection?](http://arxiv.org/abs/2505.10375v2)** | 2025-05-21 | 10 pages, 10 figures |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](http://arxiv.org/abs/2505.17703v1)** | 2025-05-23 |  |
-| **[Do Automated Fixes Truly Mitigate Smart Contract Exploits?](http://arxiv.org/abs/2501.04600v3)** | 2025-05-23 |  |
-| **[Planning-Driven Programming: A Large Language Model Programming Workflow](http://arxiv.org/abs/2411.14503v3)** | 2025-05-23 |  |
-| **[ResearchBot: Bridging the Gap between Academic Research and Practical Programming Communities](http://arxiv.org/abs/2407.02643v2)** | 2025-05-22 |  |
-| **[Agentic AI Software Engineers: Programming with Trust](http://arxiv.org/abs/2502.13767v3)** | 2025-05-22 | 5 pages |
-| **[AutoMCQ -- Automatically Generate Code Comprehension Questions using GenAI](http://arxiv.org/abs/2505.16430v1)** | 2025-05-22 |  |
-| **[LLM-Powered Agents for Navigating Venice's Historical Cadastre](http://arxiv.org/abs/2505.17148v1)** | 2025-05-22 |  |
-| **[CodeMind: Evaluating Large Language Models for Code Reasoning](http://arxiv.org/abs/2402.09664v5)** | 2025-05-22 |  |
-| **[Don't Judge Code by Its Cover: Exploring Biases in LLM Judges for Code Evaluation](http://arxiv.org/abs/2505.16222v1)** | 2025-05-22 | 26 pages |
-| **[Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](http://arxiv.org/abs/2410.05641v2)** | 2025-05-22 | <details><summary>Under...</summary><p>Under Review by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[DS-Bench: A Realistic Benchmark for Data Science Code Generation](http://arxiv.org/abs/2505.15621v1)** | 2025-05-21 |  |
-| **[RAG or Fine-tuning? A Comparative Study on LCMs-based Code Completion in Industry](http://arxiv.org/abs/2505.15179v1)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted in FSE 25 Industry Track</p></details> |
-| **[StmtTree: An Easy-to-Use yet Versatile Fortran Transformation Toolkit](http://arxiv.org/abs/2407.05652v3)** | 2025-05-21 | <details><summary>Error...</summary><p>Errors in experiments</p></details> |
-| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v2)** | 2025-05-21 |  |
+| **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection](http://arxiv.org/abs/2505.19828v1)** | 2025-05-26 |  |
+| **[Large Language Models in Code Co-generation for Safe Autonomous Vehicles](http://arxiv.org/abs/2505.19658v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 44th International Conference on Computer Safety, Reliability and Security (SafeComp 2025)</p></details> |
+| **[VerifyThisBench: Generating Code, Specifications, and Proofs All at Once](http://arxiv.org/abs/2505.19271v1)** | 2025-05-25 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v3)** | 2025-05-25 |  |
+| **[An Empirical Study of Vulnerability Handling Times in CPython](http://arxiv.org/abs/2411.00447v2)** | 2025-05-25 | <details><summary>Proce...</summary><p>Proceedings of the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2025), Montreal, IEEE, pp. 891-896</p></details> |
+| **[From Output to Evaluation: Does Raw Instruction-Tuned Code LLMs Output Suffice for Fill-in-the-Middle Code Generation?](http://arxiv.org/abs/2505.18789v1)** | 2025-05-24 | Work in progress |
+| **[Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair](http://arxiv.org/abs/2505.13103v2)** | 2025-05-24 |  |
+| **[ACECODER: Acing Coder RL via Automated Test-Case Synthesis](http://arxiv.org/abs/2502.01718v4)** | 2025-05-24 | <details><summary>9 pag...</summary><p>9 pages, 4 figure, 11 tables. Accepted to ACL 2025 main conference</p></details> |
+| **[On the Structure and Semantics of Identifier Names Containing Closed Syntactic Category Words](http://arxiv.org/abs/2505.18444v1)** | 2025-05-24 | <details><summary>Curre...</summary><p>Current in submission to EMSE</p></details> |
+| **[Project For Advancement of Software Usability in Materials Science](http://arxiv.org/abs/2505.18390v1)** | 2025-05-23 | 22 pages, 9 figures |
+| **[Automated Knowledge Component Generation and Knowledge Tracing for Coding Problems](http://arxiv.org/abs/2502.18632v2)** | 2025-05-23 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[Re-evaluation of Logical Specification in Behavioural Verification](http://arxiv.org/abs/2505.17979v1)** | 2025-05-23 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Automatic Design-Time Detection of Anomalies in Migrating Monolithic Applications to Microservices](http://arxiv.org/abs/2505.17927v1)** | 2025-05-23 |  |
-| **[Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](http://arxiv.org/abs/2505.17839v1)** | 2025-05-23 | <details><summary>10 pa...</summary><p>10 pages, presented at the A-Test Workshop of the ICST'25</p></details> |
-| **[Ten Years of Software Engineering in Society](http://arxiv.org/abs/2505.17802v1)** | 2025-05-23 |  |
-| **[Defining Self-adaptive Systems: A Systematic Literature Review](http://arxiv.org/abs/2505.17798v1)** | 2025-05-23 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables</p></details> |
-| **[LLM Contribution Summarization in Software Projects](http://arxiv.org/abs/2505.17710v1)** | 2025-05-23 |  |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](http://arxiv.org/abs/2505.17703v1)** | 2025-05-23 |  |
-| **[It is Giving Major Satisfaction: Why Fairness Matters for Software Practitioners](http://arxiv.org/abs/2410.02482v3)** | 2025-05-23 | <details><summary>This ...</summary><p>This work has been submitted to the ACM for possible publication</p></details> |
-| **[A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain](http://arxiv.org/abs/2505.17634v1)** | 2025-05-23 |  |
-| **[ReqBrain: Task-Specific Instruction Tuning of LLMs for AI-Assisted Requirements Generation](http://arxiv.org/abs/2505.17632v1)** | 2025-05-23 |  |
-| **[Do Automated Fixes Truly Mitigate Smart Contract Exploits?](http://arxiv.org/abs/2501.04600v3)** | 2025-05-23 |  |
+| **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs](http://arxiv.org/abs/2505.20136v1)** | 2025-05-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
+| **[A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](http://arxiv.org/abs/2505.10924v2)** | 2025-05-26 |  |
+| **[Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare](http://arxiv.org/abs/2505.20020v1)** | 2025-05-26 | <details><summary>Relat...</summary><p>Related dataset: https://doi.org/10.5281/zenodo.15411810</p></details> |
+| **[Requirements Coverage-Guided Minimization for Natural Language Test Cases](http://arxiv.org/abs/2505.20004v1)** | 2025-05-26 |  |
+| **[The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation](http://arxiv.org/abs/2501.07849v2)** | 2025-05-26 | 27 pages, 13 figures |
+| **[Systems of Twinned Systems: A Systematic Literature Review](http://arxiv.org/abs/2505.19916v1)** | 2025-05-26 |  |
+| **[Deconstructing Obfuscation: A four-dimensional framework for evaluating Large Language Models assembly code deobfuscation capabilities](http://arxiv.org/abs/2505.19887v1)** | 2025-05-26 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[Re-evaluation of Logical Specification in Behavioural Verification](http://arxiv.org/abs/2505.17979v1)** | 2025-05-23 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](http://arxiv.org/abs/2505.17839v1)** | 2025-05-23 | <details><summary>10 pa...</summary><p>10 pages, presented at the A-Test Workshop of the ICST'25</p></details> |
-| **[LLM Contribution Summarization in Software Projects](http://arxiv.org/abs/2505.17710v1)** | 2025-05-23 |  |
-| **[ReqBrain: Task-Specific Instruction Tuning of LLMs for AI-Assisted Requirements Generation](http://arxiv.org/abs/2505.17632v1)** | 2025-05-23 |  |
-| **[Do Automated Fixes Truly Mitigate Smart Contract Exploits?](http://arxiv.org/abs/2501.04600v3)** | 2025-05-23 |  |
-| **[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](http://arxiv.org/abs/2505.09904v2)** | 2025-05-23 | WWW' 2025 |
-| **[CodeCrash: Stress Testing LLM Reasoning under Structural and Semantic Perturbations](http://arxiv.org/abs/2504.14119v2)** | 2025-05-23 |  |
-| **[Planning-Driven Programming: A Large Language Model Programming Workflow](http://arxiv.org/abs/2411.14503v3)** | 2025-05-23 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
+| **[Requirements Coverage-Guided Minimization for Natural Language Test Cases](http://arxiv.org/abs/2505.20004v1)** | 2025-05-26 |  |
+| **[The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation](http://arxiv.org/abs/2501.07849v2)** | 2025-05-26 | 27 pages, 13 figures |
+| **[Deconstructing Obfuscation: A four-dimensional framework for evaluating Large Language Models assembly code deobfuscation capabilities](http://arxiv.org/abs/2505.19887v1)** | 2025-05-26 |  |
+| **[RDFGraphGen: An RDF Graph Generator based on SHACL Shapes](http://arxiv.org/abs/2407.17941v2)** | 2025-05-26 | 11 pages, 2 figures |
+| **[SETBVE: Quality-Diversity Driven Exploration of Software Boundary Behaviors](http://arxiv.org/abs/2505.19736v1)** | 2025-05-26 | 33 pages, 10 figures |
+| **[Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v1)** | 2025-05-26 |  |
+| **[CODE-DITING: A Reasoning-Based Metric for Functional Alignment in Code Evaluation](http://arxiv.org/abs/2505.19502v1)** | 2025-05-26 |  |
+| **[Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI](http://arxiv.org/abs/2505.19443v1)** | 2025-05-26 | <details><summary>35 Pa...</summary><p>35 Pages, 8 Figures, 6 Tables</p></details> |
+| **[Retrieval-Augmented Generation for Service Discovery: Chunking Strategies and Benchmarking](http://arxiv.org/abs/2505.19310v1)** | 2025-05-25 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2411.19804</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](http://arxiv.org/abs/2505.17839v1)** | 2025-05-23 | <details><summary>10 pa...</summary><p>10 pages, presented at the A-Test Workshop of the ICST'25</p></details> |
-| **[LLM Contribution Summarization in Software Projects](http://arxiv.org/abs/2505.17710v1)** | 2025-05-23 |  |
-| **[ReqBrain: Task-Specific Instruction Tuning of LLMs for AI-Assisted Requirements Generation](http://arxiv.org/abs/2505.17632v1)** | 2025-05-23 |  |
-| **[CodeCrash: Stress Testing LLM Reasoning under Structural and Semantic Perturbations](http://arxiv.org/abs/2504.14119v2)** | 2025-05-23 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
+| **[A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](http://arxiv.org/abs/2505.10924v2)** | 2025-05-26 |  |
+| **[Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare](http://arxiv.org/abs/2505.20020v1)** | 2025-05-26 | <details><summary>Relat...</summary><p>Related dataset: https://doi.org/10.5281/zenodo.15411810</p></details> |
+| **[The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation](http://arxiv.org/abs/2501.07849v2)** | 2025-05-26 | 27 pages, 13 figures |
+| **[Deconstructing Obfuscation: A four-dimensional framework for evaluating Large Language Models assembly code deobfuscation capabilities](http://arxiv.org/abs/2505.19887v1)** | 2025-05-26 |  |
+| **[SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection](http://arxiv.org/abs/2505.19828v1)** | 2025-05-26 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[Re-evaluation of Logical Specification in Behavioural Verification](http://arxiv.org/abs/2505.17979v1)** | 2025-05-23 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
+| **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs](http://arxiv.org/abs/2505.20136v1)** | 2025-05-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[Re-evaluation of Logical Specification in Behavioural Verification](http://arxiv.org/abs/2505.17979v1)** | 2025-05-23 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Automatic Design-Time Detection of Anomalies in Migrating Monolithic Applications to Microservices](http://arxiv.org/abs/2505.17927v1)** | 2025-05-23 |  |
-| **[Automated Testing of the GUI of a Real-Life Engineering Software using Large Language Models](http://arxiv.org/abs/2505.17839v1)** | 2025-05-23 | <details><summary>10 pa...</summary><p>10 pages, presented at the A-Test Workshop of the ICST'25</p></details> |
-| **[Ten Years of Software Engineering in Society](http://arxiv.org/abs/2505.17802v1)** | 2025-05-23 |  |
-| **[Defining Self-adaptive Systems: A Systematic Literature Review](http://arxiv.org/abs/2505.17798v1)** | 2025-05-23 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables</p></details> |
-| **[LLM Contribution Summarization in Software Projects](http://arxiv.org/abs/2505.17710v1)** | 2025-05-23 |  |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](http://arxiv.org/abs/2505.17703v1)** | 2025-05-23 |  |
-| **[It is Giving Major Satisfaction: Why Fairness Matters for Software Practitioners](http://arxiv.org/abs/2410.02482v3)** | 2025-05-23 | <details><summary>This ...</summary><p>This work has been submitted to the ACM for possible publication</p></details> |
-| **[A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain](http://arxiv.org/abs/2505.17634v1)** | 2025-05-23 |  |
-| **[ReqBrain: Task-Specific Instruction Tuning of LLMs for AI-Assisted Requirements Generation](http://arxiv.org/abs/2505.17632v1)** | 2025-05-23 |  |
-| **[Do Automated Fixes Truly Mitigate Smart Contract Exploits?](http://arxiv.org/abs/2501.04600v3)** | 2025-05-23 |  |
+| **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs](http://arxiv.org/abs/2505.20136v1)** | 2025-05-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Grammars of Formal Uncertainty: When to Trust LLMs in Automated Reasoning Tasks](http://arxiv.org/abs/2505.20047v1)** | 2025-05-26 |  |
+| **[A Survey on the Safety and Security Threats of Computer-Using Agents: JARVIS or Ultron?](http://arxiv.org/abs/2505.10924v2)** | 2025-05-26 |  |
+| **[Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare](http://arxiv.org/abs/2505.20020v1)** | 2025-05-26 | <details><summary>Relat...</summary><p>Related dataset: https://doi.org/10.5281/zenodo.15411810</p></details> |
+| **[Requirements Coverage-Guided Minimization for Natural Language Test Cases](http://arxiv.org/abs/2505.20004v1)** | 2025-05-26 |  |
+| **[The Invisible Hand: Unveiling Provider Bias in Large Language Models for Code Generation](http://arxiv.org/abs/2501.07849v2)** | 2025-05-26 | 27 pages, 13 figures |
+| **[Systems of Twinned Systems: A Systematic Literature Review](http://arxiv.org/abs/2505.19916v1)** | 2025-05-26 |  |
+| **[Deconstructing Obfuscation: A four-dimensional framework for evaluating Large Language Models assembly code deobfuscation capabilities](http://arxiv.org/abs/2505.19887v1)** | 2025-05-26 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -153,20 +162,20 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[SmartNote: An LLM-Powered, Personalised Release Note Generator That Just Works](http://arxiv.org/abs/2505.17977v1)** | 2025-05-23 | <details><summary>In Pr...</summary><p>In Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE) (FSE 2025)</p></details> |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v1)** | 2025-05-23 | <details><summary>Accep...</summary><p>Accepted to Forty-Second International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[LLM Contribution Summarization in Software Projects](http://arxiv.org/abs/2505.17710v1)** | 2025-05-23 |  |
-| **[Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](http://arxiv.org/abs/2505.17703v1)** | 2025-05-23 |  |
-| **[A Comprehensive Study on the Use of Word Embedding Models in Software Engineering Domain](http://arxiv.org/abs/2505.17634v1)** | 2025-05-23 |  |
-| **[UICopilot: Automating UI Synthesis via Hierarchical Code Generation from Webpage Designs](http://arxiv.org/abs/2505.09904v2)** | 2025-05-23 | WWW' 2025 |
-| **[CodeCrash: Stress Testing LLM Reasoning under Structural and Semantic Perturbations](http://arxiv.org/abs/2504.14119v2)** | 2025-05-23 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System](http://arxiv.org/abs/2505.18019v1)** | 2025-05-23 | <details><summary>11 pa...</summary><p>11 pages, 12 figures, Accepted in EASE 2025 https://conf.researchr.org/details/ease-2025/ease-2025-ai-models---data/11/LLM-assisted-web-application-functional-requirements-generation-A-case-study-of-fou</p></details> |
-| **[MFH: A Multi-faceted Heuristic Algorithm Selection Approach for Software Verification](http://arxiv.org/abs/2503.22228v2)** | 2025-05-23 | <details><summary>The d...</summary><p>The decision to withdraw the paper is driven by two reasons: 1. A conflict of interest arises from the proposed methods overlapping with pending patent applications by other authors. 2. Upon thorough review, it has been discovered that the paper contains ambiguities and inaccuracies in describing the method, potentially hindering readers' comprehension of the content</p></details> |
-| **[Re-evaluation of Logical Specification in Behavioural Verification](http://arxiv.org/abs/2505.17979v1)** | 2025-05-23 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the 29th International Conference on Evaluation and Assessment in Software Engineering (EASE 2025)</p></details> |
+| **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
+| **[Evaluating Large Language Models for Code Review](http://arxiv.org/abs/2505.20206v1)** | 2025-05-26 |  |
+| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
+| **[An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation](http://arxiv.org/abs/2505.20182v1)** | 2025-05-26 |  |
+| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
+| **[StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](http://arxiv.org/abs/2505.20139v1)** | 2025-05-26 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, 13 tables</p></details> |
+| **[Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs](http://arxiv.org/abs/2505.20136v1)** | 2025-05-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
