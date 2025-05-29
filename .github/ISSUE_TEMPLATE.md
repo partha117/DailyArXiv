@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 29, 2025
+title: Latest 15 Papers - May 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,16 +7,25 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[JITScope: Interactive Visualization of JIT Compiler IR Transformations](http://arxiv.org/abs/2505.21599v1)** | 2025-05-27 | 5 pages, 4 figures |
 | **[Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI](http://arxiv.org/abs/2505.19443v1)** | 2025-05-26 | <details><summary>35 Pa...</summary><p>35 Pages, 8 Figures, 6 Tables</p></details> |
 | **[AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers](http://arxiv.org/abs/2504.20115v2)** | 2025-05-24 |  |
 | **[Data Mining-Based Techniques for Software Fault Localization](http://arxiv.org/abs/2505.18216v1)** | 2025-05-23 |  |
@@ -30,22 +39,22 @@ labels: documentation
 | **[On the Need for a Statistical Foundation in Scenario-Based Testing of Autonomous Vehicles](http://arxiv.org/abs/2505.02274v1)** | 2025-05-04 | under review |
 | **[LASSI: An LLM-based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes](http://arxiv.org/abs/2407.01638v2)** | 2025-05-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 7 tables</p></details> |
 | **[Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency](http://arxiv.org/abs/2505.02133v1)** | 2025-05-04 |  |
-| **[SE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering](http://arxiv.org/abs/2502.01860v4)** | 2025-05-04 | <details><summary>Check...</summary><p>Check the arena at https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena</p></details> |
-| **[Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation](http://arxiv.org/abs/2504.04322v4)** | 2025-05-02 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
 | **[Why do Machine Learning Notebooks Crash? An Empirical Study on Public Python Jupyter Notebooks](http://arxiv.org/abs/2411.16795v3)** | 2025-05-27 |  |
 | **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
-| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
-| **[SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection](http://arxiv.org/abs/2505.19828v1)** | 2025-05-26 |  |
-| **[SETBVE: Quality-Diversity Driven Exploration of Software Boundary Behaviors](http://arxiv.org/abs/2505.19736v1)** | 2025-05-26 | 33 pages, 10 figures |
-| **[Benchmarking and Enhancing LLM Agents in Localizing Linux Kernel Bugs](http://arxiv.org/abs/2505.19489v1)** | 2025-05-26 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
+| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
+| **[Leveraging XP and CRISP-DM for Agile Data Science Projects](http://arxiv.org/abs/2505.21603v1)** | 2025-05-27 |  |
 | **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
 | **[A first look at ROS~2 applications written in asynchronous Rust](http://arxiv.org/abs/2505.21323v1)** | 2025-05-27 |  |
 | **[ColorGo: Directed Concolic Execution](http://arxiv.org/abs/2505.21130v1)** | 2025-05-27 |  |
@@ -56,75 +65,71 @@ labels: documentation
 | **[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](http://arxiv.org/abs/2505.20630v1)** | 2025-05-27 |  |
 | **[Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review](http://arxiv.org/abs/2412.01719v2)** | 2025-05-26 |  |
 | **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
-| **[Exposing Go's Hidden Bugs: A Novel Concolic Framework](http://arxiv.org/abs/2505.20183v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 23rd IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA 2025)</p></details> |
-| **[Evaluating Software Plagiarism Detection in the Age of AI: Automated Obfuscation and Lessons for Academic Integrity](http://arxiv.org/abs/2505.20158v1)** | 2025-05-26 |  |
-| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
-| **[SecVulEval: Benchmarking LLMs for Real-World C/C++ Vulnerability Detection](http://arxiv.org/abs/2505.19828v1)** | 2025-05-26 |  |
-| **[Large Language Models in Code Co-generation for Safe Autonomous Vehicles](http://arxiv.org/abs/2505.19658v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted in the 44th International Conference on Computer Safety, Reliability and Security (SafeComp 2025)</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
-| **[A first look at ROS~2 applications written in asynchronous Rust](http://arxiv.org/abs/2505.21323v1)** | 2025-05-27 |  |
-| **[ColorGo: Directed Concolic Execution](http://arxiv.org/abs/2505.21130v1)** | 2025-05-27 |  |
-| **[CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building](http://arxiv.org/abs/2505.21069v1)** | 2025-05-27 |  |
-| **[Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](http://arxiv.org/abs/2502.17442v2)** | 2025-05-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 8 tables</p></details> |
-| **[Optimizing Case-Based Reasoning System for Functional Test Script Generation with Large Language Models](http://arxiv.org/abs/2503.20576v3)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 (ADS Track)</p></details> |
-| **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v1)** | 2025-05-27 |  |
-| **[An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks](http://arxiv.org/abs/2505.20854v1)** | 2025-05-27 | 20 pages |
-| **[Why do Machine Learning Notebooks Crash? An Empirical Study on Public Python Jupyter Notebooks](http://arxiv.org/abs/2411.16795v3)** | 2025-05-27 |  |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
-| **[Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey](http://arxiv.org/abs/2412.20367v3)** | 2025-05-27 |  |
-| **[System-driven Cloud Architecture Design Support with Structured State Management and Guided Decision Assistance](http://arxiv.org/abs/2505.20701v1)** | 2025-05-27 |  |
-| **[How Do Experts Make Sense of Integrated Process Models?](http://arxiv.org/abs/2505.20667v1)** | 2025-05-27 |  |
-| **[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](http://arxiv.org/abs/2505.20630v1)** | 2025-05-27 |  |
-| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review](http://arxiv.org/abs/2412.01719v2)** | 2025-05-26 |  |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
+| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
+| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
+| **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v2)** | 2025-05-28 |  |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
+| **[Jailbreak Distillation: Renewable Safety Benchmarking](http://arxiv.org/abs/2505.22037v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/jailbreak-distillation</p></details> |
+| **[Securing the Software Package Supply Chain for Critical Systems](http://arxiv.org/abs/2505.22023v1)** | 2025-05-28 | <details><summary>14 Pa...</summary><p>14 Pages,3 Figures. Published as a chapter in the book, "Cybersecurity and Data Science Innovations for Sustainable Development of HEICC". CRC Press, eBook ISBN: 9781032711300</p></details> |
+| **[How Do Experts Make Sense of Integrated Process Models?](http://arxiv.org/abs/2505.20667v2)** | 2025-05-28 |  |
+| **[System-driven Cloud Architecture Design Support with Structured State Management and Guided Decision Assistance](http://arxiv.org/abs/2505.20701v2)** | 2025-05-28 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ColorGo: Directed Concolic Execution](http://arxiv.org/abs/2505.21130v1)** | 2025-05-27 |  |
-| **[CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building](http://arxiv.org/abs/2505.21069v1)** | 2025-05-27 |  |
-| **[Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](http://arxiv.org/abs/2502.17442v2)** | 2025-05-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 8 tables</p></details> |
-| **[Optimizing Case-Based Reasoning System for Functional Test Script Generation with Large Language Models](http://arxiv.org/abs/2503.20576v3)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 (ADS Track)</p></details> |
-| **[An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks](http://arxiv.org/abs/2505.20854v1)** | 2025-05-27 | 20 pages |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
-| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review](http://arxiv.org/abs/2412.01719v2)** | 2025-05-26 |  |
-| **[Large Language Models for IT Automation Tasks: Are We There Yet?](http://arxiv.org/abs/2505.20505v1)** | 2025-05-26 | 8 pages |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
+| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation](http://arxiv.org/abs/2505.16590v2)** | 2025-05-28 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building](http://arxiv.org/abs/2505.21069v1)** | 2025-05-27 |  |
-| **[Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](http://arxiv.org/abs/2502.17442v2)** | 2025-05-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 8 tables</p></details> |
-| **[Optimizing Case-Based Reasoning System for Functional Test Script Generation with Large Language Models](http://arxiv.org/abs/2503.20576v3)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 (ADS Track)</p></details> |
-| **[An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks](http://arxiv.org/abs/2505.20854v1)** | 2025-05-27 | 20 pages |
+| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
+| **[Jailbreak Distillation: Renewable Safety Benchmarking](http://arxiv.org/abs/2505.22037v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/jailbreak-distillation</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
-| **[A first look at ROS~2 applications written in asynchronous Rust](http://arxiv.org/abs/2505.21323v1)** | 2025-05-27 |  |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
-| **[A first look at ROS~2 applications written in asynchronous Rust](http://arxiv.org/abs/2505.21323v1)** | 2025-05-27 |  |
-| **[ColorGo: Directed Concolic Execution](http://arxiv.org/abs/2505.21130v1)** | 2025-05-27 |  |
-| **[CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building](http://arxiv.org/abs/2505.21069v1)** | 2025-05-27 |  |
-| **[Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](http://arxiv.org/abs/2502.17442v2)** | 2025-05-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 8 tables</p></details> |
-| **[Optimizing Case-Based Reasoning System for Functional Test Script Generation with Large Language Models](http://arxiv.org/abs/2503.20576v3)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 (ADS Track)</p></details> |
-| **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v1)** | 2025-05-27 |  |
-| **[An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks](http://arxiv.org/abs/2505.20854v1)** | 2025-05-27 | 20 pages |
-| **[Why do Machine Learning Notebooks Crash? An Empirical Study on Public Python Jupyter Notebooks](http://arxiv.org/abs/2411.16795v3)** | 2025-05-27 |  |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
-| **[Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey](http://arxiv.org/abs/2412.20367v3)** | 2025-05-27 |  |
-| **[System-driven Cloud Architecture Design Support with Structured State Management and Guided Decision Assistance](http://arxiv.org/abs/2505.20701v1)** | 2025-05-27 |  |
-| **[How Do Experts Make Sense of Integrated Process Models?](http://arxiv.org/abs/2505.20667v1)** | 2025-05-27 |  |
-| **[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](http://arxiv.org/abs/2505.20630v1)** | 2025-05-27 |  |
-| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review](http://arxiv.org/abs/2412.01719v2)** | 2025-05-26 |  |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
+| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
+| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
+| **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v2)** | 2025-05-28 |  |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
+| **[Jailbreak Distillation: Renewable Safety Benchmarking](http://arxiv.org/abs/2505.22037v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/jailbreak-distillation</p></details> |
+| **[Securing the Software Package Supply Chain for Critical Systems](http://arxiv.org/abs/2505.22023v1)** | 2025-05-28 | <details><summary>14 Pa...</summary><p>14 Pages,3 Figures. Published as a chapter in the book, "Cybersecurity and Data Science Innovations for Sustainable Development of HEICC". CRC Press, eBook ISBN: 9781032711300</p></details> |
+| **[How Do Experts Make Sense of Integrated Process Models?](http://arxiv.org/abs/2505.20667v2)** | 2025-05-28 |  |
+| **[System-driven Cloud Architecture Design Support with Structured State Management and Guided Decision Assistance](http://arxiv.org/abs/2505.20701v2)** | 2025-05-28 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -136,18 +141,19 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
-| **[ColorGo: Directed Concolic Execution](http://arxiv.org/abs/2505.21130v1)** | 2025-05-27 |  |
-| **[CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building](http://arxiv.org/abs/2505.21069v1)** | 2025-05-27 |  |
-| **[Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](http://arxiv.org/abs/2502.17442v2)** | 2025-05-27 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 8 tables</p></details> |
-| **[Optimizing Case-Based Reasoning System for Functional Test Script Generation with Large Language Models](http://arxiv.org/abs/2503.20576v3)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 (ADS Track)</p></details> |
-| **[An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks](http://arxiv.org/abs/2505.20854v1)** | 2025-05-27 | 20 pages |
-| **[Why do Machine Learning Notebooks Crash? An Empirical Study on Public Python Jupyter Notebooks](http://arxiv.org/abs/2411.16795v3)** | 2025-05-27 |  |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
-| **[Enhancing Code LLMs with Reinforcement Learning in Code Generation: A Survey](http://arxiv.org/abs/2412.20367v3)** | 2025-05-27 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
+| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
+| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
+| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
+| **[Securing the Software Package Supply Chain for Critical Systems](http://arxiv.org/abs/2505.22023v1)** | 2025-05-28 | <details><summary>14 Pa...</summary><p>14 Pages,3 Figures. Published as a chapter in the book, "Cybersecurity and Data Science Innovations for Sustainable Development of HEICC". CRC Press, eBook ISBN: 9781032711300</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
+| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
+| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
+| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
+| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
 
