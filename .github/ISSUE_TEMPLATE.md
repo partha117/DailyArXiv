@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 30, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,22 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
-| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -30,7 +33,6 @@ labels: documentation
 | **[AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers](http://arxiv.org/abs/2504.20115v2)** | 2025-05-24 |  |
 | **[Data Mining-Based Techniques for Software Fault Localization](http://arxiv.org/abs/2505.18216v1)** | 2025-05-23 |  |
 | **[Bridging the Gap: Physical PCI Device Integration Into SystemC-TLM Virtual Platforms](http://arxiv.org/abs/2505.15590v1)** | 2025-05-21 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the 25th International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XXV)</p></details> |
-| **[BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration](http://arxiv.org/abs/2505.14528v1)** | 2025-05-20 |  |
 | **[Evaluating Mutation-based Fault Localization for Quantum Programs](http://arxiv.org/abs/2505.09059v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, Accepted at Short Papers, Emerging Results in the International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025</p></details> |
 | **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v1)** | 2025-05-13 |  |
 | **[Toward a Better Understanding of Probabilistic Delta Debugging](http://arxiv.org/abs/2408.04735v4)** | 2025-05-08 | accepted by ICSE25 |
@@ -39,17 +41,28 @@ labels: documentation
 | **[On the Need for a Statistical Foundation in Scenario-Based Testing of Autonomous Vehicles](http://arxiv.org/abs/2505.02274v1)** | 2025-05-04 | under review |
 | **[LASSI: An LLM-based Automated Self-Correcting Pipeline for Translating Parallel Scientific Codes](http://arxiv.org/abs/2407.01638v2)** | 2025-05-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 7 tables</p></details> |
 | **[Enhancing LLM Code Generation: A Systematic Evaluation of Multi-Agent Collaboration and Runtime Debugging for Improved Accuracy, Reliability, and Latency](http://arxiv.org/abs/2505.02133v1)** | 2025-05-04 |  |
+| **[SE Arena: An Interactive Platform for Evaluating Foundation Models in Software Engineering](http://arxiv.org/abs/2502.01860v4)** | 2025-05-04 | <details><summary>Check...</summary><p>Check the arena at https://huggingface.co/spaces/SE-Arena/Software-Engineering-Arena</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents](http://arxiv.org/abs/2505.23422v1)** | 2025-05-29 | <details><summary>Short...</summary><p>Short Paper, REALM '25 camera-ready</p></details> |
+| **[SWE-bench Goes Live!](http://arxiv.org/abs/2505.23419v1)** | 2025-05-29 | <details><summary>Homep...</summary><p>Homepage: \url{https://swe-bench-live.github.io/}, Code: \url{https://github.com/SWE-bench-Live}, Dataset: \url{https://huggingface.co/SWE-bench-Live}</p></details> |
+| **[BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration](http://arxiv.org/abs/2505.14528v2)** | 2025-05-29 |  |
 | **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Why do Machine Learning Notebooks Crash? An Empirical Study on Public Python Jupyter Notebooks](http://arxiv.org/abs/2411.16795v3)** | 2025-05-27 |  |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
+| **[OSS-UAgent: An Agent-based Usability Evaluation Framework for Open Source Software](http://arxiv.org/abs/2505.23239v1)** | 2025-05-29 |  |
+| **[VERINA: Benchmarking Verifiable Code Generation](http://arxiv.org/abs/2505.23135v1)** | 2025-05-29 |  |
+| **[Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference](http://arxiv.org/abs/2503.04779v4)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Conference)</p></details> |
+| **[DINGO: Constrained Inference for Diffusion LLMs](http://arxiv.org/abs/2505.23061v1)** | 2025-05-29 | <details><summary>DINGO...</summary><p>DINGO an algorithm to provably apply constraints to diffusion LLM generations</p></details> |
+| **[Chain of Grounded Objectives: Bridging Process and Goal-oriented Prompting for Code Generation](http://arxiv.org/abs/2501.13978v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted by ECOOP 2025 main conference</p></details> |
 | **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
 | **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
 | **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
@@ -57,79 +70,84 @@ labels: documentation
 | **[Leveraging XP and CRISP-DM for Agile Data Science Projects](http://arxiv.org/abs/2505.21603v1)** | 2025-05-27 |  |
 | **[GUARD:Dual-Agent based Backdoor Defense on Chain-of-Thought in Neural Code Generation](http://arxiv.org/abs/2505.21425v1)** | 2025-05-27 | under review |
 | **[A first look at ROS~2 applications written in asynchronous Rust](http://arxiv.org/abs/2505.21323v1)** | 2025-05-27 |  |
-| **[ColorGo: Directed Concolic Execution](http://arxiv.org/abs/2505.21130v1)** | 2025-05-27 |  |
-| **[CXXCrafter: An LLM-Based Agent for Automated C/C++ Open Source Software Building](http://arxiv.org/abs/2505.21069v1)** | 2025-05-27 |  |
-| **[An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks](http://arxiv.org/abs/2505.20854v1)** | 2025-05-27 | 20 pages |
-| **[Why do Machine Learning Notebooks Crash? An Empirical Study on Public Python Jupyter Notebooks](http://arxiv.org/abs/2411.16795v3)** | 2025-05-27 |  |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v1)** | 2025-05-27 | 18 pages, 7 figures |
-| **[SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis](http://arxiv.org/abs/2505.20630v1)** | 2025-05-27 |  |
-| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review](http://arxiv.org/abs/2412.01719v2)** | 2025-05-26 |  |
-| **[GPUMC: A Stateless Model Checker for GPU Weak Memory Concurrency](http://arxiv.org/abs/2505.20207v1)** | 2025-05-26 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
-| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
-| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
-| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
-| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
-| **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v2)** | 2025-05-28 |  |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
-| **[Jailbreak Distillation: Renewable Safety Benchmarking](http://arxiv.org/abs/2505.22037v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/jailbreak-distillation</p></details> |
-| **[Securing the Software Package Supply Chain for Critical Systems](http://arxiv.org/abs/2505.22023v1)** | 2025-05-28 | <details><summary>14 Pa...</summary><p>14 Pages,3 Figures. Published as a chapter in the book, "Cybersecurity and Data Science Innovations for Sustainable Development of HEICC". CRC Press, eBook ISBN: 9781032711300</p></details> |
-| **[How Do Experts Make Sense of Integrated Process Models?](http://arxiv.org/abs/2505.20667v2)** | 2025-05-28 |  |
-| **[System-driven Cloud Architecture Design Support with Structured State Management and Guided Decision Assistance](http://arxiv.org/abs/2505.20701v2)** | 2025-05-28 |  |
+| **[How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys](http://arxiv.org/abs/2505.23684v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 33rd IEEE International Requirements Engineering Conference (RE 2025)</p></details> |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](http://arxiv.org/abs/2505.23516v1)** | 2025-05-29 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, submitted as a preprint to arXiv (no prior publication)</p></details> |
+| **[Identity resolution of software metadata using Large Language Models](http://arxiv.org/abs/2505.23500v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v1)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents](http://arxiv.org/abs/2505.23422v1)** | 2025-05-29 | <details><summary>Short...</summary><p>Short Paper, REALM '25 camera-ready</p></details> |
+| **[SWE-bench Goes Live!](http://arxiv.org/abs/2505.23419v1)** | 2025-05-29 | <details><summary>Homep...</summary><p>Homepage: \url{https://swe-bench-live.github.io/}, Code: \url{https://github.com/SWE-bench-Live}, Dataset: \url{https://huggingface.co/SWE-bench-Live}</p></details> |
+| **[Toward Effective AI Governance: A Review of Principles](http://arxiv.org/abs/2505.23417v1)** | 2025-05-29 |  |
+| **[BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration](http://arxiv.org/abs/2505.14528v2)** | 2025-05-29 |  |
+| **[Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization](http://arxiv.org/abs/2505.23387v1)** | 2025-05-29 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
-| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[Larger Is Not Always Better: Exploring Small Open-source Language Models in Logging Statement Generation](http://arxiv.org/abs/2505.16590v2)** | 2025-05-28 |  |
+| **[How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys](http://arxiv.org/abs/2505.23684v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 33rd IEEE International Requirements Engineering Conference (RE 2025)</p></details> |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[Identity resolution of software metadata using Large Language Models](http://arxiv.org/abs/2505.23500v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v1)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[SWE-bench Goes Live!](http://arxiv.org/abs/2505.23419v1)** | 2025-05-29 | <details><summary>Homep...</summary><p>Homepage: \url{https://swe-bench-live.github.io/}, Code: \url{https://github.com/SWE-bench-Live}, Dataset: \url{https://huggingface.co/SWE-bench-Live}</p></details> |
+| **[Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization](http://arxiv.org/abs/2505.23387v1)** | 2025-05-29 |  |
+| **[OSS-UAgent: An Agent-based Usability Evaluation Framework for Open Source Software](http://arxiv.org/abs/2505.23239v1)** | 2025-05-29 |  |
+| **[VERINA: Benchmarking Verifiable Code Generation](http://arxiv.org/abs/2505.23135v1)** | 2025-05-29 |  |
+| **[Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference](http://arxiv.org/abs/2503.04779v4)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main Conference)</p></details> |
+| **[HACMony: Automatically Detecting Hopping-related Audio-stream Conflict Issues on HarmonyOS](http://arxiv.org/abs/2504.07472v2)** | 2025-05-29 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
-| **[Jailbreak Distillation: Renewable Safety Benchmarking](http://arxiv.org/abs/2505.22037v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/jailbreak-distillation</p></details> |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
+| **[SWE-bench Goes Live!](http://arxiv.org/abs/2505.23419v1)** | 2025-05-29 | <details><summary>Homep...</summary><p>Homepage: \url{https://swe-bench-live.github.io/}, Code: \url{https://github.com/SWE-bench-Live}, Dataset: \url{https://huggingface.co/SWE-bench-Live}</p></details> |
+| **[BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration](http://arxiv.org/abs/2505.14528v2)** | 2025-05-29 |  |
+| **[Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization](http://arxiv.org/abs/2505.23387v1)** | 2025-05-29 |  |
+| **[Personality-Guided Code Generation Using Large Language Models](http://arxiv.org/abs/2411.00006v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted by the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Main Track</p></details> |
+| **[OSS-UAgent: An Agent-based Usability Evaluation Framework for Open Source Software](http://arxiv.org/abs/2505.23239v1)** | 2025-05-29 |  |
+| **[Artemis: Toward Accurate Detection of Server-Side Request Forgeries through LLM-Assisted Inter-Procedural Path-Sensitive Taint Analysis](http://arxiv.org/abs/2502.21026v3)** | 2025-05-29 | <details><summary>Full ...</summary><p>Full version of paper accepted by OOPSLA '25</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
+| **[How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys](http://arxiv.org/abs/2505.23684v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 33rd IEEE International Requirements Engineering Conference (RE 2025)</p></details> |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
-| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
-| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
-| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
-| **[Thermal Modeling and Optimal Allocation of Avionics Safety-critical Tasks on Heterogeneous MPSoCs](http://arxiv.org/abs/2505.22214v1)** | 2025-05-28 |  |
-| **[Towards Conversational Development Environments: Using Theory-of-Mind and Multi-Agent Architectures for Requirements Refinement](http://arxiv.org/abs/2505.20973v2)** | 2025-05-28 |  |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
-| **[Jailbreak Distillation: Renewable Safety Benchmarking](http://arxiv.org/abs/2505.22037v1)** | 2025-05-28 | <details><summary>Proje...</summary><p>Project page: https://aka.ms/jailbreak-distillation</p></details> |
-| **[Securing the Software Package Supply Chain for Critical Systems](http://arxiv.org/abs/2505.22023v1)** | 2025-05-28 | <details><summary>14 Pa...</summary><p>14 Pages,3 Figures. Published as a chapter in the book, "Cybersecurity and Data Science Innovations for Sustainable Development of HEICC". CRC Press, eBook ISBN: 9781032711300</p></details> |
-| **[How Do Experts Make Sense of Integrated Process Models?](http://arxiv.org/abs/2505.20667v2)** | 2025-05-28 |  |
-| **[System-driven Cloud Architecture Design Support with Structured State Management and Guided Decision Assistance](http://arxiv.org/abs/2505.20701v2)** | 2025-05-28 |  |
+| **[How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys](http://arxiv.org/abs/2505.23684v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 33rd IEEE International Requirements Engineering Conference (RE 2025)</p></details> |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](http://arxiv.org/abs/2505.23516v1)** | 2025-05-29 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, submitted as a preprint to arXiv (no prior publication)</p></details> |
+| **[Identity resolution of software metadata using Large Language Models](http://arxiv.org/abs/2505.23500v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v1)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents](http://arxiv.org/abs/2505.23422v1)** | 2025-05-29 | <details><summary>Short...</summary><p>Short Paper, REALM '25 camera-ready</p></details> |
+| **[SWE-bench Goes Live!](http://arxiv.org/abs/2505.23419v1)** | 2025-05-29 | <details><summary>Homep...</summary><p>Homepage: \url{https://swe-bench-live.github.io/}, Code: \url{https://github.com/SWE-bench-Live}, Dataset: \url{https://huggingface.co/SWE-bench-Live}</p></details> |
+| **[Toward Effective AI Governance: A Review of Principles](http://arxiv.org/abs/2505.23417v1)** | 2025-05-29 |  |
+| **[BugRepro: Enhancing Android Bug Reproduction with Domain-Specific Knowledge Integration](http://arxiv.org/abs/2505.14528v2)** | 2025-05-29 |  |
+| **[Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization](http://arxiv.org/abs/2505.23387v1)** | 2025-05-29 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -141,19 +159,27 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[LAMBDA: A Large Model Based Data Agent](http://arxiv.org/abs/2407.17535v3)** | 2025-05-28 | 56 pages |
-| **[Advancing Expert Specialization for Better MoE](http://arxiv.org/abs/2505.22323v1)** | 2025-05-28 | 33pages, 6figures |
-| **[Evolution of repositories and privacy laws: commit activities in the GDPR and CCPA era](http://arxiv.org/abs/2505.22234v1)** | 2025-05-28 |  |
-| **[Towards Practical Defect-Focused Automated Code Review](http://arxiv.org/abs/2505.17928v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted as Spotlight at the 42nd International Conference on Machine Learning (ICML 2025)</p></details> |
-| **[SVA-ICL: Improving LLM-based Software Vulnerability Assessment via In-Context Learning and Information Fusion](http://arxiv.org/abs/2505.10008v2)** | 2025-05-28 | <details><summary>Accep...</summary><p>Accepted by Information and Software Technology</p></details> |
-| **[Securing the Software Package Supply Chain for Critical Systems](http://arxiv.org/abs/2505.22023v1)** | 2025-05-28 | <details><summary>14 Pa...</summary><p>14 Pages,3 Figures. Published as a chapter in the book, "Cybersecurity and Data Science Innovations for Sustainable Development of HEICC". CRC Press, eBook ISBN: 9781032711300</p></details> |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
+| **[LLM-based Property-based Test Generation for Guardrailing Cyber-Physical Systems](http://arxiv.org/abs/2505.23549v1)** | 2025-05-29 |  |
+| **[Identity resolution of software metadata using Large Language Models](http://arxiv.org/abs/2505.23500v1)** | 2025-05-29 |  |
+| **[Synthesizing Performance Constraints for Evaluating and Improving Code Efficiency](http://arxiv.org/abs/2505.23471v1)** | 2025-05-29 | 30 pages, 3 figures |
+| **[From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents](http://arxiv.org/abs/2505.23422v1)** | 2025-05-29 | <details><summary>Short...</summary><p>Short Paper, REALM '25 camera-ready</p></details> |
+| **[SWE-bench Goes Live!](http://arxiv.org/abs/2505.23419v1)** | 2025-05-29 | <details><summary>Homep...</summary><p>Homepage: \url{https://swe-bench-live.github.io/}, Code: \url{https://github.com/SWE-bench-Live}, Dataset: \url{https://huggingface.co/SWE-bench-Live}</p></details> |
+| **[Afterburner: Reinforcement Learning Facilitates Self-Improving Code Efficiency Optimization](http://arxiv.org/abs/2505.23387v1)** | 2025-05-29 |  |
+| **[Personality-Guided Code Generation Using Large Language Models](http://arxiv.org/abs/2411.00006v2)** | 2025-05-29 | <details><summary>Accep...</summary><p>Accepted by the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025) Main Track</p></details> |
+| **[OSS-UAgent: An Agent-based Usability Evaluation Framework for Open Source Software](http://arxiv.org/abs/2505.23239v1)** | 2025-05-29 |  |
+| **[Two Is Better Than One: Rotations Scale LoRAs](http://arxiv.org/abs/2505.23184v1)** | 2025-05-29 | 27pages, 16figures |
+| **[An open-source Modular Online Psychophysics Platform (MOPP)](http://arxiv.org/abs/2505.23137v1)** | 2025-05-29 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents](http://arxiv.org/abs/2505.22634v1)** | 2025-05-28 |  |
-| **[Smart Contracts for SMEs and Large Companies](http://arxiv.org/abs/2505.22619v1)** | 2025-05-28 |  |
-| **[BPMN to Smart Contract by Business Analyst](http://arxiv.org/abs/2505.22612v1)** | 2025-05-28 |  |
-| **[GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git](http://arxiv.org/abs/2505.22583v1)** | 2025-05-28 | Short Paper, 5 pages |
+| **[How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys](http://arxiv.org/abs/2505.23684v1)** | 2025-05-29 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 33rd IEEE International Requirements Engineering Conference (RE 2025)</p></details> |
+| **[Quantum-Based Software Engineering](http://arxiv.org/abs/2505.23674v1)** | 2025-05-29 |  |
+| **[GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](http://arxiv.org/abs/2505.23671v1)** | 2025-05-29 | <details><summary>Websi...</summary><p>Website: https://gso-bench.github.io/</p></details> |
+| **[Satori-SWE: Evolutionary Test-Time Scaling for Sample-Efficient Software Engineering](http://arxiv.org/abs/2505.23604v1)** | 2025-05-29 |  |
+| **[LLM Performance for Code Generation on Noisy Tasks](http://arxiv.org/abs/2505.23598v1)** | 2025-05-29 |  |
 
