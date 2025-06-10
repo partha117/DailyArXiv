@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 10, 2025
+title: Latest 15 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,24 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyGemini: Unified Software Development towards Maritime Autonomy Systems](http://arxiv.org/abs/2506.06262v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Not yet submitted for peer review. Includes 14 figures and 3 tables. 18 pages, 1 appendix</p></details> |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[MLOps with Microservices: A Case Study on the Maritime Domain](http://arxiv.org/abs/2506.06202v1)** | 2025-06-06 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, to be published in SummerSOC 2025</p></details> |
-| **[Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v1)** | 2025-06-06 |  |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests](http://arxiv.org/abs/2506.05990v1)** | 2025-06-06 | <details><summary>11 pa...</summary><p>11 pages, 2 chart pies, 1 figure Pre-print version Accepted at BEA 2025</p></details> |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[Subgraph-Oriented Testing for Deep Learning Libraries](http://arxiv.org/abs/2412.06430v2)** | 2025-06-09 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyGemini: Unified Software Development towards Maritime Autonomy Systems](http://arxiv.org/abs/2506.06262v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Not yet submitted for peer review. Includes 14 figures and 3 tables. 18 pages, 1 appendix</p></details> |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests](http://arxiv.org/abs/2506.05990v1)** | 2025-06-06 | <details><summary>11 pa...</summary><p>11 pages, 2 chart pies, 1 figure Pre-print version Accepted at BEA 2025</p></details> |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[Subgraph-Oriented Testing for Deep Learning Libraries](http://arxiv.org/abs/2412.06430v2)** | 2025-06-09 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?](http://arxiv.org/abs/2506.07871v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v1)** | 2025-06-07 | 37 pages, 22 figures |
+| **[MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair](http://arxiv.org/abs/2408.09568v3)** | 2025-06-06 |  |
 | **[Analyzing the Evolution and Maintenance of Quantum Software Repositories](http://arxiv.org/abs/2501.06894v3)** | 2025-06-06 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, 6 tables,</p></details> |
 | **[A Large Language Model Approach to Identify Flakiness in C++ Projects](http://arxiv.org/abs/2412.12340v2)** | 2025-06-05 |  |
 | **[VisCoder: Fine-Tuning LLMs for Executable Python Visualization Code Generation](http://arxiv.org/abs/2506.03930v1)** | 2025-06-04 |  |
@@ -37,114 +36,111 @@ labels: documentation
 | **[Vibe Coding vs. Agentic Coding: Fundamentals and Practical Implications of Agentic AI](http://arxiv.org/abs/2505.19443v1)** | 2025-05-26 | <details><summary>35 Pa...</summary><p>35 Pages, 8 Figures, 6 Tables</p></details> |
 | **[AutoP2C: An LLM-Based Agent Framework for Code Repository Generation from Multimodal Content in Academic Papers](http://arxiv.org/abs/2504.20115v2)** | 2025-05-24 |  |
 | **[Data Mining-Based Techniques for Software Fault Localization](http://arxiv.org/abs/2505.18216v1)** | 2025-05-23 |  |
-| **[Bridging the Gap: Physical PCI Device Integration Into SystemC-TLM Virtual Platforms](http://arxiv.org/abs/2505.15590v1)** | 2025-05-21 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the 25th International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS XXV)</p></details> |
-| **[Evaluating Mutation-based Fault Localization for Quantum Programs](http://arxiv.org/abs/2505.09059v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, Accepted at Short Papers, Emerging Results in the International Conference on Evaluation and Assessment in Software Engineering (EASE), 2025</p></details> |
-| **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v1)** | 2025-05-13 |  |
-| **[Toward a Better Understanding of Probabilistic Delta Debugging](http://arxiv.org/abs/2408.04735v4)** | 2025-05-08 | accepted by ICSE25 |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?](http://arxiv.org/abs/2506.07871v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[Subgraph-Oriented Testing for Deep Learning Libraries](http://arxiv.org/abs/2412.06430v2)** | 2025-06-09 |  |
+| **[Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](http://arxiv.org/abs/2409.12519v2)** | 2025-06-09 |  |
+| **[GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs](http://arxiv.org/abs/2506.07385v1)** | 2025-06-09 |  |
+| **[Object-Spatial Programming](http://arxiv.org/abs/2503.15812v6)** | 2025-06-07 | <details><summary>31 pa...</summary><p>31 pages, 45 pages with appendix</p></details> |
+| **[LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning](http://arxiv.org/abs/2401.16185v4)** | 2025-06-07 | <details><summary>This ...</summary><p>This is a technical report by Nanyang Technological University. Updated to support Solidity, Java and C/C++</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v6)** | 2025-06-07 |  |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v1)** | 2025-06-07 | 37 pages, 22 figures |
 | **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[Analyzing the Evolution and Maintenance of Quantum Software Repositories](http://arxiv.org/abs/2501.06894v3)** | 2025-06-06 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, 6 tables,</p></details> |
-| **[Which Prompting Technique Should I Use? An Empirical Investigation of Prompting Techniques for Software Engineering Tasks](http://arxiv.org/abs/2506.05614v1)** | 2025-06-05 |  |
-| **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol Ecosystem](http://arxiv.org/abs/2506.02040v2)** | 2025-06-05 |  |
-| **[LLM-Guided Scenario-based GUI Testing](http://arxiv.org/abs/2506.05079v1)** | 2025-06-05 |  |
-| **[A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair](http://arxiv.org/abs/2506.04987v1)** | 2025-06-05 | <details><summary>Prepr...</summary><p>Preprint has been accepted in ARES AI&CCPS (International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security)</p></details> |
-| **[KPIRoot+: An Efficient Integrated Framework for Anomaly Detection and Root Cause Analysis in Large-Scale Cloud Systems](http://arxiv.org/abs/2506.04569v1)** | 2025-06-05 |  |
-| **[Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges](http://arxiv.org/abs/2506.04418v1)** | 2025-06-04 |  |
-| **[cuVSLAM: CUDA accelerated visual odometry](http://arxiv.org/abs/2506.04359v1)** | 2025-06-04 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[MacroSwarm: A Field-based Compositional Framework for Swarm Programming](http://arxiv.org/abs/2401.10969v4)** | 2025-06-09 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v3)** | 2025-06-09 | <details><summary>Per j...</summary><p>Per journal policy, the peer-reviewed version will be published in J. Comput. Sci. Technol. and supersede this preprint</p></details> |
+| **[Large Language Models for Multilingual Vulnerability Detection: How Far Are We?](http://arxiv.org/abs/2506.07503v1)** | 2025-06-09 | 33 pages, 9 figures |
+| **[Taxonomy of migration scenarios for Qiskit refactoring using LLMs](http://arxiv.org/abs/2506.07135v1)** | 2025-06-08 | <details><summary>Accep...</summary><p>Accepted for publication in ASQC JAIIO 54 (https://54jaiio.sadio.org.ar/simposios/)</p></details> |
+| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation with Accurate Oracles](http://arxiv.org/abs/2506.02943v3)** | 2025-06-08 |  |
+| **[A Closer Look into Transformer-Based Code Intelligence Through Code Transformation: Challenges and Opportunities](http://arxiv.org/abs/2207.04285v2)** | 2025-06-08 | <details><summary>This ...</summary><p>This paper was accepted by TSE (https://ieeexplore.ieee.org/document/10843180/). It incorporates substantial enhancements, deeper analysis, and more detailed discussions resulting from the peer review process (major and minor revisions) compared to the initial arXiv preprint, which had limitations and shallower discussions</p></details> |
+| **[Object-Spatial Programming](http://arxiv.org/abs/2503.15812v6)** | 2025-06-07 | <details><summary>31 pa...</summary><p>31 pages, 45 pages with appendix</p></details> |
+| **[LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning](http://arxiv.org/abs/2401.16185v4)** | 2025-06-07 | <details><summary>This ...</summary><p>This is a technical report by Nanyang Technological University. Updated to support Solidity, Java and C/C++</p></details> |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v1)** | 2025-06-07 | 37 pages, 22 figures |
+| **[Automated Repair of Ambiguous Natural Language Requirements](http://arxiv.org/abs/2505.07270v2)** | 2025-06-07 |  |
+| **[MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair](http://arxiv.org/abs/2408.09568v3)** | 2025-06-06 |  |
+| **[Private GPTs for LLM-driven testing in software development and machine learning](http://arxiv.org/abs/2506.06509v1)** | 2025-06-06 | 5 pages, 10 figures |
+| **[Information-Theoretic Detection of Unusual Source Code Changes](http://arxiv.org/abs/2506.06508v1)** | 2025-06-06 | <details><summary>48 pa...</summary><p>48 pages, 17 figures, 7 tables, accepted for publication in the Empirical Software Engineering journal</p></details> |
 | **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests](http://arxiv.org/abs/2506.05990v1)** | 2025-06-06 | <details><summary>11 pa...</summary><p>11 pages, 2 chart pies, 1 figure Pre-print version Accepted at BEA 2025</p></details> |
-| **[CodeContests+: High-Quality Test Case Generation for Competitive Programming](http://arxiv.org/abs/2506.05817v1)** | 2025-06-06 | 28 pages, 7 figures |
-| **[Analyzing the Evolution and Maintenance of Quantum Software Repositories](http://arxiv.org/abs/2501.06894v3)** | 2025-06-06 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, 6 tables,</p></details> |
-| **[CoopetitiveV: Leveraging LLM-powered Coopetitive Multi-Agent Prompting for High-quality Verilog Generation](http://arxiv.org/abs/2412.11014v2)** | 2025-06-06 |  |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v1)** | 2025-06-05 |  |
-| **[A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair](http://arxiv.org/abs/2506.04987v1)** | 2025-06-05 | <details><summary>Prepr...</summary><p>Preprint has been accepted in ARES AI&CCPS (International Workshop on Artificial Intelligence, Cyber and Cyber-Physical Security)</p></details> |
-| **[Multi-Language Detection of Design Pattern Instances](http://arxiv.org/abs/2506.03903v2)** | 2025-06-05 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Software: Evolution and Process, 2024</p></details> |
-| **[From Developer Pairs to AI Copilots: A Comparative Study on Knowledge Transfer](http://arxiv.org/abs/2506.04785v1)** | 2025-06-05 |  |
-| **[Seed-Coder: Let the Code Model Curate Data for Itself](http://arxiv.org/abs/2506.03524v2)** | 2025-06-05 |  |
-| **[Characterizing Multi-Hunk Patches: Divergence, Proximity, and LLM Repair Challenges](http://arxiv.org/abs/2506.04418v1)** | 2025-06-04 |  |
-| **[CETBench: A Novel Dataset constructed via Transformations over Programs for Benchmarking LLMs for Code-Equivalence Checking](http://arxiv.org/abs/2506.04019v1)** | 2025-06-04 |  |
-| **[A Multi-agent LLM-based JUnit Test Generation with Strong Oracles](http://arxiv.org/abs/2506.02943v2)** | 2025-06-04 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyGemini: Unified Software Development towards Maritime Autonomy Systems](http://arxiv.org/abs/2506.06262v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Not yet submitted for peer review. Includes 14 figures and 3 tables. 18 pages, 1 appendix</p></details> |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[MLOps with Microservices: A Case Study on the Maritime Domain](http://arxiv.org/abs/2506.06202v1)** | 2025-06-06 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, to be published in SummerSOC 2025</p></details> |
-| **[Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v1)** | 2025-06-06 |  |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests](http://arxiv.org/abs/2506.05990v1)** | 2025-06-06 | <details><summary>11 pa...</summary><p>11 pages, 2 chart pies, 1 figure Pre-print version Accepted at BEA 2025</p></details> |
-| **[A Preference-Driven Methodology for High-Quality Solidity Code Generation](http://arxiv.org/abs/2506.03006v2)** | 2025-06-06 |  |
-| **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
-| **[Training Software Engineering Agents and Verifiers with SWE-Gym](http://arxiv.org/abs/2412.21139v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2025. Code at https://github.com/SWE-Gym/SWE-Gym</p></details> |
-| **[PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages](http://arxiv.org/abs/2506.04962v2)** | 2025-06-06 |  |
-| **[Towards Mixed-Criticality Software Architectures for Centralized HPC Platforms in Software-Defined Vehicles: A Systematic Literature Review](http://arxiv.org/abs/2506.05822v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint for research paper track of ECSA 2025</p></details> |
-| **[CodeContests+: High-Quality Test Case Generation for Competitive Programming](http://arxiv.org/abs/2506.05817v1)** | 2025-06-06 | 28 pages, 7 figures |
-| **[RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving](http://arxiv.org/abs/2505.21577v2)** | 2025-06-06 | <details><summary>A nov...</summary><p>A novel approach; Very practical</p></details> |
-| **[ProSec: Fortifying Code LLMs with Proactive Security Alignment](http://arxiv.org/abs/2411.12882v3)** | 2025-06-06 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?](http://arxiv.org/abs/2506.07871v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[Subgraph-Oriented Testing for Deep Learning Libraries](http://arxiv.org/abs/2412.06430v2)** | 2025-06-09 |  |
+| **[Towards a Small Language Model Lifecycle Framework](http://arxiv.org/abs/2506.07695v1)** | 2025-06-09 |  |
+| **[Centrality Change Proneness: an Early Indicator of Microservice Architectural Degradation](http://arxiv.org/abs/2506.07690v1)** | 2025-06-09 |  |
+| **[Leveraging Network Methods for Hub-like Microservice Detection](http://arxiv.org/abs/2506.07683v1)** | 2025-06-09 |  |
+| **[MacroSwarm: A Field-based Compositional Framework for Swarm Programming](http://arxiv.org/abs/2401.10969v4)** | 2025-06-09 |  |
+| **[Evaluating LLMs Effectiveness in Detecting and Correcting Test Smells: An Empirical Study](http://arxiv.org/abs/2506.07594v1)** | 2025-06-09 |  |
+| **[IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents](http://arxiv.org/abs/2506.07524v1)** | 2025-06-09 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v3)** | 2025-06-09 | <details><summary>Per j...</summary><p>Per journal policy, the peer-reviewed version will be published in J. Comput. Sci. Technol. and supersede this preprint</p></details> |
+| **[Large Language Models for Multilingual Vulnerability Detection: How Far Are We?](http://arxiv.org/abs/2506.07503v1)** | 2025-06-09 | 33 pages, 9 figures |
+| **[A Framework for Creating Non-Regressive Test Cases via Branch Consistency Analysis Driven by Descriptions](http://arxiv.org/abs/2506.07486v1)** | 2025-06-09 |  |
+| **[Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](http://arxiv.org/abs/2409.12519v2)** | 2025-06-09 |  |
+| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v2)** | 2025-06-09 | 16 pages, 10 figures |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyGemini: Unified Software Development towards Maritime Autonomy Systems](http://arxiv.org/abs/2506.06262v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Not yet submitted for peer review. Includes 14 figures and 3 tables. 18 pages, 1 appendix</p></details> |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests](http://arxiv.org/abs/2506.05990v1)** | 2025-06-06 | <details><summary>11 pa...</summary><p>11 pages, 2 chart pies, 1 figure Pre-print version Accepted at BEA 2025</p></details> |
-| **[Training Software Engineering Agents and Verifiers with SWE-Gym](http://arxiv.org/abs/2412.21139v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2025. Code at https://github.com/SWE-Gym/SWE-Gym</p></details> |
-| **[PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages](http://arxiv.org/abs/2506.04962v2)** | 2025-06-06 |  |
-| **[CodeContests+: High-Quality Test Case Generation for Competitive Programming](http://arxiv.org/abs/2506.05817v1)** | 2025-06-06 | 28 pages, 7 figures |
-| **[Multi-Agent Collaboration via Cross-Team Orchestration](http://arxiv.org/abs/2406.08979v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
-| **[Deployability-Centric Infrastructure-as-Code Generation: An LLM-based Iterative Framework](http://arxiv.org/abs/2506.05623v1)** | 2025-06-05 |  |
-| **[A Large Language Model Approach to Identify Flakiness in C++ Projects](http://arxiv.org/abs/2412.12340v2)** | 2025-06-05 |  |
-| **[Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review](http://arxiv.org/abs/2506.03507v2)** | 2025-06-05 | <details><summary>Neede...</summary><p>Needed further author approval</p></details> |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Subgraph-Oriented Testing for Deep Learning Libraries](http://arxiv.org/abs/2412.06430v2)** | 2025-06-09 |  |
+| **[Evaluating LLMs Effectiveness in Detecting and Correcting Test Smells: An Empirical Study](http://arxiv.org/abs/2506.07594v1)** | 2025-06-09 |  |
+| **[IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents](http://arxiv.org/abs/2506.07524v1)** | 2025-06-09 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v3)** | 2025-06-09 | <details><summary>Per j...</summary><p>Per journal policy, the peer-reviewed version will be published in J. Comput. Sci. Technol. and supersede this preprint</p></details> |
+| **[Large Language Models for Multilingual Vulnerability Detection: How Far Are We?](http://arxiv.org/abs/2506.07503v1)** | 2025-06-09 | 33 pages, 9 figures |
+| **[A Framework for Creating Non-Regressive Test Cases via Branch Consistency Analysis Driven by Descriptions](http://arxiv.org/abs/2506.07486v1)** | 2025-06-09 |  |
+| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v2)** | 2025-06-09 | 16 pages, 10 figures |
+| **[Generate Realistic Test Scenes for V2X Communication Systems](http://arxiv.org/abs/2506.07419v1)** | 2025-06-09 |  |
+| **[Protecting Deep Learning Model Copyrights with Adversarial Example-Free Reuse Detection](http://arxiv.org/abs/2407.03883v2)** | 2025-06-09 | 12 pages, 5 figures |
+| **[Human Side of Smart Contract Fuzzing: An Empirical Study](http://arxiv.org/abs/2506.07389v1)** | 2025-06-09 |  |
+| **[SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](http://arxiv.org/abs/2502.06994v2)** | 2025-06-09 |  |
+| **[GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs](http://arxiv.org/abs/2506.07385v1)** | 2025-06-09 |  |
+| **[On Mutation-Guided Unit Test Generation](http://arxiv.org/abs/2506.02954v2)** | 2025-06-08 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[A Preference-Driven Methodology for High-Quality Solidity Code Generation](http://arxiv.org/abs/2506.03006v2)** | 2025-06-06 |  |
-| **[PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages](http://arxiv.org/abs/2506.04962v2)** | 2025-06-06 |  |
-| **[CodeContests+: High-Quality Test Case Generation for Competitive Programming](http://arxiv.org/abs/2506.05817v1)** | 2025-06-06 | 28 pages, 7 figures |
-| **[RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving](http://arxiv.org/abs/2505.21577v2)** | 2025-06-06 | <details><summary>A nov...</summary><p>A novel approach; Very practical</p></details> |
-| **[ProSec: Fortifying Code LLMs with Proactive Security Alignment](http://arxiv.org/abs/2411.12882v3)** | 2025-06-06 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
-| **[Multi-Agent Collaboration via Cross-Team Orchestration](http://arxiv.org/abs/2406.08979v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2025</p></details> |
-| **[CoopetitiveV: Leveraging LLM-powered Coopetitive Multi-Agent Prompting for High-quality Verilog Generation](http://arxiv.org/abs/2412.11014v2)** | 2025-06-06 |  |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Evaluating LLMs Effectiveness in Detecting and Correcting Test Smells: An Empirical Study](http://arxiv.org/abs/2506.07594v1)** | 2025-06-09 |  |
+| **[IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents](http://arxiv.org/abs/2506.07524v1)** | 2025-06-09 |  |
+| **[Large Language Models for Multilingual Vulnerability Detection: How Far Are We?](http://arxiv.org/abs/2506.07503v1)** | 2025-06-09 | 33 pages, 9 figures |
+| **[A Framework for Creating Non-Regressive Test Cases via Branch Consistency Analysis Driven by Descriptions](http://arxiv.org/abs/2506.07486v1)** | 2025-06-09 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[MLOps with Microservices: A Case Study on the Maritime Domain](http://arxiv.org/abs/2506.06202v1)** | 2025-06-06 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, to be published in SummerSOC 2025</p></details> |
-| **[Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v1)** | 2025-06-06 |  |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?](http://arxiv.org/abs/2506.07871v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyGemini: Unified Software Development towards Maritime Autonomy Systems](http://arxiv.org/abs/2506.06262v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Not yet submitted for peer review. Includes 14 figures and 3 tables. 18 pages, 1 appendix</p></details> |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[MLOps with Microservices: A Case Study on the Maritime Domain](http://arxiv.org/abs/2506.06202v1)** | 2025-06-06 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, to be published in SummerSOC 2025</p></details> |
-| **[Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v1)** | 2025-06-06 |  |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[Leveraging Generative AI for Enhancing Automated Assessment in Programming Education Contests](http://arxiv.org/abs/2506.05990v1)** | 2025-06-06 | <details><summary>11 pa...</summary><p>11 pages, 2 chart pies, 1 figure Pre-print version Accepted at BEA 2025</p></details> |
-| **[A Preference-Driven Methodology for High-Quality Solidity Code Generation](http://arxiv.org/abs/2506.03006v2)** | 2025-06-06 |  |
-| **[Analysis of cost-efficiency of serverless approaches](http://arxiv.org/abs/2506.05836v1)** | 2025-06-06 |  |
-| **[Training Software Engineering Agents and Verifiers with SWE-Gym](http://arxiv.org/abs/2412.21139v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2025. Code at https://github.com/SWE-Gym/SWE-Gym</p></details> |
-| **[PoCGen: Generating Proof-of-Concept Exploits for Vulnerabilities in Npm Packages](http://arxiv.org/abs/2506.04962v2)** | 2025-06-06 |  |
-| **[Towards Mixed-Criticality Software Architectures for Centralized HPC Platforms in Software-Defined Vehicles: A Systematic Literature Review](http://arxiv.org/abs/2506.05822v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint for research paper track of ECSA 2025</p></details> |
-| **[CodeContests+: High-Quality Test Case Generation for Competitive Programming](http://arxiv.org/abs/2506.05817v1)** | 2025-06-06 | 28 pages, 7 figures |
-| **[RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving](http://arxiv.org/abs/2505.21577v2)** | 2025-06-06 | <details><summary>A nov...</summary><p>A novel approach; Very practical</p></details> |
-| **[ProSec: Fortifying Code LLMs with Proactive Security Alignment](http://arxiv.org/abs/2411.12882v3)** | 2025-06-06 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?](http://arxiv.org/abs/2506.07871v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
+| **[Subgraph-Oriented Testing for Deep Learning Libraries](http://arxiv.org/abs/2412.06430v2)** | 2025-06-09 |  |
+| **[Towards a Small Language Model Lifecycle Framework](http://arxiv.org/abs/2506.07695v1)** | 2025-06-09 |  |
+| **[Centrality Change Proneness: an Early Indicator of Microservice Architectural Degradation](http://arxiv.org/abs/2506.07690v1)** | 2025-06-09 |  |
+| **[Leveraging Network Methods for Hub-like Microservice Detection](http://arxiv.org/abs/2506.07683v1)** | 2025-06-09 |  |
+| **[MacroSwarm: A Field-based Compositional Framework for Swarm Programming](http://arxiv.org/abs/2401.10969v4)** | 2025-06-09 |  |
+| **[Evaluating LLMs Effectiveness in Detecting and Correcting Test Smells: An Empirical Study](http://arxiv.org/abs/2506.07594v1)** | 2025-06-09 |  |
+| **[IntenTest: Stress Testing for Intent Integrity in API-Calling LLM Agents](http://arxiv.org/abs/2506.07524v1)** | 2025-06-09 |  |
+| **[PARF: An Adaptive Abstraction-Strategy Tuner for Static Analysis](http://arxiv.org/abs/2505.13229v3)** | 2025-06-09 | <details><summary>Per j...</summary><p>Per journal policy, the peer-reviewed version will be published in J. Comput. Sci. Technol. and supersede this preprint</p></details> |
+| **[Large Language Models for Multilingual Vulnerability Detection: How Far Are We?](http://arxiv.org/abs/2506.07503v1)** | 2025-06-09 | 33 pages, 9 figures |
+| **[A Framework for Creating Non-Regressive Test Cases via Branch Consistency Analysis Driven by Descriptions](http://arxiv.org/abs/2506.07486v1)** | 2025-06-09 |  |
+| **[Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](http://arxiv.org/abs/2409.12519v2)** | 2025-06-09 |  |
+| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v2)** | 2025-06-09 | 16 pages, 10 figures |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -156,22 +152,18 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[MLOps with Microservices: A Case Study on the Maritime Domain](http://arxiv.org/abs/2506.06202v1)** | 2025-06-06 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, to be published in SummerSOC 2025</p></details> |
-| **[Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v1)** | 2025-06-06 |  |
-| **[Reasoning Through Execution: Unifying Process and Outcome Rewards for Code Generation](http://arxiv.org/abs/2412.15118v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted to ICML 2025; 23 pages, 7 figures, code is available at: https://github.com/zhuohaoyu/ORPS</p></details> |
-| **[A Preference-Driven Methodology for High-Quality Solidity Code Generation](http://arxiv.org/abs/2506.03006v2)** | 2025-06-06 |  |
-| **[Training Software Engineering Agents and Verifiers with SWE-Gym](http://arxiv.org/abs/2412.21139v2)** | 2025-06-06 | <details><summary>Accep...</summary><p>Accepted at ICML 2025. Code at https://github.com/SWE-Gym/SWE-Gym</p></details> |
-| **[RepoMaster: Autonomous Exploration and Understanding of GitHub Repositories for Complex Task Solving](http://arxiv.org/abs/2505.21577v2)** | 2025-06-06 | <details><summary>A nov...</summary><p>A novel approach; Very practical</p></details> |
-| **[ProSec: Fortifying Code LLMs with Proactive Security Alignment](http://arxiv.org/abs/2411.12882v3)** | 2025-06-06 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Evaluating LLMs Effectiveness in Detecting and Correcting Test Smells: An Empirical Study](http://arxiv.org/abs/2506.07594v1)** | 2025-06-09 |  |
+| **[A Framework for Creating Non-Regressive Test Cases via Branch Consistency Analysis Driven by Descriptions](http://arxiv.org/abs/2506.07486v1)** | 2025-06-09 |  |
+| **[Multi-View Adaptive Contrastive Learning for Information Retrieval Based Fault Localization](http://arxiv.org/abs/2409.12519v2)** | 2025-06-09 |  |
+| **[IssueCourier: Multi-Relational Heterogeneous Temporal Graph Neural Network for Open-Source Issue Assignment](http://arxiv.org/abs/2505.11205v2)** | 2025-06-09 | 16 pages, 10 figures |
+| **[Boosting Vulnerability Detection of LLMs via Curriculum Preference Optimization with Synthetic Reasoning Data](http://arxiv.org/abs/2506.07390v1)** | 2025-06-09 | <details><summary>Accep...</summary><p>Accepted by ACL 2025 Findings</p></details> |
+| **[SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](http://arxiv.org/abs/2502.06994v2)** | 2025-06-09 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PyGemini: Unified Software Development towards Maritime Autonomy Systems](http://arxiv.org/abs/2506.06262v1)** | 2025-06-06 | <details><summary>Prepr...</summary><p>Preprint. Not yet submitted for peer review. Includes 14 figures and 3 tables. 18 pages, 1 appendix</p></details> |
-| **[DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation](http://arxiv.org/abs/2506.06251v1)** | 2025-06-06 |  |
-| **[Scalable Language Agnostic Taint Tracking using Explicit Data Dependencies](http://arxiv.org/abs/2506.06247v1)** | 2025-06-06 | <details><summary>9 pag...</summary><p>9 pages including appendix, SOAP'25</p></details> |
-| **[MLOps with Microservices: A Case Study on the Maritime Domain](http://arxiv.org/abs/2506.06202v1)** | 2025-06-06 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, to be published in SummerSOC 2025</p></details> |
-| **[Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v1)** | 2025-06-06 |  |
+| **[Adversarial Attack Classification and Robustness Testing for Large Language Models for Code](http://arxiv.org/abs/2506.07942v1)** | 2025-06-09 |  |
+| **[Can Hessian-Based Insights Support Fault Diagnosis in Attention-based Models?](http://arxiv.org/abs/2506.07871v1)** | 2025-06-09 |  |
+| **[Execution-Aware Program Reduction for WebAssembly via Record and Replay](http://arxiv.org/abs/2506.07834v1)** | 2025-06-09 |  |
 
