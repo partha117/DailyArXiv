@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 26, 2025
+title: Latest 15 Papers - June 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,29 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment](http://arxiv.org/abs/2506.19620v1)** | 2025-06-24 |  |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[VulStamp: Vulnerability Assessment using Large Language Model](http://arxiv.org/abs/2506.11484v2)** | 2025-06-25 |  |
+| **[Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach](http://arxiv.org/abs/2506.20197v1)** | 2025-06-25 | 16 pages, 4 figures |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment](http://arxiv.org/abs/2506.19620v1)** | 2025-06-24 |  |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach](http://arxiv.org/abs/2506.20197v1)** | 2025-06-25 | 16 pages, 4 figures |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 | **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
 | **[Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation](http://arxiv.org/abs/2506.19045v1)** | 2025-06-23 |  |
 | **[Bloch Vector Assertions for Debugging Quantum Programs](http://arxiv.org/abs/2506.18458v1)** | 2025-06-23 | <details><summary>Journ...</summary><p>Journal Submission, 40 pages</p></details> |
@@ -34,11 +44,12 @@ labels: documentation
 | **[Accelerating Delta Debugging through Probabilistic Monotonicity Assessment](http://arxiv.org/abs/2506.11614v1)** | 2025-06-13 | <details><summary>Accep...</summary><p>Accepted by EASE 2025 (The 29th International Conference on Evaluation and Assessment in Software Engineering), 17-20 June 2025, Istanbul, Turkey. 11 pages</p></details> |
 | **[Towards Understanding Bugs in Distributed Training and Inference Frameworks for Large Language Models](http://arxiv.org/abs/2506.10426v1)** | 2025-06-12 |  |
 | **[Towards Bridging Formal Methods and Human Interpretability](http://arxiv.org/abs/2506.09759v1)** | 2025-06-11 | <details><summary>Need ...</summary><p>Need to improve data annotation process in methodology section</p></details> |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v2)** | 2025-06-10 | 37 pages, 22 figures |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[An Empirical Investigation on the Challenges in Scientific Workflow Systems Development](http://arxiv.org/abs/2411.10890v2)** | 2025-06-24 | 58 pages |
 | **[VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software](http://arxiv.org/abs/2506.18050v2)** | 2025-06-24 | 15 pages |
 | **[DynNPC: Finding More Violations Induced by ADS in Simulation Testing through Dynamic NPC Behavior Generation](http://arxiv.org/abs/2411.19567v2)** | 2025-06-24 |  |
 | **[GroupTuner: Efficient Group-Aware Compiler Auto-Tuning](http://arxiv.org/abs/2505.08598v2)** | 2025-06-24 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'25), June 16-17, 2025, Seoul, Republic of Korea</p></details> |
@@ -50,13 +61,13 @@ labels: documentation
 | **[Bloch Vector Assertions for Debugging Quantum Programs](http://arxiv.org/abs/2506.18458v1)** | 2025-06-23 | <details><summary>Journ...</summary><p>Journal Submission, 40 pages</p></details> |
 | **[BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning](http://arxiv.org/abs/2407.17631v3)** | 2025-06-22 |  |
 | **[Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks](http://arxiv.org/abs/2506.18191v1)** | 2025-06-22 |  |
-| **[Is Your Automated Software Engineer Trustworthy?](http://arxiv.org/abs/2506.17812v1)** | 2025-06-21 |  |
-| **[Improving Compiler Bug Isolation by Leveraging Large Language Models](http://arxiv.org/abs/2506.17647v1)** | 2025-06-21 | 12 pages, 7 figures |
-| **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v1)** | 2025-06-21 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges](http://arxiv.org/abs/2506.20008v1)** | 2025-06-24 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables, submitted to QAI 2025</p></details> |
 | **[Integrating Pair Programming as a Work Practice](http://arxiv.org/abs/2506.19511v1)** | 2025-06-24 | <details><summary>The p...</summary><p>The pre-print is submitted to the Journal of Systems and Software</p></details> |
 | **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
 | **[Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs](http://arxiv.org/abs/2506.19287v1)** | 2025-06-24 |  |
@@ -69,87 +80,81 @@ labels: documentation
 | **[Bloch Vector Assertions for Debugging Quantum Programs](http://arxiv.org/abs/2506.18458v1)** | 2025-06-23 | <details><summary>Journ...</summary><p>Journal Submission, 40 pages</p></details> |
 | **[Tracing Errors, Constructing Fixes: Repository-Level Memory Error Repair via Typestate-Guided Context Retrieval](http://arxiv.org/abs/2506.18394v1)** | 2025-06-23 |  |
 | **[Predictive Analytics for Collaborators Answers, Code Quality, and Dropout on Stack Overflow](http://arxiv.org/abs/2506.18329v1)** | 2025-06-23 | <details><summary>46 pa...</summary><p>46 pages, 17 tables, 7 figures</p></details> |
-| **[Use Property-Based Testing to Bridge LLM Code Generation and Validation](http://arxiv.org/abs/2506.18315v1)** | 2025-06-23 |  |
-| **[BLAZE: Cross-Language and Cross-Project Bug Localization via Dynamic Chunking and Hard Example Learning](http://arxiv.org/abs/2407.17631v3)** | 2025-06-22 |  |
-| **[Call Me Maybe: Enhancing JavaScript Call Graph Construction using Graph Neural Networks](http://arxiv.org/abs/2506.18191v1)** | 2025-06-22 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Developer Experience Factors in Software Ecosystems](http://arxiv.org/abs/2506.19757v1)** | 2025-06-24 | 58 pages |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[Simulating the Waterfall Model: A Systematic Review](http://arxiv.org/abs/2506.19653v1)** | 2025-06-24 |  |
-| **[A Verification Methodology for Safety Assurance of Robotic Autonomous Systems](http://arxiv.org/abs/2506.19622v1)** | 2025-06-24 | <details><summary>In Pr...</summary><p>In Proc. of the 26th TAROS (Towards Autonomous Robotic Systems) Conference, York, UK, August, 2025</p></details> |
-| **[Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment](http://arxiv.org/abs/2506.19620v1)** | 2025-06-24 |  |
-| **[Lost in Translation? Converting RegExes for Log Parsing into Dynatrace Pattern Language](http://arxiv.org/abs/2506.19539v1)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages, 7 tables, 18 figures</p></details> |
-| **[Integrating Pair Programming as a Work Practice](http://arxiv.org/abs/2506.19511v1)** | 2025-06-24 | <details><summary>The p...</summary><p>The pre-print is submitted to the Journal of Systems and Software</p></details> |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
-| **[What Makes the Best Decomposition? Investigating Binary Decomposition Under FCG Variance](http://arxiv.org/abs/2506.19425v1)** | 2025-06-24 |  |
-| **[Online Discovery of Simulation Models for Evolving Business Processes (Extended Version)](http://arxiv.org/abs/2506.10049v2)** | 2025-06-24 |  |
-| **[High-Performance ARM-on-ARM Virtualization for Multicore SystemC-TLM-Based Virtual Platforms](http://arxiv.org/abs/2505.12987v2)** | 2025-06-24 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the Design, Automation and Test in Europe Conference 2025 (DATE '25)</p></details> |
-| **[VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software](http://arxiv.org/abs/2506.18050v2)** | 2025-06-24 | 15 pages |
-| **[MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](http://arxiv.org/abs/2506.01056v4)** | 2025-06-24 |  |
-| **[Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs](http://arxiv.org/abs/2506.19287v1)** | 2025-06-24 |  |
-| **[DynNPC: Finding More Violations Induced by ADS in Simulation Testing through Dynamic NPC Behavior Generation](http://arxiv.org/abs/2411.19567v2)** | 2025-06-24 |  |
+| **[Define-ML: An Approach to Ideate Machine Learning-Enabled Systems](http://arxiv.org/abs/2506.20621v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) 2025</p></details> |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds](http://arxiv.org/abs/2506.20444v1)** | 2025-06-25 |  |
+| **[The Composition of Digital Twins for Systems-of-Systems: a Systematic Literature Review](http://arxiv.org/abs/2506.20435v1)** | 2025-06-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, Presented at the 23rd Overture workshop, June 2025 (arXiv:cs/2506.08680)</p></details> |
+| **[VulStamp: Vulnerability Assessment using Large Language Model](http://arxiv.org/abs/2506.11484v2)** | 2025-06-25 |  |
+| **[Lifting the Veil on Composition, Risks, and Mitigations of the Large Language Model Supply Chain](http://arxiv.org/abs/2410.21218v3)** | 2025-06-25 | 26 pages |
+| **[Ten simple rules for PIs to integrate Research Software Engineering into their research group](http://arxiv.org/abs/2506.20217v1)** | 2025-06-25 | <details><summary>10 pa...</summary><p>10 pages, submitted to PLOS Computational Biology</p></details> |
+| **[Research Artifacts in Secondary Studies: A Systematic Mapping in Software Engineering](http://arxiv.org/abs/2504.12646v2)** | 2025-06-25 |  |
+| **[AI and Agile Software Development: From Frustration to Success -- XP2025 Workshop Summary](http://arxiv.org/abs/2506.20159v1)** | 2025-06-25 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach](http://arxiv.org/abs/2506.20197v1)** | 2025-06-25 | 16 pages, 4 figures |
+| **[Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'](http://arxiv.org/abs/2410.21647v4)** | 2025-06-24 |  |
+| **[WAFFLE: Finetuning Multi-Modal Model for Automated Front-End Development](http://arxiv.org/abs/2410.18362v2)** | 2025-06-24 |  |
+| **[Can LLMs Replace Humans During Code Chunking?](http://arxiv.org/abs/2506.19897v1)** | 2025-06-24 |  |
 | **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
 | **[High-Performance ARM-on-ARM Virtualization for Multicore SystemC-TLM-Based Virtual Platforms](http://arxiv.org/abs/2505.12987v2)** | 2025-06-24 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the Design, Automation and Test in Europe Conference 2025 (DATE '25)</p></details> |
 | **[Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs](http://arxiv.org/abs/2506.19287v1)** | 2025-06-24 |  |
 | **[DynNPC: Finding More Violations Induced by ADS in Simulation Testing through Dynamic NPC Behavior Generation](http://arxiv.org/abs/2411.19567v2)** | 2025-06-24 |  |
 | **[GroupTuner: Efficient Group-Aware Compiler Auto-Tuning](http://arxiv.org/abs/2505.08598v2)** | 2025-06-24 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'25), June 16-17, 2025, Seoul, Republic of Korea</p></details> |
 | **[Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing](http://arxiv.org/abs/2506.17539v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted to International Conference on Software Engineering (ICSE 2026). arXiv admin note: substantial text overlap with arXiv:2504.15474</p></details> |
-| **[Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation](http://arxiv.org/abs/2506.19045v1)** | 2025-06-23 |  |
-| **[A Comprehensive Study of Machine Learning Techniques for Log-Based Anomaly Detection](http://arxiv.org/abs/2307.16714v5)** | 2025-06-23 | Accepted by EMSE'25 |
-| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v1)** | 2025-06-23 |  |
-| **[FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction](http://arxiv.org/abs/2506.18795v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted for the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[MORTAR: Multi-turn Metamorphic Testing for LLM-based Dialogue Systems](http://arxiv.org/abs/2412.15557v3)** | 2025-06-23 |  |
-| **[Automatic Selection of Protections to Mitigate Risks Against Software Applications](http://arxiv.org/abs/2506.18470v1)** | 2025-06-23 |  |
-| **[Bloch Vector Assertions for Debugging Quantum Programs](http://arxiv.org/abs/2506.18458v1)** | 2025-06-23 | <details><summary>Journ...</summary><p>Journal Submission, 40 pages</p></details> |
-| **[Tracing Errors, Constructing Fixes: Repository-Level Memory Error Repair via Typestate-Guided Context Retrieval](http://arxiv.org/abs/2506.18394v1)** | 2025-06-23 |  |
-| **[Use Property-Based Testing to Bridge LLM Code Generation and Validation](http://arxiv.org/abs/2506.18315v1)** | 2025-06-23 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
-| **[MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](http://arxiv.org/abs/2506.01056v4)** | 2025-06-24 |  |
-| **[Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs](http://arxiv.org/abs/2506.19287v1)** | 2025-06-24 |  |
-| **[Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing](http://arxiv.org/abs/2506.17539v2)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted to International Conference on Software Engineering (ICSE 2026). arXiv admin note: substantial text overlap with arXiv:2504.15474</p></details> |
-| **[Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks](http://arxiv.org/abs/2505.16901v4)** | 2025-06-23 | 35 pages, 10 figures |
-| **[Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation](http://arxiv.org/abs/2506.19045v1)** | 2025-06-23 |  |
-| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v1)** | 2025-06-23 |  |
-| **[FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction](http://arxiv.org/abs/2506.18795v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted for the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[VulStamp: Vulnerability Assessment using Large Language Model](http://arxiv.org/abs/2506.11484v2)** | 2025-06-25 |  |
+| **[Lifting the Veil on Composition, Risks, and Mitigations of the Large Language Model Supply Chain](http://arxiv.org/abs/2410.21218v3)** | 2025-06-25 | 26 pages |
+| **[Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach](http://arxiv.org/abs/2506.20197v1)** | 2025-06-25 | 16 pages, 4 figures |
+| **[QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges](http://arxiv.org/abs/2506.20008v1)** | 2025-06-24 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables, submitted to QAI 2025</p></details> |
+| **[Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'](http://arxiv.org/abs/2410.21647v4)** | 2025-06-24 |  |
+| **[WAFFLE: Finetuning Multi-Modal Model for Automated Front-End Development](http://arxiv.org/abs/2410.18362v2)** | 2025-06-24 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[Simulating the Waterfall Model: A Systematic Review](http://arxiv.org/abs/2506.19653v1)** | 2025-06-24 |  |
-| **[A Verification Methodology for Safety Assurance of Robotic Autonomous Systems](http://arxiv.org/abs/2506.19622v1)** | 2025-06-24 | <details><summary>In Pr...</summary><p>In Proc. of the 26th TAROS (Towards Autonomous Robotic Systems) Conference, York, UK, August, 2025</p></details> |
-| **[Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment](http://arxiv.org/abs/2506.19620v1)** | 2025-06-24 |  |
+| **[Define-ML: An Approach to Ideate Machine Learning-Enabled Systems](http://arxiv.org/abs/2506.20621v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) 2025</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Developer Experience Factors in Software Ecosystems](http://arxiv.org/abs/2506.19757v1)** | 2025-06-24 | 58 pages |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[Simulating the Waterfall Model: A Systematic Review](http://arxiv.org/abs/2506.19653v1)** | 2025-06-24 |  |
-| **[A Verification Methodology for Safety Assurance of Robotic Autonomous Systems](http://arxiv.org/abs/2506.19622v1)** | 2025-06-24 | <details><summary>In Pr...</summary><p>In Proc. of the 26th TAROS (Towards Autonomous Robotic Systems) Conference, York, UK, August, 2025</p></details> |
-| **[Probabilistic modelling and safety assurance of an agriculture robot providing light-treatment](http://arxiv.org/abs/2506.19620v1)** | 2025-06-24 |  |
-| **[Lost in Translation? Converting RegExes for Log Parsing into Dynatrace Pattern Language](http://arxiv.org/abs/2506.19539v1)** | 2025-06-24 | <details><summary>18 pa...</summary><p>18 pages, 7 tables, 18 figures</p></details> |
-| **[Integrating Pair Programming as a Work Practice](http://arxiv.org/abs/2506.19511v1)** | 2025-06-24 | <details><summary>The p...</summary><p>The pre-print is submitted to the Journal of Systems and Software</p></details> |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
-| **[What Makes the Best Decomposition? Investigating Binary Decomposition Under FCG Variance](http://arxiv.org/abs/2506.19425v1)** | 2025-06-24 |  |
-| **[Online Discovery of Simulation Models for Evolving Business Processes (Extended Version)](http://arxiv.org/abs/2506.10049v2)** | 2025-06-24 |  |
-| **[High-Performance ARM-on-ARM Virtualization for Multicore SystemC-TLM-Based Virtual Platforms](http://arxiv.org/abs/2505.12987v2)** | 2025-06-24 | <details><summary>PREPR...</summary><p>PREPRINT - accepted by the Design, Automation and Test in Europe Conference 2025 (DATE '25)</p></details> |
-| **[VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software](http://arxiv.org/abs/2506.18050v2)** | 2025-06-24 | 15 pages |
-| **[MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](http://arxiv.org/abs/2506.01056v4)** | 2025-06-24 |  |
-| **[Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs](http://arxiv.org/abs/2506.19287v1)** | 2025-06-24 |  |
-| **[DynNPC: Finding More Violations Induced by ADS in Simulation Testing through Dynamic NPC Behavior Generation](http://arxiv.org/abs/2411.19567v2)** | 2025-06-24 |  |
+| **[Define-ML: An Approach to Ideate Machine Learning-Enabled Systems](http://arxiv.org/abs/2506.20621v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) 2025</p></details> |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds](http://arxiv.org/abs/2506.20444v1)** | 2025-06-25 |  |
+| **[The Composition of Digital Twins for Systems-of-Systems: a Systematic Literature Review](http://arxiv.org/abs/2506.20435v1)** | 2025-06-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, Presented at the 23rd Overture workshop, June 2025 (arXiv:cs/2506.08680)</p></details> |
+| **[VulStamp: Vulnerability Assessment using Large Language Model](http://arxiv.org/abs/2506.11484v2)** | 2025-06-25 |  |
+| **[Lifting the Veil on Composition, Risks, and Mitigations of the Large Language Model Supply Chain](http://arxiv.org/abs/2410.21218v3)** | 2025-06-25 | 26 pages |
+| **[Ten simple rules for PIs to integrate Research Software Engineering into their research group](http://arxiv.org/abs/2506.20217v1)** | 2025-06-25 | <details><summary>10 pa...</summary><p>10 pages, submitted to PLOS Computational Biology</p></details> |
+| **[Research Artifacts in Secondary Studies: A Systematic Mapping in Software Engineering](http://arxiv.org/abs/2504.12646v2)** | 2025-06-25 |  |
+| **[AI and Agile Software Development: From Frustration to Success -- XP2025 Workshop Summary](http://arxiv.org/abs/2506.20159v1)** | 2025-06-25 |  |
+| **[When Domains Collide: An Activity Theory Exploration of Cross-Disciplinary Collaboration](http://arxiv.org/abs/2506.20063v1)** | 2025-06-24 | <details><summary>Cross...</summary><p>Cross-disciplinary Collaboration, Activity Theory, Mixed-Methods</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -161,21 +166,28 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[LLM-based Multi-Agent System for Intelligent Refactoring of Haskell Code](http://arxiv.org/abs/2506.19481v1)** | 2025-06-24 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2502.07928</p></details> |
-| **[What Makes the Best Decomposition? Investigating Binary Decomposition Under FCG Variance](http://arxiv.org/abs/2506.19425v1)** | 2025-06-24 |  |
-| **[VFArchē: A Dual-Mode Framework for Locating Vulnerable Functions in Open-Source Software](http://arxiv.org/abs/2506.18050v2)** | 2025-06-24 | 15 pages |
-| **[Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs](http://arxiv.org/abs/2506.19287v1)** | 2025-06-24 |  |
-| **[Dataset of Yul Contracts to Support Solidity Compiler Research](http://arxiv.org/abs/2506.19153v1)** | 2025-06-23 | 4 pages |
-| **[Framework for On the Fly Input Refinement for Deep Learning Models](http://arxiv.org/abs/2502.05456v2)** | 2025-06-23 | <details><summary>In Pr...</summary><p>In Proceedings of the 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)</p></details> |
-| **[Code Graph Model (CGM): A Graph-Integrated Large Language Model for Repository-Level Software Engineering Tasks](http://arxiv.org/abs/2505.16901v4)** | 2025-06-23 | 35 pages, 10 figures |
-| **[Black-Box Test Code Fault Localization Driven by Large Language Models and Execution Estimation](http://arxiv.org/abs/2506.19045v1)** | 2025-06-23 |  |
-| **[Context-Aware CodeLLM Eviction for AI-assisted Coding](http://arxiv.org/abs/2506.18796v1)** | 2025-06-23 | 12 pages, 6 figures |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[VulStamp: Vulnerability Assessment using Large Language Model](http://arxiv.org/abs/2506.11484v2)** | 2025-06-25 |  |
+| **[Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach](http://arxiv.org/abs/2506.20197v1)** | 2025-06-25 | 16 pages, 4 figures |
+| **[QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges](http://arxiv.org/abs/2506.20008v1)** | 2025-06-24 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 3 tables, submitted to QAI 2025</p></details> |
+| **[Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'](http://arxiv.org/abs/2410.21647v4)** | 2025-06-24 |  |
+| **[WAFFLE: Finetuning Multi-Modal Model for Automated Front-End Development](http://arxiv.org/abs/2410.18362v2)** | 2025-06-24 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Developer Experience Factors in Software Ecosystems](http://arxiv.org/abs/2506.19757v1)** | 2025-06-24 | 58 pages |
-| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v1)** | 2025-06-24 |  |
-| **[Simulating the Waterfall Model: A Systematic Review](http://arxiv.org/abs/2506.19653v1)** | 2025-06-24 |  |
+| **[Define-ML: An Approach to Ideate Machine Learning-Enabled Systems](http://arxiv.org/abs/2506.20621v1)** | 2025-06-25 | <details><summary>Accep...</summary><p>Accepted for publication at the 51st Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA) 2025</p></details> |
+| **[Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair](http://arxiv.org/abs/2412.03905v3)** | 2025-06-25 | <details><summary>25 pa...</summary><p>25 pages, 12 images, 10 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Adaptive Request Scheduling for CodeLLM Serving with SLA Guarantees](http://arxiv.org/abs/2506.19677v2)** | 2025-06-25 |  |
+| **[CCISolver: End-to-End Detection and Repair of Method-Level Code-Comment Inconsistency](http://arxiv.org/abs/2506.20558v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This manuscript is under review</p></details> |
+| **[Large Language Model-Driven Code Compliance Checking in Building Information Modeling](http://arxiv.org/abs/2506.20551v1)** | 2025-06-25 |  |
+| **[ReCode: Updating Code API Knowledge with Reinforcement Learning](http://arxiv.org/abs/2506.20495v1)** | 2025-06-25 | Work in progress |
+| **[MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](http://arxiv.org/abs/2505.03906v3)** | 2025-06-25 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 2 tables</p></details> |
+| **[Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds](http://arxiv.org/abs/2506.20444v1)** | 2025-06-25 |  |
+| **[The Composition of Digital Twins for Systems-of-Systems: a Systematic Literature Review](http://arxiv.org/abs/2506.20435v1)** | 2025-06-25 | <details><summary>15 pa...</summary><p>15 pages, 3 figures, Presented at the 23rd Overture workshop, June 2025 (arXiv:cs/2506.08680)</p></details> |
 
