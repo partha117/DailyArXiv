@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 02, 2025
+title: Latest 15 Papers - July 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,27 +7,19 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
-| **[STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems](http://arxiv.org/abs/2506.23995v1)** | 2025-06-30 |  |
-| **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
-| **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
-| **[Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead](http://arxiv.org/abs/2506.23762v1)** | 2025-06-30 |  |
-| **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
-| **[Threadbox: Sandboxing for Modular Security](http://arxiv.org/abs/2506.23683v1)** | 2025-06-30 |  |
-| **[QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration](http://arxiv.org/abs/2506.23644v1)** | 2025-06-30 |  |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain](http://arxiv.org/abs/2506.06946v2)** | 2025-06-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (2 diagrams, 2 code listings), accepted to the workshop SADIS 2025</p></details> |
+| **[A Metascience Study of the Low-Code Scientific Field](http://arxiv.org/abs/2408.05975v2)** | 2025-06-30 |  |
+| **[Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection](http://arxiv.org/abs/2503.07330v2)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera-ready version for IROS 2025</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
-| **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
-| **[STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems](http://arxiv.org/abs/2506.23995v1)** | 2025-06-30 |  |
-| **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
-| **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
-| **[Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions](http://arxiv.org/abs/2506.23866v1)** | 2025-06-30 | <details><summary>Post-...</summary><p>Post-proceedings paper persented at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
-| **[Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead](http://arxiv.org/abs/2506.23762v1)** | 2025-06-30 |  |
-| **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
-| **[What Challenges Do Developers Face When Using Verification-Aware Programming Languages?](http://arxiv.org/abs/2506.23696v1)** | 2025-06-30 |  |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Revealing Floating-Point Accumulation Orders in Software/Hardware Implementations](http://arxiv.org/abs/2411.00442v3)** | 2025-07-01 | <details><summary>Camer...</summary><p>Camera-ready for USENIX ATC 2025</p></details> |
+| **[Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain](http://arxiv.org/abs/2506.06946v2)** | 2025-06-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (2 diagrams, 2 code listings), accepted to the workshop SADIS 2025</p></details> |
+| **[A Metascience Study of the Low-Code Scientific Field](http://arxiv.org/abs/2408.05975v2)** | 2025-06-30 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -51,6 +43,7 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
 | **[On the Feasibility of Deduplicating Compiler Bugs with Bisection](http://arxiv.org/abs/2506.23281v1)** | 2025-06-29 |  |
@@ -59,11 +52,11 @@ labels: documentation
 | **[A Quantum Annealing Approach for Solving Optimal Feature Selection and Next Release Problems](http://arxiv.org/abs/2506.14129v2)** | 2025-06-28 |  |
 | **[Privacy-Preserving Methods for Bug Severity Prediction](http://arxiv.org/abs/2506.22752v1)** | 2025-06-28 |  |
 | **[RAILS: Retrieval-Augmented Intelligence for Learning Software Development](http://arxiv.org/abs/2506.22742v1)** | 2025-06-28 |  |
-| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v2)** | 2025-06-26 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
 | **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
@@ -78,11 +71,18 @@ labels: documentation
 | **[Evaluating and Improving Large Language Models for Competitive Program Generation](http://arxiv.org/abs/2506.22954v1)** | 2025-06-28 |  |
 | **[A Quantum Annealing Approach for Solving Optimal Feature Selection and Next Release Problems](http://arxiv.org/abs/2506.14129v2)** | 2025-06-28 |  |
 | **[Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation](http://arxiv.org/abs/2506.22776v1)** | 2025-06-28 | 13 pages, 6 figures |
-| **[P4OMP: Retrieval-Augmented Prompting for OpenMP Parallelism in Serial Code](http://arxiv.org/abs/2506.22703v1)** | 2025-06-28 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Revealing Floating-Point Accumulation Orders in Software/Hardware Implementations](http://arxiv.org/abs/2411.00442v3)** | 2025-07-01 | <details><summary>Camer...</summary><p>Camera-ready for USENIX ATC 2025</p></details> |
+| **[Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain](http://arxiv.org/abs/2506.06946v2)** | 2025-06-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (2 diagrams, 2 code listings), accepted to the workshop SADIS 2025</p></details> |
+| **[A Metascience Study of the Low-Code Scientific Field](http://arxiv.org/abs/2408.05975v2)** | 2025-06-30 |  |
+| **[Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection](http://arxiv.org/abs/2503.07330v2)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera-ready version for IROS 2025</p></details> |
 | **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems](http://arxiv.org/abs/2506.23995v1)** | 2025-06-30 |  |
@@ -90,18 +90,14 @@ labels: documentation
 | **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
 | **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
 | **[Measuring Software Innovation with Open Source Software Development Data](http://arxiv.org/abs/2411.05087v2)** | 2025-06-30 |  |
-| **[Requirements for Active Assistance of Natural Questions in Software Architecture](http://arxiv.org/abs/2506.23898v1)** | 2025-06-30 |  |
-| **[Green AI in Action: Strategic Model Selection for Ensembles in Production](http://arxiv.org/abs/2405.17451v2)** | 2025-06-30 | <details><summary>10 pa...</summary><p>10 pages. Accepted at the 1st ACM International Conference on AI-powered Software (AIware), 2024</p></details> |
-| **[Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions](http://arxiv.org/abs/2506.23866v1)** | 2025-06-30 | <details><summary>Post-...</summary><p>Post-proceedings paper persented at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
-| **[An ontological lens on attack trees: Toward adequacy and interoperability](http://arxiv.org/abs/2506.23841v1)** | 2025-06-30 |  |
-| **[Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead](http://arxiv.org/abs/2506.23762v1)** | 2025-06-30 |  |
-| **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
-| **[Towards a Science of Developer eXperience (DevX)](http://arxiv.org/abs/2506.23715v1)** | 2025-06-30 |  |
-| **[What Challenges Do Developers Face When Using Verification-Aware Programming Languages?](http://arxiv.org/abs/2506.23696v1)** | 2025-06-30 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
+| **[Revealing Floating-Point Accumulation Orders in Software/Hardware Implementations](http://arxiv.org/abs/2411.00442v3)** | 2025-07-01 | <details><summary>Camer...</summary><p>Camera-ready for USENIX ATC 2025</p></details> |
+| **[Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain](http://arxiv.org/abs/2506.06946v2)** | 2025-06-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (2 diagrams, 2 code listings), accepted to the workshop SADIS 2025</p></details> |
 | **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems](http://arxiv.org/abs/2506.23995v1)** | 2025-06-30 |  |
@@ -113,14 +109,12 @@ labels: documentation
 | **[What Challenges Do Developers Face When Using Verification-Aware Programming Languages?](http://arxiv.org/abs/2506.23696v1)** | 2025-06-30 |  |
 | **[QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration](http://arxiv.org/abs/2506.23644v1)** | 2025-06-30 |  |
 | **[On the Feasibility of Deduplicating Compiler Bugs with Bisection](http://arxiv.org/abs/2506.23281v1)** | 2025-06-29 |  |
-| **[From Release to Adoption: Challenges in Reusing Pre-trained AI Models for Downstream Developers](http://arxiv.org/abs/2506.23234v1)** | 2025-06-29 | <details><summary>Recen...</summary><p>Recently accepted at ICSME 2025</p></details> |
-| **[A Comprehensive Study on Large Language Models for Mutation Testing](http://arxiv.org/abs/2406.09843v3)** | 2025-06-29 | 29 pages, 11 figures |
-| **[Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search](http://arxiv.org/abs/2506.23100v1)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026. Jiayi Zhang and Kai Huang contributed equally to this work</p></details> |
-| **[HF-DGF: Hybrid Feedback Guided Directed Grey-box Fuzzing](http://arxiv.org/abs/2506.23063v1)** | 2025-06-29 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[Green Metrics Tool: Measuring for fun and profit](http://arxiv.org/abs/2506.23967v1)** | 2025-06-30 |  |
 | **[Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead](http://arxiv.org/abs/2506.23762v1)** | 2025-06-30 |  |
@@ -128,22 +122,26 @@ labels: documentation
 | **[Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny](http://arxiv.org/abs/2506.22370v2)** | 2025-06-30 |  |
 | **[QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration](http://arxiv.org/abs/2506.23644v1)** | 2025-06-30 |  |
 | **[Comparative Analysis of the Code Generated by Popular Large Language Models (LLMs) for MISRA C++ Compliance](http://arxiv.org/abs/2506.23535v1)** | 2025-06-30 |  |
-| **[A Comprehensive Study on Large Language Models for Mutation Testing](http://arxiv.org/abs/2406.09843v3)** | 2025-06-29 | 29 pages, 11 figures |
-| **[Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search](http://arxiv.org/abs/2506.23100v1)** | 2025-06-29 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026. Jiayi Zhang and Kai Huang contributed equally to this work</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
-| **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
-| **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
-| **[Green AI in Action: Strategic Model Selection for Ensembles in Production](http://arxiv.org/abs/2405.17451v2)** | 2025-06-30 | <details><summary>10 pa...</summary><p>10 pages. Accepted at the 1st ACM International Conference on AI-powered Software (AIware), 2024</p></details> |
-| **[Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions](http://arxiv.org/abs/2506.23866v1)** | 2025-06-30 | <details><summary>Post-...</summary><p>Post-proceedings paper persented at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
-| **[An ontological lens on attack trees: Toward adequacy and interoperability](http://arxiv.org/abs/2506.23841v1)** | 2025-06-30 |  |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Revealing Floating-Point Accumulation Orders in Software/Hardware Implementations](http://arxiv.org/abs/2411.00442v3)** | 2025-07-01 | <details><summary>Camer...</summary><p>Camera-ready for USENIX ATC 2025</p></details> |
+| **[Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain](http://arxiv.org/abs/2506.06946v2)** | 2025-06-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (2 diagrams, 2 code listings), accepted to the workshop SADIS 2025</p></details> |
+| **[A Metascience Study of the Low-Code Scientific Field](http://arxiv.org/abs/2408.05975v2)** | 2025-06-30 |  |
+| **[Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection](http://arxiv.org/abs/2503.07330v2)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera-ready version for IROS 2025</p></details> |
 | **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems](http://arxiv.org/abs/2506.23995v1)** | 2025-06-30 |  |
@@ -151,14 +149,6 @@ labels: documentation
 | **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
 | **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
 | **[Measuring Software Innovation with Open Source Software Development Data](http://arxiv.org/abs/2411.05087v2)** | 2025-06-30 |  |
-| **[Requirements for Active Assistance of Natural Questions in Software Architecture](http://arxiv.org/abs/2506.23898v1)** | 2025-06-30 |  |
-| **[Green AI in Action: Strategic Model Selection for Ensembles in Production](http://arxiv.org/abs/2405.17451v2)** | 2025-06-30 | <details><summary>10 pa...</summary><p>10 pages. Accepted at the 1st ACM International Conference on AI-powered Software (AIware), 2024</p></details> |
-| **[Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions](http://arxiv.org/abs/2506.23866v1)** | 2025-06-30 | <details><summary>Post-...</summary><p>Post-proceedings paper persented at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
-| **[An ontological lens on attack trees: Toward adequacy and interoperability](http://arxiv.org/abs/2506.23841v1)** | 2025-06-30 |  |
-| **[Software Engineering for Large Language Models: Research Status, Challenges and the Road Ahead](http://arxiv.org/abs/2506.23762v1)** | 2025-06-30 |  |
-| **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
-| **[Towards a Science of Developer eXperience (DevX)](http://arxiv.org/abs/2506.23715v1)** | 2025-06-30 |  |
-| **[What Challenges Do Developers Face When Using Verification-Aware Programming Languages?](http://arxiv.org/abs/2506.23696v1)** | 2025-06-30 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -170,21 +160,23 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
+| **[Making a Pipeline Production-Ready: Challenges and Lessons Learned in the Healthcare Domain](http://arxiv.org/abs/2506.06946v2)** | 2025-06-30 | <details><summary>8 pag...</summary><p>8 pages, 3 figures (2 diagrams, 2 code listings), accepted to the workshop SADIS 2025</p></details> |
+| **[A Metascience Study of the Low-Code Scientific Field](http://arxiv.org/abs/2408.05975v2)** | 2025-06-30 |  |
+| **[Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection](http://arxiv.org/abs/2503.07330v2)** | 2025-06-30 | <details><summary>Camer...</summary><p>Camera-ready version for IROS 2025</p></details> |
 | **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
 | **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
+| **[A Survey of LLM-based Automated Program Repair: Taxonomies, Design Paradigms, and Applications](http://arxiv.org/abs/2506.23749v1)** | 2025-06-30 |  |
+| **[Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny](http://arxiv.org/abs/2506.22370v2)** | 2025-06-30 |  |
+| **[Threadbox: Sandboxing for Modular Security](http://arxiv.org/abs/2506.23683v1)** | 2025-06-30 |  |
+| **[QLPro: Automated Code Vulnerability Discovery via LLM and Static Code Analysis Integration](http://arxiv.org/abs/2506.23644v1)** | 2025-06-30 |  |
+| **[Comparative Analysis of the Code Generated by Popular Large Language Models (LLMs) for MISRA C++ Compliance](http://arxiv.org/abs/2506.23535v1)** | 2025-06-30 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring Challenges in Test Mocking: Developer Questions and Insights from StackOverflow](http://arxiv.org/abs/2505.08300v2)** | 2025-06-30 |  |
-| **[Bug Fixing with Broader Context: Enhancing LLM-Based Program Repair via Layered Knowledge Injection](http://arxiv.org/abs/2506.24015v1)** | 2025-06-30 |  |
-| **[STCLocker: Deadlock Avoidance Testing for Autonomous Driving Systems](http://arxiv.org/abs/2506.23995v1)** | 2025-06-30 |  |
-| **[Green Metrics Tool: Measuring for fun and profit](http://arxiv.org/abs/2506.23967v1)** | 2025-06-30 |  |
-| **[ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning](http://arxiv.org/abs/2506.23960v1)** | 2025-06-30 |  |
-| **[Automated Statistical Testing and Certification of a Reliable Model-Coupling Server for Scientific Computing](http://arxiv.org/abs/2505.09769v2)** | 2025-06-30 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, accepted as a regular paper to SEKE2025</p></details> |
-| **[Measuring Software Innovation with Open Source Software Development Data](http://arxiv.org/abs/2411.05087v2)** | 2025-06-30 |  |
-| **[Requirements for Active Assistance of Natural Questions in Software Architecture](http://arxiv.org/abs/2506.23898v1)** | 2025-06-30 |  |
-| **[Green AI in Action: Strategic Model Selection for Ensembles in Production](http://arxiv.org/abs/2405.17451v2)** | 2025-06-30 | <details><summary>10 pa...</summary><p>10 pages. Accepted at the 1st ACM International Conference on AI-powered Software (AIware), 2024</p></details> |
-| **[Exploring Privacy and Security as Drivers for Environmental Sustainability in Cloud-Based Office Solutions](http://arxiv.org/abs/2506.23866v1)** | 2025-06-30 | <details><summary>Post-...</summary><p>Post-proceedings paper persented at LOCO '24: 1st International Workshop on Low Carbon Computing, 2024-12-03, in Glasgow, UK</p></details> |
-| **[An ontological lens on attack trees: Toward adequacy and interoperability](http://arxiv.org/abs/2506.23841v1)** | 2025-06-30 |  |
+| **[What About Emotions? Guiding Fine-Grained Emotion Extraction from Mobile App Reviews](http://arxiv.org/abs/2505.23452v2)** | 2025-07-01 | <details><summary>Accep...</summary><p>Accepted at the 33rd IEEE International Requirements Engineering 2025 conference</p></details> |
+| **[Toward a Brazilian Research Agenda in Quantum Software Engineering: A Systematic Mapping Study](http://arxiv.org/abs/2506.11013v2)** | 2025-07-01 | 11 pages, 13 figures |
+| **[A Study of In-Context-Learning-Based Text-to-SQL Errors](http://arxiv.org/abs/2501.09310v2)** | 2025-07-01 |  |
+| **[Assessing Correctness in LLM-Based Code Generation via Uncertainty Estimation](http://arxiv.org/abs/2502.11620v3)** | 2025-07-01 | <details><summary>18 pa...</summary><p>18 pages and 3 References Pages</p></details> |
 
