@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2025
+title: Latest 15 Papers - July 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,21 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
-| **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
-| **[From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry](http://arxiv.org/abs/2507.07689v1)** | 2025-07-10 |  |
-| **[Quantum Executor: A Unified Interface for Quantum Computing](http://arxiv.org/abs/2507.07597v1)** | 2025-07-10 | 11 pages, 1 figure |
-| **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy](http://arxiv.org/abs/2507.08594v1)** | 2025-07-11 | <details><summary>12 pa...</summary><p>12 pages; 2 figures; Preprint with the original submission accepted for publication at 39th Brazilian Symposium on Software Engineering (SBES)</p></details> |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
-| **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
-| **[From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry](http://arxiv.org/abs/2507.07689v1)** | 2025-07-10 |  |
-| **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy](http://arxiv.org/abs/2507.08594v1)** | 2025-07-11 | <details><summary>12 pa...</summary><p>12 pages; 2 figures; Preprint with the original submission accepted for publication at 39th Brazilian Symposium on Software Engineering (SBES)</p></details> |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -43,6 +45,8 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
 | **[Toolchain for Faster Iterations in Quantum Software Development](http://arxiv.org/abs/2507.07448v1)** | 2025-07-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2408.06756</p></details> |
 | **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v2)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
 | **[Robust Containerization of the High Angular Resolution Functional Imaging (HARFI) Pipeline](http://arxiv.org/abs/2507.07010v1)** | 2025-07-09 |  |
@@ -55,6 +59,10 @@ labels: documentation
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Computing Floating-Point Errors by Injecting Perturbations](http://arxiv.org/abs/2507.08467v1)** | 2025-07-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.20804</p></details> |
+| **[The State of Computational Science in Fission and Fusion Energy](http://arxiv.org/abs/2507.08061v1)** | 2025-07-10 |  |
 | **[QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v2)** | 2025-07-10 |  |
 | **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
 | **[HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis](http://arxiv.org/abs/2504.14641v2)** | 2025-07-09 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.03889</p></details> |
@@ -66,83 +74,77 @@ labels: documentation
 | **[AR2: Attention-Guided Repair for the Robustness of CNNs Against Common Corruptions](http://arxiv.org/abs/2507.06332v1)** | 2025-07-08 |  |
 | **[The Impact of Prompt Programming on Function-Level Code Generation](http://arxiv.org/abs/2412.20545v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at Transactions on Software Engineering (TSE). CodePromptEval dataset and replication package on GitHub: https://github.com/icetlab/CodePromptEval</p></details> |
 | **[Towards Exception Safety Code Generation with Intermediate Representation Agents Framework](http://arxiv.org/abs/2410.06949v3)** | 2025-07-07 |  |
-| **[React-tRace: A Semantics for Understanding React Hooks](http://arxiv.org/abs/2507.05234v1)** | 2025-07-07 | <details><summary>Condi...</summary><p>Conditionally accepted to OOPSLA 2025</p></details> |
-| **[AI for the Routine, Humans for the Complex: Accuracy-Driven Data Labelling with Mixed Integer Linear Programming](http://arxiv.org/abs/2507.04990v1)** | 2025-07-07 |  |
-| **[Narrowing the Gap: Supervised Fine-Tuning of Open-Source LLMs as a Viable Alternative to Proprietary Models for Pedagogical Tools](http://arxiv.org/abs/2507.05305v1)** | 2025-07-07 | <details><summary>7 pag...</summary><p>7 pages, 3 tables, 1 figure</p></details> |
-| **[The Transformative Influence of LLMs on Software Development & Developer Productivity](http://arxiv.org/abs/2311.16429v2)** | 2025-07-05 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, 3 tables</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy](http://arxiv.org/abs/2507.08594v1)** | 2025-07-11 | <details><summary>12 pa...</summary><p>12 pages; 2 figures; Preprint with the original submission accepted for publication at 39th Brazilian Symposium on Software Engineering (SBES)</p></details> |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
+| **[Computing Floating-Point Errors by Injecting Perturbations](http://arxiv.org/abs/2507.08467v1)** | 2025-07-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.20804</p></details> |
+| **[ProvideQ: A Quantum Optimization Toolbox](http://arxiv.org/abs/2507.07649v2)** | 2025-07-11 | <details><summary>This ...</summary><p>This paper was submitted and accepted at the IEEE QSW 2025. Code available at: https://github.com/ProvideQ</p></details> |
+| **[Leveraging Large Language Models for Classifying App Users' Feedback](http://arxiv.org/abs/2507.08250v1)** | 2025-07-11 |  |
+| **[KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence](http://arxiv.org/abs/2507.08164v1)** | 2025-07-10 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, submitted for possible publication</p></details> |
+| **[The Impact of Generative AI on Code Expertise Models: An Exploratory Study](http://arxiv.org/abs/2507.08160v1)** | 2025-07-10 |  |
+| **[Code with Me or for Me? How Increasing AI Automation Transforms Developer Workflows](http://arxiv.org/abs/2507.08149v1)** | 2025-07-10 |  |
+| **[The State of Computational Science in Fission and Fusion Energy](http://arxiv.org/abs/2507.08061v1)** | 2025-07-10 |  |
 | **[QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v2)** | 2025-07-10 |  |
-| **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
-| **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
-| **[From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry](http://arxiv.org/abs/2507.07689v1)** | 2025-07-10 |  |
-| **[Prompt Engineering for Requirements Engineering: A Literature Review and Roadmap](http://arxiv.org/abs/2507.07682v1)** | 2025-07-10 |  |
-| **[ProvideQ: A Quantum Optimization Toolbox](http://arxiv.org/abs/2507.07649v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper was submitted and accepted at the IEEE QCE 2025</p></details> |
-| **[Quantum Executor: A Unified Interface for Quantum Computing](http://arxiv.org/abs/2507.07597v1)** | 2025-07-10 | 11 pages, 1 figure |
-| **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
-| **[Towards an Engineering Workflow Management System for Asset Administration Shells using BPMN](http://arxiv.org/abs/2507.07468v1)** | 2025-07-10 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Accepted at IFAC EAAS 2025 (https://j3c.org/eaas.php)</p></details> |
-| **[Toolchain for Faster Iterations in Quantum Software Development](http://arxiv.org/abs/2507.07448v1)** | 2025-07-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2408.06756</p></details> |
-| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v2)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
-| **[DITING: A Static Analyzer for Identifying Bad Partitioning Issues in TEE Applications](http://arxiv.org/abs/2502.15281v2)** | 2025-07-10 |  |
-| **[Automatic Generation of Explainability Requirements and Software Explanations From User Reviews](http://arxiv.org/abs/2507.07344v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
-| **[Towards Trustworthy Sentiment Analysis in Software Engineering: Dataset Characteristics and Tool Selection](http://arxiv.org/abs/2507.02137v2)** | 2025-07-09 | <details><summary>This ...</summary><p>This paper has been accepted at the RETRAI workshop of the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
-| **[A German Gold-Standard Dataset for Sentiment Analysis in Software Engineering](http://arxiv.org/abs/2507.07325v1)** | 2025-07-09 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Code with Me or for Me? How Increasing AI Automation Transforms Developer Workflows](http://arxiv.org/abs/2507.08149v1)** | 2025-07-10 |  |
 | **[QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v2)** | 2025-07-10 |  |
 | **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
 | **[From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry](http://arxiv.org/abs/2507.07689v1)** | 2025-07-10 |  |
 | **[Quantum Executor: A Unified Interface for Quantum Computing](http://arxiv.org/abs/2507.07597v1)** | 2025-07-10 | 11 pages, 1 figure |
 | **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
 | **[Towards an Engineering Workflow Management System for Asset Administration Shells using BPMN](http://arxiv.org/abs/2507.07468v1)** | 2025-07-10 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Accepted at IFAC EAAS 2025 (https://j3c.org/eaas.php)</p></details> |
-| **[DITING: A Static Analyzer for Identifying Bad Partitioning Issues in TEE Applications](http://arxiv.org/abs/2502.15281v2)** | 2025-07-10 |  |
-| **[Automatic Generation of Explainability Requirements and Software Explanations From User Reviews](http://arxiv.org/abs/2507.07344v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
-| **[Measuring how changes in code readability attributes affect code quality evaluation by Large Language Models](http://arxiv.org/abs/2507.05289v2)** | 2025-07-09 |  |
-| **[HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis](http://arxiv.org/abs/2504.14641v2)** | 2025-07-09 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.03889</p></details> |
-| **[How to Elicit Explainability Requirements? A Comparison of Interviews, Focus Groups, and Surveys](http://arxiv.org/abs/2505.23684v3)** | 2025-07-09 | <details><summary>This ...</summary><p>This paper has been accepted at the research track of the 33rd IEEE International Requirements Engineering Conference (RE 2025)</p></details> |
-| **[Leveraging LLMs for Semantic Conflict Detection via Unit Test Generation](http://arxiv.org/abs/2507.06762v1)** | 2025-07-09 | <details><summary>Comme...</summary><p>Comments: 11 pages, in Portuguese language. 3 figures. Submitted to SAST 2025 (X Simp\'osio Brasileiro de Teste de Software Sistem\'atico e Automatizado)</p></details> |
-| **[One Size Does Not Fit All: Investigating Efficacy of Perplexity in Detecting LLM-Generated Code](http://arxiv.org/abs/2412.16525v2)** | 2025-07-09 | <details><summary>This ...</summary><p>This article has been accepted by ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing](http://arxiv.org/abs/2507.06584v1)** | 2025-07-09 | <details><summary>The 4...</summary><p>The 40th ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
+| **[Leveraging Large Language Models for Classifying App Users' Feedback](http://arxiv.org/abs/2507.08250v1)** | 2025-07-11 |  |
+| **[KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence](http://arxiv.org/abs/2507.08164v1)** | 2025-07-10 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, submitted for possible publication</p></details> |
 | **[From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry](http://arxiv.org/abs/2507.07689v1)** | 2025-07-10 |  |
-| **[Prompt Engineering for Requirements Engineering: A Literature Review and Roadmap](http://arxiv.org/abs/2507.07682v1)** | 2025-07-10 |  |
-| **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
-| **[Measuring how changes in code readability attributes affect code quality evaluation by Large Language Models](http://arxiv.org/abs/2507.05289v2)** | 2025-07-09 |  |
-| **[HLSTester: Efficient Testing of Behavioral Discrepancies with LLMs for High-Level Synthesis](http://arxiv.org/abs/2504.14641v2)** | 2025-07-09 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2407.03889</p></details> |
-| **[5C Prompt Contracts: A Minimalist, Creative-Friendly, Token-Efficient Design Framework for Individual and SME LLM Usage](http://arxiv.org/abs/2507.07045v1)** | 2025-07-09 | <details><summary>5 pag...</summary><p>5 pages, 5 tables. Includes comparative experimental results across OpenAI, Anthropic, DeepSeek, and Gemini LLMs</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v2)** | 2025-07-10 |  |
-| **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
-| **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
+| **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy](http://arxiv.org/abs/2507.08594v1)** | 2025-07-11 | <details><summary>12 pa...</summary><p>12 pages; 2 figures; Preprint with the original submission accepted for publication at 39th Brazilian Symposium on Software Engineering (SBES)</p></details> |
+| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v1)** | 2025-07-11 |  |
+| **[Computing Floating-Point Errors by Injecting Perturbations](http://arxiv.org/abs/2507.08467v1)** | 2025-07-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.20804</p></details> |
+| **[ProvideQ: A Quantum Optimization Toolbox](http://arxiv.org/abs/2507.07649v2)** | 2025-07-11 | <details><summary>This ...</summary><p>This paper was submitted and accepted at the IEEE QSW 2025. Code available at: https://github.com/ProvideQ</p></details> |
+| **[Leveraging Large Language Models for Classifying App Users' Feedback](http://arxiv.org/abs/2507.08250v1)** | 2025-07-11 |  |
+| **[KP-A: A Unified Network Knowledge Plane for Catalyzing Agentic Network Intelligence](http://arxiv.org/abs/2507.08164v1)** | 2025-07-10 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, submitted for possible publication</p></details> |
+| **[The Impact of Generative AI on Code Expertise Models: An Exploratory Study](http://arxiv.org/abs/2507.08160v1)** | 2025-07-10 |  |
+| **[Code with Me or for Me? How Increasing AI Automation Transforms Developer Workflows](http://arxiv.org/abs/2507.08149v1)** | 2025-07-10 |  |
+| **[The State of Computational Science in Fission and Fusion Energy](http://arxiv.org/abs/2507.08061v1)** | 2025-07-10 |  |
 | **[QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v2)** | 2025-07-10 |  |
-| **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
-| **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
-| **[From Domain Documents to Requirements: Retrieval-Augmented Generation in the Space Industry](http://arxiv.org/abs/2507.07689v1)** | 2025-07-10 |  |
-| **[Prompt Engineering for Requirements Engineering: A Literature Review and Roadmap](http://arxiv.org/abs/2507.07682v1)** | 2025-07-10 |  |
-| **[ProvideQ: A Quantum Optimization Toolbox](http://arxiv.org/abs/2507.07649v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper was submitted and accepted at the IEEE QCE 2025</p></details> |
-| **[Quantum Executor: A Unified Interface for Quantum Computing](http://arxiv.org/abs/2507.07597v1)** | 2025-07-10 | 11 pages, 1 figure |
-| **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
-| **[Towards an Engineering Workflow Management System for Asset Administration Shells using BPMN](http://arxiv.org/abs/2507.07468v1)** | 2025-07-10 | <details><summary>7 pag...</summary><p>7 pages, 7 figures, Accepted at IFAC EAAS 2025 (https://j3c.org/eaas.php)</p></details> |
-| **[Toolchain for Faster Iterations in Quantum Software Development](http://arxiv.org/abs/2507.07448v1)** | 2025-07-10 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2408.06756</p></details> |
-| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v2)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
-| **[DITING: A Static Analyzer for Identifying Bad Partitioning Issues in TEE Applications](http://arxiv.org/abs/2502.15281v2)** | 2025-07-10 |  |
-| **[Automatic Generation of Explainability Requirements and Software Explanations From User Reviews](http://arxiv.org/abs/2507.07344v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
-| **[Towards Trustworthy Sentiment Analysis in Software Engineering: Dataset Characteristics and Tool Selection](http://arxiv.org/abs/2507.02137v2)** | 2025-07-09 | <details><summary>This ...</summary><p>This paper has been accepted at the RETRAI workshop of the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
-| **[A German Gold-Standard Dataset for Sentiment Analysis in Software Engineering](http://arxiv.org/abs/2507.07325v1)** | 2025-07-09 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -154,20 +156,25 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[ProvideQ: A Quantum Optimization Toolbox](http://arxiv.org/abs/2507.07649v2)** | 2025-07-11 | <details><summary>This ...</summary><p>This paper was submitted and accepted at the IEEE QSW 2025. Code available at: https://github.com/ProvideQ</p></details> |
+| **[The Impact of Generative AI on Code Expertise Models: An Exploratory Study](http://arxiv.org/abs/2507.08160v1)** | 2025-07-10 |  |
+| **[Code with Me or for Me? How Increasing AI Automation Transforms Developer Workflows](http://arxiv.org/abs/2507.08149v1)** | 2025-07-10 |  |
+| **[The State of Computational Science in Fission and Fusion Energy](http://arxiv.org/abs/2507.08061v1)** | 2025-07-10 |  |
 | **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
 | **[Quantum Executor: A Unified Interface for Quantum Computing](http://arxiv.org/abs/2507.07597v1)** | 2025-07-10 | 11 pages, 1 figure |
 | **[From Requirements to Code: Understanding Developer Practices in LLM-Assisted Software Engineering](http://arxiv.org/abs/2507.07548v1)** | 2025-07-10 | <details><summary>This ...</summary><p>This paper has been accepted for publication at the 33rd IEEE International Requirements Engineering (RE) conference</p></details> |
-| **[DITING: A Static Analyzer for Identifying Bad Partitioning Issues in TEE Applications](http://arxiv.org/abs/2502.15281v2)** | 2025-07-10 |  |
-| **[EditLord: Learning Code Transformation Rules for Code Editing](http://arxiv.org/abs/2504.15284v4)** | 2025-07-09 |  |
-| **[Measuring how changes in code readability attributes affect code quality evaluation by Large Language Models](http://arxiv.org/abs/2507.05289v2)** | 2025-07-09 |  |
-| **[Robust Containerization of the High Angular Resolution Functional Imaging (HARFI) Pipeline](http://arxiv.org/abs/2507.07010v1)** | 2025-07-09 |  |
-| **[Are They All Good? Evaluating the Quality of CoTs in LLM-based Code Generation](http://arxiv.org/abs/2507.06980v1)** | 2025-07-09 |  |
-| **[Leveraging LLMs for Semantic Conflict Detection via Unit Test Generation](http://arxiv.org/abs/2507.06762v1)** | 2025-07-09 | <details><summary>Comme...</summary><p>Comments: 11 pages, in Portuguese language. 3 figures. Submitted to SAST 2025 (X Simp\'osio Brasileiro de Teste de Software Sistem\'atico e Automatizado)</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[QCP: A Practical Separation Logic-based C Program Verification Tool](http://arxiv.org/abs/2505.12878v2)** | 2025-07-10 |  |
-| **[Open Source, Hidden Costs: A Systematic Literature Review on OSS License Management](http://arxiv.org/abs/2507.05270v2)** | 2025-07-10 |  |
-| **[Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](http://arxiv.org/abs/2503.11498v3)** | 2025-07-10 | <details><summary>publi...</summary><p>published version, 23 pages, 25 figures</p></details> |
+| **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v1)** | 2025-07-11 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
+| **[Multilingual Multimodal Software Developer for Code Generation](http://arxiv.org/abs/2507.08719v1)** | 2025-07-11 | Preprint |
+| **[LLMCup: Ranking-Enhanced Comment Updating with LLMs](http://arxiv.org/abs/2507.08671v1)** | 2025-07-11 | 13 pages, 10 figures |
+| **[Text2BIM: Generating Building Models Using a Large Language Model-based Multi-Agent Framework](http://arxiv.org/abs/2408.08054v2)** | 2025-07-11 | <details><summary>Journ...</summary><p>Journal of Computing in Civil Engineering</p></details> |
+| **[NL in the Middle: Code Translation with LLMs and Intermediate Representations](http://arxiv.org/abs/2507.08627v1)** | 2025-07-11 |  |
+| **[Generating Proto-Personas through Prompt Engineering: A Case Study on Efficiency, Effectiveness and Empathy](http://arxiv.org/abs/2507.08594v1)** | 2025-07-11 | <details><summary>12 pa...</summary><p>12 pages; 2 figures; Preprint with the original submission accepted for publication at 39th Brazilian Symposium on Software Engineering (SBES)</p></details> |
 
