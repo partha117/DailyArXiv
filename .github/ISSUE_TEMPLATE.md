@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2025
+title: Latest 15 Papers - July 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,36 +7,36 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
-| **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
-| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
-| **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models](http://arxiv.org/abs/2507.16685v1)** | 2025-07-22 |  |
-| **[VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones](http://arxiv.org/abs/2507.16661v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[Improving Source Code Similarity Detection Through GraphCodeBERT and Integration of Additional Features](http://arxiv.org/abs/2408.08903v2)** | 2025-07-22 | 15 pages |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
-| **[LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning](http://arxiv.org/abs/2507.16395v1)** | 2025-07-22 |  |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Contextual Code Retrieval for Commit Message Generation: A Preliminary Study](http://arxiv.org/abs/2507.17690v1)** | 2025-07-23 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</p></details> |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
+| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[Roseau: Fast, Accurate, Source-based API Breaking Change Analysis in Java](http://arxiv.org/abs/2507.17369v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
-| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
-| **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
-| **[Search-based Generation of Waypoints for Triggering Self-Adaptations in Maritime Autonomous Vessels](http://arxiv.org/abs/2507.16327v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted at GECCO 2025 (Genetic and Evolutionary Computation Conference), July 14-18, 2025, Malaga, Spain</p></details> |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Contextual Code Retrieval for Commit Message Generation: A Preliminary Study](http://arxiv.org/abs/2507.17690v1)** | 2025-07-23 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</p></details> |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
+| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
 | **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
 | **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
 | **[Observing Fine-Grained Changes in Jupyter Notebooks During Development Time](http://arxiv.org/abs/2507.15831v1)** | 2025-07-21 | 32 pages, 6 figures |
@@ -50,126 +50,114 @@ labels: documentation
 | **[The Debugging Decay Index: Rethinking Debugging Strategies for Code LLMs](http://arxiv.org/abs/2506.18403v2)** | 2025-07-13 |  |
 | **[Tool for Supporting Debugging and Understanding of Normative Requirements Using LLMs](http://arxiv.org/abs/2507.05504v1)** | 2025-07-07 |  |
 | **[An Investigation into Maintenance Support for Neural Networks](http://arxiv.org/abs/2507.05245v1)** | 2025-07-07 | <details><summary>Revis...</summary><p>Revised version accepted at the HumanAISE Workshop, co-located with FSE 2025</p></details> |
-| **[Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs](http://arxiv.org/abs/2507.03659v1)** | 2025-07-04 |  |
-| **[ReservoirChat: Interactive Documentation Enhanced with LLM and Knowledge Graph for ReservoirPy](http://arxiv.org/abs/2507.05279v1)** | 2025-07-04 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
 | **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
 | **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
 | **[BandFuzz: An ML-powered Collaborative Fuzzing Framework](http://arxiv.org/abs/2507.10845v2)** | 2025-07-21 |  |
 | **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v1)** | 2025-07-21 |  |
 | **[BugScope: Learn to Find Bugs Like Human](http://arxiv.org/abs/2507.15671v1)** | 2025-07-21 | <details><summary>19 pa...</summary><p>19 pages, 2 figure, 6 tables, 4 listings</p></details> |
-| **[Input Reduction Enhanced LLM-based Program Repair](http://arxiv.org/abs/2507.15251v1)** | 2025-07-21 |  |
-| **[Deep Learning Framework Testing via Heuristic Guidance Based on Multiple Model Measurements](http://arxiv.org/abs/2507.15181v1)** | 2025-07-21 |  |
-| **[Design of an Edge-based Portable EHR System for Anemia Screening in Remote Health Applications](http://arxiv.org/abs/2507.15146v1)** | 2025-07-20 | <details><summary>Accep...</summary><p>Accepted at IEEE Global Humanitarian Technology Conference 2025</p></details> |
-| **[LibLMFuzz: LLM-Augmented Fuzz Target Generation for Black-box Libraries](http://arxiv.org/abs/2507.15058v1)** | 2025-07-20 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table, 2 listings</p></details> |
-| **[StaAgent: An Agentic Framework for Testing Static Analyzers](http://arxiv.org/abs/2507.15892v1)** | 2025-07-20 |  |
-| **[Learning Software Bug Reports: A Systematic Literature Review](http://arxiv.org/abs/2507.04422v2)** | 2025-07-20 | Accepted by TOSEM |
-| **[LLM-Based Detection of Tangled Code Changes for Higher-Quality Method-Level Bug Datasets](http://arxiv.org/abs/2505.08263v2)** | 2025-07-19 |  |
-| **[Harnessing LLMs for Document-Guided Fuzzing of OpenCV Library](http://arxiv.org/abs/2507.14558v1)** | 2025-07-19 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Efficient Neural Network Verification via Order Leading Exploration of Branch-and-Bound Trees](http://arxiv.org/abs/2507.17453v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This is an extended version of the ECOOP 2025 paper, with a comparison with DATE 2025 (Figure 7 of RQ1 in Section 5.2), as well as an in-depth discussion of OOPSLA 2025 in the related work (Section 6)</p></details> |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
+| **[Understanding Prompt Programming Tasks and Questions](http://arxiv.org/abs/2507.17264v1)** | 2025-07-23 |  |
+| **[Assessing Reliability of Statistical Maximum Coverage Estimators in Fuzzing](http://arxiv.org/abs/2507.17093v1)** | 2025-07-23 | <details><summary>ICSME...</summary><p>ICSME'25 Registered Report</p></details> |
 | **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
 | **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
+| **[Explainable Vulnerability Detection in C/C++ Using Edge-Aware Graph Attention Networks](http://arxiv.org/abs/2507.16540v1)** | 2025-07-22 |  |
 | **[Software is infrastructure: failures, successes, costs, and the case for formal verification](http://arxiv.org/abs/2506.13821v2)** | 2025-07-22 |  |
 | **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning](http://arxiv.org/abs/2507.16395v1)** | 2025-07-22 |  |
-| **[GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities](http://arxiv.org/abs/2507.12367v2)** | 2025-07-21 | <details><summary>Versi...</summary><p>Version 2 of the dataset from: arXiv:2411.05830</p></details> |
-| **[RightTyper: Effective and Efficient Type Annotation for Python](http://arxiv.org/abs/2507.16051v1)** | 2025-07-21 |  |
-| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v1)** | 2025-07-21 |  |
-| **[A Pilot Study on LLM-Based Agentic Translation from Android to iOS: Pitfalls and Insights](http://arxiv.org/abs/2507.16037v1)** | 2025-07-21 |  |
-| **[BandFuzz: An ML-powered Collaborative Fuzzing Framework](http://arxiv.org/abs/2507.10845v2)** | 2025-07-21 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v1)** | 2025-07-21 |  |
-| **[BugScope: Learn to Find Bugs Like Human](http://arxiv.org/abs/2507.15671v1)** | 2025-07-21 | <details><summary>19 pa...</summary><p>19 pages, 2 figure, 6 tables, 4 listings</p></details> |
-| **[Applying the Chinese Wall Reverse Engineering Technique to Large Language Model Code Editing](http://arxiv.org/abs/2507.15599v1)** | 2025-07-21 |  |
-| **[A Study of LLMs' Preferences for Libraries and Programming Languages](http://arxiv.org/abs/2503.17181v2)** | 2025-07-21 | <details><summary>13 pa...</summary><p>13 pages, 8 tables, 2 figures. Paper was previously titled "LLMs Love Python"</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
-| **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
-| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
-| **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[Toward Realistic Evaluations of Just-In-Time Vulnerability Prediction](http://arxiv.org/abs/2507.10729v2)** | 2025-07-22 |  |
-| **[VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models](http://arxiv.org/abs/2507.16685v1)** | 2025-07-22 |  |
-| **[VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones](http://arxiv.org/abs/2507.16661v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review](http://arxiv.org/abs/2507.16586v1)** | 2025-07-22 |  |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[Improving Source Code Similarity Detection Through GraphCodeBERT and Integration of Additional Features](http://arxiv.org/abs/2408.08903v2)** | 2025-07-22 | 15 pages |
-| **[Software is infrastructure: failures, successes, costs, and the case for formal verification](http://arxiv.org/abs/2506.13821v2)** | 2025-07-22 |  |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Contextual Code Retrieval for Commit Message Generation: A Preliminary Study](http://arxiv.org/abs/2507.17690v1)** | 2025-07-23 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</p></details> |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses](http://arxiv.org/abs/2507.17655v1)** | 2025-07-23 | <details><summary>9 pag...</summary><p>9 pages, 2 Flowcharts, 2 Tables</p></details> |
+| **[Closing the Chain: How to reduce your risk of being SolarWinds, Log4j, or XZ Utils](http://arxiv.org/abs/2503.12192v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
+| **[Efficient Neural Network Verification via Order Leading Exploration of Branch-and-Bound Trees](http://arxiv.org/abs/2507.17453v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This is an extended version of the ECOOP 2025 paper, with a comparison with DATE 2025 (Figure 7 of RQ1 in Section 5.2), as well as an in-depth discussion of OOPSLA 2025 in the related work (Section 6)</p></details> |
+| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[Roseau: Fast, Accurate, Source-based API Breaking Change Analysis in Java](http://arxiv.org/abs/2507.17369v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
+| **[Data Virtualization for Machine Learning](http://arxiv.org/abs/2507.17293v1)** | 2025-07-23 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
+| **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
+| **[Lessons from a Big-Bang Integration: Challenges in Edge Computing and Machine Learning](http://arxiv.org/abs/2507.17270v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted @ XP2025 Poster session</p></details> |
+| **[On the Feasibility of Quantum Unit Testing](http://arxiv.org/abs/2507.17235v1)** | 2025-07-23 |  |
+| **[Can LLMs Write CI? A Study on Automatic Generation of GitHub Actions Configurations](http://arxiv.org/abs/2507.17165v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE International Conference on Software Maintenance and Evolution 2025 (ICSME'25)</p></details> |
+| **[Language model developers should report train-test overlap](http://arxiv.org/abs/2410.08385v2)** | 2025-07-22 | <details><summary>ICML ...</summary><p>ICML 2025 Spotlight; 23 pages</p></details> |
+| **[Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots](http://arxiv.org/abs/2507.17049v1)** | 2025-07-22 |  |
+| **[An Efficient Algorithm for Generating Minimal Unique-Cause MC/DC Test cases for Singular Boolean Expressions](http://arxiv.org/abs/2507.14687v2)** | 2025-07-22 | 10 pages, 5 figures |
+| **[Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887v1)** | 2025-07-22 |  |
 | **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models](http://arxiv.org/abs/2507.16685v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review](http://arxiv.org/abs/2507.16586v1)** | 2025-07-22 |  |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning](http://arxiv.org/abs/2507.16395v1)** | 2025-07-22 |  |
-| **[LOCOFY Large Design Models -- Design to code conversion solution](http://arxiv.org/abs/2507.16208v1)** | 2025-07-22 |  |
-| **[Ten Essential Guidelines for Building High-Quality Research Software](http://arxiv.org/abs/2507.16166v1)** | 2025-07-22 |  |
-| **[GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities](http://arxiv.org/abs/2507.12367v2)** | 2025-07-21 | <details><summary>Versi...</summary><p>Version 2 of the dataset from: arXiv:2411.05830</p></details> |
-| **[AI-Powered Commit Explorer (APCE)](http://arxiv.org/abs/2507.16063v1)** | 2025-07-21 |  |
-| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v1)** | 2025-07-21 |  |
-| **[A Pilot Study on LLM-Based Agentic Translation from Android to iOS: Pitfalls and Insights](http://arxiv.org/abs/2507.16037v1)** | 2025-07-21 |  |
-| **[BandFuzz: An ML-powered Collaborative Fuzzing Framework](http://arxiv.org/abs/2507.10845v2)** | 2025-07-21 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
+| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
+| **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
+| **[Understanding Prompt Programming Tasks and Questions](http://arxiv.org/abs/2507.17264v1)** | 2025-07-23 |  |
+| **[Can LLMs Write CI? A Study on Automatic Generation of GitHub Actions Configurations](http://arxiv.org/abs/2507.17165v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE International Conference on Software Maintenance and Evolution 2025 (ICSME'25)</p></details> |
+| **[LLM as a code generator in Agile Model Driven Development](http://arxiv.org/abs/2410.18489v2)** | 2025-07-22 |  |
 | **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
 | **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
 | **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones](http://arxiv.org/abs/2507.16661v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review](http://arxiv.org/abs/2507.16586v1)** | 2025-07-22 |  |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
-| **[LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning](http://arxiv.org/abs/2507.16395v1)** | 2025-07-22 |  |
-| **[Voice-based AI Agents: Filling the Economic Gaps in Digital Health Delivery](http://arxiv.org/abs/2507.16229v1)** | 2025-07-22 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Digital Health (ICDH) 2025</p></details> |
-| **[LOCOFY Large Design Models -- Design to code conversion solution](http://arxiv.org/abs/2507.16208v1)** | 2025-07-22 |  |
-| **[GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities](http://arxiv.org/abs/2507.12367v2)** | 2025-07-21 | <details><summary>Versi...</summary><p>Version 2 of the dataset from: arXiv:2411.05830</p></details> |
-| **[AI-Powered Commit Explorer (APCE)](http://arxiv.org/abs/2507.16063v1)** | 2025-07-21 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
-| **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
-| **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
-| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
-| **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[Toward Realistic Evaluations of Just-In-Time Vulnerability Prediction](http://arxiv.org/abs/2507.10729v2)** | 2025-07-22 |  |
-| **[VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models](http://arxiv.org/abs/2507.16685v1)** | 2025-07-22 |  |
-| **[VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones](http://arxiv.org/abs/2507.16661v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review](http://arxiv.org/abs/2507.16586v1)** | 2025-07-22 |  |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[Improving Source Code Similarity Detection Through GraphCodeBERT and Integration of Additional Features](http://arxiv.org/abs/2408.08903v2)** | 2025-07-22 | 15 pages |
-| **[Software is infrastructure: failures, successes, costs, and the case for formal verification](http://arxiv.org/abs/2506.13821v2)** | 2025-07-22 |  |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Contextual Code Retrieval for Commit Message Generation: A Preliminary Study](http://arxiv.org/abs/2507.17690v1)** | 2025-07-23 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</p></details> |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses](http://arxiv.org/abs/2507.17655v1)** | 2025-07-23 | <details><summary>9 pag...</summary><p>9 pages, 2 Flowcharts, 2 Tables</p></details> |
+| **[Closing the Chain: How to reduce your risk of being SolarWinds, Log4j, or XZ Utils](http://arxiv.org/abs/2503.12192v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
+| **[Efficient Neural Network Verification via Order Leading Exploration of Branch-and-Bound Trees](http://arxiv.org/abs/2507.17453v1)** | 2025-07-23 | <details><summary>This ...</summary><p>This is an extended version of the ECOOP 2025 paper, with a comparison with DATE 2025 (Figure 7 of RQ1 in Section 5.2), as well as an in-depth discussion of OOPSLA 2025 in the related work (Section 6)</p></details> |
+| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[Roseau: Fast, Accurate, Source-based API Breaking Change Analysis in Java](http://arxiv.org/abs/2507.17369v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
+| **[Data Virtualization for Machine Learning](http://arxiv.org/abs/2507.17293v1)** | 2025-07-23 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -181,32 +169,32 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Contextual Code Retrieval for Commit Message Generation: A Preliminary Study](http://arxiv.org/abs/2507.17690v1)** | 2025-07-23 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</p></details> |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[Explicit Vulnerability Generation with LLMs: An Investigation Beyond Adversarial Attacks](http://arxiv.org/abs/2507.10054v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
+| **[Investigating Training Data Detection in AI Coders](http://arxiv.org/abs/2507.17389v1)** | 2025-07-23 |  |
+| **[Roseau: Fast, Accurate, Source-based API Breaking Change Analysis in Java](http://arxiv.org/abs/2507.17369v1)** | 2025-07-23 |  |
+| **[How Do Code Smells Affect Skill Growth in Scratch Novice Programmers?](http://arxiv.org/abs/2507.17314v1)** | 2025-07-23 | <details><summary>Regis...</summary><p>Registered Report accepted at ICSME 2025</p></details> |
+| **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
+| **[Can LLMs Write CI? A Study on Automatic Generation of GitHub Actions Configurations](http://arxiv.org/abs/2507.17165v1)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted at the 41st IEEE International Conference on Software Maintenance and Evolution 2025 (ICSME'25)</p></details> |
+| **[LLM as a code generator in Agile Model Driven Development](http://arxiv.org/abs/2410.18489v2)** | 2025-07-22 |  |
+| **[Revisiting Pre-trained Language Models for Vulnerability Detection](http://arxiv.org/abs/2507.16887v1)** | 2025-07-22 |  |
 | **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
 | **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
-| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
-| **[VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models](http://arxiv.org/abs/2507.16685v1)** | 2025-07-22 |  |
-| **[VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones](http://arxiv.org/abs/2507.16661v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
-| **[Improving Source Code Similarity Detection Through GraphCodeBERT and Integration of Additional Features](http://arxiv.org/abs/2408.08903v2)** | 2025-07-22 | 15 pages |
-| **[ACT: Bridging the Gap in Code Translation through Synthetic Data Generation & Adaptive Training](http://arxiv.org/abs/2507.16478v1)** | 2025-07-22 |  |
-| **[Exploring Large Language Models for Analyzing and Improving Method Names in Scientific Code](http://arxiv.org/abs/2507.16439v1)** | 2025-07-22 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - Emerging Results and Vision Track</p></details> |
-| **[Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing](http://arxiv.org/abs/2507.16407v1)** | 2025-07-22 |  |
-| **[LLM-Driven Collaborative Model for Untangling Commits via Explicit and Implicit Dependency Reasoning](http://arxiv.org/abs/2507.16395v1)** | 2025-07-22 |  |
-| **[LOCOFY Large Design Models -- Design to code conversion solution](http://arxiv.org/abs/2507.16208v1)** | 2025-07-22 |  |
-| **[Ten Essential Guidelines for Building High-Quality Research Software](http://arxiv.org/abs/2507.16166v1)** | 2025-07-22 |  |
-| **[GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities](http://arxiv.org/abs/2507.12367v2)** | 2025-07-21 | <details><summary>Versi...</summary><p>Version 2 of the dataset from: arXiv:2411.05830</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis](http://arxiv.org/abs/2507.16808v1)** | 2025-07-22 | <details><summary>13pag...</summary><p>13pages with 9 pictures and 2 tables</p></details> |
-| **[Towards Understanding the Challenges of Bug Localization in Deep Learning Systems](http://arxiv.org/abs/2402.01021v2)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted in Empirical Software Engineering Journal in 2025</p></details> |
-| **[Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support](http://arxiv.org/abs/2507.16754v1)** | 2025-07-22 |  |
-| **[LangBiTe: A Platform for Testing Bias in Large Language Models](http://arxiv.org/abs/2404.18558v2)** | 2025-07-22 |  |
-| **[Toward Realistic Evaluations of Just-In-Time Vulnerability Prediction](http://arxiv.org/abs/2507.10729v2)** | 2025-07-22 |  |
-| **[VulGuard: An Unified Tool for Evaluating Just-In-Time Vulnerability Prediction Models](http://arxiv.org/abs/2507.16685v1)** | 2025-07-22 |  |
-| **[VulCoCo: A Simple Yet Effective Method for Detecting Vulnerable Code Clones](http://arxiv.org/abs/2507.16661v1)** | 2025-07-22 |  |
-| **[On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization](http://arxiv.org/abs/2507.16587v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted at TSE. IEEE Transactions on Software Engineering</p></details> |
-| **[AI for Better UX in Computer-Aided Engineering: Is Academia Catching Up with Industry Demands? A Multivocal Literature Review](http://arxiv.org/abs/2507.16586v1)** | 2025-07-22 |  |
+| **[Educational Insights from Code: Mapping Learning Challenges in Object-Oriented Programming through Code-Based Evidence](http://arxiv.org/abs/2507.17743v1)** | 2025-07-23 |  |
+| **[CASCADE: LLM-Powered JavaScript Deobfuscator at Google](http://arxiv.org/abs/2507.17691v1)** | 2025-07-23 |  |
+| **[Contextual Code Retrieval for Commit Message Generation: A Preliminary Study](http://arxiv.org/abs/2507.17690v1)** | 2025-07-23 | <details><summary>The 1...</summary><p>The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)</p></details> |
+| **[Making REST APIs Agent-Ready: From OpenAPI to Model Context Protocol Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v2)** | 2025-07-23 |  |
+| **[Rethinking HSM and TPM Security in the Cloud: Real-World Attacks and Next-Gen Defenses](http://arxiv.org/abs/2507.17655v1)** | 2025-07-23 | <details><summary>9 pag...</summary><p>9 pages, 2 Flowcharts, 2 Tables</p></details> |
+| **[Closing the Chain: How to reduce your risk of being SolarWinds, Log4j, or XZ Utils](http://arxiv.org/abs/2503.12192v2)** | 2025-07-23 |  |
+| **[CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning](http://arxiv.org/abs/2507.17548v1)** | 2025-07-23 |  |
+| **[AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests](http://arxiv.org/abs/2507.17542v1)** | 2025-07-23 |  |
+| **[Enabling Cyber Security Education through Digital Twins and Generative AI](http://arxiv.org/abs/2507.17518v1)** | 2025-07-23 |  |
 
