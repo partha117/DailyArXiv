@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 01, 2025
+title: Latest 15 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,31 +7,33 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracking research software outputs in the UK](http://arxiv.org/abs/2507.22871v1)** | 2025-07-30 |  |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
-| **[ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis](http://arxiv.org/abs/2506.15790v3)** | 2025-07-30 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. To appear in Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware 2025), ACM ICPS. DOI: https://doi.org/10.1145/3755881.3755934</p></details> |
-| **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
+| **[An Empirical Study on the Amount of Changes Required for Merge Request Acceptance](http://arxiv.org/abs/2507.23640v1)** | 2025-07-31 |  |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
+| **[Mokav: Execution-driven Differential Testing with LLMs](http://arxiv.org/abs/2406.10375v2)** | 2025-07-31 |  |
+| **[Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](http://arxiv.org/abs/2507.23370v1)** | 2025-07-31 | <details><summary>Pengf...</summary><p>Pengfei Gao and Zhao Tian contributed equally to this technical report</p></details> |
+| **[REST API Testing in DevOps: A Study on an Evolving Healthcare IoT Application](http://arxiv.org/abs/2410.12547v2)** | 2025-07-31 |  |
+| **[SWE-Exp: Experience-Driven Software Issue Resolution](http://arxiv.org/abs/2507.23361v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Exp</p></details> |
+| **[Quality Evaluation of COBOL to Java Code Transformation](http://arxiv.org/abs/2507.23356v1)** | 2025-07-31 | <details><summary>Submi...</summary><p>Submitted to ASE 2025</p></details> |
+| **[SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution](http://arxiv.org/abs/2507.23348v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Debate</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
-| **[Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation](http://arxiv.org/abs/2507.22442v1)** | 2025-07-30 | first submit |
-| **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
+| **[Testing Compositionality](http://arxiv.org/abs/2407.05028v3)** | 2025-07-31 | <details><summary>This ...</summary><p>This is a preprint of an extended version of https://doi.org/10.1007/978-3-031-71261-6_3 Formal Aspects of Component Software. FACS 2024. Lecture Notes in Computer Science, vol 15189. pp 39-56. This extended version adds new sections about combining the different introduced algorithms and how to apply them in practice, as well as several new examples in earlier sections</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
+| **[Mokav: Execution-driven Differential Testing with LLMs](http://arxiv.org/abs/2406.10375v2)** | 2025-07-31 |  |
+| **[Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](http://arxiv.org/abs/2507.23370v1)** | 2025-07-31 | <details><summary>Pengf...</summary><p>Pengfei Gao and Zhao Tian contributed equally to this technical report</p></details> |
+| **[REST API Testing in DevOps: A Study on an Evolving Healthcare IoT Application](http://arxiv.org/abs/2410.12547v2)** | 2025-07-31 |  |
+| **[SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution](http://arxiv.org/abs/2507.23348v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Debate</p></details> |
+| **[SequenceLayers: Sequence Processing and Streaming Neural Networks Made Easy](http://arxiv.org/abs/2507.23292v1)** | 2025-07-31 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XABPs: Towards eXplainable Autonomous Business Processes](http://arxiv.org/abs/2507.23269v1)** | 2025-07-31 |  |
+| **[AutoBridge: Automating Smart Device Integration with Centralized Platform](http://arxiv.org/abs/2507.23178v1)** | 2025-07-31 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under review</p></details> |
 | **[Kodezi Chronos: A Debugging-First Language Model for Repository-Scale Code Understanding](http://arxiv.org/abs/2507.12482v2)** | 2025-07-29 | <details><summary>27 pa...</summary><p>27 pages, 21 figures, 37 tables, 2 algorithms. Extended technical report. Introduces Chronos, an autonomous debugging system achieving 87.1% success rate on real-world bugs. Code and data available at https://github.com/Kodezi/chronos</p></details> |
 | **[HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions](http://arxiv.org/abs/2507.21485v1)** | 2025-07-29 | <details><summary>This ...</summary><p>This work has been accepted at ICCAD 2025 (International Conference on Computer-Aided Design)</p></details> |
 | **[Distinguishing Quantum Software Bugs from Hardware Noise: A Statistical Approach](http://arxiv.org/abs/2507.20475v1)** | 2025-07-28 | <details><summary>12 pa...</summary><p>12 pages, 30 figures, accepted by the IEEE International Conference on Quantum Computing and Engineering (QCE), IEEE Quantum Week, 2025</p></details> |
@@ -45,12 +47,13 @@ labels: documentation
 | **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](http://arxiv.org/abs/2506.06821v3)** | 2025-07-22 | 37 pages, 22 figures |
 | **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v1)** | 2025-07-21 |  |
 | **[On the Need for a Statistical Foundation in Scenario-Based Testing of Autonomous Vehicles](http://arxiv.org/abs/2505.02274v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by ITSC 2025</p></details> |
-| **[Automata Models for Effective Bug Description](http://arxiv.org/abs/2507.11146v1)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted to the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)</p></details> |
-| **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v3)** | 2025-07-14 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution](http://arxiv.org/abs/2507.23348v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Debate</p></details> |
+| **[SequenceLayers: Sequence Processing and Streaming Neural Networks Made Easy](http://arxiv.org/abs/2507.23292v1)** | 2025-07-31 |  |
 | **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
 | **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
 | **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
@@ -63,113 +66,86 @@ labels: documentation
 | **[HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions](http://arxiv.org/abs/2507.21485v1)** | 2025-07-29 | <details><summary>This ...</summary><p>This work has been accepted at ICCAD 2025 (International Conference on Computer-Aided Design)</p></details> |
 | **[Does Editing Improve Answer Quality on Stack Overflow? A Data-Driven Investigation](http://arxiv.org/abs/2507.21329v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in the 41st International Conference on Software Maintenance and Evolution (ICSME 2025 - Research Track)</p></details> |
 | **[Black-Box Bug-Amplification for Multithreaded Software](http://arxiv.org/abs/2507.21318v1)** | 2025-07-28 | <details><summary>35 pa...</summary><p>35 pages, 5 figurs, 4 listing and 3 tables</p></details> |
-| **[Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs](http://arxiv.org/abs/2507.20977v1)** | 2025-07-28 |  |
-| **[Secret Breach Detection in Source Code with Large Language Models](http://arxiv.org/abs/2504.18784v2)** | 2025-07-28 | <details><summary>19th ...</summary><p>19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM 2025) cameraready</p></details> |
-| **[LLM-Based Repair of Static Nullability Errors](http://arxiv.org/abs/2507.20674v1)** | 2025-07-28 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using weakest application conditions to rank graph transformations for graph repair](http://arxiv.org/abs/2405.08788v3)** | 2025-07-31 | <details><summary>51 pa...</summary><p>51 pages, 25 Figures, new, more efficient method for constructing application conditions, theoretical comparison to other concepts of consistency, extended evaluation</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[Blended PC Peer Review Model: Process and Reflection](http://arxiv.org/abs/2504.19105v2)** | 2025-07-31 | <details><summary>Publi...</summary><p>Published at ACM SIGSOFT Software Engineering Notes</p></details> |
+| **[Mokav: Execution-driven Differential Testing with LLMs](http://arxiv.org/abs/2406.10375v2)** | 2025-07-31 |  |
+| **[SWE-Exp: Experience-Driven Software Issue Resolution](http://arxiv.org/abs/2507.23361v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Exp</p></details> |
+| **[SequenceLayers: Sequence Processing and Streaming Neural Networks Made Easy](http://arxiv.org/abs/2507.23292v1)** | 2025-07-31 |  |
+| **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v3)** | 2025-07-31 |  |
+| **[Kernel-FFI: Transparent Foreign Function Interfaces for Interactive Notebooks](http://arxiv.org/abs/2507.23205v1)** | 2025-07-31 |  |
+| **[CodePod: A Language-Agnostic Hierarchical Scoping System for Interactive Development](http://arxiv.org/abs/2301.02410v2)** | 2025-07-31 |  |
+| **[AutoBridge: Automating Smart Device Integration with Centralized Platform](http://arxiv.org/abs/2507.23178v1)** | 2025-07-31 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under review</p></details> |
 | **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
 | **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
 | **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
 | **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
 | **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
-| **[Toward Automated Validation of Language Model Synthesized Test Cases using Semantic Entropy](http://arxiv.org/abs/2411.08254v2)** | 2025-07-29 |  |
-| **[Fine-Tuning Code Language Models to Detect Cross-Language Bugs](http://arxiv.org/abs/2507.21954v1)** | 2025-07-29 | <details><summary>33 pa...</summary><p>33 pages, 6 images, 9 tables, Manuscript submitted to a journal (2025)</p></details> |
-| **[iPanda: An LLM-based Agent for Automated Conformance Testing of Communication Protocols](http://arxiv.org/abs/2507.00378v2)** | 2025-07-29 | 10 pages, 4 figures |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v1)** | 2025-07-29 |  |
-| **[Generating Highly Structured Test Inputs Leveraging Constraint-Guided Graph Refinement](http://arxiv.org/abs/2507.21271v1)** | 2025-07-28 | <details><summary>ICSME...</summary><p>ICSME 2025 Registered Reports</p></details> |
-| **[Smart Expansion Techniques for ASP-based Interactive Configuration](http://arxiv.org/abs/2507.21027v1)** | 2025-07-28 | <details><summary>Under...</summary><p>Under consideration for publication in Theory and Practice of Logic Programming (TPLP)</p></details> |
-| **[Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs](http://arxiv.org/abs/2507.20977v1)** | 2025-07-28 |  |
-| **[Adopting Large Language Models to Automated System Integration](http://arxiv.org/abs/2504.08490v2)** | 2025-07-28 | <details><summary>This ...</summary><p>This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this contribution is published in Intelligent Information Systems. CAiSE 2025. Lecture Notes in Business Information Processing, vol 557. Springer, Cham., and is available online at https://doi.org/10.1007/978-3-031-94590-8_37</p></details> |
-| **[A first look at ROS 2 applications written in asynchronous Rust](http://arxiv.org/abs/2505.21323v3)** | 2025-07-28 | <details><summary>Publi...</summary><p>Published version, added external DOI</p></details> |
-| **[TypyBench: Evaluating LLM Type Inference for Untyped Python Repositories](http://arxiv.org/abs/2507.22086v1)** | 2025-07-28 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracking research software outputs in the UK](http://arxiv.org/abs/2507.22871v1)** | 2025-07-30 |  |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[VRISE: A Virtual Reality Platfrom for Immersive and Interactive Surveying Education](http://arxiv.org/abs/2507.22810v1)** | 2025-07-30 |  |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[RobEthiChor: Automated Context-aware Ethics-based Negotiation for Autonomous Robots](http://arxiv.org/abs/2507.22664v1)** | 2025-07-30 |  |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](http://arxiv.org/abs/2507.22659v1)** | 2025-07-30 | <details><summary>36 pa...</summary><p>36 pages + 17 pages references, 6 tables, 10 figures</p></details> |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
-| **[Inside madupite: Technical Design and Performance](http://arxiv.org/abs/2507.22538v1)** | 2025-07-30 |  |
-| **[Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation](http://arxiv.org/abs/2507.22442v1)** | 2025-07-30 | first submit |
-| **[ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis](http://arxiv.org/abs/2506.15790v3)** | 2025-07-30 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. To appear in Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware 2025), ACM ICPS. DOI: https://doi.org/10.1145/3755881.3755934</p></details> |
-| **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
-| **[Scalability, Availability, Reproducibility and Extensibility in Islamic Database Systems](http://arxiv.org/abs/2507.22384v1)** | 2025-07-30 |  |
+| **[An Empirical Study on the Amount of Changes Required for Merge Request Acceptance](http://arxiv.org/abs/2507.23640v1)** | 2025-07-31 |  |
+| **[Using weakest application conditions to rank graph transformations for graph repair](http://arxiv.org/abs/2405.08788v3)** | 2025-07-31 | <details><summary>51 pa...</summary><p>51 pages, 25 Figures, new, more efficient method for constructing application conditions, theoretical comparison to other concepts of consistency, extended evaluation</p></details> |
+| **[Testing Compositionality](http://arxiv.org/abs/2407.05028v3)** | 2025-07-31 | <details><summary>This ...</summary><p>This is a preprint of an extended version of https://doi.org/10.1007/978-3-031-71261-6_3 Formal Aspects of Component Software. FACS 2024. Lecture Notes in Computer Science, vol 15189. pp 39-56. This extended version adds new sections about combining the different introduced algorithms and how to apply them in practice, as well as several new examples in earlier sections</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[Blended PC Peer Review Model: Process and Reflection](http://arxiv.org/abs/2504.19105v2)** | 2025-07-31 | <details><summary>Publi...</summary><p>Published at ACM SIGSOFT Software Engineering Notes</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
+| **[Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures](http://arxiv.org/abs/2507.23425v1)** | 2025-07-31 | 9 pages, 9 figures |
+| **[Mokav: Execution-driven Differential Testing with LLMs](http://arxiv.org/abs/2406.10375v2)** | 2025-07-31 |  |
+| **[Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](http://arxiv.org/abs/2507.23370v1)** | 2025-07-31 | <details><summary>Pengf...</summary><p>Pengfei Gao and Zhao Tian contributed equally to this technical report</p></details> |
+| **[REST API Testing in DevOps: A Study on an Evolving Healthcare IoT Application](http://arxiv.org/abs/2410.12547v2)** | 2025-07-31 |  |
+| **[SWE-Exp: Experience-Driven Software Issue Resolution](http://arxiv.org/abs/2507.23361v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Exp</p></details> |
+| **[Quality Evaluation of COBOL to Java Code Transformation](http://arxiv.org/abs/2507.23356v1)** | 2025-07-31 | <details><summary>Submi...</summary><p>Submitted to ASE 2025</p></details> |
+| **[SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution](http://arxiv.org/abs/2507.23348v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Debate</p></details> |
+| **[Scalable and Precise Patch Robustness Certification for Deep Learning Models with Top-k Predictions](http://arxiv.org/abs/2507.23335v1)** | 2025-07-31 | accepted by QRS 2025 |
+| **[SequenceLayers: Sequence Processing and Streaming Neural Networks Made Easy](http://arxiv.org/abs/2507.23292v1)** | 2025-07-31 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[RobEthiChor: Automated Context-aware Ethics-based Negotiation for Autonomous Robots](http://arxiv.org/abs/2507.22664v1)** | 2025-07-30 |  |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
-| **[Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation](http://arxiv.org/abs/2507.22442v1)** | 2025-07-30 | first submit |
-| **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
-| **[From Articles to Code: On-Demand Generation of Core Algorithms from Scientific Publications](http://arxiv.org/abs/2507.22324v1)** | 2025-07-30 |  |
-| **[Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithm](http://arxiv.org/abs/2408.11198v2)** | 2025-07-29 |  |
-| **[Toward Automated Validation of Language Model Synthesized Test Cases using Semantic Entropy](http://arxiv.org/abs/2411.08254v2)** | 2025-07-29 |  |
-| **[Runtime Failure Hunting for Physics Engine Based Software Systems: How Far Can We Go?](http://arxiv.org/abs/2507.22099v1)** | 2025-07-29 |  |
-| **[LLM-based Content Classification Approach for GitHub Repositories by the README Files](http://arxiv.org/abs/2507.21899v1)** | 2025-07-29 | 8 pages, 4 Figures |
-| **[Out of Distribution, Out of Luck: How Well Can LLMs Trained on Vulnerability Datasets Detect Top 25 CWE Weaknesses?](http://arxiv.org/abs/2507.21817v1)** | 2025-07-29 |  |
-| **[iPanda: An LLM-based Agent for Automated Conformance Testing of Communication Protocols](http://arxiv.org/abs/2507.00378v2)** | 2025-07-29 | 10 pages, 4 figures |
+| **[Testing Compositionality](http://arxiv.org/abs/2407.05028v3)** | 2025-07-31 | <details><summary>This ...</summary><p>This is a preprint of an extended version of https://doi.org/10.1007/978-3-031-71261-6_3 Formal Aspects of Component Software. FACS 2024. Lecture Notes in Computer Science, vol 15189. pp 39-56. This extended version adds new sections about combining the different introduced algorithms and how to apply them in practice, as well as several new examples in earlier sections</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[Mokav: Execution-driven Differential Testing with LLMs](http://arxiv.org/abs/2406.10375v2)** | 2025-07-31 |  |
+| **[Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling](http://arxiv.org/abs/2507.23370v1)** | 2025-07-31 | <details><summary>Pengf...</summary><p>Pengfei Gao and Zhao Tian contributed equally to this technical report</p></details> |
+| **[SWE-Exp: Experience-Driven Software Issue Resolution](http://arxiv.org/abs/2507.23361v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Exp</p></details> |
+| **[Quality Evaluation of COBOL to Java Code Transformation](http://arxiv.org/abs/2507.23356v1)** | 2025-07-31 | <details><summary>Submi...</summary><p>Submitted to ASE 2025</p></details> |
+| **[SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution](http://arxiv.org/abs/2507.23348v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Debate</p></details> |
+| **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v3)** | 2025-07-31 |  |
+| **[AutoBridge: Automating Smart Device Integration with Centralized Platform](http://arxiv.org/abs/2507.23178v1)** | 2025-07-31 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under review</p></details> |
+| **[Vibe Modeling: Challenges and Opportunities](http://arxiv.org/abs/2507.23120v1)** | 2025-07-30 |  |
+| **[On LLM-Assisted Generation of Smart Contracts from Business Processes](http://arxiv.org/abs/2507.23087v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Distributed Ledger Technologies in Business Process Management, At the International Conference for Business Process Management (BPM), 2025</p></details> |
 | **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
 | **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](http://arxiv.org/abs/2507.22659v1)** | 2025-07-30 | <details><summary>36 pa...</summary><p>36 pages + 17 pages references, 6 tables, 10 figures</p></details> |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
-| **[ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis](http://arxiv.org/abs/2506.15790v3)** | 2025-07-30 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. To appear in Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware 2025), ACM ICPS. DOI: https://doi.org/10.1145/3755881.3755934</p></details> |
-| **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
-| **[SAEL: Leveraging Large Language Models with Adaptive Mixture-of-Experts for Smart Contract Vulnerability Detection](http://arxiv.org/abs/2507.22371v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted to ICSME 2025</p></details> |
-| **[From Articles to Code: On-Demand Generation of Core Algorithms from Scientific Publications](http://arxiv.org/abs/2507.22324v1)** | 2025-07-30 |  |
-| **[Automated Prompt Engineering for Cost-Effective Code Generation Using Evolutionary Algorithm](http://arxiv.org/abs/2408.11198v2)** | 2025-07-29 |  |
-| **[Toward Automated Validation of Language Model Synthesized Test Cases using Semantic Entropy](http://arxiv.org/abs/2411.08254v2)** | 2025-07-29 |  |
-| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v1)** | 2025-07-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
-| **[LLM-based Content Classification Approach for GitHub Repositories by the README Files](http://arxiv.org/abs/2507.21899v1)** | 2025-07-29 | 8 pages, 4 Figures |
-| **[The Impact of Foundational Models on Patient-Centric e-Health Systems](http://arxiv.org/abs/2507.21882v1)** | 2025-07-29 | <details><summary>Paper...</summary><p>Paper published in COMPSAC 2025</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](http://arxiv.org/abs/2507.22659v1)** | 2025-07-30 | <details><summary>36 pa...</summary><p>36 pages + 17 pages references, 6 tables, 10 figures</p></details> |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
+| **[An Empirical Study on the Amount of Changes Required for Merge Request Acceptance](http://arxiv.org/abs/2507.23640v1)** | 2025-07-31 |  |
+| **[Using weakest application conditions to rank graph transformations for graph repair](http://arxiv.org/abs/2405.08788v3)** | 2025-07-31 | <details><summary>51 pa...</summary><p>51 pages, 25 Figures, new, more efficient method for constructing application conditions, theoretical comparison to other concepts of consistency, extended evaluation</p></details> |
+| **[Testing Compositionality](http://arxiv.org/abs/2407.05028v3)** | 2025-07-31 | <details><summary>This ...</summary><p>This is a preprint of an extended version of https://doi.org/10.1007/978-3-031-71261-6_3 Formal Aspects of Component Software. FACS 2024. Lecture Notes in Computer Science, vol 15189. pp 39-56. This extended version adds new sections about combining the different introduced algorithms and how to apply them in practice, as well as several new examples in earlier sections</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[Blended PC Peer Review Model: Process and Reflection](http://arxiv.org/abs/2504.19105v2)** | 2025-07-31 | <details><summary>Publi...</summary><p>Published at ACM SIGSOFT Software Engineering Notes</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracking research software outputs in the UK](http://arxiv.org/abs/2507.22871v1)** | 2025-07-30 |  |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[VRISE: A Virtual Reality Platfrom for Immersive and Interactive Surveying Education](http://arxiv.org/abs/2507.22810v1)** | 2025-07-30 |  |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[RobEthiChor: Automated Context-aware Ethics-based Negotiation for Autonomous Robots](http://arxiv.org/abs/2507.22664v1)** | 2025-07-30 |  |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](http://arxiv.org/abs/2507.22659v1)** | 2025-07-30 | <details><summary>36 pa...</summary><p>36 pages + 17 pages references, 6 tables, 10 figures</p></details> |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
-| **[Inside madupite: Technical Design and Performance](http://arxiv.org/abs/2507.22538v1)** | 2025-07-30 |  |
-| **[Ensemble Fuzzing with Dynamic Resource Scheduling and Multidimensional Seed Evaluation](http://arxiv.org/abs/2507.22442v1)** | 2025-07-30 | first submit |
-| **[ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis](http://arxiv.org/abs/2506.15790v3)** | 2025-07-30 | <details><summary>4 pag...</summary><p>4 pages, 1 figure. To appear in Proceedings of the 16th Asia-Pacific Symposium on Internetware (Internetware 2025), ACM ICPS. DOI: https://doi.org/10.1145/3755881.3755934</p></details> |
-| **[AutoCodeSherpa: Symbolic Explanations in AI Coding Agents](http://arxiv.org/abs/2507.22414v1)** | 2025-07-30 |  |
-| **[Scalability, Availability, Reproducibility and Extensibility in Islamic Database Systems](http://arxiv.org/abs/2507.22384v1)** | 2025-07-30 |  |
+| **[An Empirical Study on the Amount of Changes Required for Merge Request Acceptance](http://arxiv.org/abs/2507.23640v1)** | 2025-07-31 |  |
+| **[Using weakest application conditions to rank graph transformations for graph repair](http://arxiv.org/abs/2405.08788v3)** | 2025-07-31 | <details><summary>51 pa...</summary><p>51 pages, 25 Figures, new, more efficient method for constructing application conditions, theoretical comparison to other concepts of consistency, extended evaluation</p></details> |
+| **[Testing Compositionality](http://arxiv.org/abs/2407.05028v3)** | 2025-07-31 | <details><summary>This ...</summary><p>This is a preprint of an extended version of https://doi.org/10.1007/978-3-031-71261-6_3 Formal Aspects of Component Software. FACS 2024. Lecture Notes in Computer Science, vol 15189. pp 39-56. This extended version adds new sections about combining the different introduced algorithms and how to apply them in practice, as well as several new examples in earlier sections</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[Blended PC Peer Review Model: Process and Reflection](http://arxiv.org/abs/2504.19105v2)** | 2025-07-31 | <details><summary>Publi...</summary><p>Published at ACM SIGSOFT Software Engineering Notes</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -181,22 +157,29 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracking research software outputs in the UK](http://arxiv.org/abs/2507.22871v1)** | 2025-07-30 |  |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
-| **[RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment](http://arxiv.org/abs/2507.22580v1)** | 2025-07-30 |  |
+| **[An Empirical Study on the Amount of Changes Required for Merge Request Acceptance](http://arxiv.org/abs/2507.23640v1)** | 2025-07-31 |  |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
+| **[Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures](http://arxiv.org/abs/2507.23425v1)** | 2025-07-31 | 9 pages, 9 figures |
+| **[Mokav: Execution-driven Differential Testing with LLMs](http://arxiv.org/abs/2406.10375v2)** | 2025-07-31 |  |
+| **[SWE-Exp: Experience-Driven Software Issue Resolution](http://arxiv.org/abs/2507.23361v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Exp</p></details> |
+| **[Quality Evaluation of COBOL to Java Code Transformation](http://arxiv.org/abs/2507.23356v1)** | 2025-07-31 | <details><summary>Submi...</summary><p>Submitted to ASE 2025</p></details> |
+| **[SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution](http://arxiv.org/abs/2507.23348v1)** | 2025-07-31 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/YerbaPage/SWE-Debate</p></details> |
+| **[CodeIF-Bench: Evaluating Instruction-Following Capabilities of Large Language Models in Interactive Code Generation](http://arxiv.org/abs/2503.22688v3)** | 2025-07-31 |  |
+| **[CodePod: A Language-Agnostic Hierarchical Scoping System for Interactive Development](http://arxiv.org/abs/2301.02410v2)** | 2025-07-31 |  |
+| **[AutoBridge: Automating Smart Device Integration with Centralized Platform](http://arxiv.org/abs/2507.23178v1)** | 2025-07-31 | <details><summary>14 pa...</summary><p>14 pages, 12 figures, under review</p></details> |
+| **[Extension Decisions in Open Source Software Ecosystem](http://arxiv.org/abs/2507.23168v1)** | 2025-07-31 | <details><summary>Paper...</summary><p>Paper published in JSS journal</p></details> |
+| **[Vibe Modeling: Challenges and Opportunities](http://arxiv.org/abs/2507.23120v1)** | 2025-07-30 |  |
+| **[Insights into resource utilization of code small language models serving with runtime engines and execution providers](http://arxiv.org/abs/2412.15441v2)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted in Journal of Systems and Software (JSS). For its published version refer to the Journal of JSS</p></details> |
+| **[On LLM-Assisted Generation of Smart Contracts from Business Processes](http://arxiv.org/abs/2507.23087v1)** | 2025-07-30 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Distributed Ledger Technologies in Business Process Management, At the International Conference for Business Process Management (BPM), 2025</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tracking research software outputs in the UK](http://arxiv.org/abs/2507.22871v1)** | 2025-07-30 |  |
-| **[Repair-R1: Better Test Before Repair](http://arxiv.org/abs/2507.22853v1)** | 2025-07-30 |  |
-| **[VRISE: A Virtual Reality Platfrom for Immersive and Interactive Surveying Education](http://arxiv.org/abs/2507.22810v1)** | 2025-07-30 |  |
-| **[The Multi-Agent Fault Localization System Based on Monte Carlo Tree Search Approach](http://arxiv.org/abs/2507.22800v1)** | 2025-07-30 |  |
-| **[Scoring Verifiers: Evaluating Synthetic Verification for Code and Reasoning](http://arxiv.org/abs/2502.13820v3)** | 2025-07-30 | COLM 2025 |
-| **[Designing for Self-Regulation in Informal Programming Learning: Insights from a Storytelling-Centric Approach](http://arxiv.org/abs/2507.22671v1)** | 2025-07-30 | 10 pages, 9 figures |
-| **[RobEthiChor: Automated Context-aware Ethics-based Negotiation for Autonomous Robots](http://arxiv.org/abs/2507.22664v1)** | 2025-07-30 |  |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](http://arxiv.org/abs/2507.22659v1)** | 2025-07-30 | <details><summary>36 pa...</summary><p>36 pages + 17 pages references, 6 tables, 10 figures</p></details> |
-| **[Metamorphic Testing of Deep Code Models: A Systematic Literature Review](http://arxiv.org/abs/2507.22610v1)** | 2025-07-30 |  |
+| **[An Empirical Study on the Amount of Changes Required for Merge Request Acceptance](http://arxiv.org/abs/2507.23640v1)** | 2025-07-31 |  |
+| **[Using weakest application conditions to rank graph transformations for graph repair](http://arxiv.org/abs/2405.08788v3)** | 2025-07-31 | <details><summary>51 pa...</summary><p>51 pages, 25 Figures, new, more efficient method for constructing application conditions, theoretical comparison to other concepts of consistency, extended evaluation</p></details> |
+| **[Testing Compositionality](http://arxiv.org/abs/2407.05028v3)** | 2025-07-31 | <details><summary>This ...</summary><p>This is a preprint of an extended version of https://doi.org/10.1007/978-3-031-71261-6_3 Formal Aspects of Component Software. FACS 2024. Lecture Notes in Computer Science, vol 15189. pp 39-56. This extended version adds new sections about combining the different introduced algorithms and how to apply them in practice, as well as several new examples in earlier sections</p></details> |
+| **[Automated Code Review Using Large Language Models at Ericsson: An Experience Report](http://arxiv.org/abs/2507.19115v2)** | 2025-07-31 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 1 table. Accepted in ICSME 2025 conference in Auckland</p></details> |
+| **[Blended PC Peer Review Model: Process and Reflection](http://arxiv.org/abs/2504.19105v2)** | 2025-07-31 | <details><summary>Publi...</summary><p>Published at ACM SIGSOFT Software Engineering Notes</p></details> |
+| **[PurpCode: Reasoning for Safer Code Generation](http://arxiv.org/abs/2507.19060v2)** | 2025-07-31 |  |
 
