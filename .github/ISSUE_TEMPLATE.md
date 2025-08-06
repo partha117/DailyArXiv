@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,45 +7,51 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Automatic Identification of Machine Learning-Specific Code Smells](http://arxiv.org/abs/2508.02541v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
-| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v3)** | 2025-08-04 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, ICSME25 accept</p></details> |
-| **[JC-Finder: Detecting Java Clone-based Third-Party Library by Class-level Tree Analysis](http://arxiv.org/abs/2508.02397v1)** | 2025-08-04 |  |
-| **[Toward a reliable PWM-based light-emitting diode visual stimulus for improved SSVEP response with minimal visual fatigue](http://arxiv.org/abs/2508.02359v1)** | 2025-08-04 |  |
-| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v1)** | 2025-08-04 |  |
-| **[Test Amplification for REST APIs via Single and Multi-Agent LLM Systems](http://arxiv.org/abs/2504.08113v2)** | 2025-08-04 |  |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[VQA support to Arabic Language Learning Educational Tool](http://arxiv.org/abs/2508.03488v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[StoneDetector: Conventional and versatile code clone detection for Java](http://arxiv.org/abs/2508.03435v1)** | 2025-08-05 | <details><summary>suppl...</summary><p>supplementary information available at https://stonedetector.fmi.uni-jena.de/</p></details> |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
+| **[Data Dependency Inference for Industrial Code Generation Based on UML Sequence Diagrams](http://arxiv.org/abs/2508.03379v1)** | 2025-08-05 |  |
+| **[Key-Augmented Neural Triggers for Knowledge Sharing](http://arxiv.org/abs/2508.03340v1)** | 2025-08-05 |  |
+| **[PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset](http://arxiv.org/abs/2503.02497v3)** | 2025-08-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach](http://arxiv.org/abs/2508.03329v1)** | 2025-08-05 | <details><summary>Submi...</summary><p>Submitted to ASE'25 Industry Showcase</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
-| **[Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots](http://arxiv.org/abs/2508.02407v1)** | 2025-08-04 |  |
-| **[JC-Finder: Detecting Java Clone-based Third-Party Library by Class-level Tree Analysis](http://arxiv.org/abs/2508.02397v1)** | 2025-08-04 |  |
-| **[Toward a reliable PWM-based light-emitting diode visual stimulus for improved SSVEP response with minimal visual fatigue](http://arxiv.org/abs/2508.02359v1)** | 2025-08-04 |  |
-| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v1)** | 2025-08-04 |  |
-| **[Test Amplification for REST APIs via Single and Multi-Agent LLM Systems](http://arxiv.org/abs/2504.08113v2)** | 2025-08-04 |  |
-| **[Automata Models for Effective Bug Pattern Description](http://arxiv.org/abs/2507.11146v2)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)</p></details> |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[VQA support to Arabic Language Learning Educational Tool](http://arxiv.org/abs/2508.03488v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
+| **[Data Dependency Inference for Industrial Code Generation Based on UML Sequence Diagrams](http://arxiv.org/abs/2508.03379v1)** | 2025-08-05 |  |
+| **[Key-Augmented Neural Triggers for Knowledge Sharing](http://arxiv.org/abs/2508.03340v1)** | 2025-08-05 |  |
+| **[PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset](http://arxiv.org/abs/2503.02497v3)** | 2025-08-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach](http://arxiv.org/abs/2508.03329v1)** | 2025-08-05 | <details><summary>Submi...</summary><p>Submitted to ASE'25 Industry Showcase</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
 | **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
 | **[Automata Models for Effective Bug Pattern Description](http://arxiv.org/abs/2507.11146v2)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)</p></details> |
 | **[CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation](http://arxiv.org/abs/2502.19166v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as an ACL 2025 Industry Track paper (15 pages)</p></details> |
 | **[Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems](http://arxiv.org/abs/2508.00198v2)** | 2025-08-04 |  |
 | **[Screencast-Based Analysis of User-Perceived GUI Responsiveness](http://arxiv.org/abs/2508.01337v1)** | 2025-08-02 |  |
+| **[AgentSight: System-Level Observability for AI Agents Using eBPF](http://arxiv.org/abs/2508.02736v1)** | 2025-08-02 |  |
 | **[A Survey on Code Generation with LLM-based Agents](http://arxiv.org/abs/2508.00083v1)** | 2025-07-31 | Work in progress |
 | **[Machine Learning Pipeline for Software Engineering: A Systematic Literature Review](http://arxiv.org/abs/2508.00045v1)** | 2025-07-31 |  |
 | **[XABPs: Towards eXplainable Autonomous Business Processes](http://arxiv.org/abs/2507.23269v1)** | 2025-07-31 |  |
@@ -54,12 +60,16 @@ labels: documentation
 | **[HLSDebugger: Identification and Correction of Logic Bugs in HLS Code with LLM Solutions](http://arxiv.org/abs/2507.21485v1)** | 2025-07-29 | <details><summary>This ...</summary><p>This work has been accepted at ICCAD 2025 (International Conference on Computer-Aided Design)</p></details> |
 | **[Distinguishing Quantum Software Bugs from Hardware Noise: A Statistical Approach](http://arxiv.org/abs/2507.20475v1)** | 2025-07-28 | <details><summary>12 pa...</summary><p>12 pages, 30 figures, accepted by the IEEE International Conference on Quantum Computing and Engineering (QCE), IEEE Quantum Week, 2025</p></details> |
 | **[BOOP: Write Right Code](http://arxiv.org/abs/2507.22085v1)** | 2025-07-27 |  |
-| **[AgentMesh: A Cooperative Multi-Agent Generative AI Framework for Software Development Automation](http://arxiv.org/abs/2507.19902v1)** | 2025-07-26 |  |
-| **[SLICEMATE: Accurate and Scalable Static Program Slicing via LLM-Powered Agents](http://arxiv.org/abs/2507.18957v1)** | 2025-07-25 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[StoneDetector: Conventional and versatile code clone detection for Java](http://arxiv.org/abs/2508.03435v1)** | 2025-08-05 | <details><summary>suppl...</summary><p>supplementary information available at https://stonedetector.fmi.uni-jena.de/</p></details> |
+| **[Key-Augmented Neural Triggers for Knowledge Sharing](http://arxiv.org/abs/2508.03340v1)** | 2025-08-05 |  |
+| **[Tool-integrated Reinforcement Learning for Repo Deep Search](http://arxiv.org/abs/2508.03012v1)** | 2025-08-05 |  |
+| **[Automated Code Repair for C/C++ Static Analysis Alerts](http://arxiv.org/abs/2508.02820v1)** | 2025-08-04 |  |
 | **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
 | **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
 | **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
@@ -67,100 +77,115 @@ labels: documentation
 | **[Test Amplification for REST APIs via Single and Multi-Agent LLM Systems](http://arxiv.org/abs/2504.08113v2)** | 2025-08-04 |  |
 | **[Automata Models for Effective Bug Pattern Description](http://arxiv.org/abs/2507.11146v2)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)</p></details> |
 | **[JSidentify-V2: Leveraging Dynamic Memory Fingerprinting for Mini-Game Plagiarism Detection](http://arxiv.org/abs/2508.01655v1)** | 2025-08-03 | 12 pages |
-| **[Exploring Direct Instruction and Summary-Mediated Prompting in LLM-Assisted Code Modification](http://arxiv.org/abs/2508.01523v1)** | 2025-08-02 |  |
-| **[An Empirical Validation of Open Source Repository Stability Metrics](http://arxiv.org/abs/2508.01358v1)** | 2025-08-02 |  |
-| **[Is LLM-Generated Code More Maintainable \& Reliable than Human-Written Code?](http://arxiv.org/abs/2508.00700v1)** | 2025-08-01 | Accepted ESEM2025 |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Visual Execution and Validation of Finite-State Machines and Pushdown Automata](http://arxiv.org/abs/2508.03641v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Design Support for Multitape Turing Machines](http://arxiv.org/abs/2508.03638v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection](http://arxiv.org/abs/2508.03588v1)** | 2025-08-05 | Submitted to TDSC |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[StoneDetector: Conventional and versatile code clone detection for Java](http://arxiv.org/abs/2508.03435v1)** | 2025-08-05 | <details><summary>suppl...</summary><p>supplementary information available at https://stonedetector.fmi.uni-jena.de/</p></details> |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
+| **[Key-Augmented Neural Triggers for Knowledge Sharing](http://arxiv.org/abs/2508.03340v1)** | 2025-08-05 |  |
+| **[PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset](http://arxiv.org/abs/2503.02497v3)** | 2025-08-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[A System Model Generation Benchmark from Natural Language Requirements](http://arxiv.org/abs/2508.03215v1)** | 2025-08-05 | 16 pages, 14 figures |
+| **[MRG-Bench: Evaluating and Exploring the Requirements of Context for Repository-Level Code Generation](http://arxiv.org/abs/2508.02998v1)** | 2025-08-05 |  |
+| **[Automated Validation of LLM-based Evaluators for Software Engineering Artifacts](http://arxiv.org/abs/2508.02827v1)** | 2025-08-04 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads](http://arxiv.org/abs/2508.02609v1)** | 2025-08-04 |  |
-| **[Automatic Identification of Machine Learning-Specific Code Smells](http://arxiv.org/abs/2508.02541v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
-| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v3)** | 2025-08-04 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, ICSME25 accept</p></details> |
-| **[Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots](http://arxiv.org/abs/2508.02407v1)** | 2025-08-04 |  |
-| **[JC-Finder: Detecting Java Clone-based Third-Party Library by Class-level Tree Analysis](http://arxiv.org/abs/2508.02397v1)** | 2025-08-04 |  |
-| **[Toward a reliable PWM-based light-emitting diode visual stimulus for improved SSVEP response with minimal visual fatigue](http://arxiv.org/abs/2508.02359v1)** | 2025-08-04 |  |
-| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v1)** | 2025-08-04 |  |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Visual Execution and Validation of Finite-State Machines and Pushdown Automata](http://arxiv.org/abs/2508.03641v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Design Support for Multitape Turing Machines](http://arxiv.org/abs/2508.03638v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection](http://arxiv.org/abs/2508.03588v1)** | 2025-08-05 | Submitted to TDSC |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[VQA support to Arabic Language Learning Educational Tool](http://arxiv.org/abs/2508.03488v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[StoneDetector: Conventional and versatile code clone detection for Java](http://arxiv.org/abs/2508.03435v1)** | 2025-08-05 | <details><summary>suppl...</summary><p>supplementary information available at https://stonedetector.fmi.uni-jena.de/</p></details> |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots](http://arxiv.org/abs/2508.02407v1)** | 2025-08-04 |  |
-| **[JC-Finder: Detecting Java Clone-based Third-Party Library by Class-level Tree Analysis](http://arxiv.org/abs/2508.02397v1)** | 2025-08-04 |  |
-| **[Toward a reliable PWM-based light-emitting diode visual stimulus for improved SSVEP response with minimal visual fatigue](http://arxiv.org/abs/2508.02359v1)** | 2025-08-04 |  |
-| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v1)** | 2025-08-04 |  |
-| **[Interoperable verification and dissemination of software assets in repositories using COAR Notify](http://arxiv.org/abs/2508.02335v1)** | 2025-08-04 | <details><summary>8 pag...</summary><p>8 pages. Presented at the 20th International Conference on Open Repositories, June 15-18 2025, Chicago, Illinois, USA</p></details> |
-| **[Tool-Assisted Conformance Checking to Reference Process Models](http://arxiv.org/abs/2508.00738v2)** | 2025-08-04 |  |
-| **[Test Amplification for REST APIs via Single and Multi-Agent LLM Systems](http://arxiv.org/abs/2504.08113v2)** | 2025-08-04 |  |
-| **[Automata Models for Effective Bug Pattern Description](http://arxiv.org/abs/2507.11146v2)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)</p></details> |
-| **[Robustness tests for biomedical foundation models should tailor to specifications](http://arxiv.org/abs/2502.10374v2)** | 2025-08-04 | <details><summary>revis...</summary><p>revised version, for associated repo see https://github.com/RealPolitiX/bfm-robust</p></details> |
-| **[A Methodological Framework for LLM-Based Mining of Software Repositories](http://arxiv.org/abs/2508.02233v1)** | 2025-08-04 |  |
-| **[Highly Interactive Testing for Uninterrupted Development Flow](http://arxiv.org/abs/2508.02176v1)** | 2025-08-04 | 12 pages, ICFP-2025 |
-| **[Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling](http://arxiv.org/abs/2412.15305v2)** | 2025-08-04 | <details><summary>This ...</summary><p>This idea was first submitted to the NeuralPS Workshop "System 2 Reasoning At Scale" in September 2024. Its OpenReview: https://openreview.net/forum?id=8NKAL8Ngxk&noteId=8NKAL8Ngxk. It was then submitted to the NAACL 2025 in October 2024, which is recorded in: https://openreview.net/forum?id=S0ZUWD3Vy5&noteId=S0ZUWD3Vy5. Now this paper has been accepted for publication in ACL 2025 Findings</p></details> |
-| **[CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation](http://arxiv.org/abs/2502.19166v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as an ACL 2025 Industry Track paper (15 pages)</p></details> |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset](http://arxiv.org/abs/2503.02497v3)** | 2025-08-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach](http://arxiv.org/abs/2508.03329v1)** | 2025-08-05 | <details><summary>Submi...</summary><p>Submitted to ASE'25 Industry Showcase</p></details> |
+| **[GUI-ReRank: Enhancing GUI Retrieval with Multi-Modal LLM-based Reranking](http://arxiv.org/abs/2508.03298v1)** | 2025-08-05 |  |
+| **[Tool-integrated Reinforcement Learning for Repo Deep Search](http://arxiv.org/abs/2508.03012v1)** | 2025-08-05 |  |
+| **[MRG-Bench: Evaluating and Exploring the Requirements of Context for Repository-Level Code Generation](http://arxiv.org/abs/2508.02998v1)** | 2025-08-05 |  |
+| **[Developer Perceptions on Utilising Low-Code Approaches to Build Accessible and Adaptive Applications for Seniors](http://arxiv.org/abs/2508.02968v1)** | 2025-08-05 | <details><summary>This ...</summary><p>This paper has been submitted to ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
+| **[Agentic LMs: Hunting Down Test Smells](http://arxiv.org/abs/2504.07277v2)** | 2025-08-04 |  |
+| **[Automated Validation of LLM-based Evaluators for Software Engineering Artifacts](http://arxiv.org/abs/2508.02827v1)** | 2025-08-04 |  |
+| **[Automated Code Repair for C/C++ Static Analysis Alerts](http://arxiv.org/abs/2508.02820v1)** | 2025-08-04 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
-| **[Test Amplification for REST APIs via Single and Multi-Agent LLM Systems](http://arxiv.org/abs/2504.08113v2)** | 2025-08-04 |  |
-| **[StackTrans: From Large Language Model to Large Pushdown Automata Model](http://arxiv.org/abs/2507.15343v2)** | 2025-08-04 |  |
-| **[A Methodological Framework for LLM-Based Mining of Software Repositories](http://arxiv.org/abs/2508.02233v1)** | 2025-08-04 |  |
-| **[Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling](http://arxiv.org/abs/2412.15305v2)** | 2025-08-04 | <details><summary>This ...</summary><p>This idea was first submitted to the NeuralPS Workshop "System 2 Reasoning At Scale" in September 2024. Its OpenReview: https://openreview.net/forum?id=8NKAL8Ngxk&noteId=8NKAL8Ngxk. It was then submitted to the NAACL 2025 in October 2024, which is recorded in: https://openreview.net/forum?id=S0ZUWD3Vy5&noteId=S0ZUWD3Vy5. Now this paper has been accepted for publication in ACL 2025 Findings</p></details> |
-| **[CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation](http://arxiv.org/abs/2502.19166v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as an ACL 2025 Industry Track paper (15 pages)</p></details> |
-| **[PCREQ: Automated Inference of Compatible Requirements for Python Third-party Library Upgrades](http://arxiv.org/abs/2508.02023v1)** | 2025-08-04 | 52 pages, 33 figures |
-| **[Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems](http://arxiv.org/abs/2508.00198v2)** | 2025-08-04 |  |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
+| **[Data Dependency Inference for Industrial Code Generation Based on UML Sequence Diagrams](http://arxiv.org/abs/2508.03379v1)** | 2025-08-05 |  |
+| **[Key-Augmented Neural Triggers for Knowledge Sharing](http://arxiv.org/abs/2508.03340v1)** | 2025-08-05 |  |
+| **[PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset](http://arxiv.org/abs/2503.02497v3)** | 2025-08-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach](http://arxiv.org/abs/2508.03329v1)** | 2025-08-05 | <details><summary>Submi...</summary><p>Submitted to ASE'25 Industry Showcase</p></details> |
+| **[GUI-ReRank: Enhancing GUI Retrieval with Multi-Modal LLM-based Reranking](http://arxiv.org/abs/2508.03298v1)** | 2025-08-05 |  |
+| **[SmartLLMs Scheduler: A Framework for Cost-Effective LLMs Utilization](http://arxiv.org/abs/2508.03258v1)** | 2025-08-05 |  |
+| **[A System Model Generation Benchmark from Natural Language Requirements](http://arxiv.org/abs/2508.03215v1)** | 2025-08-05 | 16 pages, 14 figures |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads](http://arxiv.org/abs/2508.02609v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Visual Execution and Validation of Finite-State Machines and Pushdown Automata](http://arxiv.org/abs/2508.03641v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Design Support for Multitape Turing Machines](http://arxiv.org/abs/2508.03638v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection](http://arxiv.org/abs/2508.03588v1)** | 2025-08-05 | Submitted to TDSC |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[VQA support to Arabic Language Learning Educational Tool](http://arxiv.org/abs/2508.03488v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads](http://arxiv.org/abs/2508.02609v1)** | 2025-08-04 |  |
-| **[Automatic Identification of Machine Learning-Specific Code Smells](http://arxiv.org/abs/2508.02541v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
-| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v3)** | 2025-08-04 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, ICSME25 accept</p></details> |
-| **[Quantum Machine Learning-based Test Oracle for Autonomous Mobile Robots](http://arxiv.org/abs/2508.02407v1)** | 2025-08-04 |  |
-| **[JC-Finder: Detecting Java Clone-based Third-Party Library by Class-level Tree Analysis](http://arxiv.org/abs/2508.02397v1)** | 2025-08-04 |  |
-| **[Toward a reliable PWM-based light-emitting diode visual stimulus for improved SSVEP response with minimal visual fatigue](http://arxiv.org/abs/2508.02359v1)** | 2025-08-04 |  |
-| **[Vision Language Model-based Testing of Industrial Autonomous Mobile Robots](http://arxiv.org/abs/2508.02338v1)** | 2025-08-04 |  |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Visual Execution and Validation of Finite-State Machines and Pushdown Automata](http://arxiv.org/abs/2508.03641v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Design Support for Multitape Turing Machines](http://arxiv.org/abs/2508.03638v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection](http://arxiv.org/abs/2508.03588v1)** | 2025-08-05 | Submitted to TDSC |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[VQA support to Arabic Language Learning Educational Tool](http://arxiv.org/abs/2508.03488v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[On the Evaluation of Large Language Models in Multilingual Vulnerability Repair](http://arxiv.org/abs/2508.03470v1)** | 2025-08-05 |  |
+| **[StoneDetector: Conventional and versatile code clone detection for Java](http://arxiv.org/abs/2508.03435v1)** | 2025-08-05 | <details><summary>suppl...</summary><p>supplementary information available at https://stonedetector.fmi.uni-jena.de/</p></details> |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -172,32 +197,35 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Automatic Identification of Machine Learning-Specific Code Smells](http://arxiv.org/abs/2508.02541v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v3)** | 2025-08-04 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, ICSME25 accept</p></details> |
-| **[JC-Finder: Detecting Java Clone-based Third-Party Library by Class-level Tree Analysis](http://arxiv.org/abs/2508.02397v1)** | 2025-08-04 |  |
-| **[Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling](http://arxiv.org/abs/2412.15305v2)** | 2025-08-04 | <details><summary>This ...</summary><p>This idea was first submitted to the NeuralPS Workshop "System 2 Reasoning At Scale" in September 2024. Its OpenReview: https://openreview.net/forum?id=8NKAL8Ngxk&noteId=8NKAL8Ngxk. It was then submitted to the NAACL 2025 in October 2024, which is recorded in: https://openreview.net/forum?id=S0ZUWD3Vy5&noteId=S0ZUWD3Vy5. Now this paper has been accepted for publication in ACL 2025 Findings</p></details> |
-| **[Decision Models for Selecting Architecture Patterns and Strategies in Quantum Software Systems](http://arxiv.org/abs/2507.11671v2)** | 2025-08-04 | <details><summary>49 pa...</summary><p>49 pages, 10 images, 16 tables, Manuscript submitted to a journal (2025)</p></details> |
-| **[CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation](http://arxiv.org/abs/2502.19166v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as an ACL 2025 Industry Track paper (15 pages)</p></details> |
-| **[PCREQ: Automated Inference of Compatible Requirements for Python Third-party Library Upgrades](http://arxiv.org/abs/2508.02023v1)** | 2025-08-04 | 52 pages, 33 figures |
-| **[Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems](http://arxiv.org/abs/2508.00198v2)** | 2025-08-04 |  |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
+| **[StoneDetector: Conventional and versatile code clone detection for Java](http://arxiv.org/abs/2508.03435v1)** | 2025-08-05 | <details><summary>suppl...</summary><p>supplementary information available at https://stonedetector.fmi.uni-jena.de/</p></details> |
+| **[NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification](http://arxiv.org/abs/2508.02823v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted in UIST 2025</p></details> |
+| **[Data Dependency Inference for Industrial Code Generation Based on UML Sequence Diagrams](http://arxiv.org/abs/2508.03379v1)** | 2025-08-05 |  |
+| **[Key-Augmented Neural Triggers for Knowledge Sharing](http://arxiv.org/abs/2508.03340v1)** | 2025-08-05 |  |
+| **[PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset](http://arxiv.org/abs/2503.02497v3)** | 2025-08-05 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 7 tables</p></details> |
+| **[Industrial LLM-based Code Optimization under Regulation: A Mixture-of-Agents Approach](http://arxiv.org/abs/2508.03329v1)** | 2025-08-05 | <details><summary>Submi...</summary><p>Submitted to ASE'25 Industry Showcase</p></details> |
+| **[Dynamic and Static Analysis of Python Software with Kieker Including Reconstructed Architectures](http://arxiv.org/abs/2507.23425v2)** | 2025-08-05 | <details><summary>9 pag...</summary><p>9 pages, 9 figures. Added doi to zenodo reference. Replaced the pipeline diagram</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Meta-RAG on Large Codebases Using Code Summarization](http://arxiv.org/abs/2508.02611v1)** | 2025-08-04 |  |
-| **[Entity Representation Learning Through Onsite-Offsite Graph for Pinterset Ads](http://arxiv.org/abs/2508.02609v1)** | 2025-08-04 |  |
-| **[Automatic Identification of Machine Learning-Specific Code Smells](http://arxiv.org/abs/2508.02541v1)** | 2025-08-04 |  |
-| **[Bridging Language Gaps in Open-Source Documentation with Large-Language-Model Translation](http://arxiv.org/abs/2508.02497v1)** | 2025-08-04 |  |
-| **[Commit Stability as a Signal for Risk in Open-Source Projects](http://arxiv.org/abs/2508.02487v1)** | 2025-08-04 |  |
-| **[An Efficient and Adaptive Next Edit Suggestion Framework with Zero Human Instructions in IDEs](http://arxiv.org/abs/2508.02473v1)** | 2025-08-04 | 13 pages |
-| **[AIAP: A No-Code Workflow Builder for Non-Experts with Natural Language and Multi-Agent Collaboration](http://arxiv.org/abs/2508.02470v1)** | 2025-08-04 | 14 pages, 6 figures |
-| **[TreeRanker: Fast and Model-agnostic Ranking System for Code Suggestions in IDEs](http://arxiv.org/abs/2508.02455v1)** | 2025-08-04 |  |
-| **[Do AI models help produce verified bug fixes?](http://arxiv.org/abs/2507.15822v2)** | 2025-08-04 |  |
-| **[CABENCH: Benchmarking Composable AI for Solving Complex Tasks through Composing Ready-to-Use Models](http://arxiv.org/abs/2508.02427v1)** | 2025-08-04 |  |
-| **[Refactoring Deep Learning Code: A Study of Practices and Unsatisfied Tool Needs](http://arxiv.org/abs/2405.04861v3)** | 2025-08-04 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, ICSME25 accept</p></details> |
+| **[$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection](http://arxiv.org/abs/2507.10583v2)** | 2025-08-05 |  |
+| **[Intent Preserving Generation of Diverse and Idiomatic (Code-)Artifacts](http://arxiv.org/abs/2508.03642v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Visual Execution and Validation of Finite-State Machines and Pushdown Automata](http://arxiv.org/abs/2508.03641v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[A Design Recipe and Recipe-Based Errors for Regular Expressions](http://arxiv.org/abs/2508.03639v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[Design Support for Multitape Turing Machines](http://arxiv.org/abs/2508.03638v1)** | 2025-08-05 | <details><summary>In Pr...</summary><p>In Proceedings TFPiE 2025, arXiv:2508.02305</p></details> |
+| **[ELFuzz: Efficient Input Generation via LLM-driven Synthesis Over Fuzzer Space](http://arxiv.org/abs/2506.10323v4)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by USENIX Security'25 Cycle 2</p></details> |
+| **[ReFuzzer: Feedback-Driven Approach to Enhance Validity of LLM-Generated Test Programs](http://arxiv.org/abs/2508.03603v1)** | 2025-08-05 |  |
+| **[MalFlows: Context-aware Fusion of Heterogeneous Flow Semantics for Android Malware Detection](http://arxiv.org/abs/2508.03588v1)** | 2025-08-05 | Submitted to TDSC |
+| **[LaTCoder: Converting Webpage Design to Code with Layout-as-Thought](http://arxiv.org/abs/2508.03560v1)** | 2025-08-05 | KDD 2025 v2 |
+| **[Training Long-Context, Multi-Turn Software Engineering Agents with Reinforcement Learning](http://arxiv.org/abs/2508.03501v1)** | 2025-08-05 |  |
+| **[VQA support to Arabic Language Learning Educational Tool](http://arxiv.org/abs/2508.03488v1)** | 2025-08-05 |  |
+| **[BitsAI-Fix: LLM-Driven Approach for Automated Lint Error Resolution in Practice](http://arxiv.org/abs/2508.03487v1)** | 2025-08-05 |  |
 
