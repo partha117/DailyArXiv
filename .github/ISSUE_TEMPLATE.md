@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,36 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
-| **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
-| **[Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs](http://arxiv.org/abs/2507.01457v2)** | 2025-08-19 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 2 algorithms</p></details> |
-| **[The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget](http://arxiv.org/abs/2508.13666v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICSE'26 (First Cycle)</p></details> |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards a DSL to Formalize Multimodal Requirements](http://arxiv.org/abs/2508.14631v1)** | 2025-08-20 |  |
+| **[The importance of visual modelling languages in generative software engineering](http://arxiv.org/abs/2411.17976v4)** | 2025-08-20 | <details><summary>9 pag...</summary><p>9 pages, working paper</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](http://arxiv.org/abs/2508.06879v2)** | 2025-08-20 |  |
+| **[Towards LLM-generated explanations for Component-based Knowledge Graph Question Answering Systems](http://arxiv.org/abs/2508.14553v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWI 2024, Zagreb. Released with ISBN: 978-989-8704-62-7. Data source: https://figshare.com/articles/dataset/Towards_LLM-generated_explanations_for_component-based_knowledge_graph_question_answering_systems/27079687</p></details> |
+| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
+| **[Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes](http://arxiv.org/abs/2508.14533v1)** | 2025-08-20 |  |
+| **[Preguss: It Analyzes, It Specifies, It Verifies](http://arxiv.org/abs/2508.14532v1)** | 2025-08-20 | <details><summary>Posit...</summary><p>Position paper to appear in the 1st International Workshop on Language Models and Programming Languages (LMPL '25)</p></details> |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v1)** | 2025-08-20 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025</p></details> |
+| **[Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness](http://arxiv.org/abs/2508.14419v1)** | 2025-08-20 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
-| **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
-| **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards a DSL to Formalize Multimodal Requirements](http://arxiv.org/abs/2508.14631v1)** | 2025-08-20 |  |
+| **[The importance of visual modelling languages in generative software engineering](http://arxiv.org/abs/2411.17976v4)** | 2025-08-20 | <details><summary>9 pag...</summary><p>9 pages, working paper</p></details> |
+| **[Towards LLM-generated explanations for Component-based Knowledge Graph Question Answering Systems](http://arxiv.org/abs/2508.14553v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWI 2024, Zagreb. Released with ISBN: 978-989-8704-62-7. Data source: https://figshare.com/articles/dataset/Towards_LLM-generated_explanations_for_component-based_knowledge_graph_question_answering_systems/27079687</p></details> |
+| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
+| **[Preguss: It Analyzes, It Specifies, It Verifies](http://arxiv.org/abs/2508.14532v1)** | 2025-08-20 | <details><summary>Posit...</summary><p>Position paper to appear in the 1st International Workshop on Language Models and Programming Languages (LMPL '25)</p></details> |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v1)** | 2025-08-20 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025</p></details> |
+| **[Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness](http://arxiv.org/abs/2508.14419v1)** | 2025-08-20 |  |
+| **[Tuning Random Generators: Property-Based Testing as Probabilistic Programming](http://arxiv.org/abs/2508.14394v1)** | 2025-08-20 | <details><summary>Exten...</summary><p>Extended version of OOPSLA '25 paper</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
 | **[AgentSight: System-Level Observability for AI Agents Using eBPF](http://arxiv.org/abs/2508.02736v2)** | 2025-08-15 |  |
 | **[Defects4Log: Benchmarking LLMs for Logging Code Defect Detection and Reasoning](http://arxiv.org/abs/2508.11305v1)** | 2025-08-15 |  |
 | **[OmniLLP: Enhancing LLM-based Log Level Prediction with Context-Aware Retrieval](http://arxiv.org/abs/2508.08545v1)** | 2025-08-12 |  |
@@ -40,86 +51,104 @@ labels: documentation
 | **[Automata Models for Effective Bug Pattern Description](http://arxiv.org/abs/2507.11146v2)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to the ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS 2025)</p></details> |
 | **[CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation](http://arxiv.org/abs/2502.19166v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as an ACL 2025 Industry Track paper (15 pages)</p></details> |
 | **[Testing the Untestable? An Empirical Study on the Testing Process of LLM-Powered Software Systems](http://arxiv.org/abs/2508.00198v2)** | 2025-08-04 |  |
-| **[Screencast-Based Analysis of User-Perceived GUI Responsiveness](http://arxiv.org/abs/2508.01337v1)** | 2025-08-02 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v1)** | 2025-08-20 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025</p></details> |
+| **[Tuning Random Generators: Property-Based Testing as Probabilistic Programming](http://arxiv.org/abs/2508.14394v1)** | 2025-08-20 | <details><summary>Exten...</summary><p>Extended version of OOPSLA '25 paper</p></details> |
+| **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem](http://arxiv.org/abs/2506.02040v3)** | 2025-08-20 |  |
 | **[Tight Inter-Core Cache Contention Analysis for WCET Estimation on Multicore Systems](http://arxiv.org/abs/2508.13863v1)** | 2025-08-19 |  |
 | **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
 | **[XAMT: Cross-Framework API Matching for Testing Deep Learning Libraries](http://arxiv.org/abs/2508.12546v1)** | 2025-08-18 |  |
-| **[Hierarchical Knowledge Injection for Improving LLM-based Program Repair](http://arxiv.org/abs/2506.24015v2)** | 2025-08-17 | <details><summary>Accep...</summary><p>Accepted at IEEE/ACM Automated Software Engineering (ASE) 2025 Conference</p></details> |
-| **[Where Are Large Language Models for Code Generation on GitHub?](http://arxiv.org/abs/2406.19544v3)** | 2025-08-17 |  |
-| **[Understanding LLM-Centric Challenges for Deep Learning Frameworks: An Empirical Analysis](http://arxiv.org/abs/2506.13114v2)** | 2025-08-17 | 46 pages, 14 figures |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-
-## "software maintenance"
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[Tight Inter-Core Cache Contention Analysis for WCET Estimation on Multicore Systems](http://arxiv.org/abs/2508.13863v1)** | 2025-08-19 |  |
-| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
-
-## "automated testing"
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
-| **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
-| **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
-| **[Large Language Models as Visualization Agents for Immersive Binary Reverse Engineering](http://arxiv.org/abs/2508.13413v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to IEEE VISSOFT 2025</p></details> |
-| **["I see models being a whole other thing": An Empirical Study of Pre-Trained Model Naming Conventions and A Tool for Enhancing Naming Consistency](http://arxiv.org/abs/2310.01642v3)** | 2025-08-18 | Published at EMSE'25 |
-| **[New Interaction Paradigm for Complex EDA Software Leveraging GPT](http://arxiv.org/abs/2307.14740v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted to ICML 2025 Workshop on New In Machine Learning (NewInML), 9 pages, 8 figures</p></details> |
-| **[Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks](http://arxiv.org/abs/2508.13143v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by ASE 2025 NIER</p></details> |
-| **[NoCode-bench: A Benchmark for Evaluating Natural Language-Driven Feature Addition](http://arxiv.org/abs/2507.18130v3)** | 2025-08-18 |  |
-| **[RUM: Rule+LLM-Based Comprehensive Assessment on Testing Skills](http://arxiv.org/abs/2508.12922v1)** | 2025-08-18 |  |
-| **[Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems](http://arxiv.org/abs/2506.17208v2)** | 2025-08-18 |  |
-
-## "llm"
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API](http://arxiv.org/abs/2508.13774v1)** | 2025-08-19 | <details><summary>Prepr...</summary><p>Preprint, submitted to the 2nd Workshop on Computational Drama Analysis at DraCor Summit 2025, September 03, 2025, Berlin, Germany</p></details> |
-| **[The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget](http://arxiv.org/abs/2508.13666v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICSE'26 (First Cycle)</p></details> |
-| **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
-| **[Large Language Models as Visualization Agents for Immersive Binary Reverse Engineering](http://arxiv.org/abs/2508.13413v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to IEEE VISSOFT 2025</p></details> |
-| **[Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks](http://arxiv.org/abs/2508.13143v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by ASE 2025 NIER</p></details> |
-| **[NoCode-bench: A Benchmark for Evaluating Natural Language-Driven Feature Addition](http://arxiv.org/abs/2507.18130v3)** | 2025-08-18 |  |
-| **[RUM: Rule+LLM-Based Comprehensive Assessment on Testing Skills](http://arxiv.org/abs/2508.12922v1)** | 2025-08-18 |  |
-| **[Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems](http://arxiv.org/abs/2506.17208v2)** | 2025-08-18 |  |
-
-## "large language model"
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
-| **[Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API](http://arxiv.org/abs/2508.13774v1)** | 2025-08-19 | <details><summary>Prepr...</summary><p>Preprint, submitted to the 2nd Workshop on Computational Drama Analysis at DraCor Summit 2025, September 03, 2025, Berlin, Germany</p></details> |
-| **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
-
-## "prompt engineering"
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
+| **[Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes](http://arxiv.org/abs/2508.14533v1)** | 2025-08-20 |  |
+| **[Preguss: It Analyzes, It Specifies, It Verifies](http://arxiv.org/abs/2508.14532v1)** | 2025-08-20 | <details><summary>Posit...</summary><p>Position paper to appear in the 1st International Workshop on Language Models and Programming Languages (LMPL '25)</p></details> |
+| **[Tuning Random Generators: Property-Based Testing as Probabilistic Programming](http://arxiv.org/abs/2508.14394v1)** | 2025-08-20 | <details><summary>Exten...</summary><p>Extended version of OOPSLA '25 paper</p></details> |
+| **[Measuring LLM Code Generation Stability via Structural Entropy](http://arxiv.org/abs/2508.14288v1)** | 2025-08-19 | ASE-NIER |
 | **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 | **[Tight Inter-Core Cache Contention Analysis for WCET Estimation on Multicore Systems](http://arxiv.org/abs/2508.13863v1)** | 2025-08-19 |  |
-| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
-| **[How Do Users Revise Architectural Related Questions on Stack Overflow: An Empirical Study](http://arxiv.org/abs/2406.18959v3)** | 2025-08-19 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Empirical Software Engineering, 2025</p></details> |
-| **[Agentic DraCor and the Art of Docstring Engineering: Evaluating MCP-empowered LLM Usage of the DraCor API](http://arxiv.org/abs/2508.13774v1)** | 2025-08-19 | <details><summary>Prepr...</summary><p>Preprint, submitted to the 2nd Workshop on Computational Drama Analysis at DraCor Summit 2025, September 03, 2025, Berlin, Germany</p></details> |
 | **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
 | **[Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs](http://arxiv.org/abs/2507.01457v2)** | 2025-08-19 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 2 algorithms</p></details> |
 | **[The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget](http://arxiv.org/abs/2508.13666v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICSE'26 (First Cycle)</p></details> |
-| **[Conflicting Scores, Confusing Signals: An Empirical Study of Vulnerability Scoring Systems](http://arxiv.org/abs/2508.13644v1)** | 2025-08-19 |  |
 | **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
 | **[Reactive Semantics for User Interface Description Languages](http://arxiv.org/abs/2508.13610v1)** | 2025-08-19 | <details><summary>In Pr...</summary><p>In Proceedings ICE 2025, arXiv:2508.12308</p></details> |
 | **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
 | **[Large Language Models as Visualization Agents for Immersive Binary Reverse Engineering](http://arxiv.org/abs/2508.13413v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted to IEEE VISSOFT 2025</p></details> |
-| **[A Comparative Study of Delta Parquet, Iceberg, and Hudi for Automotive Data Engineering Use Cases](http://arxiv.org/abs/2508.13396v1)** | 2025-08-18 | <details><summary>Publi...</summary><p>Published in SSRG International Journal of Computer Science and Engineering (IJCSE), July 2025. This is the authors accepted manuscript. The final published version is available</p></details> |
+| **[Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems](http://arxiv.org/abs/2506.17208v2)** | 2025-08-18 |  |
+| **[Strengthening Programming Comprehension in Large Language Models through Code Generation](http://arxiv.org/abs/2508.12620v1)** | 2025-08-18 | 11 pages, 7 figures |
+
+## "software maintenance"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[A Guide to Stakeholder Analysis for Cybersecurity Researchers](http://arxiv.org/abs/2508.14796v1)** | 2025-08-20 |  |
+| **[From App Features to Explanation Needs: Analyzing Correlations and Predictive Potential](http://arxiv.org/abs/2508.03881v2)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
+| **[Challenges of Virtual Validation and Verification for Automotive Functions](http://arxiv.org/abs/2508.14747v1)** | 2025-08-20 | <details><summary>This ...</summary><p>This work is supported by Sweden's innovation agency, Vinnova, under Grant No. 2021-05043 entitled "Enabling Virtual Validation and Verification for ADAS and AD Features (EVIDENT)."</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards a DSL to Formalize Multimodal Requirements](http://arxiv.org/abs/2508.14631v1)** | 2025-08-20 |  |
+
+## "automated testing"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Preguss: It Analyzes, It Specifies, It Verifies](http://arxiv.org/abs/2508.14532v1)** | 2025-08-20 | <details><summary>Posit...</summary><p>Position paper to appear in the 1st International Workshop on Language Models and Programming Languages (LMPL '25)</p></details> |
+| **[Design and Evaluation of a Scalable Data Pipeline for AI-Driven Air Quality Monitoring in Low-Resource Settings](http://arxiv.org/abs/2508.14451v1)** | 2025-08-20 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
+| **[Tuning Random Generators: Property-Based Testing as Probabilistic Programming](http://arxiv.org/abs/2508.14394v1)** | 2025-08-20 | <details><summary>Exten...</summary><p>Extended version of OOPSLA '25 paper</p></details> |
+| **[Measuring LLM Code Generation Stability via Structural Entropy](http://arxiv.org/abs/2508.14288v1)** | 2025-08-19 | ASE-NIER |
+| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
+| **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
+| **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
+| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
+
+## "llm"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards LLM-generated explanations for Component-based Knowledge Graph Question Answering Systems](http://arxiv.org/abs/2508.14553v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWI 2024, Zagreb. Released with ISBN: 978-989-8704-62-7. Data source: https://figshare.com/articles/dataset/Towards_LLM-generated_explanations_for_component-based_knowledge_graph_question_answering_systems/27079687</p></details> |
+| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
+| **[Preguss: It Analyzes, It Specifies, It Verifies](http://arxiv.org/abs/2508.14532v1)** | 2025-08-20 | <details><summary>Posit...</summary><p>Position paper to appear in the 1st International Workshop on Language Models and Programming Languages (LMPL '25)</p></details> |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v1)** | 2025-08-20 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025</p></details> |
+| **[Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness](http://arxiv.org/abs/2508.14419v1)** | 2025-08-20 |  |
+| **[Beyond the Protocol: Unveiling Attack Vectors in the Model Context Protocol (MCP) Ecosystem](http://arxiv.org/abs/2506.02040v3)** | 2025-08-20 |  |
+| **[Measuring LLM Code Generation Stability via Structural Entropy](http://arxiv.org/abs/2508.14288v1)** | 2025-08-19 | ASE-NIER |
+
+## "large language model"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[From App Features to Explanation Needs: Analyzing Correlations and Predictive Potential](http://arxiv.org/abs/2508.03881v2)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards a DSL to Formalize Multimodal Requirements](http://arxiv.org/abs/2508.14631v1)** | 2025-08-20 |  |
+| **[The importance of visual modelling languages in generative software engineering](http://arxiv.org/abs/2411.17976v4)** | 2025-08-20 | <details><summary>9 pag...</summary><p>9 pages, working paper</p></details> |
+| **[Towards LLM-generated explanations for Component-based Knowledge Graph Question Answering Systems](http://arxiv.org/abs/2508.14553v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWI 2024, Zagreb. Released with ISBN: 978-989-8704-62-7. Data source: https://figshare.com/articles/dataset/Towards_LLM-generated_explanations_for_component-based_knowledge_graph_question_answering_systems/27079687</p></details> |
+| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
+
+## "prompt engineering"
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[A Guide to Stakeholder Analysis for Cybersecurity Researchers](http://arxiv.org/abs/2508.14796v1)** | 2025-08-20 |  |
+| **[From App Features to Explanation Needs: Analyzing Correlations and Predictive Potential](http://arxiv.org/abs/2508.03881v2)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
+| **[Challenges of Virtual Validation and Verification for Automotive Functions](http://arxiv.org/abs/2508.14747v1)** | 2025-08-20 | <details><summary>This ...</summary><p>This work is supported by Sweden's innovation agency, Vinnova, under Grant No. 2021-05043 entitled "Enabling Virtual Validation and Verification for ADAS and AD Features (EVIDENT)."</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards a DSL to Formalize Multimodal Requirements](http://arxiv.org/abs/2508.14631v1)** | 2025-08-20 |  |
+| **[The importance of visual modelling languages in generative software engineering](http://arxiv.org/abs/2411.17976v4)** | 2025-08-20 | <details><summary>9 pag...</summary><p>9 pages, working paper</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](http://arxiv.org/abs/2508.06879v2)** | 2025-08-20 |  |
+| **[Towards LLM-generated explanations for Component-based Knowledge Graph Question Answering Systems](http://arxiv.org/abs/2508.14553v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWI 2024, Zagreb. Released with ISBN: 978-989-8704-62-7. Data source: https://figshare.com/articles/dataset/Towards_LLM-generated_explanations_for_component-based_knowledge_graph_question_answering_systems/27079687</p></details> |
+| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
+| **[Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes](http://arxiv.org/abs/2508.14533v1)** | 2025-08-20 |  |
+| **[Preguss: It Analyzes, It Specifies, It Verifies](http://arxiv.org/abs/2508.14532v1)** | 2025-08-20 | <details><summary>Posit...</summary><p>Position paper to appear in the 1st International Workshop on Language Models and Programming Languages (LMPL '25)</p></details> |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v1)** | 2025-08-20 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025</p></details> |
+| **[Design and Evaluation of a Scalable Data Pipeline for AI-Driven Air Quality Monitoring in Low-Resource Settings](http://arxiv.org/abs/2508.14451v1)** | 2025-08-20 | <details><summary>15 pa...</summary><p>15 pages, 11 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
+| **[Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness](http://arxiv.org/abs/2508.14419v1)** | 2025-08-20 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -131,21 +160,27 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](http://arxiv.org/abs/2508.06879v2)** | 2025-08-20 |  |
+| **[Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes](http://arxiv.org/abs/2508.14533v1)** | 2025-08-20 |  |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v1)** | 2025-08-20 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025</p></details> |
+| **[Static Analysis as a Feedback Loop: Enhancing LLM-Generated Code Beyond Correctness](http://arxiv.org/abs/2508.14419v1)** | 2025-08-20 |  |
+| **[Measuring LLM Code Generation Stability via Structural Entropy](http://arxiv.org/abs/2508.14288v1)** | 2025-08-19 | ASE-NIER |
 | **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 | **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[COMPASS: A Multi-Dimensional Benchmark for Evaluating Code Generation in Large Language Models](http://arxiv.org/abs/2508.13757v1)** | 2025-08-19 |  |
 | **[Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs](http://arxiv.org/abs/2507.01457v2)** | 2025-08-19 | <details><summary>9 pag...</summary><p>9 pages, 10 figures, 2 algorithms</p></details> |
 | **[The Hidden Cost of Readability: How Code Formatting Silently Consumes Your LLM Budget](http://arxiv.org/abs/2508.13666v1)** | 2025-08-19 | <details><summary>Accep...</summary><p>Accepted by ICSE'26 (First Cycle)</p></details> |
-| **[May the Feedback Be with You! Unlocking the Power of Feedback-Driven Deep Learning Framework Fuzzing via LLMs](http://arxiv.org/abs/2506.17642v2)** | 2025-08-19 |  |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
-| **[Exploring Autonomous Agents: A Closer Look at Why They Fail When Completing Tasks](http://arxiv.org/abs/2508.13143v1)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted by ASE 2025 NIER</p></details> |
-| **[NoCode-bench: A Benchmark for Evaluating Natural Language-Driven Feature Addition](http://arxiv.org/abs/2507.18130v3)** | 2025-08-18 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing UML Diagrams by ChatGPT: Implications for Education](http://arxiv.org/abs/2412.17200v2)** | 2025-08-19 | <details><summary>23 pa...</summary><p>23 pages, 6 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
-| **[Tight Inter-Core Cache Contention Analysis for WCET Estimation on Multicore Systems](http://arxiv.org/abs/2508.13863v1)** | 2025-08-19 |  |
-| **[ChangePrism: Visualizing the Essence of Code Changes](http://arxiv.org/abs/2508.12649v2)** | 2025-08-19 | <details><summary>(C) 2...</summary><p>(C) 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Structural and Connectivity Patterns in the Maven Central Software Dependency Network](http://arxiv.org/abs/2508.13819v1)** | 2025-08-19 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 34th International Conference on Software Engineering and Data Engineering</p></details> |
+| **[Action Engine: Automatic Workflow Generation in FaaS](http://arxiv.org/abs/2411.19485v2)** | 2025-08-20 | <details><summary>Publi...</summary><p>Published in the Future Generation Computer Systems (FGCS) journal; Source code is available at: https://github.com/hpcclab/action_engine</p></details> |
+| **[A Guide to Stakeholder Analysis for Cybersecurity Researchers](http://arxiv.org/abs/2508.14796v1)** | 2025-08-20 |  |
+| **[From App Features to Explanation Needs: Analyzing Correlations and Predictive Potential](http://arxiv.org/abs/2508.03881v2)** | 2025-08-20 | <details><summary>This ...</summary><p>This paper has been accepted at the 33rd IEEE International Requirements Engineering Workshop (REW 2025)</p></details> |
+| **[Challenges of Virtual Validation and Verification for Automotive Functions](http://arxiv.org/abs/2508.14747v1)** | 2025-08-20 | <details><summary>This ...</summary><p>This work is supported by Sweden's innovation agency, Vinnova, under Grant No. 2021-05043 entitled "Enabling Virtual Validation and Verification for ADAS and AD Features (EVIDENT)."</p></details> |
+| **[Assessing the Quality and Security of AI-Generated Code: A Quantitative Analysis](http://arxiv.org/abs/2508.14727v1)** | 2025-08-20 |  |
+| **[Towards a DSL to Formalize Multimodal Requirements](http://arxiv.org/abs/2508.14631v1)** | 2025-08-20 |  |
+| **[The importance of visual modelling languages in generative software engineering](http://arxiv.org/abs/2411.17976v4)** | 2025-08-20 | <details><summary>9 pag...</summary><p>9 pages, working paper</p></details> |
 
