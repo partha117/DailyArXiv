@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,6 +8,14 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[The Integration of Agile Methodologies in DevOps Practices within the Information Technology Industry](http://arxiv.org/abs/2508.21811v1)** | 2025-08-29 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, conference</p></details> |
+| **[Harnessing IoT and Generative AI for Weather-Adaptive Learning in Climate Resilience Education](http://arxiv.org/abs/2508.21666v1)** | 2025-08-29 |  |
+| **[Detecting Stealthy Data Poisoning Attacks in AI Code Generators](http://arxiv.org/abs/2508.21636v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 3rd IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE, 2025), co-located with ISSRE 2025</p></details> |
+| **[Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity](http://arxiv.org/abs/2508.21634v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 36th IEEE International Symposium on Software Reliability Engineering (ISSRE, 2025)</p></details> |
+| **[Reusable Test Suites for Reinforcement Learning](http://arxiv.org/abs/2508.21553v1)** | 2025-08-29 |  |
+| **[Enhancing Semantic Understanding in Pointer Analysis using Large Language Models](http://arxiv.org/abs/2508.21454v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by LMPL 2025</p></details> |
+| **[The Complexity Trap: Simple Observation Masking Is as Efficient as LLM Summarization for Agent Context Management](http://arxiv.org/abs/2508.21433v1)** | 2025-08-29 |  |
+| **[RepoMark: A Code Usage Auditing Framework for Code Large Language Models](http://arxiv.org/abs/2508.21432v1)** | 2025-08-29 |  |
+| **[An Empirical Study of Vulnerable Package Dependencies in LLM Repositories](http://arxiv.org/abs/2508.21417v1)** | 2025-08-29 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
@@ -16,6 +24,7 @@ labels: documentation
 | **[Detecting Stealthy Data Poisoning Attacks in AI Code Generators](http://arxiv.org/abs/2508.21636v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 3rd IEEE International Workshop on Reliable and Secure AI for Software Engineering (ReSAISE, 2025), co-located with ISSRE 2025</p></details> |
 | **[Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity](http://arxiv.org/abs/2508.21634v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 36th IEEE International Symposium on Software Reliability Engineering (ISSRE, 2025)</p></details> |
 | **[Reusable Test Suites for Reinforcement Learning](http://arxiv.org/abs/2508.21553v1)** | 2025-08-29 |  |
+| **[RepoMark: A Code Usage Auditing Framework for Code Large Language Models](http://arxiv.org/abs/2508.21432v1)** | 2025-08-29 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -42,6 +51,18 @@ labels: documentation
 | **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v4)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
 | **[Complete the Cycle: Reachability Types with Expressive Cyclic References (Extended Version)](http://arxiv.org/abs/2503.07328v3)** | 2025-08-29 |  |
 | **[Harnessing IoT and Generative AI for Weather-Adaptive Learning in Climate Resilience Education](http://arxiv.org/abs/2508.21666v1)** | 2025-08-29 |  |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v1)** | 2025-08-29 |  |
+| **[ConfLogger: Enhance Systems' Configuration Diagnosability through Configuration Logging](http://arxiv.org/abs/2508.20977v2)** | 2025-08-29 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, accepted by ICSE '26 (The 48th IEEE/ACM International Conference on Software Engineering)</p></details> |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v4)** | 2025-08-29 |  |
+| **[Automated Bug Triaging using Instruction-Tuned Large Language Models](http://arxiv.org/abs/2508.21156v1)** | 2025-08-28 | 11 pages, 7 figures |
+| **[Deep Learning Based Concurrency Bug Detection and Localization](http://arxiv.org/abs/2508.20911v1)** | 2025-08-28 |  |
+| **[Automated Test Oracles for Flaky Cyber-Physical System Simulators: Approach and Evaluation](http://arxiv.org/abs/2508.20902v1)** | 2025-08-28 |  |
+| **[A Joint Learning Framework for Bridging Defect Prediction and Interpretation](http://arxiv.org/abs/2502.16429v2)** | 2025-08-28 |  |
+| **[Adaptive Root Cause Localization for Microservice Systems with Multi-Agent Recursion-of-Thought](http://arxiv.org/abs/2508.20370v1)** | 2025-08-28 |  |
+| **[Boosting Skeleton-Driven SMT Solver Fuzzing by Leveraging LLM to Produce Formula Generators](http://arxiv.org/abs/2508.20340v1)** | 2025-08-28 |  |
+| **[Detecting Metadata-Related Bugs in Enterprise Applications](http://arxiv.org/abs/2502.14463v2)** | 2025-08-27 |  |
+| **[What You See Is What It Does: A Structural Pattern for Legible Software](http://arxiv.org/abs/2508.14511v2)** | 2025-08-27 | <details><summary>16 pa...</summary><p>16 pages. Appearing in Onward! at SPLASH 2025; added DOI, updated references/formatting</p></details> |
+| **[Fray: An Efficient General-Purpose Concurrency Testing Platform for the JVM (Extended Version)](http://arxiv.org/abs/2501.12618v2)** | 2025-08-27 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
