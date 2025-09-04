@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 04, 2025
+title: Latest 15 Papers - September 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,38 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the correlation between Architectural Smells and Static Analysis Warnings](http://arxiv.org/abs/2406.17354v2)** | 2025-09-01 |  |
-| **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[Efficient Detection of Toxic Prompts in Large Language Models](http://arxiv.org/abs/2408.11727v3)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</p></details> |
-| **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space](http://arxiv.org/abs/2509.03242v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[Efficient Detection of Toxic Prompts in Large Language Models](http://arxiv.org/abs/2408.11727v3)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</p></details> |
-| **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[AI Safety Assurance in Electric Vehicles: A Case Study on AI-Driven SOC Estimation](http://arxiv.org/abs/2509.03270v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, EVS38, https://evs38-program.org/en/evs-38-proceedings/all</p></details> |
+| **[TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space](http://arxiv.org/abs/2509.03242v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[An experience-based classification of quantum bugs in quantum software](http://arxiv.org/abs/2509.03280v1)** | 2025-09-03 | <details><summary>25 pa...</summary><p>25 pages, 4 figures. To appear in special issue of Computing, "Pivoting Quantum Computing Using Software Engineering Best Practices"</p></details> |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
+| **[Automated Repair of C Programs Using Large Language Models](http://arxiv.org/abs/2509.01947v1)** | 2025-09-02 |  |
 | **[Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity](http://arxiv.org/abs/2508.21634v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 36th IEEE International Symposium on Software Reliability Engineering (ISSRE, 2025)</p></details> |
-| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v1)** | 2025-08-29 |  |
-| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v4)** | 2025-08-29 |  |
 | **[Deep Learning Based Concurrency Bug Detection and Localization](http://arxiv.org/abs/2508.20911v1)** | 2025-08-28 |  |
 | **[CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval](http://arxiv.org/abs/2506.11066v2)** | 2025-08-27 |  |
 | **[PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes](http://arxiv.org/abs/2505.07700v2)** | 2025-08-26 | 53 pages, 8 figures |
@@ -36,109 +48,124 @@ labels: documentation
 | **[ARSP: Automated Repair of Verilog Designs via Semantic Partitioning](http://arxiv.org/abs/2508.16517v1)** | 2025-08-22 |  |
 | **[AutoVerus: Automated Proof Generation for Rust Code](http://arxiv.org/abs/2409.13082v3)** | 2025-08-22 | OOPSLA 2025 |
 | **[LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python](http://arxiv.org/abs/2508.16419v1)** | 2025-08-22 |  |
-| **[Learning to Generate Unit Tests for Automated Debugging](http://arxiv.org/abs/2502.01619v3)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted to COLM 2025. Dataset and Code: https://github.com/archiki/UTGenDebug</p></details> |
-| **[Reflective Paper-to-Code Reproduction Enabled by Fine-Grained Verification](http://arxiv.org/abs/2508.16671v1)** | 2025-08-21 |  |
-| **[Post-hoc LLM-Supported Debugging of Distributed Processes](http://arxiv.org/abs/2508.14540v1)** | 2025-08-20 | <details><summary>Prese...</summary><p>Presented at ICWE 2025, Delft (30 June - 03 July 2025)</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[An experience-based classification of quantum bugs in quantum software](http://arxiv.org/abs/2509.03280v1)** | 2025-09-03 | <details><summary>25 pa...</summary><p>25 pages, 4 figures. To appear in special issue of Computing, "Pivoting Quantum Computing Using Software Engineering Best Practices"</p></details> |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
+| **[RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair](http://arxiv.org/abs/2312.15698v6)** | 2025-09-03 | Accepted to IEEE TSE |
 | **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v4)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
+| **[Automated Repair of C Programs Using Large Language Models](http://arxiv.org/abs/2509.01947v1)** | 2025-09-02 |  |
+| **[Tether: A Personalized Support Assistant for Software Engineers with ADHD](http://arxiv.org/abs/2509.01946v1)** | 2025-09-02 |  |
 | **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[Model-guided Fuzzing of Distributed Systems](http://arxiv.org/abs/2410.02307v3)** | 2025-08-31 |  |
-| **[Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing](http://arxiv.org/abs/2312.10448v2)** | 2025-08-30 |  |
-| **[Dually Hierarchical Drift Adaptation for Online Configuration Performance Learning](http://arxiv.org/abs/2507.08730v4)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted by ICSE 2026</p></details> |
-| **[Complete the Cycle: Reachability Types with Expressive Cyclic References (Extended Version)](http://arxiv.org/abs/2503.07328v3)** | 2025-08-29 |  |
-| **[Harnessing IoT and Generative AI for Weather-Adaptive Learning in Climate Resilience Education](http://arxiv.org/abs/2508.21666v1)** | 2025-08-29 |  |
+| **[Compiler Bugs Detection in Logic Synthesis Tools via Linear Upper Confidence Bound](http://arxiv.org/abs/2509.01149v1)** | 2025-09-01 |  |
+| **[Bug Whispering: Towards Audio Bug Reporting](http://arxiv.org/abs/2509.00785v1)** | 2025-08-31 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, IEEE International Symposium on Software Reliability Engineering (ISSRE), 2025, Fast Abstracts Session</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
-| **[Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing](http://arxiv.org/abs/2312.10448v2)** | 2025-08-30 |  |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
-| **[Agentic AI for Software: thoughts from Software Engineering community](http://arxiv.org/abs/2508.17343v3)** | 2025-08-30 | 4 pages |
-| **[Complete the Cycle: Reachability Types with Expressive Cyclic References (Extended Version)](http://arxiv.org/abs/2503.07328v3)** | 2025-08-29 |  |
-| **[Human-Written vs. AI-Generated Code: A Large-Scale Study of Defects, Vulnerabilities, and Complexity](http://arxiv.org/abs/2508.21634v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted to the 36th IEEE International Symposium on Software Reliability Engineering (ISSRE, 2025)</p></details> |
-| **[Software is infrastructure: failures, successes, costs, and the case for formal verification](http://arxiv.org/abs/2506.13821v3)** | 2025-08-29 |  |
-| **[QHackBench: Benchmarking Large Language Models for Quantum Code Generation Using PennyLane Hackathon Challenges](http://arxiv.org/abs/2506.20008v2)** | 2025-08-29 | <details><summary>To ap...</summary><p>To appear at the IEEE International Conference on Quantum Artificial Intelligence (QAI), Naples, Italy, November 2025</p></details> |
-| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v1)** | 2025-08-29 |  |
-| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v4)** | 2025-08-29 |  |
-| **[LLM Test Generation via Iterative Hybrid Program Analysis](http://arxiv.org/abs/2503.13580v2)** | 2025-08-28 | <details><summary>This ...</summary><p>This paper has been accepted for publication in 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[Are the Majority of Public Computational Notebooks Pathologically Non-Executable?](http://arxiv.org/abs/2502.04184v4)** | 2025-08-28 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 3 tables, the 22nd International Conference on Mining Software Repositories (MSR 2025)</p></details> |
-| **[Automated Test Oracles for Flaky Cyber-Physical System Simulators: Approach and Evaluation](http://arxiv.org/abs/2508.20902v1)** | 2025-08-28 |  |
-| **[Learning to Generate Unit Test via Adversarial Reinforcement Learning](http://arxiv.org/abs/2508.21107v1)** | 2025-08-28 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/dgjun32/UTRL</p></details> |
-| **[A Time Series Analysis of Malware Uploads to Programming Language Ecosystems](http://arxiv.org/abs/2504.15695v2)** | 2025-08-28 | <details><summary>Proce...</summary><p>Proceedings of the 20th International Conference on Availability, Reliability and Security (ARES 2025), Ghent, Springer, pp. 269-285. Please note that this version diverges from the publisher's definite version. A new version will be uploaded once the publisher's embargo period is over</p></details> |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[An experience-based classification of quantum bugs in quantum software](http://arxiv.org/abs/2509.03280v1)** | 2025-09-03 | <details><summary>25 pa...</summary><p>25 pages, 4 figures. To appear in special issue of Computing, "Pivoting Quantum Computing Using Software Engineering Best Practices"</p></details> |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
+| **[Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations](http://arxiv.org/abs/2509.03093v1)** | 2025-09-03 | Accepted to ASE2025 |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
+| **[RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair](http://arxiv.org/abs/2312.15698v6)** | 2025-09-03 | Accepted to IEEE TSE |
+| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v4)** | 2025-09-02 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper</p></details> |
+| **[Poisoned at Scale: A Scalable Audit Uncovers Hidden Scam Endpoints in Production LLMs](http://arxiv.org/abs/2509.02372v1)** | 2025-09-02 | 10 pages, 4 figures |
+| **[ReCode: Improving LLM-based Code Repair with Fine-Grained Retrieval-Augmented Generation](http://arxiv.org/abs/2509.02330v1)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
+| **[Curiosity-Driven Testing for Sequential Decision-Making Process](http://arxiv.org/abs/2509.02025v1)** | 2025-09-02 | <details><summary>Updat...</summary><p>Update the Replication Package URL</p></details> |
+| **[ProbTest: Unit Testing for Probabilistic Programs (Extended Version)](http://arxiv.org/abs/2509.02012v1)** | 2025-09-02 | <details><summary>Pre-p...</summary><p>Pre-print of paper to appear in the proceedings of the 23nd edition of the International Conference on Software Engineering and Formal Methods (SEFM'25)</p></details> |
+| **[Open Source Software Development Tool Installation: Challenges and Strategies For Novice Developers](http://arxiv.org/abs/2404.14637v3)** | 2025-09-02 |  |
+| **[Automated Repair of C Programs Using Large Language Models](http://arxiv.org/abs/2509.01947v1)** | 2025-09-02 |  |
+| **[Traq: Estimating the Quantum Cost of Classical Programs](http://arxiv.org/abs/2509.01508v1)** | 2025-09-01 | 50 pages |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v4)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
-| **[On the correlation between Architectural Smells and Static Analysis Warnings](http://arxiv.org/abs/2406.17354v2)** | 2025-09-01 |  |
-| **[Reducing Friction in Cloud Migration of Services](http://arxiv.org/abs/2503.07169v2)** | 2025-09-01 | <details><summary>Submi...</summary><p>Submitted to JSS In-Practice track Mars 8, 2025. Revision 1 resubmitted July 29, 2025</p></details> |
-| **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[Efficient Detection of Toxic Prompts in Large Language Models](http://arxiv.org/abs/2408.11727v3)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</p></details> |
-| **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
-| **[Tool-Assisted Conformance Checking to Reference Process Models](http://arxiv.org/abs/2508.00738v3)** | 2025-08-31 |  |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
-| **[Change Logging and Mining of Change Logs of Business Processes -- A Literature Review](http://arxiv.org/abs/2504.14627v2)** | 2025-08-31 |  |
-| **[Model-guided Fuzzing of Distributed Systems](http://arxiv.org/abs/2410.02307v3)** | 2025-08-31 |  |
-| **[MCeT: Behavioral Model Correctness Evaluation using Large Language Models](http://arxiv.org/abs/2508.00630v2)** | 2025-08-30 | MODELS 2025 |
-| **[Are Decoder-Only Large Language Models the Silver Bullet for Code Search?](http://arxiv.org/abs/2410.22240v2)** | 2025-08-30 |  |
-| **[ORCAS: Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v2)** | 2025-08-30 |  |
-| **[Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing](http://arxiv.org/abs/2312.10448v2)** | 2025-08-30 |  |
-| **[Waterfall Model Simulation: A Systematic Mapping Study](http://arxiv.org/abs/2506.19653v2)** | 2025-08-30 |  |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](http://arxiv.org/abs/2508.18298v2)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[An experience-based classification of quantum bugs in quantum software](http://arxiv.org/abs/2509.03280v1)** | 2025-09-03 | <details><summary>25 pa...</summary><p>25 pages, 4 figures. To appear in special issue of Computing, "Pivoting Quantum Computing Using Software Engineering Best Practices"</p></details> |
+| **[AI Safety Assurance in Electric Vehicles: A Case Study on AI-Driven SOC Estimation](http://arxiv.org/abs/2509.03270v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, EVS38, https://evs38-program.org/en/evs-38-proceedings/all</p></details> |
+| **[TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space](http://arxiv.org/abs/2509.03242v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
+| **[Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations](http://arxiv.org/abs/2509.03093v1)** | 2025-09-03 | Accepted to ASE2025 |
+| **[TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](http://arxiv.org/abs/2509.03037v1)** | 2025-09-03 |  |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[Efficient Detection of Toxic Prompts in Large Language Models](http://arxiv.org/abs/2408.11727v3)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</p></details> |
-| **[Tool-Assisted Conformance Checking to Reference Process Models](http://arxiv.org/abs/2508.00738v3)** | 2025-08-31 |  |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
-| **[Model-guided Fuzzing of Distributed Systems](http://arxiv.org/abs/2410.02307v3)** | 2025-08-31 |  |
-| **[MCeT: Behavioral Model Correctness Evaluation using Large Language Models](http://arxiv.org/abs/2508.00630v2)** | 2025-08-30 | MODELS 2025 |
-| **[Tech-ASan: Two-stage check for Address Sanitizer](http://arxiv.org/abs/2506.05022v4)** | 2025-08-30 |  |
-| **[Agentic AI for Software: thoughts from Software Engineering community](http://arxiv.org/abs/2508.17343v3)** | 2025-08-30 | 4 pages |
-| **[Why Johnny Signs with Next-Generation Tools: A Usability Case Study of Sigstore](http://arxiv.org/abs/2503.00271v5)** | 2025-08-29 | 25 Pages |
-| **[Reusable Test Suites for Reinforcement Learning](http://arxiv.org/abs/2508.21553v1)** | 2025-08-29 |  |
-| **[RepoMark: A Code Usage Auditing Framework for Code Large Language Models](http://arxiv.org/abs/2508.21432v1)** | 2025-08-29 |  |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[AI Safety Assurance in Electric Vehicles: A Case Study on AI-Driven SOC Estimation](http://arxiv.org/abs/2509.03270v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, EVS38, https://evs38-program.org/en/evs-38-proceedings/all</p></details> |
+| **[TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space](http://arxiv.org/abs/2509.03242v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
+| **[Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations](http://arxiv.org/abs/2509.03093v1)** | 2025-09-03 | Accepted to ASE2025 |
+| **[TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](http://arxiv.org/abs/2509.03037v1)** | 2025-09-03 |  |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
+| **[RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair](http://arxiv.org/abs/2312.15698v6)** | 2025-09-03 | Accepted to IEEE TSE |
+| **[LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](http://arxiv.org/abs/2508.12232v2)** | 2025-09-02 |  |
+| **[Your Build Scripts Stink: The State of Code Smells in Build Scripts](http://arxiv.org/abs/2506.17948v2)** | 2025-09-02 | <details><summary>13 pa...</summary><p>13 pages, 5 tables, 2 figures</p></details> |
+| **[An Explanation of Software Architecture Explanations](http://arxiv.org/abs/2503.08628v2)** | 2025-09-02 |  |
+| **[Poisoned at Scale: A Scalable Audit Uncovers Hidden Scam Endpoints in Production LLMs](http://arxiv.org/abs/2509.02372v1)** | 2025-09-02 | 10 pages, 4 figures |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Detection of Toxic Prompts in Large Language Models](http://arxiv.org/abs/2408.11727v3)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</p></details> |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
-| **[MCeT: Behavioral Model Correctness Evaluation using Large Language Models](http://arxiv.org/abs/2508.00630v2)** | 2025-08-30 | MODELS 2025 |
-| **[Are Decoder-Only Large Language Models the Silver Bullet for Code Search?](http://arxiv.org/abs/2410.22240v2)** | 2025-08-30 |  |
-| **[Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing](http://arxiv.org/abs/2312.10448v2)** | 2025-08-30 |  |
-| **[Agentic AI for Software: thoughts from Software Engineering community](http://arxiv.org/abs/2508.17343v3)** | 2025-08-30 | 4 pages |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
+| **[Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations](http://arxiv.org/abs/2509.03093v1)** | 2025-09-03 | Accepted to ASE2025 |
+| **[TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](http://arxiv.org/abs/2509.03037v1)** | 2025-09-03 |  |
+| **[RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair](http://arxiv.org/abs/2312.15698v6)** | 2025-09-03 | Accepted to IEEE TSE |
+| **[LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](http://arxiv.org/abs/2508.12232v2)** | 2025-09-02 |  |
+| **[CodeGrad: Integrating Multi-Step Verification with Gradient-Based LLM Refinement](http://arxiv.org/abs/2508.10059v2)** | 2025-09-02 | 6 Pages |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v4)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
-| **[Reducing Friction in Cloud Migration of Services](http://arxiv.org/abs/2503.07169v2)** | 2025-09-01 | <details><summary>Submi...</summary><p>Submitted to JSS In-Practice track Mars 8, 2025. Revision 1 resubmitted July 29, 2025</p></details> |
-| **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](http://arxiv.org/abs/2508.18298v2)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space](http://arxiv.org/abs/2509.03242v1)** | 2025-09-03 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v4)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
-| **[On the correlation between Architectural Smells and Static Analysis Warnings](http://arxiv.org/abs/2406.17354v2)** | 2025-09-01 |  |
-| **[Reducing Friction in Cloud Migration of Services](http://arxiv.org/abs/2503.07169v2)** | 2025-09-01 | <details><summary>Submi...</summary><p>Submitted to JSS In-Practice track Mars 8, 2025. Revision 1 resubmitted July 29, 2025</p></details> |
-| **[SATORI: Static Test Oracle Generation for REST APIs](http://arxiv.org/abs/2508.16318v2)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted for publication at 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[Efficient Detection of Toxic Prompts in Large Language Models](http://arxiv.org/abs/2408.11727v3)** | 2025-09-01 | <details><summary>Accep...</summary><p>Accepted by the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024)</p></details> |
-| **[Dynamic Symbolic Execution for Semantic Difference Analysis of Component and Connector Architectures](http://arxiv.org/abs/2508.00749v2)** | 2025-08-31 |  |
-| **[Tool-Assisted Conformance Checking to Reference Process Models](http://arxiv.org/abs/2508.00738v3)** | 2025-08-31 |  |
-| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v4)** | 2025-08-31 |  |
-| **[Change Logging and Mining of Change Logs of Business Processes -- A Literature Review](http://arxiv.org/abs/2504.14627v2)** | 2025-08-31 |  |
-| **[Model-guided Fuzzing of Distributed Systems](http://arxiv.org/abs/2410.02307v3)** | 2025-08-31 |  |
-| **[MCeT: Behavioral Model Correctness Evaluation using Large Language Models](http://arxiv.org/abs/2508.00630v2)** | 2025-08-30 | MODELS 2025 |
-| **[Are Decoder-Only Large Language Models the Silver Bullet for Code Search?](http://arxiv.org/abs/2410.22240v2)** | 2025-08-30 |  |
-| **[ORCAS: Obfuscation-Resilient Binary Code Similarity Analysis using Dominance Enhanced Semantic Graph](http://arxiv.org/abs/2506.06161v2)** | 2025-08-30 |  |
-| **[Exploring Large Language Models in Resolving Environment-Related Crash Bugs: Localizing and Repairing](http://arxiv.org/abs/2312.10448v2)** | 2025-08-30 |  |
-| **[Waterfall Model Simulation: A Systematic Mapping Study](http://arxiv.org/abs/2506.19653v2)** | 2025-08-30 |  |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](http://arxiv.org/abs/2508.18298v2)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[An experience-based classification of quantum bugs in quantum software](http://arxiv.org/abs/2509.03280v1)** | 2025-09-03 | <details><summary>25 pa...</summary><p>25 pages, 4 figures. To appear in special issue of Computing, "Pivoting Quantum Computing Using Software Engineering Best Practices"</p></details> |
+| **[AI Safety Assurance in Electric Vehicles: A Case Study on AI-Driven SOC Estimation](http://arxiv.org/abs/2509.03270v1)** | 2025-09-03 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, EVS38, https://evs38-program.org/en/evs-38-proceedings/all</p></details> |
+| **[TopoMap: A Feature-based Semantic Discriminator of the Topographical Regions in the Test Input Space](http://arxiv.org/abs/2509.03242v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
+| **[Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations](http://arxiv.org/abs/2509.03093v1)** | 2025-09-03 | Accepted to ASE2025 |
+| **[TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](http://arxiv.org/abs/2509.03037v1)** | 2025-09-03 |  |
+| **[Locus: Agentic Predicate Synthesis for Directed Fuzzing](http://arxiv.org/abs/2508.21302v2)** | 2025-09-03 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -150,12 +177,31 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the correlation between Architectural Smells and Static Analysis Warnings](http://arxiv.org/abs/2406.17354v2)** | 2025-09-01 |  |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
+| **[Towards Explainable Vulnerability Detection with Large Language Models](http://arxiv.org/abs/2406.09701v5)** | 2025-09-03 |  |
+| **[Are We SOLID Yet? An Empirical Study on Prompting LLMs to Detect Design Principle Violations](http://arxiv.org/abs/2509.03093v1)** | 2025-09-03 | Accepted to ASE2025 |
+| **[TraceLLM: Security Diagnosis Through Traces and Smart Contracts in Ethereum](http://arxiv.org/abs/2509.03037v1)** | 2025-09-03 |  |
+| **[RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair](http://arxiv.org/abs/2312.15698v6)** | 2025-09-03 | Accepted to IEEE TSE |
+| **[LinkAnchor: An Autonomous LLM-Based Agent for Issue-to-Commit Link Recovery](http://arxiv.org/abs/2508.12232v2)** | 2025-09-02 |  |
+| **[Vision: An Extensible Methodology for Formal Software Verification in Microservice Systems](http://arxiv.org/abs/2509.02860v1)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted at MODELS 2025</p></details> |
+| **[CodeGrad: Integrating Multi-Step Verification with Gradient-Based LLM Refinement](http://arxiv.org/abs/2508.10059v2)** | 2025-09-02 | 6 Pages |
+| **[DiVerify: Hardening Identity-Based Software Signing with Programmable Diverse-Context Scopes](http://arxiv.org/abs/2406.15596v2)** | 2025-09-02 |  |
+| **[Your Build Scripts Stink: The State of Code Smells in Build Scripts](http://arxiv.org/abs/2506.17948v2)** | 2025-09-02 | <details><summary>13 pa...</summary><p>13 pages, 5 tables, 2 figures</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PromiseTune: Unveiling Causally Promising and Explainable Configuration Tuning](http://arxiv.org/abs/2507.05995v4)** | 2025-09-02 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE26</p></details> |
-| **[On the correlation between Architectural Smells and Static Analysis Warnings](http://arxiv.org/abs/2406.17354v2)** | 2025-09-01 |  |
-| **[Reducing Friction in Cloud Migration of Services](http://arxiv.org/abs/2503.07169v2)** | 2025-09-01 | <details><summary>Submi...</summary><p>Submitted to JSS In-Practice track Mars 8, 2025. Revision 1 resubmitted July 29, 2025</p></details> |
+| **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v2)** | 2025-09-03 | <details><summary>36 pa...</summary><p>36 pages, 15 images, 8 tables, Manuscript revision submitted to a journal (2025)</p></details> |
+| **[The Impact of Critique on LLM-Based Model Generation from Natural Language: The Case of Activity Diagrams](http://arxiv.org/abs/2509.03463v1)** | 2025-09-03 |  |
+| **[Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](http://arxiv.org/abs/2508.18298v2)** | 2025-09-03 |  |
+| **[A Privacy-Preserving Recommender for Filling Web Forms Using a Local Large Language Model](http://arxiv.org/abs/2509.01527v2)** | 2025-09-03 |  |
+| **[RepoForge: Training a SOTA Fast-thinking SWE Agent with an End-to-End Data Curation Pipeline Synergizing SFT and RL at Scale](http://arxiv.org/abs/2508.01550v2)** | 2025-09-03 |  |
+| **[LLM as an Execution Estimator: Recovering Missing Dependency for Practical Time-travelling Debugging](http://arxiv.org/abs/2508.18721v5)** | 2025-09-03 |  |
+| **[VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities](http://arxiv.org/abs/2509.03331v1)** | 2025-09-03 |  |
+| **[app.build: A Production Framework for Scaling Agentic Prompt-to-App Generation with Environment Scaffolding](http://arxiv.org/abs/2509.03310v1)** | 2025-09-03 |  |
 
