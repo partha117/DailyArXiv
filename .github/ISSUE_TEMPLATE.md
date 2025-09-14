@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 12, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,24 +7,26 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
-| **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[An Integrated Open Source Software System for the Generation and Analysis of Subject-Specific Blood Flow Simulation Ensembles](http://arxiv.org/abs/2509.09392v1)** | 2025-09-11 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 2 tables</p></details> |
+| **[Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data](http://arxiv.org/abs/2509.09313v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)</p></details> |
+| **[Altered Histories in Version Control System Repositories: Evidence from the Trenches](http://arxiv.org/abs/2509.09294v1)** | 2025-09-11 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v2)** | 2025-09-10 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[An Integrated Open Source Software System for the Generation and Analysis of Subject-Specific Blood Flow Simulation Ensembles](http://arxiv.org/abs/2509.09392v1)** | 2025-09-11 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 2 tables</p></details> |
+| **[Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data](http://arxiv.org/abs/2509.09313v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -48,6 +50,11 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[Altered Histories in Version Control System Repositories: Evidence from the Trenches](http://arxiv.org/abs/2509.09294v1)** | 2025-09-11 |  |
+| **[Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset](http://arxiv.org/abs/2509.09192v1)** | 2025-09-11 | <details><summary>An an...</summary><p>An anonymous link containing the dataset, construction scripts, and experimental code is publicly available for reproducibility: https://figshare.com/s/4f202bc0921e26b41dc2</p></details> |
 | **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
 | **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
 | **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
@@ -58,106 +65,106 @@ labels: documentation
 | **[Software Model Checking via Summary-Guided Search (Extended Version)](http://arxiv.org/abs/2508.15137v3)** | 2025-09-08 | <details><summary>Exten...</summary><p>Extended version of paper in OOPSLA 2025 (with typo and stylistic fixes compared to v2 manuscript). 37 pages</p></details> |
 | **[Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs](http://arxiv.org/abs/2507.03659v3)** | 2025-09-08 |  |
 | **[MIO: Multiverse Debugging in the Face of Input/Output -- Extended Version with Additional Appendices](http://arxiv.org/abs/2509.06845v1)** | 2025-09-08 | <details><summary>This ...</summary><p>This extended version provides auxiliary material to the article of the same title that will appear in the ACM Digital Library as part of the PACMPL issue for OOPSLA 2025</p></details> |
-| **[Analyzing the Instability of Large Language Models in Automated Bug Injection and Correction](http://arxiv.org/abs/2509.06429v1)** | 2025-09-08 |  |
-| **[A Generic and Efficient Python Runtime Verification System and its Large-scale Evaluation](http://arxiv.org/abs/2509.06324v1)** | 2025-09-08 | 23 pages, 7 figures |
-| **[Test It Before You Trust It: Applying Software Testing for Trustworthy In-context Learning](http://arxiv.org/abs/2504.18827v3)** | 2025-09-08 |  |
-| **[GRACE: Graph-Guided Repository-Aware Code Completion through Hierarchical Code Fusion](http://arxiv.org/abs/2509.05980v1)** | 2025-09-07 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability](http://arxiv.org/abs/2509.09194v1)** | 2025-09-11 |  |
+| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
 | **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
 | **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
 | **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v2)** | 2025-09-10 |  |
 | **[ChatGPT for Code Refactoring: Analyzing Topics, Interaction, and Effective Prompts](http://arxiv.org/abs/2509.08090v1)** | 2025-09-09 |  |
+| **[A Systematic Mapping Study on Chatbots in Programming Education](http://arxiv.org/abs/2509.08857v1)** | 2025-09-09 | <details><summary>18 pa...</summary><p>18 pages, 1 figure, 3 tables</p></details> |
 | **[What Were You Thinking? An LLM-Driven Large-Scale Study of Refactoring Motivations in Open-Source Projects](http://arxiv.org/abs/2509.07763v1)** | 2025-09-09 |  |
 | **[Aspect-Oriented Programming in Secure Software Development: A Case Study of Security Aspects in Web Applications](http://arxiv.org/abs/2509.07449v1)** | 2025-09-09 | 10 pages, 3 figures |
 | **[Challenging Bug Prediction and Repair Models with Synthetic Bugs](http://arxiv.org/abs/2310.02407v3)** | 2025-09-09 | <details><summary>Publi...</summary><p>Published in SCAM 2025</p></details> |
 | **[Software Model Checking via Summary-Guided Search (Extended Version)](http://arxiv.org/abs/2508.15137v3)** | 2025-09-08 | <details><summary>Exten...</summary><p>Extended version of paper in OOPSLA 2025 (with typo and stylistic fixes compared to v2 manuscript). 37 pages</p></details> |
 | **[Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs](http://arxiv.org/abs/2507.03659v3)** | 2025-09-08 |  |
 | **[Assistance or Disruption? Exploring and Evaluating the Design and Trade-offs of Proactive AI Programming Support](http://arxiv.org/abs/2502.18658v4)** | 2025-09-08 |  |
-| **[Do Comments and Expertise Still Matter? An Experiment on Programmers' Adoption of AI-Generated JavaScript Code](http://arxiv.org/abs/2503.11453v2)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted by JSS (The Journal of Systems & Software)</p></details> |
-| **[MIO: Multiverse Debugging in the Face of Input/Output -- Extended Version with Additional Appendices](http://arxiv.org/abs/2509.06845v1)** | 2025-09-08 | <details><summary>This ...</summary><p>This extended version provides auxiliary material to the article of the same title that will appear in the ACM Digital Library as part of the PACMPL issue for OOPSLA 2025</p></details> |
-| **[RepoDebug: Repository-Level Multi-Task and Multi-Language Debugging Evaluation of Large Language Models](http://arxiv.org/abs/2509.04078v2)** | 2025-09-08 | <details><summary>30 pa...</summary><p>30 pages, 12 figures, EMNLP 2025 Findings</p></details> |
-| **[Can Large Language Models Help Students Prove Software Correctness? An Experimental Study with Dafny](http://arxiv.org/abs/2506.22370v4)** | 2025-09-07 |  |
-| **[What Challenges Do Developers Face When Using Verification-Aware Programming Languages?](http://arxiv.org/abs/2506.23696v2)** | 2025-09-07 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
-| **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[FlexFringe: Modeling Software Behavior by Learning Probabilistic Automata](http://arxiv.org/abs/2203.16331v5)** | 2025-09-10 |  |
-| **[Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China](http://arxiv.org/abs/2509.08546v1)** | 2025-09-10 | <details><summary>STI-E...</summary><p>STI-ENID 2025 Conference Paer</p></details> |
-| **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
-| **[The Impact of Team Diversity in Agile Development Education](http://arxiv.org/abs/2509.08389v1)** | 2025-09-10 | <details><summary>Post-...</summary><p>Post-print of paper published at FSE Companion '25: Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v2)** | 2025-09-10 |  |
-| **[Safety Factories -- a Manifesto](http://arxiv.org/abs/2509.08285v1)** | 2025-09-10 | <details><summary>Prese...</summary><p>Presented at The 44th International Conference on Computer Safety, Reliability and Security (SafeComp 2025)</p></details> |
-| **[Moderately Mighty: To What Extent Can Internal Software Metrics Predict App Popularity at Launch?](http://arxiv.org/abs/2507.02110v2)** | 2025-09-10 |  |
-| **[Unlocking Reproducibility: Automating re-Build Process for Open-Source Software](http://arxiv.org/abs/2509.08204v1)** | 2025-09-10 |  |
-| **[Componentization: Decomposing Monolithic LLM Responses into Manipulable Semantic Units](http://arxiv.org/abs/2509.08203v1)** | 2025-09-10 | 12 pages, 4 figures |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[On the Encapsulation of Medical Imaging AI Algorithms](http://arxiv.org/abs/2504.21412v2)** | 2025-09-11 | <details><summary>v2: m...</summary><p>v2: mention FAIR4ML, MLentory, some minor elaboration and spelling fixes</p></details> |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[An Integrated Open Source Software System for the Generation and Analysis of Subject-Specific Blood Flow Simulation Ensembles](http://arxiv.org/abs/2509.09392v1)** | 2025-09-11 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 2 tables</p></details> |
+| **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
+| **[Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data](http://arxiv.org/abs/2509.09313v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)</p></details> |
+| **[Altered Histories in Version Control System Repositories: Evidence from the Trenches](http://arxiv.org/abs/2509.09294v1)** | 2025-09-11 |  |
+| **[On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability](http://arxiv.org/abs/2509.09194v1)** | 2025-09-11 |  |
+| **[Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset](http://arxiv.org/abs/2509.09192v1)** | 2025-09-11 | <details><summary>An an...</summary><p>An anonymous link containing the dataset, construction scripts, and experimental code is publicly available for reproducibility: https://figshare.com/s/4f202bc0921e26b41dc2</p></details> |
+| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
+| **[CLARA: A Developer's Companion for Code Comprehension and Analysis](http://arxiv.org/abs/2509.09072v1)** | 2025-09-11 | <details><summary>In pr...</summary><p>In proceedings at the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data](http://arxiv.org/abs/2509.09313v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)</p></details> |
+| **[Altered Histories in Version Control System Repositories: Evidence from the Trenches](http://arxiv.org/abs/2509.09294v1)** | 2025-09-11 |  |
+| **[Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset](http://arxiv.org/abs/2509.09192v1)** | 2025-09-11 | <details><summary>An an...</summary><p>An anonymous link containing the dataset, construction scripts, and experimental code is publicly available for reproducibility: https://figshare.com/s/4f202bc0921e26b41dc2</p></details> |
+| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
+| **[CLARA: A Developer's Companion for Code Comprehension and Analysis](http://arxiv.org/abs/2509.09072v1)** | 2025-09-11 | <details><summary>In pr...</summary><p>In proceedings at the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
 | **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
 | **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
 | **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
 | **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
-| **[Safety Factories -- a Manifesto](http://arxiv.org/abs/2509.08285v1)** | 2025-09-10 | <details><summary>Prese...</summary><p>Presented at The 44th International Conference on Computer Safety, Reliability and Security (SafeComp 2025)</p></details> |
-| **[Unlocking Reproducibility: Automating re-Build Process for Open-Source Software](http://arxiv.org/abs/2509.08204v1)** | 2025-09-10 |  |
-| **[Componentization: Decomposing Monolithic LLM Responses into Manipulable Semantic Units](http://arxiv.org/abs/2509.08203v1)** | 2025-09-10 | 12 pages, 4 figures |
-| **[The-Bodega: A Matlab Toolbox for Biologically Dynamic Microbubble Simulations on Realistic Hemodynamic Microvascular Graphs](http://arxiv.org/abs/2509.08149v1)** | 2025-09-09 | 36 Pages, 12 Figures |
-| **[ChatGPT for Code Refactoring: Analyzing Topics, Interaction, and Effective Prompts](http://arxiv.org/abs/2509.08090v1)** | 2025-09-09 |  |
-| **[Breaking Android with AI: A Deep Dive into LLM-Powered Exploitation](http://arxiv.org/abs/2509.07933v1)** | 2025-09-09 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability](http://arxiv.org/abs/2509.09194v1)** | 2025-09-11 |  |
+| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
 | **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
 | **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
 | **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
 | **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v2)** | 2025-09-10 |  |
-| **[Componentization: Decomposing Monolithic LLM Responses into Manipulable Semantic Units](http://arxiv.org/abs/2509.08203v1)** | 2025-09-10 | 12 pages, 4 figures |
-| **[ChatGPT for Code Refactoring: Analyzing Topics, Interaction, and Effective Prompts](http://arxiv.org/abs/2509.08090v1)** | 2025-09-09 |  |
-| **[Breaking Android with AI: A Deep Dive into LLM-Powered Exploitation](http://arxiv.org/abs/2509.07933v1)** | 2025-09-09 |  |
-| **[What Were You Thinking? An LLM-Driven Large-Scale Study of Refactoring Motivations in Open-Source Projects](http://arxiv.org/abs/2509.07763v1)** | 2025-09-09 |  |
+| **[Benchmarking Energy Efficiency of Large Language Models Using vLLM](http://arxiv.org/abs/2509.08867v1)** | 2025-09-10 | 6 pages, 6 figures |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
-| **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[FlexFringe: Modeling Software Behavior by Learning Probabilistic Automata](http://arxiv.org/abs/2203.16331v5)** | 2025-09-10 |  |
-| **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
-| **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[FlexFringe: Modeling Software Behavior by Learning Probabilistic Automata](http://arxiv.org/abs/2203.16331v5)** | 2025-09-10 |  |
-| **[Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China](http://arxiv.org/abs/2509.08546v1)** | 2025-09-10 | <details><summary>STI-E...</summary><p>STI-ENID 2025 Conference Paer</p></details> |
-| **[AutoStub: Genetic Programming-Based Stub Creation for Symbolic Execution](http://arxiv.org/abs/2509.08524v1)** | 2025-09-10 | 2025 HUMIES finalist |
-| **[The Impact of Team Diversity in Agile Development Education](http://arxiv.org/abs/2509.08389v1)** | 2025-09-10 | <details><summary>Post-...</summary><p>Post-print of paper published at FSE Companion '25: Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v2)** | 2025-09-10 |  |
-| **[Safety Factories -- a Manifesto](http://arxiv.org/abs/2509.08285v1)** | 2025-09-10 | <details><summary>Prese...</summary><p>Presented at The 44th International Conference on Computer Safety, Reliability and Security (SafeComp 2025)</p></details> |
-| **[Moderately Mighty: To What Extent Can Internal Software Metrics Predict App Popularity at Launch?](http://arxiv.org/abs/2507.02110v2)** | 2025-09-10 |  |
-| **[Unlocking Reproducibility: Automating re-Build Process for Open-Source Software](http://arxiv.org/abs/2509.08204v1)** | 2025-09-10 |  |
-| **[Componentization: Decomposing Monolithic LLM Responses into Manipulable Semantic Units](http://arxiv.org/abs/2509.08203v1)** | 2025-09-10 | 12 pages, 4 figures |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[On the Encapsulation of Medical Imaging AI Algorithms](http://arxiv.org/abs/2504.21412v2)** | 2025-09-11 | <details><summary>v2: m...</summary><p>v2: mention FAIR4ML, MLentory, some minor elaboration and spelling fixes</p></details> |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing](http://arxiv.org/abs/2504.17287v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[Toward Generation of Test Cases from Task Descriptions via History-aware Planning](http://arxiv.org/abs/2504.14336v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[An Integrated Open Source Software System for the Generation and Analysis of Subject-Specific Blood Flow Simulation Ensembles](http://arxiv.org/abs/2509.09392v1)** | 2025-09-11 | <details><summary>21 pa...</summary><p>21 pages, 7 figures, 2 tables</p></details> |
+| **[ORCA: Unveiling Obscure Containers In The Wild](http://arxiv.org/abs/2509.09322v1)** | 2025-09-11 |  |
+| **[Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data](http://arxiv.org/abs/2509.09313v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)</p></details> |
+| **[Altered Histories in Version Control System Repositories: Evidence from the Trenches](http://arxiv.org/abs/2509.09294v1)** | 2025-09-11 |  |
+| **[On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability](http://arxiv.org/abs/2509.09194v1)** | 2025-09-11 |  |
+| **[Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset](http://arxiv.org/abs/2509.09192v1)** | 2025-09-11 | <details><summary>An an...</summary><p>An anonymous link containing the dataset, construction scripts, and experimental code is publicly available for reproducibility: https://figshare.com/s/4f202bc0921e26b41dc2</p></details> |
+| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
+| **[CLARA: A Developer's Companion for Code Comprehension and Analysis](http://arxiv.org/abs/2509.09072v1)** | 2025-09-11 | <details><summary>In pr...</summary><p>In proceedings at the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -170,28 +177,26 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning](http://arxiv.org/abs/2504.15917v2)** | 2025-09-11 | <details><summary>Chang...</summary><p>Change the method and experimentation</p></details> |
+| **[CleanVul: Automatic Function-Level Vulnerability Detection in Code Commits Using LLM Heuristics](http://arxiv.org/abs/2411.17274v7)** | 2025-09-11 |  |
+| **[Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on Open & Industry Data](http://arxiv.org/abs/2509.09313v1)** | 2025-09-11 | <details><summary>Accep...</summary><p>Accepted to the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025)</p></details> |
+| **[Altered Histories in Version Control System Repositories: Evidence from the Trenches](http://arxiv.org/abs/2509.09294v1)** | 2025-09-11 |  |
+| **[On Integrating Large Language Models and Scenario-Based Programming for Improving Software Reliability](http://arxiv.org/abs/2509.09194v1)** | 2025-09-11 |  |
+| **[Probing Pre-trained Language Models on Code Changes: Insights from ReDef, a High-Confidence Just-in-Time Defect Prediction Dataset](http://arxiv.org/abs/2509.09192v1)** | 2025-09-11 | <details><summary>An an...</summary><p>An anonymous link containing the dataset, construction scripts, and experimental code is publicly available for reproducibility: https://figshare.com/s/4f202bc0921e26b41dc2</p></details> |
+| **[Klear-CodeTest: Scalable Test Case Generation for Code Reinforcement Learning](http://arxiv.org/abs/2508.05710v2)** | 2025-09-11 | 21 pages, 11 figures |
+| **[CLARA: A Developer's Companion for Code Comprehension and Analysis](http://arxiv.org/abs/2509.09072v1)** | 2025-09-11 | <details><summary>In pr...</summary><p>In proceedings at the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
 | **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
 | **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
 | **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
 | **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
 | **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v2)** | 2025-09-10 |  |
-| **[Moderately Mighty: To What Extent Can Internal Software Metrics Predict App Popularity at Launch?](http://arxiv.org/abs/2507.02110v2)** | 2025-09-10 |  |
-| **[Unlocking Reproducibility: Automating re-Build Process for Open-Source Software](http://arxiv.org/abs/2509.08204v1)** | 2025-09-10 |  |
-| **[ChatGPT for Code Refactoring: Analyzing Topics, Interaction, and Effective Prompts](http://arxiv.org/abs/2509.08090v1)** | 2025-09-09 |  |
-| **[What Were You Thinking? An LLM-Driven Large-Scale Study of Refactoring Motivations in Open-Source Projects](http://arxiv.org/abs/2509.07763v1)** | 2025-09-09 |  |
-| **[Bridging the Gap Between Binary and Source Based Package Management in Spack](http://arxiv.org/abs/2509.07728v1)** | 2025-09-09 | To appear in SC '25 |
-| **[Vulnerability-Affected Versions Identification: How Far Are We?](http://arxiv.org/abs/2509.03876v2)** | 2025-09-09 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Handling Open-Vocabulary Constructs in Formalizing Specifications: Retrieval-Augmented Parsing with Expert Knowledge](http://arxiv.org/abs/2509.08808v1)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to COLM 2024</p></details> |
-| **[Making REST APIs Agent-Ready: From OpenAPI to MCP Servers for Tool-Augmented LLMs](http://arxiv.org/abs/2507.16044v3)** | 2025-09-10 |  |
-| **[SWE-Mirror: Scaling Issue-Resolving Datasets by Mirroring Issues Across Repositories](http://arxiv.org/abs/2509.08724v1)** | 2025-09-10 |  |
-| **[Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences](http://arxiv.org/abs/2506.00419v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted to ACL 2025 (Main)</p></details> |
-| **[Minimal Data, Maximum Clarity: A Heuristic for Explaining Optimization](http://arxiv.org/abs/2509.08667v1)** | 2025-09-10 |  |
-| **[Large Language Models for Mobile GUI Text Input Generation: An Empirical Study](http://arxiv.org/abs/2404.08948v3)** | 2025-09-10 |  |
-| **[FlexFringe: Modeling Software Behavior by Learning Probabilistic Automata](http://arxiv.org/abs/2203.16331v5)** | 2025-09-10 |  |
-| **[Beyond the Binary: The System of All-round Evaluation of Research and Its Practices in China](http://arxiv.org/abs/2509.08546v1)** | 2025-09-10 | <details><summary>STI-E...</summary><p>STI-ENID 2025 Conference Paer</p></details> |
+| **[I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection](http://arxiv.org/abs/2509.09630v1)** | 2025-09-11 |  |
+| **[LoCoBench: A Benchmark for Long-Context Large Language Models in Complex Software Engineering](http://arxiv.org/abs/2509.09614v1)** | 2025-09-11 | 53 pages |
+| **[On the Encapsulation of Medical Imaging AI Algorithms](http://arxiv.org/abs/2504.21412v2)** | 2025-09-11 | <details><summary>v2: m...</summary><p>v2: mention FAIR4ML, MLentory, some minor elaboration and spelling fixes</p></details> |
 
