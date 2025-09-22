@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,32 +7,27 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
-| **[CARGO: A Framework for Confidence-Aware Routing of Large Language Models](http://arxiv.org/abs/2509.14899v1)** | 2025-09-18 |  |
-| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
-| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[When Bugs Linger: A Study of Anomalous Resolution Time Outliers and Their Themes](http://arxiv.org/abs/2509.16140v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 2 tables, 21 figures</p></details> |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
+| **[Foundational Design Principles and Patterns for Building Robust and Adaptive GenAI-Native Systems](http://arxiv.org/abs/2508.15411v2)** | 2025-09-19 |  |
+| **[ThermalGuardian: Temperature-Aware Testing of Automotive Deep Learning Frameworks](http://arxiv.org/abs/2509.15815v1)** | 2025-09-19 |  |
+| **[How Far Are We? An Empirical Analysis of Current Vulnerability Localization Approaches](http://arxiv.org/abs/2509.15777v1)** | 2025-09-19 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v2)** | 2025-09-19 |  |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
 | **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
 | **[From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow](http://arxiv.org/abs/2509.12443v2)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 | **[Who is Introducing the Failure? Automatically Attributing Failures of Multi-Agent Systems via Spectrum Analysis](http://arxiv.org/abs/2509.13782v1)** | 2025-09-17 | 20 pages, 6 figures |
@@ -42,132 +37,97 @@ labels: documentation
 | **[Good Vibrations? A Qualitative Study of Co-Creation, Communication, Flow, and Trust in Vibe Coding](http://arxiv.org/abs/2509.12491v1)** | 2025-09-15 | 19 pages, 2 figures |
 | **[Rethinking Technology Stack Selection with AI Coding Proficiency](http://arxiv.org/abs/2509.11132v1)** | 2025-09-14 | 23 pages |
 | **[ViScratch: Using Large Language Models and Gameplay Videos for Automated Feedback in Scratch](http://arxiv.org/abs/2509.11065v1)** | 2025-09-14 |  |
-| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v1)** | 2025-09-13 |  |
 | **[A Framework for Testing and Adapting REST APIs as LLM Tools](http://arxiv.org/abs/2504.15546v3)** | 2025-09-12 |  |
 | **[Aspect-Oriented Programming in Secure Software Development: A Case Study of Security Aspects in Web Applications](http://arxiv.org/abs/2509.07449v1)** | 2025-09-09 | 10 pages, 3 figures |
 | **[Challenging Bug Prediction and Repair Models with Synthetic Bugs](http://arxiv.org/abs/2310.02407v3)** | 2025-09-09 | <details><summary>Publi...</summary><p>Published in SCAM 2025</p></details> |
 | **[Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs](http://arxiv.org/abs/2507.03659v3)** | 2025-09-08 |  |
-| **[MIO: Multiverse Debugging in the Face of Input/Output -- Extended Version with Additional Appendices](http://arxiv.org/abs/2509.06845v1)** | 2025-09-08 | <details><summary>This ...</summary><p>This extended version provides auxiliary material to the article of the same title that will appear in the ACM Digital Library as part of the PACMPL issue for OOPSLA 2025</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
-| **[On the Illusion of Success: An Empirical Study of Build Reruns and Silent Failures in Industrial CI](http://arxiv.org/abs/2509.14347v1)** | 2025-09-17 | 17 pages, 7 figures |
-| **[Evaluating Classical Software Process Models as Coordination Mechanisms for LLM-Based Software Generation](http://arxiv.org/abs/2509.13942v1)** | 2025-09-17 |  |
-| **[KGCompass: Knowledge Graph Enhanced Repository-Level Software Repair](http://arxiv.org/abs/2503.21710v2)** | 2025-09-17 |  |
-| **[Semantic Alignment-Enhanced Code Translation via an LLM-Based Multi-Agent System](http://arxiv.org/abs/2409.19894v4)** | 2025-09-17 |  |
-| **[InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management](http://arxiv.org/abs/2509.13704v1)** | 2025-09-17 |  |
-| **[A Regression Testing Framework with Automated Assertion Generation for Machine Learning Notebooks](http://arxiv.org/abs/2509.13656v1)** | 2025-09-17 | <details><summary>22 pa...</summary><p>22 pages, 2 figures, 6 tables</p></details> |
-| **[Crash Report Enhancement with Large Language Models: An Empirical Study](http://arxiv.org/abs/2509.13535v1)** | 2025-09-16 |  |
-| **[InferLog: Accelerating LLM Inference for Online Log Parsing via ICL-oriented Prefix Caching](http://arxiv.org/abs/2507.08523v3)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted by ICSE '26 (The 48th IEEE/ACM International Conference on Software Engineering)</p></details> |
-| **[Breaking Single-Tester Limits: Multi-Agent LLMs for Multi-User Feature Testing](http://arxiv.org/abs/2506.17539v3)** | 2025-09-16 | <details><summary>Accep...</summary><p>Accepted to International Conference on Software Engineering (ICSE 2026). arXiv admin note: substantial text overlap with arXiv:2504.15474</p></details> |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[When Bugs Linger: A Study of Anomalous Resolution Time Outliers and Their Themes](http://arxiv.org/abs/2509.16140v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 2 tables, 21 figures</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
-| **[SWE-QA: Can Language Models Answer Repository-level Code Questions?](http://arxiv.org/abs/2509.14635v1)** | 2025-09-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/peng-weihan/SWE-QA-Bench</p></details> |
-| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
-| **[Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language](http://arxiv.org/abs/2509.14623v1)** | 2025-09-18 | <details><summary>This ...</summary><p>This is the pre-peer-review version of a journal paper; the repo is available at: https://github.com/pnnl/prompt2control</p></details> |
-| **[A Taxonomy of Prompt Defects in LLM Systems](http://arxiv.org/abs/2509.14404v1)** | 2025-09-17 |  |
-| **[Effort-Optimized, Accuracy-Driven Labelling and Validation of Test Inputs for DL Systems: A Mixed-Integer Linear Programming Approach](http://arxiv.org/abs/2507.04990v2)** | 2025-09-17 |  |
-| **[From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow](http://arxiv.org/abs/2509.12443v2)** | 2025-09-17 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
-| **[An Empirical Study on Failures in Automated Issue Solving](http://arxiv.org/abs/2509.13941v1)** | 2025-09-17 |  |
-| **[KGCompass: Knowledge Graph Enhanced Repository-Level Software Repair](http://arxiv.org/abs/2503.21710v2)** | 2025-09-17 |  |
-| **[Who is Introducing the Failure? Automatically Attributing Failures of Multi-Agent Systems via Spectrum Analysis](http://arxiv.org/abs/2509.13782v1)** | 2025-09-17 | 20 pages, 6 figures |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[Hornet Node and the Hornet DSL: A Minimal, Executable Specification for Bitcoin Consensus](http://arxiv.org/abs/2509.15754v1)** | 2025-09-19 |  |
+| **[Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance](http://arxiv.org/abs/2506.08980v3)** | 2025-09-19 | 21 pages, 7 figures |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **["Let it be Chaos in the Plumbing!" Usage and Efficacy of Chaos Engineering in DevOps Pipelines](http://arxiv.org/abs/2509.14931v1)** | 2025-09-18 | <details><summary>To be...</summary><p>To be published in the Proceedings of International Conference on Software Maintenance and Evolution 2025</p></details> |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
-| **[CARGO: A Framework for Confidence-Aware Routing of Large Language Models](http://arxiv.org/abs/2509.14899v1)** | 2025-09-18 |  |
-| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code](http://arxiv.org/abs/2509.14744v1)** | 2025-09-18 |  |
-| **[Wireless Communication Performance Testing: From Laboratory Environment to Research Vessel](http://arxiv.org/abs/2509.14740v1)** | 2025-09-18 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
-| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[When Bugs Linger: A Study of Anomalous Resolution Time Outliers and Their Themes](http://arxiv.org/abs/2509.16140v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 2 tables, 21 figures</p></details> |
+| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v2)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Software Development Aspects of Integrating Linear Algebra Libraries](http://arxiv.org/abs/2509.16081v1)** | 2025-09-19 | 16 pages, 2 figures |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
+| **[Mitigating Omitted Variable Bias in Empirical Software Engineering](http://arxiv.org/abs/2501.17026v2)** | 2025-09-19 |  |
+| **[Failure Modes and Effects Analysis: An Experience from the E-Bike Domain](http://arxiv.org/abs/2509.15893v1)** | 2025-09-19 | 12 pages |
+| **[Foundational Design Principles and Patterns for Building Robust and Adaptive GenAI-Native Systems](http://arxiv.org/abs/2508.15411v2)** | 2025-09-19 |  |
+| **[ThermalGuardian: Temperature-Aware Testing of Automotive Deep Learning Frameworks](http://arxiv.org/abs/2509.15815v1)** | 2025-09-19 |  |
+| **[How Far Are We? An Empirical Analysis of Current Vulnerability Localization Approaches](http://arxiv.org/abs/2509.15777v1)** | 2025-09-19 |  |
+| **[An Adversarial Robust Behavior Sequence Anomaly Detection Approach Based on Critical Behavior Unit Learning](http://arxiv.org/abs/2509.15756v1)** | 2025-09-19 |  |
+| **[Hornet Node and the Hornet DSL: A Minimal, Executable Specification for Bitcoin Consensus](http://arxiv.org/abs/2509.15754v1)** | 2025-09-19 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[When Bugs Linger: A Study of Anomalous Resolution Time Outliers and Their Themes](http://arxiv.org/abs/2509.16140v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 2 tables, 21 figures</p></details> |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
+| **[ThermalGuardian: Temperature-Aware Testing of Automotive Deep Learning Frameworks](http://arxiv.org/abs/2509.15815v1)** | 2025-09-19 |  |
+| **[How Far Are We? An Empirical Analysis of Current Vulnerability Localization Approaches](http://arxiv.org/abs/2509.15777v1)** | 2025-09-19 |  |
+| **[Hornet Node and the Hornet DSL: A Minimal, Executable Specification for Bitcoin Consensus](http://arxiv.org/abs/2509.15754v1)** | 2025-09-19 |  |
+| **[MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions](http://arxiv.org/abs/2504.09474v2)** | 2025-09-19 |  |
+| **[LoCaL: Countering Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v1)** | 2025-09-18 |  |
 | **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
 | **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **["Let it be Chaos in the Plumbing!" Usage and Efficacy of Chaos Engineering in DevOps Pipelines](http://arxiv.org/abs/2509.14931v1)** | 2025-09-18 | <details><summary>To be...</summary><p>To be published in the Proceedings of International Conference on Software Maintenance and Evolution 2025</p></details> |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[Wireless Communication Performance Testing: From Laboratory Environment to Research Vessel](http://arxiv.org/abs/2509.14740v1)** | 2025-09-18 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
-| **[SWE-QA: Can Language Models Answer Repository-level Code Questions?](http://arxiv.org/abs/2509.14635v1)** | 2025-09-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/peng-weihan/SWE-QA-Bench</p></details> |
-| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
-| **[Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language](http://arxiv.org/abs/2509.14623v1)** | 2025-09-18 | <details><summary>This ...</summary><p>This is the pre-peer-review version of a journal paper; the repo is available at: https://github.com/pnnl/prompt2control</p></details> |
-| **[TypedSchematics: A Block-based PCB Design Tool with Real-time Detection of Common Connection Errors](http://arxiv.org/abs/2509.14576v1)** | 2025-09-18 |  |
-| **[A Taxonomy of Prompt Defects in LLM Systems](http://arxiv.org/abs/2509.14404v1)** | 2025-09-17 |  |
-| **[CodeLSI: Leveraging Foundation Models for Automated Code Generation with Low-Rank Optimization and Domain-Specific Instruction Tuning](http://arxiv.org/abs/2509.14373v1)** | 2025-09-17 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **[CARGO: A Framework for Confidence-Aware Routing of Large Language Models](http://arxiv.org/abs/2509.14899v1)** | 2025-09-18 |  |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
-| **[SWE-QA: Can Language Models Answer Repository-level Code Questions?](http://arxiv.org/abs/2509.14635v1)** | 2025-09-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/peng-weihan/SWE-QA-Bench</p></details> |
-| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
-| **[Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language](http://arxiv.org/abs/2509.14623v1)** | 2025-09-18 | <details><summary>This ...</summary><p>This is the pre-peer-review version of a journal paper; the repo is available at: https://github.com/pnnl/prompt2control</p></details> |
-| **[Ensembling Large Language Models for Code Vulnerability Detection: An Empirical Evaluation](http://arxiv.org/abs/2509.12629v2)** | 2025-09-18 | 24 pages |
-| **[An LLM-based multi-agent framework for agile effort estimation](http://arxiv.org/abs/2509.14483v1)** | 2025-09-17 | Submitted to ASE'25 |
-| **[A Taxonomy of Prompt Defects in LLM Systems](http://arxiv.org/abs/2509.14404v1)** | 2025-09-17 |  |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v2)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
+| **[Mitigating Omitted Variable Bias in Empirical Software Engineering](http://arxiv.org/abs/2501.17026v2)** | 2025-09-19 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
-| **["Let it be Chaos in the Plumbing!" Usage and Efficacy of Chaos Engineering in DevOps Pipelines](http://arxiv.org/abs/2509.14931v1)** | 2025-09-18 | <details><summary>To be...</summary><p>To be published in the Proceedings of International Conference on Software Maintenance and Evolution 2025</p></details> |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
-| **[CARGO: A Framework for Confidence-Aware Routing of Large Language Models](http://arxiv.org/abs/2509.14899v1)** | 2025-09-18 |  |
-| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code](http://arxiv.org/abs/2509.14744v1)** | 2025-09-18 |  |
-| **[Wireless Communication Performance Testing: From Laboratory Environment to Research Vessel](http://arxiv.org/abs/2509.14740v1)** | 2025-09-18 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables</p></details> |
-| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[When Bugs Linger: A Study of Anomalous Resolution Time Outliers and Their Themes](http://arxiv.org/abs/2509.16140v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 2 tables, 21 figures</p></details> |
+| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v2)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Software Development Aspects of Integrating Linear Algebra Libraries](http://arxiv.org/abs/2509.16081v1)** | 2025-09-19 | 16 pages, 2 figures |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
+| **[Mitigating Omitted Variable Bias in Empirical Software Engineering](http://arxiv.org/abs/2501.17026v2)** | 2025-09-19 |  |
+| **[Failure Modes and Effects Analysis: An Experience from the E-Bike Domain](http://arxiv.org/abs/2509.15893v1)** | 2025-09-19 | 12 pages |
+| **[Foundational Design Principles and Patterns for Building Robust and Adaptive GenAI-Native Systems](http://arxiv.org/abs/2508.15411v2)** | 2025-09-19 |  |
+| **[ThermalGuardian: Temperature-Aware Testing of Automotive Deep Learning Frameworks](http://arxiv.org/abs/2509.15815v1)** | 2025-09-19 |  |
+| **[How Far Are We? An Empirical Analysis of Current Vulnerability Localization Approaches](http://arxiv.org/abs/2509.15777v1)** | 2025-09-19 |  |
+| **[An Adversarial Robust Behavior Sequence Anomaly Detection Approach Based on Critical Behavior Unit Learning](http://arxiv.org/abs/2509.15756v1)** | 2025-09-19 |  |
+| **[Hornet Node and the Hornet DSL: A Minimal, Executable Specification for Bitcoin Consensus](http://arxiv.org/abs/2509.15754v1)** | 2025-09-19 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -180,27 +140,31 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Software Development Aspects of Integrating Linear Algebra Libraries](http://arxiv.org/abs/2509.16081v1)** | 2025-09-19 | 16 pages, 2 figures |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
+| **[Hornet Node and the Hornet DSL: A Minimal, Executable Specification for Bitcoin Consensus](http://arxiv.org/abs/2509.15754v1)** | 2025-09-19 |  |
+| **[Towards Better Code Generation: Adaptive Decoding with Uncertainty Guidance](http://arxiv.org/abs/2506.08980v3)** | 2025-09-19 | 21 pages, 7 figures |
+| **[Brevity is the Soul of Wit: Condensing Code Changes to Improve Commit Message Generation](http://arxiv.org/abs/2509.15567v1)** | 2025-09-19 |  |
+| **[MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions](http://arxiv.org/abs/2504.09474v2)** | 2025-09-19 |  |
+| **[LoCaL: Countering Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v1)** | 2025-09-18 |  |
+| **[SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints](http://arxiv.org/abs/2509.09853v2)** | 2025-09-18 |  |
 | **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
 | **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
 | **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[SPICE: An Automated SWE-Bench Labeling Pipeline for Issue Clarity, Test Coverage, and Effort Estimation](http://arxiv.org/abs/2507.09108v5)** | 2025-09-18 | <details><summary>*Firs...</summary><p>*First three authors contributed equally</p></details> |
-| **[CARGO: A Framework for Confidence-Aware Routing of Large Language Models](http://arxiv.org/abs/2509.14899v1)** | 2025-09-18 |  |
-| **[Heterogeneous Directed Hypergraph Neural Network over abstract syntax tree (AST) for Code Classification](http://arxiv.org/abs/2305.04228v5)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the 35th International Conference on Software Engineering and Knowledge Engineering (SEKE 2023) as a regular paper; the latest version is consistent with the official conference version</p></details> |
-| **[Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models](http://arxiv.org/abs/2509.11686v2)** | 2025-09-18 | <details><summary>EMNLP...</summary><p>EMNLP2025-findings https://openreview.net/forum?id=d4ICISW2T4</p></details> |
-| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v1)** | 2025-09-18 |  |
-| **[RulER: Automated Rule-Based Semantic Error Localization and Repair for Code Translation](http://arxiv.org/abs/2509.14829v1)** | 2025-09-18 | <details><summary>Due t...</summary><p>Due to the limitation "The abstract field cannot be longer than 1,920 characters", the abstract here is shorter than that in the PDF file</p></details> |
-| **[On the Use of Agentic Coding: An Empirical Study of Pull Requests on GitHub](http://arxiv.org/abs/2509.14745v1)** | 2025-09-18 |  |
-| **[On the Use of Agentic Coding Manifests: An Empirical Study of Claude Code](http://arxiv.org/abs/2509.14744v1)** | 2025-09-18 |  |
-| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
-| **[SWE-QA: Can Language Models Answer Repository-level Code Questions?](http://arxiv.org/abs/2509.14635v1)** | 2025-09-18 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/peng-weihan/SWE-QA-Bench</p></details> |
-| **[Evaluating the Effectiveness of Coverage-Guided Fuzzing for Testing Deep Learning Library APIs](http://arxiv.org/abs/2509.14626v1)** | 2025-09-18 |  |
-| **[Automating Modelica Module Generation Using Large Language Models: A Case Study on Building Control Description Language](http://arxiv.org/abs/2509.14623v1)** | 2025-09-18 | <details><summary>This ...</summary><p>This is the pre-peer-review version of a journal paper; the repo is available at: https://github.com/pnnl/prompt2control</p></details> |
+| **[Evaluating the Limitations of Local LLMs in Solving Complex Programming Challenges](http://arxiv.org/abs/2509.15283v1)** | 2025-09-18 | <details><summary>Comme...</summary><p>Comments: 16 pages, 3 figures, 8 tables, accepted to CCSC Eastern 2025</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Orion: Fuzzing Workflow Automation](http://arxiv.org/abs/2509.15195v1)** | 2025-09-18 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 3 tables</p></details> |
-| **[Code Less to Code More: Streamlining Language Server Protocol and Type System Development for Language Families](http://arxiv.org/abs/2509.15150v1)** | 2025-09-18 | <details><summary>34 pa...</summary><p>34 pages, 10 figures, Journal of Systems and Software, June 2025, for the replication package, see https://doi.org/10.5281/zenodo.15276991</p></details> |
-| **[A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](http://arxiv.org/abs/2508.18106v3)** | 2025-09-18 |  |
-| **[Engineering RAG Systems for Real-World Applications: Design, Development, and Evaluation](http://arxiv.org/abs/2506.20869v2)** | 2025-09-18 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 51st Euromicro Conference on Software Engineering and Advanced Applications, SEAA 2025. Lecture Notes in Computer Science, volume 16082, pages 143-158. Springer, 2026</p></details> |
+| **[RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](http://arxiv.org/abs/2509.16198v1)** | 2025-09-19 |  |
+| **[MatchFixAgent: Language-Agnostic Autonomous Repository-Level Code Translation Validation and Repair](http://arxiv.org/abs/2509.16187v1)** | 2025-09-19 |  |
+| **[When Bugs Linger: A Study of Anomalous Resolution Time Outliers and Their Themes](http://arxiv.org/abs/2509.16140v1)** | 2025-09-19 | <details><summary>7 pag...</summary><p>7 pages, 2 tables, 21 figures</p></details> |
+| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v2)** | 2025-09-19 |  |
+| **[CodeRAG: Finding Relevant and Necessary Knowledge for Retrieval-Augmented Repository-Level Code Completion](http://arxiv.org/abs/2509.16112v1)** | 2025-09-19 | EMNLP 2025 |
+| **[Software Development Aspects of Integrating Linear Algebra Libraries](http://arxiv.org/abs/2509.16081v1)** | 2025-09-19 | 16 pages, 2 figures |
+| **[Watson: A Cognitive Observability Framework for the Reasoning of LLM-Powered Agents](http://arxiv.org/abs/2411.03455v3)** | 2025-09-19 |  |
+| **[LeakageDetector 2.0: Analyzing Data Leakage in Jupyter-Driven Machine Learning Pipelines](http://arxiv.org/abs/2509.15971v1)** | 2025-09-19 |  |
 
