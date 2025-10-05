@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 03, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,19 +7,30 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[SIEVE: Towards Verifiable Certification for Code-datasets](http://arxiv.org/abs/2510.02166v1)** | 2025-10-02 | 5 |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
+| **[GeoSQL-Eval: First Evaluation of LLMs on PostGIS-Based NL2GeoSQL Queries](http://arxiv.org/abs/2509.25264v2)** | 2025-10-02 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps](http://arxiv.org/abs/2409.10811v4)** | 2025-10-01 |  |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v2)** | 2025-10-01 |  |
-| **[AGNOMIN -- Architecture Agnostic Multi-Label Function Name Prediction](http://arxiv.org/abs/2509.25514v2)** | 2025-10-01 |  |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection](http://arxiv.org/abs/2510.02165v1)** | 2025-10-02 | 10 pages |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
+| **[GeoSQL-Eval: First Evaluation of LLMs on PostGIS-Based NL2GeoSQL Queries](http://arxiv.org/abs/2509.25264v2)** | 2025-10-02 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
+| **[When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems](http://arxiv.org/abs/2510.01182v1)** | 2025-10-01 |  |
+| **[ChatGPT in Introductory Programming: Counterbalanced Evaluation of Code Quality, Conceptual Learning, and Student Perceptions](http://arxiv.org/abs/2510.00946v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to SIGCITE'25</p></details> |
+| **[Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook -- a Grey Literature Review](http://arxiv.org/abs/2510.00328v1)** | 2025-09-30 |  |
 | **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
 | **[90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development](http://arxiv.org/abs/2509.26161v1)** | 2025-09-30 |  |
 | **[TENET: Leveraging Tests Beyond Validation for Code Generation](http://arxiv.org/abs/2509.24148v2)** | 2025-09-30 |  |
@@ -29,119 +40,109 @@ labels: documentation
 | **[Influence-Guided Concolic Testing of Transformer Robustness](http://arxiv.org/abs/2509.23806v1)** | 2025-09-28 |  |
 | **[Context-Specific Instruction: A Longitudinal Study on Debugging Skill Acquisition and Retention for Novice Programmers](http://arxiv.org/abs/2509.22420v1)** | 2025-09-26 | <details><summary>31 pa...</summary><p>31 pages (25 pages for the paper, rest pages are references and appendix). 4 tables, 7 figures</p></details> |
 | **[SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios](http://arxiv.org/abs/2509.22097v1)** | 2025-09-26 |  |
-| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
 | **[Enhancing LLM-based Fault Localization with a Functionality-Aware Retrieval-Augmented Generation Framework](http://arxiv.org/abs/2509.20552v1)** | 2025-09-24 |  |
 | **[Enhancing Python Programming Education with an AI-Powered Code Helper: Design, Implementation, and Impact](http://arxiv.org/abs/2509.20518v1)** | 2025-09-24 | 20 pages, 16 figures |
-| **[RelRepair: Enhancing Automated Program Repair by Retrieving Relevant Code](http://arxiv.org/abs/2509.16701v1)** | 2025-09-20 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, under review at TSE</p></details> |
-| **[Constrained Co-evolutionary Metamorphic Differential Testing for Autonomous Systems with an Interpretability Approach](http://arxiv.org/abs/2509.16478v1)** | 2025-09-20 |  |
-| **[Hardness, Structural Knowledge, and Opportunity: An Analytical Framework for Modular Performance Modeling](http://arxiv.org/abs/2509.11000v2)** | 2025-09-19 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[Reflective Unit Test Generation for Precise Type Error Detection with Large Language Models](http://arxiv.org/abs/2507.02318v2)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[Towards Speeding up Program Repair with Non-Autoregressive Model](http://arxiv.org/abs/2510.01825v1)** | 2025-10-02 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 7 tables. arXiv admin note: substantial text overlap with arXiv:2406.16526</p></details> |
+| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
+| **[LSPFuzz: Hunting Bugs in Language Servers](http://arxiv.org/abs/2510.00532v2)** | 2025-10-02 | <details><summary>This ...</summary><p>This paper has been accepted for publication in The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
+| **[Deciphering WONTFIX: A Mixed-Method Study on Why GitHub Issues Get Rejected](http://arxiv.org/abs/2510.01514v1)** | 2025-10-01 |  |
+| **[When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems](http://arxiv.org/abs/2510.01182v1)** | 2025-10-01 |  |
+| **[Improving Code Localization with Repository Memory](http://arxiv.org/abs/2510.01003v1)** | 2025-10-01 | 15 pages, 8 figures |
+| **[TShape: Rescuing Machine Learning Models from Complex Shapelet Anomalies](http://arxiv.org/abs/2510.00680v1)** | 2025-10-01 |  |
+| **[Analyzing Latent Concepts in Code Language Models](http://arxiv.org/abs/2510.00476v1)** | 2025-10-01 |  |
 | **[Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models](http://arxiv.org/abs/2509.26584v1)** | 2025-09-30 |  |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
-| **[CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations](http://arxiv.org/abs/2509.26529v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2026</p></details> |
-| **[Institutional Policy Pathways for Supporting Research Software: Global Trends and Local Practices](http://arxiv.org/abs/2509.26422v1)** | 2025-09-30 |  |
-| **[EfficientEdit: Accelerating Code Editing via Edit-Oriented Speculative Decoding](http://arxiv.org/abs/2506.02780v2)** | 2025-09-30 | Accepted by ASE 2025 |
-| **[Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities](http://arxiv.org/abs/2509.25894v1)** | 2025-09-30 |  |
-| **[LogPilot: Intent-aware and Scalable Alert Diagnosis for Large-scale Online Service Systems](http://arxiv.org/abs/2509.25874v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
-| **[Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation](http://arxiv.org/abs/2509.25676v1)** | 2025-09-30 | Accepted by ASE'2025 |
-| **[BloomAPR: A Bloom's Taxonomy-based Framework for Assessing the Capabilities of LLM-Powered APR Solutions](http://arxiv.org/abs/2509.25465v1)** | 2025-09-29 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, Manuscript submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Dinkel: State-Aware and Granular Framework for Validating Graph Databases](http://arxiv.org/abs/2408.07525v3)** | 2025-09-29 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](http://arxiv.org/abs/2505.12185v4)** | 2025-10-01 | 20 pages, 4 figures |
-| **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
-| **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
-| **[Learning to Generate Unit Test via Adversarial Reinforcement Learning](http://arxiv.org/abs/2508.21107v2)** | 2025-09-30 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/dgjun32/UTRL</p></details> |
-| **[LLM Agents for Interactive Exploration of Historical Cadastre Data: Framework and Application to Venice](http://arxiv.org/abs/2505.17148v2)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted in Cambridge press - Computational Humanities Research 2025</p></details> |
-| **[90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development](http://arxiv.org/abs/2509.26161v1)** | 2025-09-30 |  |
-| **[A Multi-Language Object-Oriented Programming Benchmark for Large Language Models](http://arxiv.org/abs/2509.26111v1)** | 2025-09-30 | 20 pages, 12 figures |
-| **[Using GPT to build a Project Management assistant for Jira environments](http://arxiv.org/abs/2509.26014v1)** | 2025-09-30 |  |
-| **[Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities](http://arxiv.org/abs/2509.25894v1)** | 2025-09-30 |  |
-| **[Lita: Light Agent Uncovers the Agentic Coding Capabilities of LLMs](http://arxiv.org/abs/2509.25873v1)** | 2025-09-30 |  |
-| **[Explainable Fault Localization for Programming Assignments via LLM-Guided Annotation](http://arxiv.org/abs/2509.25676v1)** | 2025-09-30 | Accepted by ASE'2025 |
-| **[Understanding Formal Reasoning Failures in LLMs as Abstract Interpreters](http://arxiv.org/abs/2503.12686v2)** | 2025-09-30 |  |
-| **[BloomAPR: A Bloom's Taxonomy-based Framework for Assessing the Capabilities of LLM-Powered APR Solutions](http://arxiv.org/abs/2509.25465v1)** | 2025-09-29 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, Manuscript submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Towards Reliable Generation of Executable Workflows by Foundation Models](http://arxiv.org/abs/2509.25117v1)** | 2025-09-29 |  |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[Cyber-physical WebAssembly: Secure Hardware Interfaces and Pluggable Drivers](http://arxiv.org/abs/2410.22919v3)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted article of the IEEE/IFIP Network Operations and Management Symposium 2025 (NOMS 2025)</p></details> |
+| **[Automatic Generation of Combinatorial Reoptimisation Problem Specifications: A Vision](http://arxiv.org/abs/2510.02002v1)** | 2025-10-02 |  |
+| **[Clarifying Semantics of In-Context Examples for Unit Test Generation](http://arxiv.org/abs/2510.01994v1)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?](http://arxiv.org/abs/2507.15887v3)** | 2025-10-02 |  |
+| **[Towards Speeding up Program Repair with Non-Autoregressive Model](http://arxiv.org/abs/2510.01825v1)** | 2025-10-02 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 7 tables. arXiv admin note: substantial text overlap with arXiv:2406.16526</p></details> |
+| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
+| **[Discovering Software Parallelization Points Using Deep Neural Networks](http://arxiv.org/abs/2509.16215v2)** | 2025-10-01 | 17 pages, 10 figures |
+| **[Beyond Single LLMs: Enhanced Code Generation via Multi-Stage Performance-Guided LLM Orchestration](http://arxiv.org/abs/2510.01379v1)** | 2025-10-01 |  |
+| **[Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework](http://arxiv.org/abs/2510.01002v1)** | 2025-10-01 |  |
+| **[ChatGPT in Introductory Programming: Counterbalanced Evaluation of Code Quality, Conceptual Learning, and Student Perceptions](http://arxiv.org/abs/2510.00946v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to SIGCITE'25</p></details> |
+| **[On Effective Semantic Translation for Code: A Study Based on Pseudocode](http://arxiv.org/abs/2510.00920v1)** | 2025-10-01 |  |
+| **[CodeChemist: Functional Knowledge Transfer for Low-Resource Code Generation via Test-Time Scaling](http://arxiv.org/abs/2510.00501v1)** | 2025-10-01 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps](http://arxiv.org/abs/2409.10811v4)** | 2025-10-01 |  |
-| **[XRZoo: A Large-Scale and Versatile Dataset of Extended Reality (XR) Applications](http://arxiv.org/abs/2412.06759v3)** | 2025-10-01 |  |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval](http://arxiv.org/abs/2507.09199v2)** | 2025-10-01 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v2)** | 2025-10-01 |  |
-| **[AGNOMIN -- Architecture Agnostic Multi-Label Function Name Prediction](http://arxiv.org/abs/2509.25514v2)** | 2025-10-01 |  |
-| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](http://arxiv.org/abs/2505.12185v4)** | 2025-10-01 | 20 pages, 4 figures |
-| **[TVR: Automotive System Requirement Traceability Validation and Recovery Through Retrieval-Augmented Generation](http://arxiv.org/abs/2504.15427v3)** | 2025-09-30 |  |
-| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v3)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
-| **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
-| **[Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models](http://arxiv.org/abs/2509.26584v1)** | 2025-09-30 |  |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
-| **[CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations](http://arxiv.org/abs/2509.26529v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2026</p></details> |
-| **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
-| **[ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems](http://arxiv.org/abs/2509.26463v1)** | 2025-09-30 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 1 table, this paper has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps](http://arxiv.org/abs/2409.10811v4)** | 2025-10-01 |  |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v2)** | 2025-10-01 |  |
-| **[AGNOMIN -- Architecture Agnostic Multi-Label Function Name Prediction](http://arxiv.org/abs/2509.25514v2)** | 2025-10-01 |  |
-| **[Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models](http://arxiv.org/abs/2509.26584v1)** | 2025-09-30 |  |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
-| **[CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations](http://arxiv.org/abs/2509.26529v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2026</p></details> |
-| **[ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems](http://arxiv.org/abs/2509.26463v1)** | 2025-09-30 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 1 table, this paper has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[EQ-Robin: Generating Multiple Minimal Unique-Cause MC/DC Test Suites](http://arxiv.org/abs/2509.26458v1)** | 2025-09-30 | 5 pages |
-| **[Learning to Generate Unit Test via Adversarial Reinforcement Learning](http://arxiv.org/abs/2508.21107v2)** | 2025-09-30 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/dgjun32/UTRL</p></details> |
-| **[Model Discovery and Graph Simulation: A Lightweight Gateway to Chaos Engineering](http://arxiv.org/abs/2506.11176v2)** | 2025-09-30 | <details><summary>v2: E...</summary><p>v2: Extended experiment, major revision. Includes a more rigorous statistical analysis, a formal algorithm specification, and refined positioning of the work</p></details> |
-| **[Hamster: A Large-Scale Study and Characterization of Developer-Written Tests](http://arxiv.org/abs/2509.26204v1)** | 2025-09-30 |  |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection](http://arxiv.org/abs/2510.02165v1)** | 2025-10-02 | 10 pages |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
+| **[GeoSQL-Eval: First Evaluation of LLMs on PostGIS-Based NL2GeoSQL Queries](http://arxiv.org/abs/2509.25264v2)** | 2025-10-02 |  |
+| **[Clarifying Semantics of In-Context Examples for Unit Test Generation](http://arxiv.org/abs/2510.01994v1)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[Reflective Unit Test Generation for Precise Type Error Detection with Large Language Models](http://arxiv.org/abs/2507.02318v2)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[RefFilter: Improving Semantic Conflict Detection via Refactoring-Aware Static Analysis](http://arxiv.org/abs/2510.01960v1)** | 2025-10-02 |  |
+| **[Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead](http://arxiv.org/abs/2504.04630v2)** | 2025-10-02 | 2 figures, 37 pages |
+| **[Software Engineering for Self-Adaptive Robotics: A Research Agenda](http://arxiv.org/abs/2505.19629v2)** | 2025-10-02 |  |
+| **[AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?](http://arxiv.org/abs/2507.15887v3)** | 2025-10-02 |  |
+| **[ARENA: A tool for measuring and analysing the energy efficiency of Android apps](http://arxiv.org/abs/2510.01754v1)** | 2025-10-02 |  |
+| **[FOSS-chain: using blockchain for Open Source Software license compliance](http://arxiv.org/abs/2510.01740v1)** | 2025-10-02 |  |
+| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
+| **[MIMIC: Integrating Diverse Personality Traits for Better Game Testing Using Large Language Model](http://arxiv.org/abs/2510.01635v1)** | 2025-10-02 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables. This paper is accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
+| **[LSPFuzz: Hunting Bugs in Language Servers](http://arxiv.org/abs/2510.00532v2)** | 2025-10-02 | <details><summary>This ...</summary><p>This paper has been accepted for publication in The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval](http://arxiv.org/abs/2507.09199v2)** | 2025-10-01 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v2)** | 2025-10-01 |  |
-| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](http://arxiv.org/abs/2505.12185v4)** | 2025-10-01 | 20 pages, 4 figures |
-| **[TVR: Automotive System Requirement Traceability Validation and Recovery Through Retrieval-Augmented Generation](http://arxiv.org/abs/2504.15427v3)** | 2025-09-30 |  |
-| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v3)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
-| **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
-| **[Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models](http://arxiv.org/abs/2509.26584v1)** | 2025-09-30 |  |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
+| **[GeoSQL-Eval: First Evaluation of LLMs on PostGIS-Based NL2GeoSQL Queries](http://arxiv.org/abs/2509.25264v2)** | 2025-10-02 |  |
+| **[Clarifying Semantics of In-Context Examples for Unit Test Generation](http://arxiv.org/abs/2510.01994v1)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead](http://arxiv.org/abs/2504.04630v2)** | 2025-10-02 | 2 figures, 37 pages |
+| **[Search-Based Software Engineering and AI Foundation Models: Current Landscape and Future Roadmap](http://arxiv.org/abs/2505.19625v2)** | 2025-10-02 |  |
+| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps](http://arxiv.org/abs/2409.10811v4)** | 2025-10-01 |  |
-| **[XRZoo: A Large-Scale and Versatile Dataset of Extended Reality (XR) Applications](http://arxiv.org/abs/2412.06759v3)** | 2025-10-01 |  |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[TAIBOM: Bringing Trustworthiness to AI-Enabled Systems](http://arxiv.org/abs/2510.02169v1)** | 2025-10-02 | <details><summary>This ...</summary><p>This paper has been accepted at the First International Workshop on Security and Privacy-Preserving AI/ML (SPAIML 2025), co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
+| **[Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection](http://arxiv.org/abs/2510.02165v1)** | 2025-10-02 | 10 pages |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps](http://arxiv.org/abs/2409.10811v4)** | 2025-10-01 |  |
-| **[XRZoo: A Large-Scale and Versatile Dataset of Extended Reality (XR) Applications](http://arxiv.org/abs/2412.06759v3)** | 2025-10-01 |  |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval](http://arxiv.org/abs/2507.09199v2)** | 2025-10-01 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v2)** | 2025-10-01 |  |
-| **[AGNOMIN -- Architecture Agnostic Multi-Label Function Name Prediction](http://arxiv.org/abs/2509.25514v2)** | 2025-10-01 |  |
-| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](http://arxiv.org/abs/2505.12185v4)** | 2025-10-01 | 20 pages, 4 figures |
-| **[TVR: Automotive System Requirement Traceability Validation and Recovery Through Retrieval-Augmented Generation](http://arxiv.org/abs/2504.15427v3)** | 2025-09-30 |  |
-| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v3)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
-| **[Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1)** | 2025-09-30 | 20 pages |
-| **[Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models](http://arxiv.org/abs/2509.26584v1)** | 2025-09-30 |  |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
-| **[CSnake: Detecting Self-Sustaining Cascading Failure via Causal Stitching of Fault Propagations](http://arxiv.org/abs/2509.26529v1)** | 2025-09-30 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2026</p></details> |
-| **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
-| **[ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems](http://arxiv.org/abs/2509.26463v1)** | 2025-09-30 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 1 table, this paper has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[TAIBOM: Bringing Trustworthiness to AI-Enabled Systems](http://arxiv.org/abs/2510.02169v1)** | 2025-10-02 | <details><summary>This ...</summary><p>This paper has been accepted at the First International Workshop on Security and Privacy-Preserving AI/ML (SPAIML 2025), co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
+| **[SIEVE: Towards Verifiable Certification for Code-datasets](http://arxiv.org/abs/2510.02166v1)** | 2025-10-02 | 5 |
+| **[Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection](http://arxiv.org/abs/2510.02165v1)** | 2025-10-02 | 10 pages |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
+| **[GeoSQL-Eval: First Evaluation of LLMs on PostGIS-Based NL2GeoSQL Queries](http://arxiv.org/abs/2509.25264v2)** | 2025-10-02 |  |
+| **[Cyber-physical WebAssembly: Secure Hardware Interfaces and Pluggable Drivers](http://arxiv.org/abs/2410.22919v3)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted article of the IEEE/IFIP Network Operations and Management Symposium 2025 (NOMS 2025)</p></details> |
+| **[ACM SIGSOFT SEN Empirical Software Engineering: Introducing Our New Regular Column](http://arxiv.org/abs/2510.02007v1)** | 2025-10-02 | <details><summary>Publi...</summary><p>Published in ACM SIGSOFT Software Engineering Notes (SIGSOFT-SEN). Volume 50, Issue 4, 2025</p></details> |
+| **[Automatic Generation of Combinatorial Reoptimisation Problem Specifications: A Vision](http://arxiv.org/abs/2510.02002v1)** | 2025-10-02 |  |
+| **[Clarifying Semantics of In-Context Examples for Unit Test Generation](http://arxiv.org/abs/2510.01994v1)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[Reflective Unit Test Generation for Precise Type Error Detection with Large Language Models](http://arxiv.org/abs/2507.02318v2)** | 2025-10-02 | <details><summary>accep...</summary><p>accepted in the research track of ASE 2025</p></details> |
+| **[KTBox: A Modular LaTeX Framework for Semantic Color, Structured Highlighting, and Scholarly Communication](http://arxiv.org/abs/2510.01961v1)** | 2025-10-02 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. First public release of the KTBox framework as a modular LaTeX package. Source code: https://github.com/mangalbhaskar/ktbox, CTAN: https://ctan.org/tex-archive/macros/latex/contrib/ktbox/. Planned to extend this work into a Q1 journal submission in the near future</p></details> |
+| **[RefFilter: Improving Semantic Conflict Detection via Refactoring-Aware Static Analysis](http://arxiv.org/abs/2510.01960v1)** | 2025-10-02 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -154,20 +155,30 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[EVALOOOP: A Self-Consistency-Centered Framework for Assessing Large Language Model Robustness in Programming](http://arxiv.org/abs/2505.12185v4)** | 2025-10-01 | 20 pages, 4 figures |
-| **[Secure coding for web applications: Frameworks, challenges, and the role of LLMs](http://arxiv.org/abs/2507.22223v3)** | 2025-09-30 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 3 tables, 6 listings</p></details> |
-| **[Towards Verified Code Reasoning by LLMs](http://arxiv.org/abs/2509.26546v1)** | 2025-09-30 | 43 pages |
-| **[Regression Language Models for Code](http://arxiv.org/abs/2509.26476v1)** | 2025-09-30 |  |
-| **[ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems](http://arxiv.org/abs/2509.26463v1)** | 2025-09-30 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 1 table, this paper has been accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[UniSage: A Unified and Post-Analysis-Aware Sampling for Microservices](http://arxiv.org/abs/2509.26336v1)** | 2025-09-30 |  |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[SIEVE: Towards Verifiable Certification for Code-datasets](http://arxiv.org/abs/2510.02166v1)** | 2025-10-02 | 5 |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
+| **[KTBox: A Modular LaTeX Framework for Semantic Color, Structured Highlighting, and Scholarly Communication](http://arxiv.org/abs/2510.01961v1)** | 2025-10-02 | <details><summary>14 pa...</summary><p>14 pages, 3 figures. First public release of the KTBox framework as a modular LaTeX package. Source code: https://github.com/mangalbhaskar/ktbox, CTAN: https://ctan.org/tex-archive/macros/latex/contrib/ktbox/. Planned to extend this work into a Q1 journal submission in the near future</p></details> |
+| **[RefFilter: Improving Semantic Conflict Detection via Refactoring-Aware Static Analysis](http://arxiv.org/abs/2510.01960v1)** | 2025-10-02 |  |
+| **[Foundation Models for Software Engineering of Cyber-Physical Systems: the Road Ahead](http://arxiv.org/abs/2504.04630v2)** | 2025-10-02 | 2 figures, 37 pages |
+| **[AlgoTune: Can Language Models Speed Up General-Purpose Numerical Programs?](http://arxiv.org/abs/2507.15887v3)** | 2025-10-02 |  |
+| **[Towards Speeding up Program Repair with Non-Autoregressive Model](http://arxiv.org/abs/2510.01825v1)** | 2025-10-02 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 7 tables. arXiv admin note: substantial text overlap with arXiv:2406.16526</p></details> |
+| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
+| **[MIMIC: Integrating Diverse Personality Traits for Better Game Testing Using Large Language Model](http://arxiv.org/abs/2510.01635v1)** | 2025-10-02 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 6 tables. This paper is accepted by the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
+| **[Synergizing LLMs and Knowledge Graphs: A Novel Approach to Software Repository-Related Question Answering](http://arxiv.org/abs/2412.03815v2)** | 2025-10-02 | <details><summary>Submi...</summary><p>Submitted to ACM Transactions on Software Engineering and Methodology for review</p></details> |
+| **[LSPFuzz: Hunting Bugs in Language Servers](http://arxiv.org/abs/2510.00532v2)** | 2025-10-02 | <details><summary>This ...</summary><p>This paper has been accepted for publication in The 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
+| **[Discovering Software Parallelization Points Using Deep Neural Networks](http://arxiv.org/abs/2509.16215v2)** | 2025-10-01 | 17 pages, 10 figures |
+| **[Deciphering WONTFIX: A Mixed-Method Study on Why GitHub Issues Get Rejected](http://arxiv.org/abs/2510.01514v1)** | 2025-10-01 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Grounded GUI Understanding for Vision-Based Spatial Intelligent Agent: Exemplified by Extended Reality Apps](http://arxiv.org/abs/2409.10811v4)** | 2025-10-01 |  |
-| **[XRZoo: A Large-Scale and Versatile Dataset of Extended Reality (XR) Applications](http://arxiv.org/abs/2412.06759v3)** | 2025-10-01 |  |
-| **[Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development](http://arxiv.org/abs/2509.25297v2)** | 2025-10-01 |  |
-| **[Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval](http://arxiv.org/abs/2507.09199v2)** | 2025-10-01 |  |
-| **[On the Soundness and Consistency of LLM Agents for Executing Test Cases Written in Natural Language](http://arxiv.org/abs/2509.19136v2)** | 2025-10-01 |  |
+| **[LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis](http://arxiv.org/abs/2509.12021v2)** | 2025-10-02 | <details><summary>ASE 2...</summary><p>ASE 2025 Tool Demonstration Track</p></details> |
+| **[Cross-Breed Pig Identification Using Auricular Vein Pattern Recognition: A Machine Learning Approach for Small-Scale Farming Applications](http://arxiv.org/abs/2510.02197v1)** | 2025-10-02 | 20 pages |
+| **[FalseCrashReducer: Mitigating False Positive Crashes in OSS-Fuzz-Gen Using Agentic AI](http://arxiv.org/abs/2510.02185v1)** | 2025-10-02 | 12 pages, 2 figures |
+| **[TAIBOM: Bringing Trustworthiness to AI-Enabled Systems](http://arxiv.org/abs/2510.02169v1)** | 2025-10-02 | <details><summary>This ...</summary><p>This paper has been accepted at the First International Workshop on Security and Privacy-Preserving AI/ML (SPAIML 2025), co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
+| **[SIEVE: Towards Verifiable Certification for Code-datasets](http://arxiv.org/abs/2510.02166v1)** | 2025-10-02 | 5 |
+| **[Towards fairer public transit: Real-time tensor-based multimodal fare evasion and fraud detection](http://arxiv.org/abs/2510.02165v1)** | 2025-10-02 | 10 pages |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](http://arxiv.org/abs/2506.00750v2)** | 2025-10-02 |  |
 
