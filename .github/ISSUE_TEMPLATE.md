@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,22 +7,17 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Potential of Conversational AI Support for Agent-Based Social Simulation Model Design](http://arxiv.org/abs/2405.08032v2)** | 2025-10-07 | <details><summary>This ...</summary><p>This paper has been published in the Journal of Artificial Societies and Social Simulation 28 (3) 2. Please refer to the published version at [https://doi.org/10.18564/jasss.5681]</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[Prompting in Practice: Investigating Software Developers' Use of Generative AI Tools](http://arxiv.org/abs/2510.06000v1)** | 2025-10-07 |  |
-| **[Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications](http://arxiv.org/abs/2510.05968v1)** | 2025-10-07 |  |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Potential of Conversational AI Support for Agent-Based Social Simulation Model Design](http://arxiv.org/abs/2405.08032v2)** | 2025-10-07 | <details><summary>This ...</summary><p>This paper has been published in the Journal of Artificial Societies and Social Simulation 28 (3) 2. Please refer to the published version at [https://doi.org/10.18564/jasss.5681]</p></details> |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[Prompting in Practice: Investigating Software Developers' Use of Generative AI Tools](http://arxiv.org/abs/2510.06000v1)** | 2025-10-07 |  |
-| **[Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications](http://arxiv.org/abs/2510.05968v1)** | 2025-10-07 |  |
-| **[Efficient Heuristics and Exact Methods for Pairwise Interaction Sampling](http://arxiv.org/abs/2510.05955v1)** | 2025-10-07 | <details><summary>Full ...</summary><p>Full version of an ALENEX 2026 paper</p></details> |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[A Multi-Agent Framework for Stateful Inference-Time Search](http://arxiv.org/abs/2510.07147v1)** | 2025-10-08 |  |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
+| **[Early Results from Teaching Modelling for Software Comprehension in New-Hire Onboarding](http://arxiv.org/abs/2510.07010v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at COMPUTE 2025 as short paper</p></details> |
+| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v2)** | 2025-10-08 | <details><summary>ACCEP...</summary><p>ACCEPTED FOR ASE 2025</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -46,17 +41,28 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
+| **[Automated Discovery of Test Oracles for Database Management Systems Using LLMs](http://arxiv.org/abs/2510.06663v1)** | 2025-10-08 |  |
+| **[Analyzing and Mitigating Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v2)** | 2025-10-07 |  |
+| **[Leveraging Large Language Models for Cybersecurity Risk Assessment -- A Case from Forestry Cyber-Physical Systems](http://arxiv.org/abs/2510.06343v1)** | 2025-10-07 | <details><summary>Accep...</summary><p>Accepted at Autonomous Agents in Software Engineering (AgenticSE) Workshop, co-located with ASE 2025</p></details> |
 | **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
 | **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
 | **[Leveraging Large Language Model for Information Retrieval-based Bug Localization](http://arxiv.org/abs/2508.00253v2)** | 2025-10-07 |  |
 | **[What Types of Code Review Comments Do Developers Most Frequently Resolve?](http://arxiv.org/abs/2510.05450v1)** | 2025-10-06 | <details><summary>The p...</summary><p>The paper has been accepted the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
 | **[UnitTenX: Generating Tests for Legacy Packages with AI Agents Powered by Formal Verification](http://arxiv.org/abs/2510.05441v1)** | 2025-10-06 |  |
 | **[Test Case Generation from Bug Reports via Large Language Models: A Cognitive Layered Evaluation Framework](http://arxiv.org/abs/2510.05365v1)** | 2025-10-06 |  |
-| **[Improving IR-based Bug Localization with Semantics-Driven Query Reduction](http://arxiv.org/abs/2510.04468v1)** | 2025-10-06 | <details><summary>56 pa...</summary><p>56 pages, 16 figures, 11 tables</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
+| **[Early Results from Teaching Modelling for Software Comprehension in New-Hire Onboarding](http://arxiv.org/abs/2510.07010v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at COMPUTE 2025 as short paper</p></details> |
+| **[An empirical study on declined proposals: why are these proposals declined?](http://arxiv.org/abs/2510.06984v1)** | 2025-10-08 |  |
+| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v2)** | 2025-10-08 | <details><summary>ACCEP...</summary><p>ACCEPTED FOR ASE 2025</p></details> |
+| **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v2)** | 2025-10-08 | 5 pages, 1 table |
+| **[Automated Discovery of Test Oracles for Database Management Systems Using LLMs](http://arxiv.org/abs/2510.06663v1)** | 2025-10-08 |  |
+| **[Analyzing and Mitigating Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v2)** | 2025-10-07 |  |
 | **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
 | **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
 | **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
@@ -64,88 +70,65 @@ labels: documentation
 | **[Vul-R2: A Reasoning LLM for Automated Vulnerability Repair](http://arxiv.org/abs/2510.05480v1)** | 2025-10-07 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. This paper is accepted by ASE 2025</p></details> |
 | **[VerifyThisBench: Generating Code, Specifications, and Proofs All at Once](http://arxiv.org/abs/2505.19271v2)** | 2025-10-07 |  |
 | **[Do Code Models Suffer from the Dunning-Kruger Effect?](http://arxiv.org/abs/2510.05457v1)** | 2025-10-06 |  |
-| **[Quantum Computing as a Service - a Software Engineering Perspective](http://arxiv.org/abs/2510.04982v1)** | 2025-10-06 | <details><summary>37 pa...</summary><p>37 pages, 10 images, 5 tables, Manuscript submitted to a Journal (2025)</p></details> |
-| **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v4)** | 2025-10-06 |  |
-| **[Retrofitting Control Flow Graphs in LLVM IR for Auto Vectorization](http://arxiv.org/abs/2510.04890v1)** | 2025-10-06 |  |
-| **[FreshBrew: A Benchmark for Evaluating AI Agents on Java Code Migration](http://arxiv.org/abs/2510.04852v1)** | 2025-10-06 | 18 pages, 11 figures |
-| **[GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes](http://arxiv.org/abs/2510.04791v1)** | 2025-10-06 |  |
-| **[Functional vs. Object-Oriented: Comparing How Programming Paradigms Affect the Architectural Characteristics of Systems](http://arxiv.org/abs/2508.00244v3)** | 2025-10-06 | <details><summary>11 pa...</summary><p>11 pages, 15 figures (1 table, 3 diagrams, 4 graphics, 7 listings), accepted to the CTICQS capstone project competition at SBQS 2025</p></details> |
-| **[Exploring the Power of Diffusion Large Language Models for Software Engineering: An Empirical Investigation](http://arxiv.org/abs/2510.04605v1)** | 2025-10-06 |  |
-| **[Advancing Digital Government: Integrating Open Source Software Enablement Indicators in Maturity Indexes](http://arxiv.org/abs/2510.04603v1)** | 2025-10-06 | In submission |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Potential of Conversational AI Support for Agent-Based Social Simulation Model Design](http://arxiv.org/abs/2405.08032v2)** | 2025-10-07 | <details><summary>This ...</summary><p>This paper has been published in the Journal of Artificial Societies and Social Simulation 28 (3) 2. Please refer to the published version at [https://doi.org/10.18564/jasss.5681]</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[Prompting in Practice: Investigating Software Developers' Use of Generative AI Tools](http://arxiv.org/abs/2510.06000v1)** | 2025-10-07 |  |
-| **[Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications](http://arxiv.org/abs/2510.05968v1)** | 2025-10-07 |  |
-| **[Efficient Heuristics and Exact Methods for Pairwise Interaction Sampling](http://arxiv.org/abs/2510.05955v1)** | 2025-10-07 | <details><summary>Full ...</summary><p>Full version of an ALENEX 2026 paper</p></details> |
-| **[AdProv: A Method for Provenance of Process Adaptations](http://arxiv.org/abs/2510.05936v1)** | 2025-10-07 | 15 pages, 4 figures |
-| **[Speeding up SQL subqueries via decoupling of non-correlated predicate (extended version)](http://arxiv.org/abs/2510.05907v1)** | 2025-10-07 |  |
-| **[A Wave of Resignations in the Aftermath of Remote Onboarding](http://arxiv.org/abs/2510.05878v1)** | 2025-10-07 | <details><summary>9 pag...</summary><p>9 pages, submitted to the Journal of Systems and Software, In Practice track</p></details> |
-| **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
-| **[Mellum: Production-Grade in-IDE Contextual Code Completion with Multi-File Project Understanding](http://arxiv.org/abs/2510.05788v1)** | 2025-10-07 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
-| **[Digital Twins for Software Engineering Processes](http://arxiv.org/abs/2510.05768v1)** | 2025-10-07 |  |
-| **[The Software Observatory: aggregating and analysing software metadata for trend computation and FAIR assessment](http://arxiv.org/abs/2510.05705v1)** | 2025-10-07 |  |
-| **[Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models](http://arxiv.org/abs/2504.20684v2)** | 2025-10-07 |  |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[A Multi-Agent Framework for Stateful Inference-Time Search](http://arxiv.org/abs/2510.07147v1)** | 2025-10-08 |  |
+| **[From Neural Sensing to Stimulation: An Interdisciplinary Roadmap for Neurotechnology](http://arxiv.org/abs/2510.07116v1)** | 2025-10-08 |  |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
+| **[Building an Open AIBOM Standard in the Wild](http://arxiv.org/abs/2510.07070v1)** | 2025-10-08 |  |
+| **[Early Results from Teaching Modelling for Software Comprehension in New-Hire Onboarding](http://arxiv.org/abs/2510.07010v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at COMPUTE 2025 as short paper</p></details> |
+| **[Human-aligned AI Model Cards with Weighted Hierarchy Architecture](http://arxiv.org/abs/2510.06989v1)** | 2025-10-08 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to ICSE SEIP 2026 (Software Engineering in Practice)</p></details> |
+| **[Spiral Model Technique For Data Science & Machine Learning Lifecycle](http://arxiv.org/abs/2510.06987v1)** | 2025-10-08 |  |
+| **[An empirical study on declined proposals: why are these proposals declined?](http://arxiv.org/abs/2510.06984v1)** | 2025-10-08 |  |
+| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v2)** | 2025-10-08 | <details><summary>ACCEP...</summary><p>ACCEPTED FOR ASE 2025</p></details> |
+| **[Oops!... I did it again. Conclusion (In-)Stability in Quantitative Empirical Software Engineering: A Large-Scale Analysis](http://arxiv.org/abs/2510.06844v1)** | 2025-10-08 |  |
+| **[AgentDroid: A Multi-Agent Framework for Detecting Fraudulent Android Applications](http://arxiv.org/abs/2503.12163v2)** | 2025-10-08 |  |
+| **[LLM Company Policies and Policy Implications in Software Organizations](http://arxiv.org/abs/2510.06718v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at IEEE Software Special Issue on AIware in the Foundation Models Era</p></details> |
+| **[AISysRev -- LLM-based Tool for Title-abstract Screening](http://arxiv.org/abs/2510.06708v1)** | 2025-10-08 | 4 pages |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[A Multi-Agent Framework for Stateful Inference-Time Search](http://arxiv.org/abs/2510.07147v1)** | 2025-10-08 |  |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
+| **[Early Results from Teaching Modelling for Software Comprehension in New-Hire Onboarding](http://arxiv.org/abs/2510.07010v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at COMPUTE 2025 as short paper</p></details> |
+| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v2)** | 2025-10-08 | <details><summary>ACCEP...</summary><p>ACCEPTED FOR ASE 2025</p></details> |
+| **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v2)** | 2025-10-08 | 5 pages, 1 table |
+| **[Automated Discovery of Test Oracles for Database Management Systems Using LLMs](http://arxiv.org/abs/2510.06663v1)** | 2025-10-08 |  |
+| **[Smart Hiring Redefined: An Intelligent Recruitment Management Platform](http://arxiv.org/abs/2510.04437v3)** | 2025-10-08 |  |
+| **[Analyzing and Mitigating Surface Bias in Code Evaluation Metrics](http://arxiv.org/abs/2509.15397v2)** | 2025-10-07 |  |
+| **[Improving Assignment Submission in Higher Education through a Git-Enabled System: An Iterative Case Study](http://arxiv.org/abs/2510.06363v1)** | 2025-10-07 |  |
 | **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Efficient Heuristics and Exact Methods for Pairwise Interaction Sampling](http://arxiv.org/abs/2510.05955v1)** | 2025-10-07 | <details><summary>Full ...</summary><p>Full version of an ALENEX 2026 paper</p></details> |
-| **[Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models](http://arxiv.org/abs/2504.20684v2)** | 2025-10-07 |  |
-| **[MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions](http://arxiv.org/abs/2504.09474v3)** | 2025-10-07 |  |
-| **[Smart Hiring Redefined: An Intelligent Recruitment Management Platform](http://arxiv.org/abs/2510.04437v2)** | 2025-10-07 |  |
-| **[Safety Factories - a Manifesto](http://arxiv.org/abs/2509.08285v2)** | 2025-10-07 | <details><summary>Prese...</summary><p>Presented at The 44th International Conference on Computer Safety, Reliability and Security (SafeComp 2025)</p></details> |
-| **[Vul-R2: A Reasoning LLM for Automated Vulnerability Repair](http://arxiv.org/abs/2510.05480v1)** | 2025-10-07 | <details><summary>13 pa...</summary><p>13 pages, 8 figures. This paper is accepted by ASE 2025</p></details> |
-| **[What Types of Code Review Comments Do Developers Most Frequently Resolve?](http://arxiv.org/abs/2510.05450v1)** | 2025-10-06 | <details><summary>The p...</summary><p>The paper has been accepted the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
-| **[UnitTenX: Generating Tests for Legacy Packages with AI Agents Powered by Formal Verification](http://arxiv.org/abs/2510.05441v1)** | 2025-10-06 |  |
-| **[Test Case Generation from Bug Reports via Large Language Models: A Cognitive Layered Evaluation Framework](http://arxiv.org/abs/2510.05365v1)** | 2025-10-06 |  |
-| **[Artificial intelligence for context-aware visual change detection in software test automation](http://arxiv.org/abs/2405.00874v2)** | 2025-10-06 |  |
-| **[Data and Context Matter: Towards Generalizing AI-based Software Vulnerability Detection](http://arxiv.org/abs/2508.16625v2)** | 2025-10-06 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications](http://arxiv.org/abs/2510.05968v1)** | 2025-10-07 |  |
-| **[Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models](http://arxiv.org/abs/2504.20684v2)** | 2025-10-07 |  |
-| **[Generating High-Quality Datasets for Code Editing via Open-Source Language Models](http://arxiv.org/abs/2509.25203v3)** | 2025-10-07 | 23 pages, 8 figures |
-| **[MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions](http://arxiv.org/abs/2504.09474v3)** | 2025-10-07 |  |
-| **[PLSemanticsBench: Large Language Models As Programming Language Interpreters](http://arxiv.org/abs/2510.03415v2)** | 2025-10-07 |  |
-| **[Leveraging Large Language Model for Information Retrieval-based Bug Localization](http://arxiv.org/abs/2508.00253v2)** | 2025-10-07 |  |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[A Multi-Agent Framework for Stateful Inference-Time Search](http://arxiv.org/abs/2510.07147v1)** | 2025-10-08 |  |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
+| **[Human-aligned AI Model Cards with Weighted Hierarchy Architecture](http://arxiv.org/abs/2510.06989v1)** | 2025-10-08 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. Submitted to ICSE SEIP 2026 (Software Engineering in Practice)</p></details> |
+| **[An empirical study on declined proposals: why are these proposals declined?](http://arxiv.org/abs/2510.06984v1)** | 2025-10-08 |  |
+| **[Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories](http://arxiv.org/abs/2506.18824v2)** | 2025-10-08 | <details><summary>ACCEP...</summary><p>ACCEPTED FOR ASE 2025</p></details> |
+| **[AgentDroid: A Multi-Agent Framework for Detecting Fraudulent Android Applications](http://arxiv.org/abs/2503.12163v2)** | 2025-10-08 |  |
+| **[LLM Company Policies and Policy Implications in Software Organizations](http://arxiv.org/abs/2510.06718v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted at IEEE Software Special Issue on AIware in the Foundation Models Era</p></details> |
+| **[AISysRev -- LLM-based Tool for Title-abstract Screening](http://arxiv.org/abs/2510.06708v1)** | 2025-10-08 | 4 pages |
+| **[Toward Causal-Visual Programming: Enhancing Agentic Reasoning in Low-Code Environments](http://arxiv.org/abs/2509.25282v2)** | 2025-10-08 | 5 pages, 1 table |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Potential of Conversational AI Support for Agent-Based Social Simulation Model Design](http://arxiv.org/abs/2405.08032v2)** | 2025-10-07 | <details><summary>This ...</summary><p>This paper has been published in the Journal of Artificial Societies and Social Simulation 28 (3) 2. Please refer to the published version at [https://doi.org/10.18564/jasss.5681]</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Potential of Conversational AI Support for Agent-Based Social Simulation Model Design](http://arxiv.org/abs/2405.08032v2)** | 2025-10-07 | <details><summary>This ...</summary><p>This paper has been published in the Journal of Artificial Societies and Social Simulation 28 (3) 2. Please refer to the published version at [https://doi.org/10.18564/jasss.5681]</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[Prompting in Practice: Investigating Software Developers' Use of Generative AI Tools](http://arxiv.org/abs/2510.06000v1)** | 2025-10-07 |  |
-| **[Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications](http://arxiv.org/abs/2510.05968v1)** | 2025-10-07 |  |
-| **[Efficient Heuristics and Exact Methods for Pairwise Interaction Sampling](http://arxiv.org/abs/2510.05955v1)** | 2025-10-07 | <details><summary>Full ...</summary><p>Full version of an ALENEX 2026 paper</p></details> |
-| **[AdProv: A Method for Provenance of Process Adaptations](http://arxiv.org/abs/2510.05936v1)** | 2025-10-07 | 15 pages, 4 figures |
-| **[Speeding up SQL subqueries via decoupling of non-correlated predicate (extended version)](http://arxiv.org/abs/2510.05907v1)** | 2025-10-07 |  |
-| **[A Wave of Resignations in the Aftermath of Remote Onboarding](http://arxiv.org/abs/2510.05878v1)** | 2025-10-07 | <details><summary>9 pag...</summary><p>9 pages, submitted to the Journal of Systems and Software, In Practice track</p></details> |
-| **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
-| **[Mellum: Production-Grade in-IDE Contextual Code Completion with Multi-File Project Understanding](http://arxiv.org/abs/2510.05788v1)** | 2025-10-07 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
-| **[Digital Twins for Software Engineering Processes](http://arxiv.org/abs/2510.05768v1)** | 2025-10-07 |  |
-| **[The Software Observatory: aggregating and analysing software metadata for trend computation and FAIR assessment](http://arxiv.org/abs/2510.05705v1)** | 2025-10-07 |  |
-| **[Identifying Uncertainty in Self-Adaptive Robotics with Large Language Models](http://arxiv.org/abs/2504.20684v2)** | 2025-10-07 |  |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -158,27 +141,16 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
-| **[Prompting in Practice: Investigating Software Developers' Use of Generative AI Tools](http://arxiv.org/abs/2510.06000v1)** | 2025-10-07 |  |
-| **[Extending ResourceLink: Patterns for Large Dataset Processing in MCP Applications](http://arxiv.org/abs/2510.05968v1)** | 2025-10-07 |  |
-| **[SBOMproof: Beyond Alleged SBOM Compliance for Supply Chain Security of Container Images](http://arxiv.org/abs/2510.05798v1)** | 2025-10-07 |  |
-| **[Mellum: Production-Grade in-IDE Contextual Code Completion with Multi-File Project Understanding](http://arxiv.org/abs/2510.05788v1)** | 2025-10-07 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 3 tables</p></details> |
-| **[Generating High-Quality Datasets for Code Editing via Open-Source Language Models](http://arxiv.org/abs/2509.25203v3)** | 2025-10-07 | 23 pages, 8 figures |
-| **[MigGPT: Harnessing Large Language Models for Automated Migration of Out-of-Tree Linux Kernel Patches Across Versions](http://arxiv.org/abs/2504.09474v3)** | 2025-10-07 |  |
-| **[DynamiQ: Unlocking the Potential of Dynamic Task Allocation in Parallel Fuzzing](http://arxiv.org/abs/2510.04469v2)** | 2025-10-07 |  |
-| **[PLSemanticsBench: Large Language Models As Programming Language Interpreters](http://arxiv.org/abs/2510.03415v2)** | 2025-10-07 |  |
-| **[Leveraging Large Language Model for Information Retrieval-based Bug Localization](http://arxiv.org/abs/2508.00253v2)** | 2025-10-07 |  |
-| **[VerifyThisBench: Generating Code, Specifications, and Proofs All at Once](http://arxiv.org/abs/2505.19271v2)** | 2025-10-07 |  |
-| **[Do Code Models Suffer from the Dunning-Kruger Effect?](http://arxiv.org/abs/2510.05457v1)** | 2025-10-06 |  |
-| **[What Types of Code Review Comments Do Developers Most Frequently Resolve?](http://arxiv.org/abs/2510.05450v1)** | 2025-10-06 | <details><summary>The p...</summary><p>The paper has been accepted the 40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025</p></details> |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[A Multi-Agent Framework for Stateful Inference-Time Search](http://arxiv.org/abs/2510.07147v1)** | 2025-10-08 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Potential of Conversational AI Support for Agent-Based Social Simulation Model Design](http://arxiv.org/abs/2405.08032v2)** | 2025-10-07 | <details><summary>This ...</summary><p>This paper has been published in the Journal of Artificial Societies and Social Simulation 28 (3) 2. Please refer to the published version at [https://doi.org/10.18564/jasss.5681]</p></details> |
-| **[Automated Program Repair of Uncompilable Student Code](http://arxiv.org/abs/2510.06187v1)** | 2025-10-07 |  |
-| **[Toward Green Code: Prompting Small Language Models for Energy-Efficient Code Generation](http://arxiv.org/abs/2509.09947v2)** | 2025-10-07 |  |
-| **[Explaining Code Risk in OSS: Towards LLM-Generated Fault Prediction Interpretations](http://arxiv.org/abs/2510.06104v1)** | 2025-10-07 |  |
+| **[Vibe Checker: Aligning Code Evaluation with Human Preference](http://arxiv.org/abs/2510.07315v1)** | 2025-10-08 | Preprint |
+| **[Prompt, Synthesize, Fine-Tune: A Secure Code Generation Recipe](http://arxiv.org/abs/2510.07189v1)** | 2025-10-08 |  |
+| **[A Multi-Agent Framework for Stateful Inference-Time Search](http://arxiv.org/abs/2510.07147v1)** | 2025-10-08 |  |
+| **[From Neural Sensing to Stimulation: An Interdisciplinary Roadmap for Neurotechnology](http://arxiv.org/abs/2510.07116v1)** | 2025-10-08 |  |
+| **[CodeCureAgent: Automatic Classification and Repair of Static Analysis Warnings](http://arxiv.org/abs/2509.11787v2)** | 2025-10-08 |  |
 
