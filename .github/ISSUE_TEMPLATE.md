@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 15, 2025
+title: Latest 15 Papers - October 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,22 +7,30 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub](http://arxiv.org/abs/2304.06367v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the Empirical Software Engineering Journal</p></details> |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[The EmpathiSEr: Development and Validation of Software Engineering Oriented Empathy Scales](http://arxiv.org/abs/2510.12546v1)** | 2025-10-14 |  |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub](http://arxiv.org/abs/2304.06367v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the Empirical Software Engineering Journal</p></details> |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[The EmpathiSEr: Development and Validation of Software Engineering Oriented Empathy Scales](http://arxiv.org/abs/2510.12546v1)** | 2025-10-14 |  |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
 | **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
 | **[SLEAN: Simple Lightweight Ensemble Analysis Network for Multi-Provider LLM Coordination: Design, Implementation, and Vibe Coding Bug Investigation Case Study](http://arxiv.org/abs/2510.10010v1)** | 2025-10-11 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 6 tables, link to code repo</p></details> |
 | **[On Developers' Self-Declaration of AI-Generated Code: An Analysis of Practices](http://arxiv.org/abs/2504.16485v3)** | 2025-10-10 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2025</p></details> |
@@ -37,29 +45,32 @@ labels: documentation
 | **[RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents](http://arxiv.org/abs/2510.02609v1)** | 2025-10-02 |  |
 | **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
 | **[When Shared Worlds Break: Demystifying Defects in Multi-User Extended Reality Software Systems](http://arxiv.org/abs/2510.01182v1)** | 2025-10-01 |  |
-| **[ChatGPT in Introductory Programming: Counterbalanced Evaluation of Code Quality, Conceptual Learning, and Student Perceptions](http://arxiv.org/abs/2510.00946v1)** | 2025-10-01 | <details><summary>Accep...</summary><p>Accepted to SIGCITE'25</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[iCodeReviewer: Improving Secure Code Review with Mixture of Prompts](http://arxiv.org/abs/2510.12186v1)** | 2025-10-14 |  |
+| **[Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](http://arxiv.org/abs/2510.11838v1)** | 2025-10-13 |  |
 | **[What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times](http://arxiv.org/abs/2510.11138v1)** | 2025-10-13 |  |
 | **[Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs](http://arxiv.org/abs/2510.11059v1)** | 2025-10-13 | <details><summary>ASE-2...</summary><p>ASE-2025 main research paper</p></details> |
 | **[LineBreaker: Finding Token-Inconsistency Bugs with Large Language Models](http://arxiv.org/abs/2405.01668v2)** | 2025-10-12 | <details><summary>ASE 2...</summary><p>ASE 2025 Accepted, with Appendix added</p></details> |
 | **[GitBugs: Bug Reports for Duplicate Detection, Retrieval Augmented Generation, and More](http://arxiv.org/abs/2504.09651v2)** | 2025-10-12 | 2 Tables, 9 Figures |
-| **[Leveraging Large Language Models for Cybersecurity Risk Assessment -- A Case from Forestry Cyber-Physical Systems](http://arxiv.org/abs/2510.06343v2)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted at Autonomous Agents in Software Engineering (AgenticSE) Workshop, co-located with ASE 2025</p></details> |
-| **[Bridging Semantics & Structure for Software Vulnerability Detection using Hybrid Network Models](http://arxiv.org/abs/2510.10321v1)** | 2025-10-11 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 5 tables, 14 equations, accepted at the 14th International Conference on Complex Networks and Their Applications (COMPLEX NETWORKS 2025) and the conference proceedings will be published by Springer in the Studies in Computational Intelligence series</p></details> |
-| **[LLMs are All You Need? Improving Fuzz Testing for MOJO with Large Language Models](http://arxiv.org/abs/2510.10179v1)** | 2025-10-11 |  |
-| **[A Mathematics-Guided Approach to Floating-Point Error Detection](http://arxiv.org/abs/2510.10081v1)** | 2025-10-11 |  |
-| **[Navigating the Labyrinth: Path-Sensitive Unit Test Generation with Large Language Models](http://arxiv.org/abs/2509.23812v2)** | 2025-10-11 |  |
-| **[OBsmith: Testing JavaScript Obfuscator using LLM-powered sketching](http://arxiv.org/abs/2510.10066v1)** | 2025-10-11 |  |
-| **[SLEAN: Simple Lightweight Ensemble Analysis Network for Multi-Provider LLM Coordination: Design, Implementation, and Vibe Coding Bug Investigation Case Study](http://arxiv.org/abs/2510.10010v1)** | 2025-10-11 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 6 tables, link to code repo</p></details> |
-| **[OFP-Repair: Repairing Floating-point Errors via Original-Precision Arithmetic](http://arxiv.org/abs/2510.09938v1)** | 2025-10-11 |  |
-| **[Agentic Property-Based Testing: Finding Bugs Across the Python Ecosystem](http://arxiv.org/abs/2510.09907v1)** | 2025-10-10 | <details><summary>4 pag...</summary><p>4 pages (main), NeurIPS 2025, The 4th Deep Learning for Code Workshop</p></details> |
-| **[Agents in the Sandbox: End-to-End Crash Bug Reproduction for Minecraft](http://arxiv.org/abs/2503.20036v2)** | 2025-10-10 | <details><summary>Accep...</summary><p>Accepted into ASE'25 (Automated Software Engineering). https://conf.researchr.org/details/ase-2025/ase-2025-papers/244/Agents-in-the-Sandbox-End-to-End-Crash-Bug-Reproduction-for-Minecraft</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[GUPPY: Pythonic Quantum-Classical Programming](http://arxiv.org/abs/2510.12582v1)** | 2025-10-14 | <details><summary>Prese...</summary><p>Presented at the Fourth International Workshop on Programming Languages for Quantum Computing (PLanQC 2024)</p></details> |
+| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v1)** | 2025-10-14 | <details><summary>Works...</summary><p>Workshop Submission at the sixth decennial Aarhus conference in Workshop "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
+| **[Formal Analysis of Metastable Failures in Software Systems](http://arxiv.org/abs/2510.03551v2)** | 2025-10-14 |  |
+| **[iCodeReviewer: Improving Secure Code Review with Mixture of Prompts](http://arxiv.org/abs/2510.12186v1)** | 2025-10-14 |  |
+| **[Enhancing Neural Code Representation with Additional Context](http://arxiv.org/abs/2510.12082v1)** | 2025-10-14 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
+| **[Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation](http://arxiv.org/abs/2510.12047v1)** | 2025-10-14 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 3 tables</p></details> |
+| **[Phaedrus: Predicting Dynamic Application Behavior with Lightweight Generative Models and LLMs](http://arxiv.org/abs/2412.06994v3)** | 2025-10-13 |  |
+| **[DMAS-Forge: A Framework for Transparent Deployment of AI Applications as Distributed Systems](http://arxiv.org/abs/2510.11872v1)** | 2025-10-13 | <details><summary>1st W...</summary><p>1st Workshop on Systems for Agentic AI (SAA '25)</p></details> |
 | **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
 | **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
 | **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
@@ -68,69 +79,79 @@ labels: documentation
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
-| **[Detection of Performance Changes in MooBench Results Using Nyrkiö on GitHub Actions](http://arxiv.org/abs/2510.11310v1)** | 2025-10-13 | <details><summary>3 pag...</summary><p>3 pages, 3 figures, 16th Symposium on Software Performance (https://www.performance-symposium.org/)</p></details> |
-| **[Interoperability From OpenTelemetry to Kieker: Demonstrated as Export from the Astronomy Shop](http://arxiv.org/abs/2510.11179v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for publication in Symposium on Software Performance 2025</p></details> |
-| **[What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times](http://arxiv.org/abs/2510.11138v1)** | 2025-10-13 |  |
-| **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
-| **[SaraCoder: Orchestrating Semantic and Structural Cues for Resource-Optimized Repository-Level Code Completion](http://arxiv.org/abs/2508.10068v2)** | 2025-10-13 |  |
-| **[Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs](http://arxiv.org/abs/2510.11059v1)** | 2025-10-13 | <details><summary>ASE-2...</summary><p>ASE-2025 main research paper</p></details> |
-| **[RepoSummary: Feature-Oriented Summarization and Documentation Generation for Code Repositories](http://arxiv.org/abs/2510.11039v1)** | 2025-10-13 |  |
-| **[Bridging Developer Instructions and Code Completion Through Instruction-Aware Fill-in-the-Middle Paradigm](http://arxiv.org/abs/2509.24637v2)** | 2025-10-13 |  |
-| **[Project-Level C-to-Rust Translation via Synergistic Integration of Knowledge Graphs and Large Language Models](http://arxiv.org/abs/2510.10956v1)** | 2025-10-13 |  |
-| **[Generative AI for Software Project Management: Insights from a Review of Software Practitioner Literature](http://arxiv.org/abs/2510.10887v1)** | 2025-10-13 |  |
-| **[Output Format Biases in the Evaluation of Large Language Models for Code Translation](http://arxiv.org/abs/2403.17214v2)** | 2025-10-13 | <details><summary>This ...</summary><p>This version (v2) is a journal extension of our previous conference submission that was accepted into the 2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge 2024), which includes new experiments and results</p></details> |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub](http://arxiv.org/abs/2304.06367v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the Empirical Software Engineering Journal</p></details> |
+| **[Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods](http://arxiv.org/abs/2510.12616v1)** | 2025-10-14 |  |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[GUPPY: Pythonic Quantum-Classical Programming](http://arxiv.org/abs/2510.12582v1)** | 2025-10-14 | <details><summary>Prese...</summary><p>Presented at the Fourth International Workshop on Programming Languages for Quantum Computing (PLanQC 2024)</p></details> |
+| **[Evaluating End-User Device Energy Models in Sustainability Reporting of Browser-Based Web Services](http://arxiv.org/abs/2510.12566v1)** | 2025-10-14 |  |
+| **[The EmpathiSEr: Development and Validation of Software Engineering Oriented Empathy Scales](http://arxiv.org/abs/2510.12546v1)** | 2025-10-14 |  |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
+| **[A Cooperative Approach for Knowledge-based Business Process Design in a Public Authority](http://arxiv.org/abs/2507.19842v2)** | 2025-10-14 |  |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
+| **[DarTwin made precise by SysMLv2 -- An Experiment](http://arxiv.org/abs/2510.12478v1)** | 2025-10-14 |  |
+| **[Should I Run My Cloud Benchmark on Black Friday?](http://arxiv.org/abs/2510.12397v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted for the 16th Symposium on Software Performance 2025</p></details> |
+| **[An Empirical Study of Reducing AV1 Decoder Complexity and Energy Consumption via Encoder Parameter Tuning](http://arxiv.org/abs/2510.12380v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted Camera-Ready paper for PCS 2025, 5 Pages</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs](http://arxiv.org/abs/2510.11059v1)** | 2025-10-13 | <details><summary>ASE-2...</summary><p>ASE-2025 main research paper</p></details> |
-| **[Generative AI for Software Project Management: Insights from a Review of Software Practitioner Literature](http://arxiv.org/abs/2510.10887v1)** | 2025-10-13 |  |
-| **[Output Format Biases in the Evaluation of Large Language Models for Code Translation](http://arxiv.org/abs/2403.17214v2)** | 2025-10-13 | <details><summary>This ...</summary><p>This version (v2) is a journal extension of our previous conference submission that was accepted into the 2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge 2024), which includes new experiments and results</p></details> |
-| **[FreshBrew: A Benchmark for Evaluating AI Agents on Java Code Migration](http://arxiv.org/abs/2510.04852v2)** | 2025-10-13 | 18 pages, 12 figures |
-| **[Agentic RAG for Software Testing with Hybrid Vector-Graph and Multi-Agent Orchestration](http://arxiv.org/abs/2510.10824v1)** | 2025-10-12 |  |
-| **[LineBreaker: Finding Token-Inconsistency Bugs with Large Language Models](http://arxiv.org/abs/2405.01668v2)** | 2025-10-12 | <details><summary>ASE 2...</summary><p>ASE 2025 Accepted, with Appendix added</p></details> |
-| **[An Empirical Study of Python Library Migration Using Large Language Models](http://arxiv.org/abs/2504.13272v2)** | 2025-10-12 |  |
-| **[GitBugs: Bug Reports for Duplicate Detection, Retrieval Augmented Generation, and More](http://arxiv.org/abs/2504.09651v2)** | 2025-10-12 | 2 Tables, 9 Figures |
-| **[How Students Use Generative AI for Software Testing: An Observational Study](http://arxiv.org/abs/2510.10551v1)** | 2025-10-12 | <details><summary>39 pa...</summary><p>39 pages, 6 figures, journal submission</p></details> |
+| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods](http://arxiv.org/abs/2510.12616v1)** | 2025-10-14 |  |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
+| **[Who cares about testing?: Co-creations of Socio-technical Software Testing Experiences](http://arxiv.org/abs/2504.07208v2)** | 2025-10-14 | <details><summary>Pre-p...</summary><p>Pre-print, submitted to EMSE Journal (Springer), First Revision</p></details> |
+| **[iCodeReviewer: Improving Secure Code Review with Mixture of Prompts](http://arxiv.org/abs/2510.12186v1)** | 2025-10-14 |  |
+| **[Towards Engineering Multi-Agent LLMs: A Protocol-Driven Approach](http://arxiv.org/abs/2510.12120v1)** | 2025-10-14 |  |
+| **[Enhancing Neural Code Representation with Additional Context](http://arxiv.org/abs/2510.12082v1)** | 2025-10-14 | <details><summary>34 pa...</summary><p>34 pages, 7 figures, 11 tables</p></details> |
+| **[Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation](http://arxiv.org/abs/2510.12047v1)** | 2025-10-14 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 3 tables</p></details> |
+| **[K-ASTRO: Structure-Aware Adaptation of LLMs for Code Vulnerability Detection](http://arxiv.org/abs/2208.08067v3)** | 2025-10-13 |  |
+| **[DMAS-Forge: A Framework for Transparent Deployment of AI Applications as Distributed Systems](http://arxiv.org/abs/2510.11872v1)** | 2025-10-13 | <details><summary>1st W...</summary><p>1st Workshop on Systems for Agentic AI (SAA '25)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
-| **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
-| **[Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs](http://arxiv.org/abs/2510.11059v1)** | 2025-10-13 | <details><summary>ASE-2...</summary><p>ASE-2025 main research paper</p></details> |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
+| **[Show Your Title! A Scoping Review on Verbalization in Software Engineering with LLM-Assisted Screening](http://arxiv.org/abs/2510.12294v1)** | 2025-10-14 | <details><summary>prepr...</summary><p>preprint of a paper under publication in Quality of Information and Communications Technology 2025</p></details> |
+| **[iCodeReviewer: Improving Secure Code Review with Mixture of Prompts](http://arxiv.org/abs/2510.12186v1)** | 2025-10-14 |  |
+| **[Towards Engineering Multi-Agent LLMs: A Protocol-Driven Approach](http://arxiv.org/abs/2510.12120v1)** | 2025-10-14 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods](http://arxiv.org/abs/2510.12616v1)** | 2025-10-14 |  |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[GUPPY: Pythonic Quantum-Classical Programming](http://arxiv.org/abs/2510.12582v1)** | 2025-10-14 | <details><summary>Prese...</summary><p>Presented at the Fourth International Workshop on Programming Languages for Quantum Computing (PLanQC 2024)</p></details> |
+| **[Evaluating End-User Device Energy Models in Sustainability Reporting of Browser-Based Web Services](http://arxiv.org/abs/2510.12566v1)** | 2025-10-14 |  |
+| **[The EmpathiSEr: Development and Validation of Software Engineering Oriented Empathy Scales](http://arxiv.org/abs/2510.12546v1)** | 2025-10-14 |  |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
-| **[Detection of Performance Changes in MooBench Results Using Nyrkiö on GitHub Actions](http://arxiv.org/abs/2510.11310v1)** | 2025-10-13 | <details><summary>3 pag...</summary><p>3 pages, 3 figures, 16th Symposium on Software Performance (https://www.performance-symposium.org/)</p></details> |
-| **[Interoperability From OpenTelemetry to Kieker: Demonstrated as Export from the Astronomy Shop](http://arxiv.org/abs/2510.11179v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for publication in Symposium on Software Performance 2025</p></details> |
-| **[What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times](http://arxiv.org/abs/2510.11138v1)** | 2025-10-13 |  |
-| **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
-| **[SaraCoder: Orchestrating Semantic and Structural Cues for Resource-Optimized Repository-Level Code Completion](http://arxiv.org/abs/2508.10068v2)** | 2025-10-13 |  |
-| **[Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs](http://arxiv.org/abs/2510.11059v1)** | 2025-10-13 | <details><summary>ASE-2...</summary><p>ASE-2025 main research paper</p></details> |
-| **[RepoSummary: Feature-Oriented Summarization and Documentation Generation for Code Repositories](http://arxiv.org/abs/2510.11039v1)** | 2025-10-13 |  |
-| **[Bridging Developer Instructions and Code Completion Through Instruction-Aware Fill-in-the-Middle Paradigm](http://arxiv.org/abs/2509.24637v2)** | 2025-10-13 |  |
-| **[Project-Level C-to-Rust Translation via Synergistic Integration of Knowledge Graphs and Large Language Models](http://arxiv.org/abs/2510.10956v1)** | 2025-10-13 |  |
-| **[Generative AI for Software Project Management: Insights from a Review of Software Practitioner Literature](http://arxiv.org/abs/2510.10887v1)** | 2025-10-13 |  |
-| **[Output Format Biases in the Evaluation of Large Language Models for Code Translation](http://arxiv.org/abs/2403.17214v2)** | 2025-10-13 | <details><summary>This ...</summary><p>This version (v2) is a journal extension of our previous conference submission that was accepted into the 2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge 2024), which includes new experiments and results</p></details> |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub](http://arxiv.org/abs/2304.06367v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the Empirical Software Engineering Journal</p></details> |
+| **[Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods](http://arxiv.org/abs/2510.12616v1)** | 2025-10-14 |  |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[GUPPY: Pythonic Quantum-Classical Programming](http://arxiv.org/abs/2510.12582v1)** | 2025-10-14 | <details><summary>Prese...</summary><p>Presented at the Fourth International Workshop on Programming Languages for Quantum Computing (PLanQC 2024)</p></details> |
+| **[Evaluating End-User Device Energy Models in Sustainability Reporting of Browser-Based Web Services](http://arxiv.org/abs/2510.12566v1)** | 2025-10-14 |  |
+| **[The EmpathiSEr: Development and Validation of Software Engineering Oriented Empathy Scales](http://arxiv.org/abs/2510.12546v1)** | 2025-10-14 |  |
+| **[MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation](http://arxiv.org/abs/2504.08621v2)** | 2025-10-14 | 11 pages, 3 Figs |
+| **[A Cooperative Approach for Knowledge-based Business Process Design in a Public Authority](http://arxiv.org/abs/2507.19842v2)** | 2025-10-14 |  |
+| **[Diff-XYZ: A Benchmark for Evaluating Diff Understanding](http://arxiv.org/abs/2510.12487v1)** | 2025-10-14 |  |
+| **[DarTwin made precise by SysMLv2 -- An Experiment](http://arxiv.org/abs/2510.12478v1)** | 2025-10-14 |  |
+| **[Should I Run My Cloud Benchmark on Black Friday?](http://arxiv.org/abs/2510.12397v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted for the 16th Symposium on Software Performance 2025</p></details> |
+| **[An Empirical Study of Reducing AV1 Decoder Complexity and Energy Consumption via Encoder Parameter Tuning](http://arxiv.org/abs/2510.12380v1)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted Camera-Ready paper for PCS 2025, 5 Pages</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -143,21 +164,19 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
-| **[The Matthew Effect of AI Programming Assistants: A Hidden Bias in Software Evolution](http://arxiv.org/abs/2509.23261v2)** | 2025-10-13 |  |
-| **[What Slows Down FMware Development? An Empirical Study of Developer Challenges and Resolution Times](http://arxiv.org/abs/2510.11138v1)** | 2025-10-13 |  |
-| **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
-| **[SaraCoder: Orchestrating Semantic and Structural Cues for Resource-Optimized Repository-Level Code Completion](http://arxiv.org/abs/2508.10068v2)** | 2025-10-13 |  |
-| **[RepoSummary: Feature-Oriented Summarization and Documentation Generation for Code Repositories](http://arxiv.org/abs/2510.11039v1)** | 2025-10-13 |  |
-| **[Bridging Developer Instructions and Code Completion Through Instruction-Aware Fill-in-the-Middle Paradigm](http://arxiv.org/abs/2509.24637v2)** | 2025-10-13 |  |
-| **[Project-Level C-to-Rust Translation via Synergistic Integration of Knowledge Graphs and Large Language Models](http://arxiv.org/abs/2510.10956v1)** | 2025-10-13 |  |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub](http://arxiv.org/abs/2304.06367v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the Empirical Software Engineering Journal</p></details> |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Automatically Generating Questions About Scratch Programs](http://arxiv.org/abs/2510.11658v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at CompEd 2025</p></details> |
-| **[CodeWatcher: IDE Telemetry Data Extraction Tool for Understanding Coding Interactions with LLMs](http://arxiv.org/abs/2510.11536v1)** | 2025-10-13 | <details><summary>ICSME...</summary><p>ICSME 2025 Tool Demonstration Track</p></details> |
-| **[Cracking CodeWhisperer: Analyzing Developers' Interactions and Patterns During Programming Tasks](http://arxiv.org/abs/2510.11516v1)** | 2025-10-13 | <details><summary>VL/HC...</summary><p>VL/HCC 2025 Short Paper</p></details> |
+| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
+| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[The whos, whats, and whys of issues related to personal data and data protection in open-source projects on GitHub](http://arxiv.org/abs/2304.06367v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted at the Empirical Software Engineering Journal</p></details> |
+| **[Runtime Composition in Dynamic System of Systems: A Systematic Review of Challenges, Solutions, Tools, and Evaluation Methods](http://arxiv.org/abs/2510.12616v1)** | 2025-10-14 |  |
+| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
+| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
+| **[GUPPY: Pythonic Quantum-Classical Programming](http://arxiv.org/abs/2510.12582v1)** | 2025-10-14 | <details><summary>Prese...</summary><p>Presented at the Fourth International Workshop on Programming Languages for Quantum Computing (PLanQC 2024)</p></details> |
 
