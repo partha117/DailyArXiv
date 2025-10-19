@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 17, 2025
+title: Latest 15 Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,34 +7,34 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v1)** | 2025-10-15 | 23 pages |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Towards Richer Challenge Problems for Scientific Computing Correctness](http://arxiv.org/abs/2510.13423v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[ACM SIGSOFT SEN Empirical Software Engineering: Introducing Our New Regular Column](http://arxiv.org/abs/2510.02007v2)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in ACM SIGSOFT Software Engineering Notes (SIGSOFT-SEN). Volume 50, Issue 4, 2025</p></details> |
-| **[A Mapping Analysis of Requirements Between the CRA and the GDPR](http://arxiv.org/abs/2503.01816v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 215-222</p></details> |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](http://arxiv.org/abs/2503.05040v4)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
+| **[The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs](http://arxiv.org/abs/2501.16191v2)** | 2025-10-16 | <details><summary>Pre-p...</summary><p>Pre-print - Accepted at the first annual workshop on Agentic Software Engineering (AgenticSE) co-located with ASE'25</p></details> |
+| **[LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](http://arxiv.org/abs/2510.14700v1)** | 2025-10-16 |  |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v1)** | 2025-10-15 | 23 pages |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[Towards Richer Challenge Problems for Scientific Computing Correctness](http://arxiv.org/abs/2510.13423v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[ACM SIGSOFT SEN Empirical Software Engineering: Introducing Our New Regular Column](http://arxiv.org/abs/2510.02007v2)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in ACM SIGSOFT Software Engineering Notes (SIGSOFT-SEN). Volume 50, Issue 4, 2025</p></details> |
-| **[A Mapping Analysis of Requirements Between the CRA and the GDPR](http://arxiv.org/abs/2503.01816v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 215-222</p></details> |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
+| **[The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs](http://arxiv.org/abs/2501.16191v2)** | 2025-10-16 | <details><summary>Pre-p...</summary><p>Pre-print - Accepted at the first annual workshop on Agentic Software Engineering (AgenticSE) co-located with ASE'25</p></details> |
+| **[LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](http://arxiv.org/abs/2510.14700v1)** | 2025-10-16 |  |
+| **[Requirement Identification for Traffic Simulations in Driving Simulators](http://arxiv.org/abs/2510.14653v1)** | 2025-10-16 | 2 Pages, 1 figure |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
+| **[Software Testing Education and Industry Needs - Report from the ENACTEST EU Project](http://arxiv.org/abs/2510.14625v1)** | 2025-10-16 | <details><summary>* The...</summary><p>* The paper is going to appear in the proceedings of the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025). To cite the paper, please check and refer to the PROFES 2025 proceedings</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Systematic Study of Time Limit Exceeded Errors in Online Programming Assignments](http://arxiv.org/abs/2510.14339v1)** | 2025-10-16 |  |
 | **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
 | **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
 | **[DebugTA: An LLM-Based Agent for Simplifying Debugging and Teaching in Programming Education](http://arxiv.org/abs/2510.11076v1)** | 2025-10-13 |  |
@@ -49,114 +49,98 @@ labels: documentation
 | **[Speculative Automated Refactoring of Imperative Deep Learning Programs to Graph Execution](http://arxiv.org/abs/2504.05424v4)** | 2025-10-06 |  |
 | **[The Ultimate Configuration Management Tool? Lessons from a Mixed Methods Study of Ansible's Challenges](http://arxiv.org/abs/2504.08678v2)** | 2025-10-06 |  |
 | **[RedCodeAgent: Automatic Red-teaming Agent against Diverse Code Agents](http://arxiv.org/abs/2510.02609v1)** | 2025-10-02 |  |
-| **[Designing for Novice Debuggers: A Pilot Study on an AI-Assisted Debugging Tool](http://arxiv.org/abs/2509.21067v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted by the 25th Koli Calling International Conference on Computing Education Research (Koli Calling 2025)</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[Isolating Compiler Bugs through Compilation Steps Analysis](http://arxiv.org/abs/2510.13128v1)** | 2025-10-15 |  |
-| **[Saving SWE-Bench: A Benchmark Mutation Approach for Realistic Agent Evaluation](http://arxiv.org/abs/2510.08996v2)** | 2025-10-14 |  |
-| **[SoundnessBench: A Soundness Benchmark for Neural Network Verifiers](http://arxiv.org/abs/2412.03154v2)** | 2025-10-14 | Preprint |
-| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
-| **[iCodeReviewer: Improving Secure Code Review with Mixture of Prompts](http://arxiv.org/abs/2510.12186v1)** | 2025-10-14 |  |
-| **[Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling](http://arxiv.org/abs/2510.11838v1)** | 2025-10-13 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
+| **[Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries](http://arxiv.org/abs/2510.14384v1)** | 2025-10-16 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs](http://arxiv.org/abs/2501.16191v2)** | 2025-10-16 | <details><summary>Pre-p...</summary><p>Pre-print - Accepted at the first annual workshop on Agentic Software Engineering (AgenticSE) co-located with ASE'25</p></details> |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](http://arxiv.org/abs/2510.09721v2)** | 2025-10-16 | 21 pages |
+| **[PathFix: Automated Program Repair with Expected Path](http://arxiv.org/abs/2510.14341v1)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author's version of a paper accepted at SecDev 2025 (IEEE)</p></details> |
+| **[A Systematic Study of Time Limit Exceeded Errors in Online Programming Assignments](http://arxiv.org/abs/2510.14339v1)** | 2025-10-16 |  |
+| **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](http://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
+| **[Caruca: Effective and Efficient Specification Mining for Opaque Software Components](http://arxiv.org/abs/2510.14279v1)** | 2025-10-16 |  |
+| **[David vs. Goliath: A comparative study of different-sized LLMs for code generation in the domain of automotive scenario generation](http://arxiv.org/abs/2510.14115v1)** | 2025-10-15 |  |
+| **[One Bug, Hundreds Behind: LLMs for Large-Scale Bug Discovery](http://arxiv.org/abs/2510.14036v1)** | 2025-10-15 |  |
 | **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
 | **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
 | **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[Towards Richer Challenge Problems for Scientific Computing Correctness](http://arxiv.org/abs/2510.13423v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
 | **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
-| **[Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation](http://arxiv.org/abs/2510.12047v2)** | 2025-10-15 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 3 tables</p></details> |
-| **[eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis](http://arxiv.org/abs/2510.11722v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in the 2025 ACM Symposium on Eye Tracking Research & Applications (ETRA2025) LBW : 3 pages, 1 figure</p></details> |
-| **[Imperative Quantum Programming with Ownership and Borrowing in Guppy](http://arxiv.org/abs/2510.13082v1)** | 2025-10-15 | <details><summary>Prese...</summary><p>Presented at the Fifth International Workshop on Programming Languages for Quantum Computing (PLanQC 2025)</p></details> |
-| **[Behavior Trees and State Machines in Robotics Applications](http://arxiv.org/abs/2208.04211v3)** | 2025-10-14 | <details><summary>Publi...</summary><p>Published at IEEE TSE as a journal extension of a preceding SLE paper (available as arXiv:2010.06256). arXiv admin note: text overlap with arXiv:2010.06256</p></details> |
-| **[Beyond Postconditions: Can Large Language Models infer Formal Contracts for Automatic Software Verification?](http://arxiv.org/abs/2510.12702v1)** | 2025-10-14 | under submission |
-| **[Can ChatGPT support software verification?](http://arxiv.org/abs/2311.02433v2)** | 2025-10-14 | <details><summary>accep...</summary><p>accepted at Fundamental Approaches to Software Engineering 2024</p></details> |
-| **[Cottontail: Large Language Model-Driven Concolic Execution for Highly Structured Test Input Generation](http://arxiv.org/abs/2504.17542v2)** | 2025-10-14 | <details><summary>To ap...</summary><p>To appear on the 2026 IEEE Symposium on Security and Privacy (22 pages, with detailed Appendix)</p></details> |
-| **[GUPPY: Pythonic Quantum-Classical Programming](http://arxiv.org/abs/2510.12582v1)** | 2025-10-14 | <details><summary>Prese...</summary><p>Presented at the Fourth International Workshop on Programming Languages for Quantum Computing (PLanQC 2024)</p></details> |
-| **[Formal Analysis of Metastable Failures in Software Systems](http://arxiv.org/abs/2510.03551v2)** | 2025-10-14 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v1)** | 2025-10-15 | 23 pages |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[Towards Richer Challenge Problems for Scientific Computing Correctness](http://arxiv.org/abs/2510.13423v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[An Alignment Between the CRA's Essential Requirements and the ATT&CK's Mitigations](http://arxiv.org/abs/2505.13641v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 209-214</p></details> |
-| **[ACM SIGSOFT SEN Empirical Software Engineering: Introducing Our New Regular Column](http://arxiv.org/abs/2510.02007v2)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in ACM SIGSOFT Software Engineering Notes (SIGSOFT-SEN). Volume 50, Issue 4, 2025</p></details> |
-| **[A Mapping Analysis of Requirements Between the CRA and the GDPR](http://arxiv.org/abs/2503.01816v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 215-222</p></details> |
-| **[A Verification Methodology for Safety Assurance of Robotic Autonomous Systems](http://arxiv.org/abs/2506.19622v2)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proc. of the 26th TAROS (Towards Autonomous Robotic Systems) Conference, York, UK, August, 2025</p></details> |
-| **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](http://arxiv.org/abs/2503.05040v4)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
+| **[The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs](http://arxiv.org/abs/2501.16191v2)** | 2025-10-16 | <details><summary>Pre-p...</summary><p>Pre-print - Accepted at the first annual workshop on Agentic Software Engineering (AgenticSE) co-located with ASE'25</p></details> |
+| **[LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](http://arxiv.org/abs/2510.14700v1)** | 2025-10-16 |  |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[Requirement Identification for Traffic Simulations in Driving Simulators](http://arxiv.org/abs/2510.14653v1)** | 2025-10-16 | 2 Pages, 1 figure |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
+| **[Software Testing Education and Industry Needs - Report from the ENACTEST EU Project](http://arxiv.org/abs/2510.14625v1)** | 2025-10-16 | <details><summary>* The...</summary><p>* The paper is going to appear in the proceedings of the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025). To cite the paper, please check and refer to the PROFES 2025 proceedings</p></details> |
+| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v2)** | 2025-10-16 | 23 pages |
+| **[ABMax: A JAX-based Agent-based Modeling Framework](http://arxiv.org/abs/2508.16508v3)** | 2025-10-16 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables, 2 algorithms</p></details> |
+| **[E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task](http://arxiv.org/abs/2510.14509v1)** | 2025-10-16 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v1)** | 2025-10-15 | 23 pages |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[A Mapping Analysis of Requirements Between the CRA and the GDPR](http://arxiv.org/abs/2503.01816v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 215-222</p></details> |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
-| **[Isolating Compiler Bugs through Compilation Steps Analysis](http://arxiv.org/abs/2510.13128v1)** | 2025-10-15 |  |
-| **[TRUSTVIS: A Multi-Dimensional Trustworthiness Evaluation Framework for Large Language Models](http://arxiv.org/abs/2510.13106v1)** | 2025-10-15 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, To appear in ASE 2025 Demo Track</p></details> |
-| **[Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation](http://arxiv.org/abs/2510.12047v2)** | 2025-10-15 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 3 tables</p></details> |
-| **[HistoryFinder: Advancing Method-Level Source Code History Generation with Accurate Oracles and Enhanced Algorithm](http://arxiv.org/abs/2507.14716v2)** | 2025-10-15 |  |
-| **[ADPerf: Investigating and Testing Performance in Autonomous Driving Systems](http://arxiv.org/abs/2510.13078v1)** | 2025-10-15 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
-| **[Saving SWE-Bench: A Benchmark Mutation Approach for Realistic Agent Evaluation](http://arxiv.org/abs/2510.08996v2)** | 2025-10-14 |  |
-| **[SoundnessBench: A Soundness Benchmark for Neural Network Verifiers](http://arxiv.org/abs/2412.03154v2)** | 2025-10-14 | Preprint |
-| **[On the Robustness Evaluation of 3D Obstacle Detection Against Specifications in Autonomous Driving](http://arxiv.org/abs/2408.13653v2)** | 2025-10-14 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[TRUSTVIS: A Multi-Dimensional Trustworthiness Evaluation Framework for Large Language Models](http://arxiv.org/abs/2510.13106v1)** | 2025-10-15 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, To appear in ASE 2025 Demo Track</p></details> |
-| **[Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation](http://arxiv.org/abs/2510.12047v2)** | 2025-10-15 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 3 tables</p></details> |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
+| **[The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs](http://arxiv.org/abs/2501.16191v2)** | 2025-10-16 | <details><summary>Pre-p...</summary><p>Pre-print - Accepted at the first annual workshop on Agentic Software Engineering (AgenticSE) co-located with ASE'25</p></details> |
+| **[LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](http://arxiv.org/abs/2510.14700v1)** | 2025-10-16 |  |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
+| **[E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task](http://arxiv.org/abs/2510.14509v1)** | 2025-10-16 |  |
+| **[A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](http://arxiv.org/abs/2510.09721v2)** | 2025-10-16 | 21 pages |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v1)** | 2025-10-15 | 23 pages |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](http://arxiv.org/abs/2503.05040v4)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v1)** | 2025-10-15 | 23 pages |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Verifying a Sparse Matrix Algorithm Using Symbolic Execution](http://arxiv.org/abs/2510.13424v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[Towards Richer Challenge Problems for Scientific Computing Correctness](http://arxiv.org/abs/2510.13423v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[An Alignment Between the CRA's Essential Requirements and the ATT&CK's Mitigations](http://arxiv.org/abs/2505.13641v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 209-214</p></details> |
-| **[ACM SIGSOFT SEN Empirical Software Engineering: Introducing Our New Regular Column](http://arxiv.org/abs/2510.02007v2)** | 2025-10-15 | <details><summary>Publi...</summary><p>Published in ACM SIGSOFT Software Engineering Notes (SIGSOFT-SEN). Volume 50, Issue 4, 2025</p></details> |
-| **[A Mapping Analysis of Requirements Between the CRA and the GDPR](http://arxiv.org/abs/2503.01816v2)** | 2025-10-15 | <details><summary>Proce...</summary><p>Proceedings of the IEEE 33rd International Requirements Engineering Conference Workshops (REW 2025), Valencia, IEEE, 2025, pp. 215-222</p></details> |
-| **[A Verification Methodology for Safety Assurance of Robotic Autonomous Systems](http://arxiv.org/abs/2506.19622v2)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proc. of the 26th TAROS (Towards Autonomous Robotic Systems) Conference, York, UK, August, 2025</p></details> |
-| **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](http://arxiv.org/abs/2503.05040v4)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
+| **[The Last Dependency Crusade: Solving Python Dependency Conflicts with LLMs](http://arxiv.org/abs/2501.16191v2)** | 2025-10-16 | <details><summary>Pre-p...</summary><p>Pre-print - Accepted at the first annual workshop on Agentic Software Engineering (AgenticSE) co-located with ASE'25</p></details> |
+| **[LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](http://arxiv.org/abs/2510.14700v1)** | 2025-10-16 |  |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[Requirement Identification for Traffic Simulations in Driving Simulators](http://arxiv.org/abs/2510.14653v1)** | 2025-10-16 | 2 Pages, 1 figure |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
+| **[Software Testing Education and Industry Needs - Report from the ENACTEST EU Project](http://arxiv.org/abs/2510.14625v1)** | 2025-10-16 | <details><summary>* The...</summary><p>* The paper is going to appear in the proceedings of the 26th International Conference on Product-Focused Software Process Improvement (PROFES 2025). To cite the paper, please check and refer to the PROFES 2025 proceedings</p></details> |
+| **[OpenDerisk: An Industrial Framework for AI-Driven SRE, with Design, Implementation, and Case Studies](http://arxiv.org/abs/2510.13561v2)** | 2025-10-16 | 23 pages |
+| **[ABMax: A JAX-based Agent-based Modeling Framework](http://arxiv.org/abs/2508.16508v3)** | 2025-10-16 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables, 2 algorithms</p></details> |
+| **[E2Edev: Benchmarking Large Language Models in End-to-End Software Development Task](http://arxiv.org/abs/2510.14509v1)** | 2025-10-16 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -169,27 +153,27 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[Assessing the Latent Automated Program Repair Capabilities of Large Language Models using Round-Trip Translation](http://arxiv.org/abs/2401.07994v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
-| **[Isolating Compiler Bugs through Compilation Steps Analysis](http://arxiv.org/abs/2510.13128v1)** | 2025-10-15 |  |
-| **[Do Large Language Models Respect Contracts? Evaluating and Enforcing Contract-Adherence in Code Generation](http://arxiv.org/abs/2510.12047v2)** | 2025-10-15 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 3 tables</p></details> |
-| **[eye2vec: Learning Distributed Representations of Eye Movement for Program Comprehension Analysis](http://arxiv.org/abs/2510.11722v2)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted for publication in the 2025 ACM Symposium on Eye Tracking Research & Applications (ETRA2025) LBW : 3 pages, 1 figure</p></details> |
-| **[HistoryFinder: Advancing Method-Level Source Code History Generation with Accurate Oracles and Enhanced Algorithm](http://arxiv.org/abs/2507.14716v2)** | 2025-10-15 |  |
-| **[ADPerf: Investigating and Testing Performance in Autonomous Driving Systems](http://arxiv.org/abs/2510.13078v1)** | 2025-10-15 | <details><summary>13 pa...</summary><p>13 pages, accepted by ASE 2025</p></details> |
-| **[Behavior Trees and State Machines in Robotics Applications](http://arxiv.org/abs/2208.04211v3)** | 2025-10-14 | <details><summary>Publi...</summary><p>Published at IEEE TSE as a journal extension of a preceding SLE paper (available as arXiv:2010.06256). arXiv admin note: text overlap with arXiv:2010.06256</p></details> |
-| **[Saving SWE-Bench: A Benchmark Mutation Approach for Realistic Agent Evaluation](http://arxiv.org/abs/2510.08996v2)** | 2025-10-14 |  |
-| **[SpareCodeSearch: Searching for Code Context When You Have No Spare GPU](http://arxiv.org/abs/2510.12948v1)** | 2025-10-14 | <details><summary>4 pag...</summary><p>4 pages, 3 figures, 4 tables. Accepted to Context Collection Workshop co-located with ASE'25</p></details> |
-| **[SoundnessBench: A Soundness Benchmark for Neural Network Verifiers](http://arxiv.org/abs/2412.03154v2)** | 2025-10-14 | Preprint |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](http://arxiv.org/abs/2503.05040v4)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
+| **[LLM Agents for Automated Web Vulnerability Reproduction: Are We There Yet?](http://arxiv.org/abs/2510.14700v1)** | 2025-10-16 |  |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[ATGen: Adversarial Reinforcement Learning for Test Case Generation](http://arxiv.org/abs/2510.14635v1)** | 2025-10-16 |  |
+| **[A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](http://arxiv.org/abs/2510.09721v2)** | 2025-10-16 | 21 pages |
+| **[PathFix: Automated Program Repair with Expected Path](http://arxiv.org/abs/2510.14341v1)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author's version of a paper accepted at SecDev 2025 (IEEE)</p></details> |
+| **[A Systematic Study of Time Limit Exceeded Errors in Online Programming Assignments](http://arxiv.org/abs/2510.14339v1)** | 2025-10-16 |  |
+| **[Caruca: Effective and Efficient Specification Mining for Opaque Software Components](http://arxiv.org/abs/2510.14279v1)** | 2025-10-16 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FIRST: Federated Inference Resource Scheduling Toolkit for Scientific AI Model Access](http://arxiv.org/abs/2510.13724v1)** | 2025-10-15 |  |
-| **[On Pretraining for Project-Level Code Completion](http://arxiv.org/abs/2510.13697v1)** | 2025-10-15 |  |
-| **[Property Testing for Ocean Models. Can We Specify It? (Invited Talk)](http://arxiv.org/abs/2510.13692v1)** | 2025-10-15 | <details><summary>In Pr...</summary><p>In Proceedings VSS 2025, arXiv:2510.12314</p></details> |
-| **[(R)evolution of Programming: Vibe Coding as a Post-Coding Paradigm](http://arxiv.org/abs/2510.12364v2)** | 2025-10-15 | <details><summary>Works...</summary><p>Workshop Contribution at the sixth decennial Aarhus conference in "The End of Programming (as we know it) - Envisioning Radical Re-Conceptualizations of Co-Coding with AI"</p></details> |
-| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
+| **[TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar](http://arxiv.org/abs/2510.14972v1)** | 2025-10-16 |  |
+| **[Instruction Set Migration at Warehouse Scale](http://arxiv.org/abs/2510.14928v1)** | 2025-10-16 |  |
+| **[PerfBench: Can Agents Resolve Real-World Performance Bugs?](http://arxiv.org/abs/2509.24091v2)** | 2025-10-16 |  |
+| **[No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](http://arxiv.org/abs/2503.05040v4)** | 2025-10-16 |  |
+| **[Leveraging Code Cohesion Analysis to Identify Source Code Supply Chain Attacks](http://arxiv.org/abs/2510.14778v1)** | 2025-10-16 |  |
+| **[Leveraging LLMs, IDEs, and Semantic Embeddings for Automated Move Method Refactoring](http://arxiv.org/abs/2503.20934v2)** | 2025-10-16 | <details><summary>Publi...</summary><p>Published at the International Conference on Software Maintenance and Evolution (ICSME'25)</p></details> |
 
