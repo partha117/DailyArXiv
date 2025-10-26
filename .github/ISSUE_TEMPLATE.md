@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,19 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](http://arxiv.org/abs/2510.19692v1)** | 2025-10-22 | 5 pages |
-| **[Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction](http://arxiv.org/abs/2510.19667v1)** | 2025-10-22 |  |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve](http://arxiv.org/abs/2505.23946v2)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at https://github.com/MITIBM-FastCoder/LessonL</p></details> |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction](http://arxiv.org/abs/2510.19667v1)** | 2025-10-22 |  |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[Fine-Tuning Multilingual Language Models for Code Review: An Empirical Study on Industrial C# Projects](http://arxiv.org/abs/2507.19271v2)** | 2025-10-23 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
@@ -49,116 +43,96 @@ labels: documentation
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Which Is Better For Reducing Outdated and Vulnerable Dependencies: Pinning or Floating?](http://arxiv.org/abs/2510.08609v2)** | 2025-10-23 | Accepted to ASE 2025 |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
+| **[On Interaction Effects in Greybox Fuzzing](http://arxiv.org/abs/2510.19984v1)** | 2025-10-22 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, Accepted for presentation at the 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[Designing a Secure and Resilient Distributed Smartphone Participant Data Collection System](http://arxiv.org/abs/2510.19938v1)** | 2025-10-22 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted at EAI SmartSP 2025 Conference (Springer LNICST). This version is the arXiv preprint prepared for open access</p></details> |
+| **[BugPilot: Complex Bug Generation for Efficient Learning of SWE Skills](http://arxiv.org/abs/2510.19898v1)** | 2025-10-22 |  |
 | **[A Goal-Driven Survey on Root Cause Analysis](http://arxiv.org/abs/2510.19593v1)** | 2025-10-22 |  |
 | **[AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems](http://arxiv.org/abs/2510.19438v1)** | 2025-10-22 |  |
 | **[TrioXpert: An Automated Incident Management Framework for Microservice System](http://arxiv.org/abs/2506.10043v2)** | 2025-10-22 |  |
 | **[A General Solution for the Implementation of CI/CD in Embedded Linux Development](http://arxiv.org/abs/2510.19240v1)** | 2025-10-22 |  |
 | **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[A Systematic Literature Review on Large Language Models for Automated Program Repair](http://arxiv.org/abs/2405.01466v3)** | 2025-10-21 | <details><summary>updat...</summary><p>update new papers, up to September 2025</p></details> |
-| **[Causally Perturbed Fairness Testing](http://arxiv.org/abs/2510.18719v1)** | 2025-10-21 | accepted by TOSEM |
-| **[InspectCoder: Dynamic Analysis-Enabled Self Repair through interactive LLM-Debugger Collaboration](http://arxiv.org/abs/2510.18327v1)** | 2025-10-21 |  |
-| **[When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution](http://arxiv.org/abs/2510.18270v1)** | 2025-10-21 |  |
-| **[Deep Learning Framework Testing via Heuristic Guidance Based on Multiple Model Measurements](http://arxiv.org/abs/2507.15181v2)** | 2025-10-21 |  |
-| **[JunoBench: A Benchmark Dataset of Crashes in Python Machine Learning Jupyter Notebooks](http://arxiv.org/abs/2510.18013v1)** | 2025-10-20 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[Which Is Better For Reducing Outdated and Vulnerable Dependencies: Pinning or Floating?](http://arxiv.org/abs/2510.08609v2)** | 2025-10-23 | Accepted to ASE 2025 |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
+| **[Fine-Tuning Multilingual Language Models for Code Review: An Empirical Study on Industrial C# Projects](http://arxiv.org/abs/2507.19271v2)** | 2025-10-23 |  |
+| **[Classport: Designing Runtime Dependency Introspection for Java](http://arxiv.org/abs/2510.20340v1)** | 2025-10-23 |  |
+| **[Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](http://arxiv.org/abs/2410.05641v3)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM), 39 pages</p></details> |
+| **[A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](http://arxiv.org/abs/2510.09721v3)** | 2025-10-23 | 22 pages |
+| **[Automated Cloud Infrastructure-as-Code Reconciliation with AI Agents](http://arxiv.org/abs/2510.20211v1)** | 2025-10-23 |  |
+| **[Developing a Model-Driven Reengineering Approach for Migrating PL/SQL Triggers to Java: A Practical Experience](http://arxiv.org/abs/2510.20121v1)** | 2025-10-23 | 31 pages, 22 figures |
 | **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
 | **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
 | **[Type-aware LLM-based Regression Test Generation for Python Programs](http://arxiv.org/abs/2503.14000v2)** | 2025-10-22 |  |
 | **[An Empirical Study of Bitwise Operators Intuitiveness through Performance Metrics](http://arxiv.org/abs/2510.19281v1)** | 2025-10-22 | <details><summary>15 pa...</summary><p>15 pages, 10 tables, 9 Figures</p></details> |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Comparative analysis of large data processing in Apache Spark using Java, Python and Scala](http://arxiv.org/abs/2510.19012v1)** | 2025-10-21 | <details><summary>CITI ...</summary><p>CITI 2025, 3rd International Workshop on Computer Information Technologies in Industry 4.0, June 11-12, 2025, Ternopil, Ukraine. The article includes 10 pages, 5 figures, 9 tables</p></details> |
-| **[Computational Foundations for Strategic Coopetition: Formalizing Interdependence and Complementarity](http://arxiv.org/abs/2510.18802v1)** | 2025-10-21 | 36 pages, 7 figures |
-| **[A Systematic Literature Review on Large Language Models for Automated Program Repair](http://arxiv.org/abs/2405.01466v3)** | 2025-10-21 | <details><summary>updat...</summary><p>update new papers, up to September 2025</p></details> |
-| **[$μ$OpTime: Statically Reducing the Execution Time of Microbenchmark Suites Using Stability Metrics](http://arxiv.org/abs/2501.12878v2)** | 2025-10-21 | <details><summary>Publi...</summary><p>Published in ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[CPSLint: A Domain-Specific Language Providing Data Validation and Sanitisation for Industrial Cyber-Physical Systems](http://arxiv.org/abs/2510.18651v1)** | 2025-10-21 |  |
-| **[When Abstraction Breaks Physics: Rethinking Modular Design in Quantum Software](http://arxiv.org/abs/2510.18557v1)** | 2025-10-21 | <details><summary>Accep...</summary><p>Accepted at the NIER track of the 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)</p></details> |
-| **[A Survey on Feedback Types in Automated Programming Assessment Systems](http://arxiv.org/abs/2510.18923v1)** | 2025-10-21 |  |
-| **[InspectCoder: Dynamic Analysis-Enabled Self Repair through interactive LLM-Debugger Collaboration](http://arxiv.org/abs/2510.18327v1)** | 2025-10-21 |  |
-| **[When Old Meets New: Evaluating the Impact of Regression Tests on SWE Issue Resolution](http://arxiv.org/abs/2510.18270v1)** | 2025-10-21 |  |
-| **[RESCUE: Retrieval Augmented Secure Code Generation](http://arxiv.org/abs/2510.18204v1)** | 2025-10-21 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](http://arxiv.org/abs/2510.19692v1)** | 2025-10-22 | 5 pages |
-| **[LifeSync-Games: Toward a Video Game Paradigm for Promoting Responsible Gaming and Human Development](http://arxiv.org/abs/2510.19691v1)** | 2025-10-22 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table, 66 references</p></details> |
-| **[Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction](http://arxiv.org/abs/2510.19667v1)** | 2025-10-22 |  |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
-| **[A Goal-Driven Survey on Root Cause Analysis](http://arxiv.org/abs/2510.19593v1)** | 2025-10-22 |  |
-| **[Mapping and Evolving Interoperability Testing in European Energy Systems: The int:net Perspective](http://arxiv.org/abs/2510.19460v1)** | 2025-10-22 | <details><summary>2025 ...</summary><p>2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)</p></details> |
-| **[AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems](http://arxiv.org/abs/2510.19438v1)** | 2025-10-22 |  |
-| **[Bytecode-centric Detection of Known-to-be-vulnerable Dependencies in Java Projects](http://arxiv.org/abs/2510.19393v1)** | 2025-10-22 | <details><summary>To be...</summary><p>To be published in: ICSE 2026 Proceedings</p></details> |
-| **[Type-aware LLM-based Regression Test Generation for Python Programs](http://arxiv.org/abs/2503.14000v2)** | 2025-10-22 |  |
-| **[Collaborative penetration testing suite for emerging generative AI algorithms](http://arxiv.org/abs/2510.19303v1)** | 2025-10-22 |  |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[How Quickly Do Development Teams Update Their Vulnerable Dependencies?](http://arxiv.org/abs/2403.17382v3)** | 2025-10-23 | under review |
+| **[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve](http://arxiv.org/abs/2505.23946v2)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at https://github.com/MITIBM-FastCoder/LessonL</p></details> |
+| **[Which Is Better For Reducing Outdated and Vulnerable Dependencies: Pinning or Floating?](http://arxiv.org/abs/2510.08609v2)** | 2025-10-23 | Accepted to ASE 2025 |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
+| **[Toward Practical Deductive Verification: Insights from a Qualitative Survey in Industry and Academia](http://arxiv.org/abs/2510.20514v1)** | 2025-10-23 |  |
+| **[Fine-Tuning Multilingual Language Models for Code Review: An Empirical Study on Industrial C# Projects](http://arxiv.org/abs/2507.19271v2)** | 2025-10-23 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction](http://arxiv.org/abs/2510.19667v1)** | 2025-10-22 |  |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
-| **[Mapping and Evolving Interoperability Testing in European Energy Systems: The int:net Perspective](http://arxiv.org/abs/2510.19460v1)** | 2025-10-22 | <details><summary>2025 ...</summary><p>2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)</p></details> |
-| **[AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems](http://arxiv.org/abs/2510.19438v1)** | 2025-10-22 |  |
-| **[Type-aware LLM-based Regression Test Generation for Python Programs](http://arxiv.org/abs/2503.14000v2)** | 2025-10-22 |  |
-| **[Collaborative penetration testing suite for emerging generative AI algorithms](http://arxiv.org/abs/2510.19303v1)** | 2025-10-22 |  |
-| **[TrioXpert: An Automated Incident Management Framework for Microservice System](http://arxiv.org/abs/2506.10043v2)** | 2025-10-22 |  |
-| **[From Specification to Service: Accelerating API-First Development Using Multi-Agent Systems](http://arxiv.org/abs/2510.19274v1)** | 2025-10-22 | 9 Figures, 6Tables |
-| **[A General Solution for the Implementation of CI/CD in Embedded Linux Development](http://arxiv.org/abs/2510.19240v1)** | 2025-10-22 |  |
-| **[Automated Concern Extraction from Textual Requirements of Cyber-Physical Systems: A Multi-solution Study](http://arxiv.org/abs/2510.19237v1)** | 2025-10-22 | 27 pages, 3 figures |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Benchmarking Large Language Models with Integer Sequence Generation Tasks](http://arxiv.org/abs/2411.04372v2)** | 2025-10-21 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems](http://arxiv.org/abs/2510.19438v1)** | 2025-10-22 |  |
-| **[Type-aware LLM-based Regression Test Generation for Python Programs](http://arxiv.org/abs/2503.14000v2)** | 2025-10-22 |  |
-| **[TrioXpert: An Automated Incident Management Framework for Microservice System](http://arxiv.org/abs/2506.10043v2)** | 2025-10-22 |  |
-| **[From Specification to Service: Accelerating API-First Development Using Multi-Agent Systems](http://arxiv.org/abs/2510.19274v1)** | 2025-10-22 | 9 Figures, 6Tables |
-| **[Trace: Securing Smart Contract Repository Against Access Control Vulnerability](http://arxiv.org/abs/2510.19254v1)** | 2025-10-22 |  |
-| **[Automated Concern Extraction from Textual Requirements of Cyber-Physical Systems: A Multi-solution Study](http://arxiv.org/abs/2510.19237v1)** | 2025-10-22 | 27 pages, 3 figures |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve](http://arxiv.org/abs/2505.23946v2)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at https://github.com/MITIBM-FastCoder/LessonL</p></details> |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
+| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v3)** | 2025-10-23 |  |
+| **[A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](http://arxiv.org/abs/2510.09721v3)** | 2025-10-23 | 22 pages |
+| **[Automated Cloud Infrastructure-as-Code Reconciliation with AI Agents](http://arxiv.org/abs/2510.20211v1)** | 2025-10-23 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[Which Is Better For Reducing Outdated and Vulnerable Dependencies: Pinning or Floating?](http://arxiv.org/abs/2510.08609v2)** | 2025-10-23 | Accepted to ASE 2025 |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](http://arxiv.org/abs/2510.19692v1)** | 2025-10-22 | 5 pages |
-| **[LifeSync-Games: Toward a Video Game Paradigm for Promoting Responsible Gaming and Human Development](http://arxiv.org/abs/2510.19691v1)** | 2025-10-22 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table, 66 references</p></details> |
-| **[Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction](http://arxiv.org/abs/2510.19667v1)** | 2025-10-22 |  |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
-| **[A Goal-Driven Survey on Root Cause Analysis](http://arxiv.org/abs/2510.19593v1)** | 2025-10-22 |  |
-| **[Mapping and Evolving Interoperability Testing in European Energy Systems: The int:net Perspective](http://arxiv.org/abs/2510.19460v1)** | 2025-10-22 | <details><summary>2025 ...</summary><p>2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)</p></details> |
-| **[AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems](http://arxiv.org/abs/2510.19438v1)** | 2025-10-22 |  |
-| **[Bytecode-centric Detection of Known-to-be-vulnerable Dependencies in Java Projects](http://arxiv.org/abs/2510.19393v1)** | 2025-10-22 | <details><summary>To be...</summary><p>To be published in: ICSE 2026 Proceedings</p></details> |
-| **[Type-aware LLM-based Regression Test Generation for Python Programs](http://arxiv.org/abs/2503.14000v2)** | 2025-10-22 |  |
-| **[Collaborative penetration testing suite for emerging generative AI algorithms](http://arxiv.org/abs/2510.19303v1)** | 2025-10-22 |  |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[How Quickly Do Development Teams Update Their Vulnerable Dependencies?](http://arxiv.org/abs/2403.17382v3)** | 2025-10-23 | under review |
+| **[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve](http://arxiv.org/abs/2505.23946v2)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at https://github.com/MITIBM-FastCoder/LessonL</p></details> |
+| **[Which Is Better For Reducing Outdated and Vulnerable Dependencies: Pinning or Floating?](http://arxiv.org/abs/2510.08609v2)** | 2025-10-23 | Accepted to ASE 2025 |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
+| **[Toward Practical Deductive Verification: Insights from a Qualitative Survey in Industry and Academia](http://arxiv.org/abs/2510.20514v1)** | 2025-10-23 |  |
+| **[Fine-Tuning Multilingual Language Models for Code Review: An Empirical Study on Industrial C# Projects](http://arxiv.org/abs/2507.19271v2)** | 2025-10-23 |  |
+| **[FMI-Based Distributed Co-Simulation with Enhanced Security and Intellectual Property Safeguards](http://arxiv.org/abs/2510.20403v1)** | 2025-10-23 | <details><summary>6 pag...</summary><p>6 pages, Proceedings of the 2025 Annual Modeling and Simulation Conference (ANNSIM)</p></details> |
+| **[Symmetry in Software Platforms as an Architectural Principle](http://arxiv.org/abs/2510.20389v1)** | 2025-10-23 | <details><summary>Worki...</summary><p>Working paper, 11 pages</p></details> |
+| **[The Faiss library](http://arxiv.org/abs/2401.08281v4)** | 2025-10-23 |  |
+| **[Classport: Designing Runtime Dependency Introspection for Java](http://arxiv.org/abs/2510.20340v1)** | 2025-10-23 |  |
+| **[Synthesizing Efficient and Permissive Programmatic Runtime Shields for Neural Policies](http://arxiv.org/abs/2410.05641v3)** | 2025-10-23 | <details><summary>Accep...</summary><p>Accepted by ACM Transactions on Software Engineering and Methodology (TOSEM), 39 pages</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
@@ -171,26 +145,25 @@ labels: documentation
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](http://arxiv.org/abs/2510.19692v1)** | 2025-10-22 | 5 pages |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1](http://arxiv.org/abs/2510.19600v1)** | 2025-10-22 |  |
-| **[Bytecode-centric Detection of Known-to-be-vulnerable Dependencies in Java Projects](http://arxiv.org/abs/2510.19393v1)** | 2025-10-22 | <details><summary>To be...</summary><p>To be published in: ICSE 2026 Proceedings</p></details> |
-| **[An Empirical Study of Bitwise Operators Intuitiveness through Performance Metrics](http://arxiv.org/abs/2510.19281v1)** | 2025-10-22 | <details><summary>15 pa...</summary><p>15 pages, 10 tables, 9 Figures</p></details> |
-| **[From Specification to Service: Accelerating API-First Development Using Multi-Agent Systems](http://arxiv.org/abs/2510.19274v1)** | 2025-10-22 | 9 Figures, 6Tables |
-| **[Trace: Securing Smart Contract Repository Against Access Control Vulnerability](http://arxiv.org/abs/2510.19254v1)** | 2025-10-22 |  |
-| **[Can Agents Fix Agent Issues?](http://arxiv.org/abs/2505.20749v3)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by the 39th Annual Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve](http://arxiv.org/abs/2505.23946v2)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at https://github.com/MITIBM-FastCoder/LessonL</p></details> |
+| **[Large Language Models for Fault Localization: An Empirical Study](http://arxiv.org/abs/2510.20521v1)** | 2025-10-23 | in Chinese language |
+| **[Fine-Tuning Multilingual Language Models for Code Review: An Empirical Study on Industrial C# Projects](http://arxiv.org/abs/2507.19271v2)** | 2025-10-23 |  |
+| **[CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End Code Review Evaluation in Python Projects](http://arxiv.org/abs/2509.14856v3)** | 2025-10-23 |  |
+| **[A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System](http://arxiv.org/abs/2510.09721v3)** | 2025-10-23 | 22 pages |
+| **[Automated Cloud Infrastructure-as-Code Reconciliation with AI Agents](http://arxiv.org/abs/2510.20211v1)** | 2025-10-23 |  |
+| **[How Far Have LLMs Come Toward Automated SATD Taxonomy Construction?](http://arxiv.org/abs/2506.09601v4)** | 2025-10-23 | 5 pages, APSEC 2025 |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Transparent Models, LLMs, and Practitioner-in-the-Loop: A Case of Nonprofit Program Evaluation](http://arxiv.org/abs/2510.19799v1)** | 2025-10-22 |  |
-| **[BOSQTGEN: Breaking the Sound Barrier in Test Generation](http://arxiv.org/abs/2510.19777v1)** | 2025-10-22 |  |
-| **[Review of Tools for Zero-Code LLM Based Application Development](http://arxiv.org/abs/2510.19747v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted in 6th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2025)</p></details> |
-| **[Toward Agentic Software Engineering Beyond Code: Framing Vision, Values, and Vocabulary](http://arxiv.org/abs/2510.19692v1)** | 2025-10-22 | 5 pages |
-| **[LifeSync-Games: Toward a Video Game Paradigm for Promoting Responsible Gaming and Human Development](http://arxiv.org/abs/2510.19691v1)** | 2025-10-22 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 1 table, 66 references</p></details> |
-| **[Dara: Automated multiple-hypothesis phase identification and refinement from powder X-ray diffraction](http://arxiv.org/abs/2510.19667v1)** | 2025-10-22 |  |
-| **[QiMeng-MuPa: Mutual-Supervised Learning for Sequential-to-Parallel Code Translation](http://arxiv.org/abs/2506.11153v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to NeurIPS'2025</p></details> |
+| **[Learning to Triage Taint Flows Reported by Dynamic Program Analysis in Node.js Packages](http://arxiv.org/abs/2510.20739v1)** | 2025-10-23 |  |
+| **[CLEVER: A Curated Benchmark for Formally Verified Code Generation](http://arxiv.org/abs/2505.13938v4)** | 2025-10-23 |  |
+| **[Exploring Large Language Models for Access Control Policy Synthesis and Summarization](http://arxiv.org/abs/2510.20692v1)** | 2025-10-23 | 20 pages, 7 figures |
+| **[A Soundness and Precision Benchmark for Java Debloating Tools](http://arxiv.org/abs/2510.20679v1)** | 2025-10-23 | <details><summary>Prepr...</summary><p>Preprint - accepted at the ACM Workshop on Software Supply Chain Offensive Research and Ecosystem Defenses (SCORED '25)</p></details> |
+| **[How Quickly Do Development Teams Update Their Vulnerable Dependencies?](http://arxiv.org/abs/2403.17382v3)** | 2025-10-23 | under review |
+| **[Lessons Learned: A Multi-Agent Framework for Code LLMs to Learn and Improve](http://arxiv.org/abs/2505.23946v2)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Code is available at https://github.com/MITIBM-FastCoder/LessonL</p></details> |
+| **[Which Is Better For Reducing Outdated and Vulnerable Dependencies: Pinning or Floating?](http://arxiv.org/abs/2510.08609v2)** | 2025-10-23 | Accepted to ASE 2025 |
 
