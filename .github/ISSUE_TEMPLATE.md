@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Ontology-Driven Model-to-Model Transformation of Workflow Specifications](https://arxiv.org/abs/2511.13661v1)** | 2025-11-17 |  |
-| **[What's in a Software Engineering Job Posting?](https://arxiv.org/abs/2511.13656v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to the 48th International Conference on Software Engineering (ICSE 2026) Research Track</p></details> |
-| **[Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?](https://arxiv.org/abs/2511.13646v1)** | 2025-11-17 |  |
-| **[BIOMERO 2.0: end-to-end FAIR infrastructure for bioimaging data import, analysis, and provenance](https://arxiv.org/abs/2511.13611v1)** | 2025-11-17 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 25 pages supplemental information; for software, see https://github.com/Cellular-Imaging-Amsterdam-UMC/NL-BIOMERO</p></details> |
-| **[Towards Quantum Software for Quantum Simulation](https://arxiv.org/abs/2511.13520v1)** | 2025-11-17 |  |
+| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
+| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
+| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
+| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
+| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
+| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
+| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
+| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
 
