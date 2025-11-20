@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,156 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VULPO: Context-Aware Vulnerability Detection via On-Policy LLM Optimization](https://arxiv.org/abs/2511.11896v2)** | 2025-11-18 |  |
-| **[Assessing UML Diagrams by GPT: Implications for Education](https://arxiv.org/abs/2412.17200v4)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in Journal of Systems and Software, 2025</p></details> |
-| **[Why Do We Code? A Theory on Motivations and Challenges in Software Engineering from Education to Practice](https://arxiv.org/abs/2511.14711v1)** | 2025-11-18 |  |
-| **[Token Interdependency Parsing (Tipping) -- Fast and Accurate Log Parsing](https://arxiv.org/abs/2408.00645v2)** | 2025-11-18 |  |
-| **[FHIRconnect: Towards a seamless integration of openEHR and FHIR](https://arxiv.org/abs/2511.14618v1)** | 2025-11-18 | 27 pages, 4 figures |
-| **[GraphCodeAgent: Dual Graph-Guided LLM Agent for Retrieval-Augmented Repo-Level Code Generation](https://arxiv.org/abs/2504.10046v2)** | 2025-11-18 |  |
-| **[LLM-Assisted Thematic Analysis: Opportunities, Limitations, and Recommendations](https://arxiv.org/abs/2511.14528v1)** | 2025-11-18 |  |
-| **[Generating Streamlining Constraints with Large Language Models](https://arxiv.org/abs/2408.10268v3)** | 2025-11-18 | <details><summary>23 pa...</summary><p>23 page; deeper analysis of streamliners and statistics about benchmark instances added</p></details> |
+| **[Automating Android Build Repair: Bridging the Reasoning-Execution Gap in LLM Agents with Domain-Specific Tools](https://arxiv.org/abs/2510.08640v2)** | 2025-11-19 |  |
+| **[OODTE: A Differential Testing Engine for the ONNX Optimizer](https://arxiv.org/abs/2505.01892v4)** | 2025-11-19 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 4 tables</p></details> |
+| **[Quantum-Guided Test Case Minimization for LLM-Based Code Generation](https://arxiv.org/abs/2511.15665v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This is a preprint version, full paper has been accepted in IEEE CASCON 2025 and will appear on lEEE Xplore</p></details> |
+| **[EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode](https://arxiv.org/abs/2511.15589v1)** | 2025-11-19 |  |
+| **[Tutorial Debriefing: Applied Statistical Causal Inference in Requirements Engineering](https://arxiv.org/abs/2511.03875v2)** | 2025-11-19 |  |
 
