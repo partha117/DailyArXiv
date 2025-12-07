@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 05, 2025
+title: Latest 15 Papers - December 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,130 +7,78 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Approximate Optimal Active Learning of Decision Trees](https://arxiv.org/abs/2512.03971v1)** | 2025-12-03 |  |
-| **[Tunable Automation in Automated Program Verification](https://arxiv.org/abs/2512.03926v1)** | 2025-12-03 |  |
-| **[From Code Foundation Models to Agents and Applications: A Comprehensive Survey and Practical Guide to Code Intelligence](https://arxiv.org/abs/2511.18538v4)** | 2025-12-03 |  |
-| **[A Comprehensive Study on the Impact of Vulnerable Dependencies on Open-Source Software](https://arxiv.org/abs/2512.03868v1)** | 2025-12-03 |  |
-| **[Cataloguing Hugging Face Models to Software Engineering Activities: Automation and Findings](https://arxiv.org/abs/2506.03013v2)** | 2025-12-03 |  |
-| **[Runnable Directories: The Solution to the Monorepo vs. Multi-repo Debate](https://arxiv.org/abs/2512.03815v1)** | 2025-12-03 |  |
+| **[David vs. Goliath: Can Small Models Win Big with Agentic AI in Hardware Design?](https://arxiv.org/abs/2512.05073v1)** | 2025-12-04 |  |
+| **[Configuration Defects in Kubernetes](https://arxiv.org/abs/2512.05062v1)** | 2025-12-04 |  |
 
