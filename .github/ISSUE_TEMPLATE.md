@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 09, 2025
+title: Latest 15 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,130 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Variational Quantum Rainbow Deep Q-Network for Optimizing Resource Allocation Problem](https://arxiv.org/abs/2512.05946v1)** | 2025-12-05 | <details><summary>Quant...</summary><p>Quantum Software Engineering Practices at The 41st ACM/SIGAPP Symposium On Applied Computing (SAC 2026)</p></details> |
-| **[SustainDiffusion: Optimising the Social and Environmental Sustainability of Stable Diffusion Models](https://arxiv.org/abs/2507.15663v2)** | 2025-12-05 |  |
-| **[Natural Language Summarization Enables Multi-Repository Bug Localization by LLMs in Microservice Architectures](https://arxiv.org/abs/2512.05908v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at LLM4Code Workshop, ICSE 2026</p></details> |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[MicroRacer: Detecting Concurrency Bugs for Cloud Service Systems](https://arxiv.org/abs/2512.05716v1)** | 2025-12-05 |  |
-| **[Metronome: Differentiated Delay Scheduling for Serverless Functions](https://arxiv.org/abs/2512.05703v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
+| **[Studying the Role of Reusing Crowdsourcing Knowledge in Software Development](https://arxiv.org/abs/2512.07824v1)** | 2025-12-08 |  |
+| **[Understanding Privacy Risks in Code Models Through Training Dynamics: A Causal Approach](https://arxiv.org/abs/2512.07814v1)** | 2025-12-08 | 21 pages, 8 figures |
+| **[Kimi-Dev: Agentless Training as Skill Prior for SWE-Agents](https://arxiv.org/abs/2509.23045v3)** | 2025-12-08 | <details><summary>68 pa...</summary><p>68 pages. GitHub repo at https://github.com/MoonshotAI/Kimi-Dev</p></details> |
+| **[Waterfall Model Simulation: A Systematic Mapping Study](https://arxiv.org/abs/2506.19653v3)** | 2025-12-08 |  |
+| **[A Brief History of the Waterfall Model: Past, Present, and Future](https://arxiv.org/abs/2510.03894v2)** | 2025-12-08 |  |
+| **[Bridging Code Graphs and Large Language Models for Better Code Understanding](https://arxiv.org/abs/2512.07666v1)** | 2025-12-08 |  |
+| **[Reliable agent engineering should integrate machine-compatible organizational principles](https://arxiv.org/abs/2512.07665v1)** | 2025-12-08 | <details><summary>20 pa...</summary><p>20 pages incl. references, comments are welcome</p></details> |
+| **[Automated Test Validators for Flaky Cyber-Physical System Simulators: Approach and Evaluation](https://arxiv.org/abs/2508.20902v2)** | 2025-12-08 |  |
 
