@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 11, 2025
+title: Latest 15 Papers - December 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,182 +7,143 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exploring the Garden of Forking Paths in Empirical Software Engineering Research: A Multiverse Analysis](https://arxiv.org/abs/2512.08910v1)** | 2025-12-09 | Submitte to TOSEM |
-| **[LLM Collaboration With Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2508.04652v7)** | 2025-12-09 |  |
-| **[SimpleDevQA: Benchmarking Large Language Models on Development Knowledge QA](https://arxiv.org/abs/2512.08867v1)** | 2025-12-09 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v3)** | 2025-12-09 |  |
-| **[Multicalibration for LLM-based Code Generation](https://arxiv.org/abs/2512.08810v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at AI-SQE 2026 (The 1st International Workshop on AI for Software Quality Evaluation: Judgment, Metrics, Benchmarks, and Beyond)</p></details> |
-| **[Polynomiogram: An Integrated Framework for Root Visualization and Generative Art](https://arxiv.org/abs/2512.04263v2)** | 2025-12-09 |  |
-| **[RESTifAI: LLM-Based Workflow for Reusable REST API Testing](https://arxiv.org/abs/2512.08706v1)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted for ICSE 2026 Demonstration track</p></details> |
-| **[Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943v6)** | 2025-12-09 |  |
-| **[Using Copilot Agent Mode to Automate Library Migration: A Quantitative Assessment](https://arxiv.org/abs/2510.26699v2)** | 2025-12-09 | <details><summary>Accep...</summary><p>Accepted at 1st International Workshop on Agentic Engineering (AGENT 2026, colocated with ICSE), pages 1-5</p></details> |
-| **[Reusability in MLOps: Leveraging Ports and Adapters to Build a Microservices Architecture for the Maritime Domain](https://arxiv.org/abs/2512.08657v1)** | 2025-12-09 | <details><summary>7 pag...</summary><p>7 pages, 3 figures (3 diagrams), submitted to ICSA 2026</p></details> |
+| **[AI-powered Code Review with LLMs: Early Results](https://arxiv.org/abs/2404.18496v2)** | 2025-12-10 | 8 pages |
+| **[Benchmarking Web API Integration Code Generation](https://arxiv.org/abs/2509.20172v5)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in Proceedings of 2025 2nd IEEE/ACM International Conference on AI-powered Software (AIware), Data & Benchmark Track; updated artifact link to point to the right version</p></details> |
+| **[Quantifying Uncertainty in Machine Learning-Based Pervasive Systems: Application to Human Activity Recognition](https://arxiv.org/abs/2512.09775v1)** | 2025-12-10 |  |
+| **[Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis](https://arxiv.org/abs/2512.09679v1)** | 2025-12-10 |  |
+| **[LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection](https://arxiv.org/abs/2512.09627v1)** | 2025-12-10 |  |
+| **[Model management to support systems engineering workflows using ontology-based knowledge graphs](https://arxiv.org/abs/2512.09596v1)** | 2025-12-10 |  |
+| **[Directional Diffusion-Style Code Editing Pre-training](https://arxiv.org/abs/2501.12079v2)** | 2025-12-10 |  |
 
