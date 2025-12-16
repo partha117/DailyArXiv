@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 16, 2025
+title: Latest 15 Papers - December 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,156 +7,169 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Efficient Exploration of Chemical Kinetics](https://arxiv.org/abs/2510.21368v2)** | 2025-12-12 | <details><summary>Docto...</summary><p>Doctoral dissertation, 121 pages, ISBN: 978-9935-9826-5-0. By design, all text and figures within this thesis are original and do not appear in the associated papers</p></details> |
-| **[From Signal to Turn: Interactional Friction in Modular Speech-to-Speech Pipelines](https://arxiv.org/abs/2512.11724v1)** | 2025-12-12 | 6 pages, 1 figure |
-| **[Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale](https://arxiv.org/abs/2512.10398v2)** | 2025-12-12 | <details><summary>Meta ...</summary><p>Meta requires more thorough internal review process to ensure paper quality and experiments as well as compliance with the internal research publishing process</p></details> |
-| **[Vital: Vulnerability-Oriented Symbolic Execution via Type-Unsafe Pointer-Guided Monte Carlo Tree Search](https://arxiv.org/abs/2408.08772v2)** | 2025-12-12 | <details><summary>Just ...</summary><p>Just Accepted in ACM Transactions on Software Engineering and Methodology (ACM TOSEM)</p></details> |
-| **[Complexity at Scale: A Quantitative Analysis of an Alibaba Microservice Deployment](https://arxiv.org/abs/2504.13141v3)** | 2025-12-12 | <details><summary>25 pa...</summary><p>25 pages, 12 figures, 4 tables, revised version for conference submission</p></details> |
-| **[Causal symmetrization as an empirical signature of operational autonomy in complex systems](https://arxiv.org/abs/2512.09352v2)** | 2025-12-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 4 tables</p></details> |
-| **[A Study of Library Usage in Agent-Authored Pull Requests](https://arxiv.org/abs/2512.11589v1)** | 2025-12-12 | 5 pages, 3 tables |
-| **[Mini-SFC: A Comprehensive Simulation Framework for Orchestration and Management of Service Function Chains](https://arxiv.org/abs/2512.11527v1)** | 2025-12-12 |  |
+| **[Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation](https://arxiv.org/abs/2512.13655v1)** | 2025-12-15 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 8 tables</p></details> |
+| **[Taint Analysis for Graph APIs Focusing on Broken Access Control](https://arxiv.org/abs/2501.08947v4)** | 2025-12-15 | <details><summary>Final...</summary><p>Final preprint (revision #3) for submission to ICGT 24 Special Issue in Logical Methods in Computer Science</p></details> |
+| **[How Low Can You Go? The Data-Light SE Challenge](https://arxiv.org/abs/2512.13524v1)** | 2025-12-15 |  |
+| **[Fine-tuned LLM-based Code Migration Framework](https://arxiv.org/abs/2512.13515v1)** | 2025-12-15 | <details><summary>16 pa...</summary><p>16 pages, 27 figures, 7 references</p></details> |
+| **[Mapping of the system of software-related emissions and shared responsibilities](https://arxiv.org/abs/2512.13474v1)** | 2025-12-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 2 tables, 2025 IEEE/ACM 9th International Workshop on Green and Sustainable Software (GREENS)</p></details> |
+| **[A Data Annotation Requirements Representation and Specification (DARS)](https://arxiv.org/abs/2512.13444v1)** | 2025-12-15 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, currently submitted and under review</p></details> |
+| **[From User Interface to Agent Interface: Efficiency Optimization of UI Representations for LLM Agents](https://arxiv.org/abs/2512.13438v1)** | 2025-12-15 |  |
+| **[QMon: Monitoring the Execution of Quantum Circuits with Mid-Circuit Measurement and Reset](https://arxiv.org/abs/2512.13422v1)** | 2025-12-15 |  |
+| **[PSALM: applying Proportional SAmpLing strategy in Metamorphic testing](https://arxiv.org/abs/2512.13414v1)** | 2025-12-15 |  |
 
