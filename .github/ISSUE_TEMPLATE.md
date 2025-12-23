@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,130 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[On the Freshness of Pinned Dependencies in Maven](https://arxiv.org/abs/2510.22815v2)** | 2025-12-19 |  |
-| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v4)** | 2025-12-19 |  |
-| **[LLM-based Behaviour Driven Development for Hardware Design](https://arxiv.org/abs/2512.17814v1)** | 2025-12-19 | <details><summary>7 pag...</summary><p>7 pages, keynote given at 2nd International Symposium on Artificial Intelligence and Internet of Things (AIIoT-25), December 22-24th, 2025</p></details> |
-| **[A Practical Solution to Systematically Monitor Inconsistencies in SBOM-based Vulnerability Scanners](https://arxiv.org/abs/2512.17710v1)** | 2025-12-19 | <details><summary>to be...</summary><p>to be published in the proceedings of The 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[A Systematic Literature Review on Detecting Software Vulnerabilities with Large Language Models](https://arxiv.org/abs/2507.22659v2)** | 2025-12-19 | <details><summary>43 pa...</summary><p>43 pages + 20 pages references, 7 tables, 13 figures</p></details> |
-| **[OntoGSN: An Ontology-Based Framework for Semantic Management and Extension of Assurance Cases](https://arxiv.org/abs/2506.11023v2)** | 2025-12-19 | <details><summary>Submi...</summary><p>Submitted to the ESWC 2026 Resources track</p></details> |
+| **[CodeTF: One-stop Transformer Library for State-of-the-art Code LLMs](https://arxiv.org/abs/2306.00029v2)** | 2025-12-22 |  |
+| **[More code, less validation: Risk factors for over-reliance on AI coding tools among scientists](https://arxiv.org/abs/2512.19644v1)** | 2025-12-22 |  |
+| **[Does SWE-Bench-Verified Test Agent Ability or Model Memory?](https://arxiv.org/abs/2512.10218v2)** | 2025-12-22 |  |
+| **[Beyond Language Boundaries: Uncovering Programming Language Families for Code Language Models](https://arxiv.org/abs/2512.19509v1)** | 2025-12-22 | Accepted by FSE 2026 |
+| **[A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis](https://arxiv.org/abs/2512.19481v1)** | 2025-12-22 | 6 pages |
 
