@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,169 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SweRank+: Multilingual, Multi-Turn Code Ranking for Software Issue Localization](https://arxiv.org/abs/2512.20482v1)** | 2025-12-23 |  |
-| **[Advancing Automated In-Isolation Validation in Repository-Level Code Translation](https://arxiv.org/abs/2511.21878v2)** | 2025-12-23 |  |
-| **[iblock: Accurate and Scalable Bitcoin Simulations with OMNeT++](https://arxiv.org/abs/2512.20402v1)** | 2025-12-23 |  |
-| **[Symmaries: Automatic Inference of Formal Security Summaries for Java Programs](https://arxiv.org/abs/2512.20396v1)** | 2025-12-23 |  |
-| **[Identifying Appropriately-Sized Services with Deep Reinforcement Learning](https://arxiv.org/abs/2512.20381v1)** | 2025-12-23 | 22 pages, 6 figures |
-| **[A Comprehensive Study of Bugs in Modern Distributed Deep Learning Systems](https://arxiv.org/abs/2512.20345v1)** | 2025-12-23 |  |
-| **[Comment Traps: How Defective Commented-out Code Augment Defects in AI-Assisted Code Generation](https://arxiv.org/abs/2512.20334v1)** | 2025-12-23 | <details><summary>This ...</summary><p>This paper has been accepted by FSE 2026 (ACM International Conference on the Foundations of Software Engineering). This is a preprint version and may differ from the final published version</p></details> |
-| **[Toward Explaining Large Language Models in Software Engineering Tasks](https://arxiv.org/abs/2512.20328v1)** | 2025-12-23 |  |
-| **[Auditing Reproducibility in Non-Targeted Analysis: 103 LC/GC--HRMS Tools Reveal Temporal Divergence Between Openness and Operability](https://arxiv.org/abs/2512.20279v1)** | 2025-12-23 | <details><summary>26 pa...</summary><p>26 pages, 6 figures, submitted to Journal of Cheminformatics</p></details> |
+| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
+| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
+| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
+| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
+| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
 
