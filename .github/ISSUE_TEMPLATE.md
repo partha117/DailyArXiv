@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,130 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Assessing the Software Security Comprehension of Large Language Models](https://arxiv.org/abs/2512.21238v1)** | 2025-12-24 | <details><summary>Submi...</summary><p>Submitted to Empirical Software Engineering (EMSE) journal</p></details> |
-| **[Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236v1)** | 2025-12-24 | Accepted to FSE 2026 |
-| **[SESR-Eval: Dataset for Evaluating LLMs in the Title-Abstract Screening of Systematic Reviews](https://arxiv.org/abs/2507.19027v2)** | 2025-12-24 | <details><summary>An up...</summary><p>An updated post-print on the paper published in the Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM '25). 12 pages (10 + 2 pages for references)</p></details> |
-| **[Larger Is Not Always Better: Leveraging Structured Code Diffs for Comment Inconsistency Detection](https://arxiv.org/abs/2512.19883v2)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper has been reviewed and accepted to the Short Papers and Posters Track of SANER 2026</p></details> |
-| **[Artificial or Just Artful? Do LLMs Bend the Rules in Programming?](https://arxiv.org/abs/2512.21028v1)** | 2025-12-24 |  |
+| **[Agentic Structured Graph Traversal for Root Cause Analysis of Code-related Incidents in Cloud Applications](https://arxiv.org/abs/2512.22113v1)** | 2025-12-26 |  |
+| **[Detecting Flaky Tests in Quantum Software: A Dynamic Approach](https://arxiv.org/abs/2512.18088v2)** | 2025-12-26 | <details><summary>Updat...</summary><p>Updated Section 4.3.2 to reflect a more conservative theoretical analysis</p></details> |
+| **[Proceedings First Workshop on Adaptable Cloud Architectures](https://arxiv.org/abs/2512.22054v1)** | 2025-12-26 |  |
+| **[HALF: Process Hollowing Analysis Framework for Binary Programs with the Assistance of Kernel Modules](https://arxiv.org/abs/2512.22043v1)** | 2025-12-26 |  |
+| **[CP-Agent: Agentic Constraint Programming](https://arxiv.org/abs/2508.07468v2)** | 2025-12-26 |  |
+| **[Evaluating Large Language Models for Line-Level Vulnerability Localization](https://arxiv.org/abs/2404.00287v2)** | 2025-12-26 | Accepted to TSE |
 
