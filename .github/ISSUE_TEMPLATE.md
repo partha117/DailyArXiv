@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 01, 2026
+title: Latest 15 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,208 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration](https://arxiv.org/abs/2512.17956v2)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, 4 tables. Exploratory case study</p></details> |
-| **[Parallelized Code Generation from Simulink Models for Event-driven and Timer-driven ROS 2 Nodes](https://arxiv.org/abs/2512.23605v1)** | 2025-12-29 |  |
-| **[How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](https://arxiv.org/abs/2507.02976v3)** | 2025-12-29 |  |
-| **[Model-based Development for Autonomous Driving Software Considering Parallelization](https://arxiv.org/abs/2512.23575v1)** | 2025-12-29 |  |
-| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v1)** | 2025-12-29 |  |
-| **[Beyond Correctness: Exposing LLM-generated Logical Flaws in Reasoning via Multi-step Automated Theorem Proving](https://arxiv.org/abs/2512.23511v1)** | 2025-12-29 |  |
-| **[AdaptiFlow: An Extensible Framework for Event-Driven Autonomy in Cloud Microservices](https://arxiv.org/abs/2512.23499v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable Teastore with Energy Consumption Awareness: A Case Study](https://arxiv.org/abs/2512.23498v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore: A Choreographic Approach](https://arxiv.org/abs/2512.23497v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Decoupling Adaptive Control in TeaStore](https://arxiv.org/abs/2512.23495v1)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Adaptable TeaStore](https://arxiv.org/abs/2412.16060v2)** | 2025-12-29 | <details><summary>In Pr...</summary><p>In Proceedings WACA 2025, arXiv:2512.22054</p></details> |
-| **[Embedding Quality Assurance in project-based learning](https://arxiv.org/abs/2512.23488v1)** | 2025-12-29 |  |
+| **[Securing High-Concurrency Ticket Sales: A Framework Based on Microservice](https://arxiv.org/abs/2512.24941v1)** | 2025-12-31 |  |
+| **[SoK: Web3 RegTech for Cryptocurrency VASP AML/CFT Compliance](https://arxiv.org/abs/2512.24888v1)** | 2025-12-31 |  |
+| **[Feature Slice Matching for Precise Bug Detection](https://arxiv.org/abs/2512.24858v1)** | 2025-12-31 | Accepted by FSE2026 |
+| **[Unveiling the Role of ChatGPT in Software Development: Insights from Developer-ChatGPT Interactions on GitHub](https://arxiv.org/abs/2505.03901v3)** | 2025-12-31 | <details><summary>30 pa...</summary><p>30 pages, 11 images, 3 tables, Manuscript revision submitted to a journal (2025)</p></details> |
 
