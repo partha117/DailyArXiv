@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,91 +7,143 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[A Match Made in Heaven? AI-driven Matching of Vulnerabilities and Security Unit Tests](https://arxiv.org/abs/2502.03365v3)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted in the MSR 2026 Technical Track. This work was partially supported by EU-funded project Sec4AI4Sec (grant no. 101120393)</p></details> |
-| **[Vibe Coding as a Reconfiguration of Intent Mediation in Software Development: Definition, Implications, and Research Agenda](https://arxiv.org/abs/2507.21928v4)** | 2026-01-08 |  |
+| **[Towards AI-Native Software Engineering (SE 3.0): A Vision and a Challenge Roadmap](https://arxiv.org/abs/2410.06107v2)** | 2026-01-09 |  |
+| **[From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level](https://arxiv.org/abs/2601.03731v2)** | 2026-01-09 |  |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
+| **[SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking](https://arxiv.org/abs/2601.05827v1)** | 2026-01-09 |  |
+| **[EET: Experience-Driven Early Termination for Cost-Efficient Software Engineering Agents](https://arxiv.org/abs/2601.05777v1)** | 2026-01-09 |  |
+| **[StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection](https://arxiv.org/abs/2601.05772v1)** | 2026-01-09 |  |
+| **[AutoMonitor-Bench: Evaluating the Reliability of LLM-Based Misbehavior Monitor](https://arxiv.org/abs/2601.05752v1)** | 2026-01-09 |  |
 
