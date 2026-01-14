@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **["TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt](https://arxiv.org/abs/2601.07786v1)** | 2026-01-12 | <details><summary>9th I...</summary><p>9th International Conference on Technical Debt (TechDebt 2026)</p></details> |
-| **[The CASE Framework -- A New Architecture for Participatory Research and Digital Health Surveillance](https://arxiv.org/abs/2505.23516v3)** | 2026-01-12 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables. Submitted as a preprint to arXiv (no prior publication); v3: major revision: extended conceptual framing; added a new section on validation; a new subsection on configuration tools; polished structure and language; fixed typos</p></details> |
-| **[From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets](https://arxiv.org/abs/2504.17977v2)** | 2026-01-12 |  |
-| **[TALM: Dynamic Tree-Structured Multi-Agent Framework with Long-Term Memory for Scalable Code Generation](https://arxiv.org/abs/2510.23010v2)** | 2026-01-12 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v1)** | 2026-01-12 | <details><summary>31 pa...</summary><p>31 pages,8 figures,9 tables</p></details> |
+| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
+| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
+| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
+| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
+| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
+| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
+| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
+| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
 
