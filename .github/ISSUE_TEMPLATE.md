@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 15, 2026
+title: Latest 15 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,156 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[APEX-SWE](https://arxiv.org/abs/2601.08806v1)** | 2026-01-13 |  |
-| **[Reliable Graph-RAG for Codebases: AST-Derived Graphs vs LLM-Extracted Knowledge Graphs](https://arxiv.org/abs/2601.08773v1)** | 2026-01-13 | 46 pages, 2 figures |
-| **[STELP: Secure Transpilation and Execution of LLM-Generated Programs](https://arxiv.org/abs/2601.05467v2)** | 2026-01-13 |  |
-| **[TerraFormer: Automated Infrastructure-as-Code with LLMs Fine-Tuned via Policy-Guided Verifier Feedback](https://arxiv.org/abs/2601.08734v1)** | 2026-01-13 | <details><summary>The p...</summary><p>The paper has been published at the 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE 2026), Rio de Janeiro, Brazil, April 12-18, 2026</p></details> |
-| **[Revisiting "Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion": A Critical Review and Implications on DNN Coverage Testing](https://arxiv.org/abs/2601.08729v1)** | 2026-01-13 | ICSE 2026 |
-| **["Where is My Troubleshooting Procedure?": Studying the Potential of RAG in Assisting Failure Resolution of Large Cyber-Physical System](https://arxiv.org/abs/2601.08706v1)** | 2026-01-13 | <details><summary>This ...</summary><p>This paper has been accepted at the Software Engineering in Practice track of the 48th International Conference on Software Engineering (ICSE 2026)</p></details> |
-| **[LLMs in Code Vulnerability Analysis: A Proof of Concept](https://arxiv.org/abs/2601.08691v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Fourth International Workshop on Software Vulnerability Management (SVM 2026) co-located with Intenational Conference in Software Engineering (ICSE 2026)</p></details> |
-| **[Does GenAI Make Usability Testing Obsolete?](https://arxiv.org/abs/2411.00634v3)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted for publication at The 47th IEEE/ACM International Conference on Software Engineering ICSE 2025</p></details> |
+| **[ShortCoder: Knowledge-Augmented Syntax Optimization for Token-Efficient Code Generation](https://arxiv.org/abs/2601.09703v1)** | 2026-01-14 |  |
+| **[How well LLM-based test generation techniques perform with newer LLM versions?](https://arxiv.org/abs/2601.09695v1)** | 2026-01-14 |  |
+| **[Smart Contract Vulnerabilities, Tools, and Benchmarks: an Updated Systematic Literature Review](https://arxiv.org/abs/2412.01719v3)** | 2026-01-14 |  |
+| **[SysPro: Reproducing System-level Concurrency Bugs from Bug Reports](https://arxiv.org/abs/2601.09616v1)** | 2026-01-14 | Accepted in JSS |
+| **[Path-optimal symbolic execution of heap-manipulating programs](https://arxiv.org/abs/2407.16827v2)** | 2026-01-14 | 18 pages, 14 figures |
+| **[Analyzing GitHub Issues and Pull Requests in nf-core Pipelines: Insights into nf-core Pipeline Repositories](https://arxiv.org/abs/2601.09612v1)** | 2026-01-14 | 12 pages |
+| **[Can LLMs Generate Reliable Test Case Generators? A Study on Competition-Level Programming Problems](https://arxiv.org/abs/2506.06821v4)** | 2026-01-14 | 37 pages, 22 figures |
+| **[Enabling Global, Human-Centered Explanations for LLMs:From Tokens to Interpretable Code and Test Generation](https://arxiv.org/abs/2503.16771v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted to ICSE 2026</p></details> |
 
