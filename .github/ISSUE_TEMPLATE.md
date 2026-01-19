@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 19, 2026
+title: Latest 15 Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,78 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Extension-Based Accessibility Framework for Making Blockly Accessible to Blind and Low-Vision Users](https://arxiv.org/abs/2601.10688v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at the 1st International Workshop on User Interface and Experience for Software Engineering (UISE 2026), co-located with ICSE 2026. Final published version available at DOI: 10.1145/3786169.3788398</p></details> |
-| **[Model See, Model Do? Exposure-Aware Evaluation of Bug-vs-Fix Preference in Code LLMs](https://arxiv.org/abs/2601.10496v1)** | 2026-01-15 | <details><summary>MSR 2...</summary><p>MSR 2026 Technical Track</p></details> |
+| **[What Drives Issue Resolution Speed? An Empirical Study of Scientific Workflow Systems on GitHub](https://arxiv.org/abs/2512.18852v2)** | 2026-01-16 | 7 |
+| **[Applying Formal Methods Tools to an Electronic Warfare Codebase (Experience report)](https://arxiv.org/abs/2601.11510v1)** | 2026-01-16 |  |
+| **[Towards Observation Lakehouses: Living, Interactive Archives of Software Behavior](https://arxiv.org/abs/2512.02795v2)** | 2026-01-16 | <details><summary>5 pag...</summary><p>5 pages, 2 tables, 1 figure, accepted at the IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2026 Tool Demo)</p></details> |
+| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v1)** | 2026-01-16 |  |
+| **[RITA: A Tool for Automated Requirements Classification and Specification from Online User Feedback](https://arxiv.org/abs/2601.11362v1)** | 2026-01-16 |  |
+| **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
+| **[A Causal Perspective on Measuring, Explaining and Mitigating Smells in LLM-Generated Code](https://arxiv.org/abs/2511.15817v5)** | 2026-01-16 |  |
+| **[Automation and Reuse Practices in GitHub Actions Workflows: A Practitioner's Perspective](https://arxiv.org/abs/2601.11299v1)** | 2026-01-16 | <details><summary>38 pa...</summary><p>38 pages. Preprint submitted to ACM Transactions on Software Engineering Methodology. Under review. Exact publication details will be provided upon acceptance</p></details> |
 
