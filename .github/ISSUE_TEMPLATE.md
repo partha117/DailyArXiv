@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 23, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,221 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Agents Fail: A Comprehensive Study of Bugs in LLM Agents with Automated Labeling](https://arxiv.org/abs/2601.15232v1)** | 2026-01-21 | <details><summary>A ver...</summary><p>A version of this paper has been submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub](https://arxiv.org/abs/2601.15195v1)** | 2026-01-21 | <details><summary>Accep...</summary><p>Accepted at International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Benchmarking Large Language Models for ABAP Code Generation: An Empirical Study on Iterative Improvement by Compiler Feedback](https://arxiv.org/abs/2601.15188v1)** | 2026-01-21 | <details><summary>20 pa...</summary><p>20 pages, 10 figures, Author: Hartmut Westenberger (ORCID: 0009-0009-9063-8318)</p></details> |
-| **[HD-GEN: A High-Performance Software System for Human Mobility Data Generation Based on Patterns of Life](https://arxiv.org/abs/2601.01219v2)** | 2026-01-21 |  |
-| **[SAGA: Detecting Security Vulnerabilities Using Static Aspect Analysis](https://arxiv.org/abs/2601.15154v1)** | 2026-01-21 | <details><summary>50 pa...</summary><p>50 pages, 3-page appendix, 23 Figures, 11 Tables</p></details> |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v2)** | 2026-01-21 |  |
-| **[Why Authors and Maintainers Link (or Don't Link) Their PyPI Libraries to Code Repositories and Donation Platforms](https://arxiv.org/abs/2601.15139v1)** | 2026-01-21 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 1 figure</p></details> |
-| **[Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks](https://arxiv.org/abs/2601.15094v1)** | 2026-01-21 |  |
-| **[DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis](https://arxiv.org/abs/2601.15084v1)** | 2026-01-21 | 23 pages, 11 figures |
-| **[SmartOracle -- An Agentic Approach to Mitigate Noise in Differential Oracles](https://arxiv.org/abs/2601.15074v1)** | 2026-01-21 |  |
-| **[A Configuration-First Framework for Reproducible, Low-Code Localization](https://arxiv.org/abs/2510.25692v3)** | 2026-01-21 | 12 pages, 7 figures |
-| **[A Practical Guide to Establishing Technical Debt Management](https://arxiv.org/abs/2601.11430v2)** | 2026-01-21 |  |
-| **[HyperNet-Adaptation for Diffusion-Based Test Case Generation](https://arxiv.org/abs/2601.15041v1)** | 2026-01-21 |  |
+| **[TDFlow: Agentic Workflows for Test Driven Development](https://arxiv.org/abs/2510.23761v2)** | 2026-01-22 | <details><summary>Publi...</summary><p>Published in the 19th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2026 Main Conference)</p></details> |
+| **[Towards a Goal-Centric Assessment of Requirements Engineering Methods for Privacy by Design](https://arxiv.org/abs/2601.16080v1)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been accepted for the 32nd International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ 2026)</p></details> |
+| **[Many Hands Make Light Work: An LLM-based Multi-Agent System for Detecting Malicious PyPI Packages](https://arxiv.org/abs/2601.12148v2)** | 2026-01-22 | <details><summary>The p...</summary><p>The paper has been peer-reviewed and accepted for publication to the Journal of Systems and Software (https://www.sciencedirect.com/journal/journal-of-systems-and-software)</p></details> |
+| **[The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations](https://arxiv.org/abs/2601.16009v1)** | 2026-01-22 |  |
+| **[Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Reasoning](https://arxiv.org/abs/2505.13353v3)** | 2026-01-22 |  |
 
