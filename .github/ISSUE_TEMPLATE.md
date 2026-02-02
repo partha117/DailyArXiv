@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,130 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StepShield: When, Not Whether to Intervene on Rogue Agents](https://arxiv.org/abs/2601.22136v1)** | 2026-01-29 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 14 tables</p></details> |
-| **[World of Workflows: a Benchmark for Bringing World Models to Enterprise Systems](https://arxiv.org/abs/2601.22130v1)** | 2026-01-29 |  |
-| **[SWE-Replay: Efficient Test-Time Scaling for Software Engineering Agents](https://arxiv.org/abs/2601.22129v1)** | 2026-01-29 |  |
-| **[How Does Cognitive Capability and Personality Influence Problem Solving in Coding Interview Puzzles?](https://arxiv.org/abs/2511.14367v2)** | 2026-01-29 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 6 tables, 19th IEEE/ACM International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2026)</p></details> |
-| **[When "Better" Prompts Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025v1)** | 2026-01-29 |  |
-| **[Liquid Interfaces: A Dynamic Ontology for the Interoperability of Autonomous Systems](https://arxiv.org/abs/2601.21993v1)** | 2026-01-29 | 28 pages, 2 figures |
+| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
+| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
+| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
+| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
+| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
+| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
 
