@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2026
+title: Latest 15 Papers - February 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,156 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SuperCoder: Assembly Program Superoptimization with Large Language Models](https://arxiv.org/abs/2505.11480v3)** | 2026-01-30 |  |
-| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
-| **[GrepRAG: An Empirical Study and Optimization of Grep-Like Retrieval for Code Completion](https://arxiv.org/abs/2601.23254v1)** | 2026-01-30 | Under Review |
-| **[Towards a Benchmark for Dependency Decision-Making](https://arxiv.org/abs/2601.00205v2)** | 2026-01-30 | <details><summary>Under...</summary><p>Under review at JAWS 2026. 5 pages, 1 figures, 2 tables</p></details> |
-| **[Understanding and Bridging the Planner-Coder Gap: A Systematic Study on the Robustness of Multi-Agent Systems for Code Generation](https://arxiv.org/abs/2510.10460v2)** | 2026-01-30 | <details><summary>18pag...</summary><p>18pages, 5 figures, 6 tables</p></details> |
-| **[Do Good, Stay Longer? Temporal Patterns and Predictors of Newcomer-to-Core Transitions in Conventional OSS and OSS4SG](https://arxiv.org/abs/2601.23142v1)** | 2026-01-30 |  |
-| **[From Monolith to Microservices: A Comparative Evaluation of Decomposition Frameworks](https://arxiv.org/abs/2601.23141v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted at WorldCist 2026. Preprint version. 12 pages, 1 table</p></details> |
-| **[Automated Testing of Prevalent 3D User Interactions in Virtual Reality Applications](https://arxiv.org/abs/2601.23139v1)** | 2026-01-30 | 31 pages, 7 figures |
+| **[Drift-Bench: Diagnosing Cooperative Breakdowns in LLM Agents under Input Faults via Multi-Turn Interaction](https://arxiv.org/abs/2602.02455v1)** | 2026-02-02 | 65 pages, 40 figures |
+| **[SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration](https://arxiv.org/abs/2602.02419v1)** | 2026-02-02 |  |
+| **[Beyond Per-Thread Lock Sets: Multi-Thread Critical Sections and Dynamic Deadlock Prediction](https://arxiv.org/abs/2512.23552v2)** | 2026-02-02 | <details><summary>Fixed...</summary><p>Fixed typo in Fig 3 (x => l1, y => l2)</p></details> |
+| **[ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis](https://arxiv.org/abs/2512.10173v2)** | 2026-02-02 |  |
+| **[MalCVE: Malware Detection and CVE Association Using Large Language Models](https://arxiv.org/abs/2510.15567v2)** | 2026-02-02 |  |
+| **[SWE-Universe: Scale Real-World Verifiable Environments to Millions](https://arxiv.org/abs/2602.02361v1)** | 2026-02-02 | 13 pages |
+| **[A Task-Level Evaluation of AI Agents in Open-Source Projects](https://arxiv.org/abs/2602.02345v1)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, accepted at MSR Mining Challenge 2026</p></details> |
+| **[Understanding and Detecting Flaky Builds in GitHub Actions](https://arxiv.org/abs/2602.02307v1)** | 2026-02-02 | <details><summary>18 pa...</summary><p>18 pages, 1 figures, 4 tables</p></details> |
 
