@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,130 +7,91 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When Code Becomes Abundant: Redefining Software Engineering Around Orchestration and Verification](https://arxiv.org/abs/2602.04830v1)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/ACM 48th International Conference on Software Engineering: Future of Software Engineering</p></details> |
-| **[Do Developers Read Type Information? An Eye-Tracking Study on TypeScript](https://arxiv.org/abs/2602.04824v1)** | 2026-02-04 |  |
-| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
-| **[Beyond the Control Equations: An Artifact Study of Implementation Quality in Robot Control Software](https://arxiv.org/abs/2602.04799v1)** | 2026-02-04 |  |
-| **[Demonstrating ARG-V's Generation of Realistic Java Benchmarks for SV-COMP](https://arxiv.org/abs/2602.04786v1)** | 2026-02-04 |  |
-| **[Supporting software engineering tasks with agentic AI: Demonstration on document retrieval and test scenario generation](https://arxiv.org/abs/2602.04726v1)** | 2026-02-04 | <details><summary>This ...</summary><p>This is a preprint of a paper that was accepted at the International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA 2026)</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[RAG4Tickets: AI-Powered Ticket Resolution via Retrieval-Augmented Generation on JIRA and GitHub Data](https://arxiv.org/abs/2510.08667v2)** | 2026-02-05 | 13 Pages |
+| **[When Elo Lies: Hidden Biases in Codeforces-Based Evaluation of Large Language Models](https://arxiv.org/abs/2602.05891v1)** | 2026-02-05 |  |
 
