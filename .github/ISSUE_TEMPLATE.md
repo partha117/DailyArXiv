@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2026
+title: Latest 15 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,104 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source Code Hotspots: A Diagnostic Method for Quality Issues](https://arxiv.org/abs/2602.13170v1)** | 2026-02-13 | <details><summary>Publi...</summary><p>Published at the 23rd International Conference on Mining Software Repositories</p></details> |
-| **[From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems](https://arxiv.org/abs/2512.18080v2)** | 2026-02-13 |  |
-| **[Automated Testing of Task-based Chatbots: How Far Are We?](https://arxiv.org/abs/2602.13072v1)** | 2026-02-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, Accepted at 23rd International Conference on Mining Software Repositories (MSR) 2026 - Registered Reports</p></details> |
-| **[Analysis of Asset Administration Shell-based Negotiation Processes for Scaling Applications](https://arxiv.org/abs/2602.13029v1)** | 2026-02-13 | 9 pages, 2 figures |
+| **[Tool-Aware Planning in Contact Center AI: Evaluating LLMs through Lineage-Guided Query Decomposition](https://arxiv.org/abs/2602.14955v1)** | 2026-02-16 |  |
+| **[ReusStdFlow: A Standardized Reusability Framework for Dynamic Workflow Construction in Agentic AI](https://arxiv.org/abs/2602.14922v1)** | 2026-02-16 |  |
+| **[Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions](https://arxiv.org/abs/2602.14878v1)** | 2026-02-16 |  |
+| **[EmbeWebAgent: Embedding Web Agents into Any Customized UI](https://arxiv.org/abs/2602.14865v1)** | 2026-02-16 | <details><summary>Techn...</summary><p>Technical Report; Live Demo: https://youtu.be/Cy06Ljee1JQ</p></details> |
 
