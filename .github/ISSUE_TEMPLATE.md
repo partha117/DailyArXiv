@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 20, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SPARC: Scenario Planning and Reasoning for Automated C Unit Test Generation](https://arxiv.org/abs/2602.16671v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, 4 tables</p></details> |
-| **[A Mixed-Methods Study on the Implications of Unsafe Rust for Interoperation, Encapsulation, and Tooling](https://arxiv.org/abs/2404.02230v4)** | 2026-02-18 | <details><summary>33 pa...</summary><p>33 pages with references, preprint</p></details> |
-| **[Validating Formal Specifications with LLM-generated Test Cases](https://arxiv.org/abs/2510.23350v2)** | 2026-02-18 |  |
-| **[FeatBench: Towards More Realistic Evaluation of Feature-level Code Generation](https://arxiv.org/abs/2509.22237v2)** | 2026-02-18 |  |
-| **[Software-heavy Asset Administration Shells: Classification and Use Cases](https://arxiv.org/abs/2602.16499v1)** | 2026-02-18 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v1)** | 2026-02-19 |  |
+| **[What Makes a Good LLM Agent for Real-world Penetration Testing?](https://arxiv.org/abs/2602.17622v1)** | 2026-02-19 |  |
+| **[Towards a Software Reference Architecture for Natural Language Processing Tools in Requirements Engineering](https://arxiv.org/abs/2602.17498v1)** | 2026-02-19 |  |
+| **[Verifying DNN-based Semantic Communication Against Generative Adversarial Noise](https://arxiv.org/abs/2602.08801v2)** | 2026-02-19 | 18 pages |
+| **[The Runtime Dimension of Ethics in Self-Adaptive Systems](https://arxiv.org/abs/2602.17426v1)** | 2026-02-19 |  |
 
