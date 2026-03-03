@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An Empirical Study of Bugs in Modern LLM Agent Frameworks](https://arxiv.org/abs/2602.21806v3)** | 2026-02-27 |  |
-| **[LLM-Powered Silent Bug Fuzzing in Deep Learning Libraries via Versatile and Controlled Bug Transfer](https://arxiv.org/abs/2602.23065v2)** | 2026-02-27 |  |
-| **[Context-Aware Functional Test Generation via Business Logic Extraction and Adaptation](https://arxiv.org/abs/2602.24108v1)** | 2026-02-27 |  |
-| **[The Agentic Automation Canvas: a structured framework for agentic AI project design](https://arxiv.org/abs/2602.15090v2)** | 2026-02-27 | 12 pages, 2 figures |
-| **[Floating-Point Usage on GitHub: A Large-Scale Study of Statically Typed Languages](https://arxiv.org/abs/2509.04936v2)** | 2026-02-27 |  |
+| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
+| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
+| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
+| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
 
