@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 04, 2026
+title: Latest 15 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,104 +7,143 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories](https://arxiv.org/abs/2603.02194v1)** | 2026-03-02 |  |
-| **[Generative AI in Software Testing: Current Trends and Future Directions](https://arxiv.org/abs/2603.02141v1)** | 2026-03-02 |  |
-| **[huff: A Python package for Market Area Analysis](https://arxiv.org/abs/2602.17640v2)** | 2026-03-02 | <details><summary>v1.1....</summary><p>v1.1.0; added mathematical appendix, added references; corrected references</p></details> |
-| **[MetaRCA: A Generalizable Root Cause Analysis Framework for Cloud-Native Systems Powered by Meta Causal Knowledge](https://arxiv.org/abs/2603.02032v1)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to FSE 2026;22pages,8 figures</p></details> |
+| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
+| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
+| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
+| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
+| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
+| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
+| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
 
