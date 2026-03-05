@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 05, 2026
+title: Latest 15 Papers - March 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,143 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Code Space: Do Code Agents Understand Software Architecture?](https://arxiv.org/abs/2603.00601v2)** | 2026-03-03 | updated experiments |
-| **[VeriStruct: AI-assisted Automated Verification of Data-Structure Modules in Verus](https://arxiv.org/abs/2510.25015v4)** | 2026-03-03 |  |
-| **[CIRCLE: A Framework for Evaluating AI from a Real-World Lens](https://arxiv.org/abs/2602.24055v2)** | 2026-03-03 | <details><summary>Accep...</summary><p>Accepted at Intelligent Systems Conference (IntelliSys) 2026</p></details> |
-| **[BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194v1)** | 2026-03-03 | <details><summary>Bench...</summary><p>Benchmark: https://huggingface.co/datasets/AweAI-Team/BeyondSWE. Repo: https://github.com/AweAI-Team/BeyondSWE. Scaffold: https://github.com/AweAI-Team/AweAgent</p></details> |
-| **[Type-Aware Retrieval-Augmented Generation with Dependency Closure for Solver-Executable Industrial Optimization Modeling](https://arxiv.org/abs/2603.03180v1)** | 2026-03-03 |  |
-| **[RippleGUItester: Change-Aware Exploratory Testing](https://arxiv.org/abs/2603.03121v1)** | 2026-03-03 |  |
-| **[A Practical Guide for Establishing a Technical Debt Management Process (Preprint)](https://arxiv.org/abs/2603.03085v1)** | 2026-03-03 |  |
+| **[A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development](https://arxiv.org/abs/2603.04390v1)** | 2026-03-04 | <details><summary>Paper...</summary><p>Paper submitted to Transactions in GIS</p></details> |
+| **[Human-Certified Module Repositories for the AI Age](https://arxiv.org/abs/2603.02512v2)** | 2026-03-04 | <details><summary>v2: 1...</summary><p>v2: 12 pages, improved references v1: 11 pages, 3 figures, 2 tables, prepared for AQTR 2026</p></details> |
+| **[LikeThis! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints](https://arxiv.org/abs/2603.04245v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)</p></details> |
+| **[FeedAIde: Guiding App Users to Submit Rich Feedback Reports by Asking Context-Aware Follow-Up Questions](https://arxiv.org/abs/2603.04244v1)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted for publication at the 13th International Conference on Mobile Software Engineering and Systems (MOBILESoft) 2026</p></details> |
+| **[Code Fingerprints: Disentangled Attribution of LLM-Generated Code](https://arxiv.org/abs/2603.04212v1)** | 2026-03-04 | 11 pages, 11 figures |
 
