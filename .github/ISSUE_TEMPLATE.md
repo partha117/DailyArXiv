@@ -2,7 +2,7 @@
 title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
-**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
+**Please check the [Github](https://github.com/partha117/DailyArXiv) page for a better reading experience and more papers.**
 
 ## "code generation"
 | **Title** | **Date** | **Comment** |
