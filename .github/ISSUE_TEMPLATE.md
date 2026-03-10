@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2026
+title: Latest 15 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,143 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
-| **[The Limits of Long-Context Reasoning in Automated Bug Fixing](https://arxiv.org/abs/2602.16069v2)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 ICBINB workshop</p></details> |
-| **[Systems of Twinned Systems: A Systematic Literature Review](https://arxiv.org/abs/2505.19916v2)** | 2026-03-06 |  |
-| **[ROS-related Robotic Systems Development with V-model-based Application of MeROS Metamodel](https://arxiv.org/abs/2506.08706v3)** | 2026-03-06 | 22 pages |
-| **[A Reference Architecture of Reinforcement Learning Frameworks](https://arxiv.org/abs/2603.06413v1)** | 2026-03-06 |  |
-| **[A Scalable Benchmark for Repository-Oriented Long-Horizon Conversational Context Management](https://arxiv.org/abs/2603.06358v1)** | 2026-03-06 |  |
-| **[A Generalized Feature Model for Digital Twins](https://arxiv.org/abs/2603.06308v1)** | 2026-03-06 |  |
+| **[X-SYS: A Reference Architecture for Interactive Explanation Systems](https://arxiv.org/abs/2602.12748v2)** | 2026-03-09 | 18 pages, 8 figures |
+| **[PostTrainBench: Can LLM Agents Automate LLM Post-Training?](https://arxiv.org/abs/2603.08640v1)** | 2026-03-09 |  |
+| **[Coverage-Guided Multi-Agent Harness Generation for Java Library Fuzzing](https://arxiv.org/abs/2603.08616v1)** | 2026-03-09 | <details><summary>Accep...</summary><p>Accepted at The 19th International Workshop on Search-Based and Fuzz Testing (SBFT 2026, ICSE Workshop)</p></details> |
+| **[SCAFFOLD-CEGIS: Preventing Latent Security Degradation in LLM-Driven Iterative Code Refinement](https://arxiv.org/abs/2603.08520v1)** | 2026-03-09 |  |
 
