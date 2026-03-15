@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 13, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,169 +7,78 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Artificial Intelligence as a Catalyst for Innovation in Software Engineering](https://arxiv.org/abs/2603.10994v1)** | 2026-03-11 |  |
-| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
-| **[PromCopilot: Simplifying Prometheus Metric Querying in Cloud Native Online Service Systems via Large Language Models](https://arxiv.org/abs/2503.03114v3)** | 2026-03-11 |  |
-| **[TOSSS: a CVE-based Software Security Benchmark for Large Language Models](https://arxiv.org/abs/2603.10969v1)** | 2026-03-11 |  |
-| **[STADA: Specification-based Testing for Autonomous Driving Agents](https://arxiv.org/abs/2603.10940v1)** | 2026-03-11 |  |
-| **[From Law to Gherkin: A Human-Centred Quasi-Experiment on the Quality of LLM-Generated Behavioural Specifications from Food-Safety Regulations](https://arxiv.org/abs/2508.20744v2)** | 2026-03-11 | <details><summary>This ...</summary><p>This article has been accepted for publication in Information and Software Technology (IST)</p></details> |
-| **[Exploring Indicators of Developers' Sentiment Perceptions in Student Software Projects](https://arxiv.org/abs/2603.10864v1)** | 2026-03-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Software: Evolution and Process (JSEP)</p></details> |
-| **[SiliconMind-V1: Multi-Agent Distillation and Debug-Reasoning Workflows for Verilog Code Generation](https://arxiv.org/abs/2603.08719v2)** | 2026-03-11 |  |
-| **[OODEval: Evaluating Large Language Models on Object-Oriented Design](https://arxiv.org/abs/2601.07602v2)** | 2026-03-11 | <details><summary>32 pa...</summary><p>32 pages,8 figures,10 tables</p></details> |
+| **[Automatic Generation of High-Performance RL Environments](https://arxiv.org/abs/2603.12145v1)** | 2026-03-12 | <details><summary>26 pa...</summary><p>26 pages, 9 figures, 8 tables</p></details> |
+| **[Classifier or Prompt: A Case Study on Legal Requirements Traceability](https://arxiv.org/abs/2502.04916v8)** | 2026-03-12 | 32 pages, 7 figues |
 
