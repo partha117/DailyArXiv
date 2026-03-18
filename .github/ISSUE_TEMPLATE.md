@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 18, 2026
+title: Latest 15 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,130 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lore: Repurposing Git Commit Messages as a Structured Knowledge Protocol for AI Coding Agents](https://arxiv.org/abs/2603.15566v1)** | 2026-03-16 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 1 table. Preprint available at https://doi.org/10.5281/zenodo.19051840</p></details> |
-| **[Probabilistic Model Checking Taken by Storm](https://arxiv.org/abs/2603.15559v1)** | 2026-03-16 |  |
-| **[Efficient Story Point Estimation With Comparative Learning](https://arxiv.org/abs/2507.14642v3)** | 2026-03-16 |  |
-| **[Formalisms for Robotic Mission Specification and Execution: A Comparative Analysis](https://arxiv.org/abs/2603.15427v1)** | 2026-03-16 |  |
-| **[SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?](https://arxiv.org/abs/2603.15401v1)** | 2026-03-16 |  |
-| **[Multi-Objective Load Balancing for Heterogeneous Edge-Based Object Detection Systems](https://arxiv.org/abs/2603.15400v1)** | 2026-03-16 |  |
+| **[ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K](https://arxiv.org/abs/2603.16866v1)** | 2026-03-17 | <details><summary>Websi...</summary><p>Website: https://manitwin.github.io/</p></details> |
+| **[Improving Code Comprehension through Cognitive-Load Aware Automated Refactoring for Novice Programmers](https://arxiv.org/abs/2603.16791v1)** | 2026-03-17 | <details><summary>Inter...</summary><p>International Conference on Evaluation and Assessment in Software Engineering (EASE), 2026</p></details> |
+| **[InCoder-32B: Code Foundation Model for Industrial Scenarios](https://arxiv.org/abs/2603.16790v1)** | 2026-03-17 |  |
+| **[IQuest-Coder-V1 Technical Report](https://arxiv.org/abs/2603.16733v1)** | 2026-03-17 |  |
+| **[LLAMAFUZZ: Large Language Model Enhanced Greybox Fuzzing](https://arxiv.org/abs/2406.07714v4)** | 2026-03-17 | <details><summary>The 7...</summary><p>The 7th ACM/IEEE International Conference on Automation of Software Test (AST 2026)</p></details> |
 
