@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 27, 2026
+title: Latest 15 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,182 +7,221 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Comparing Developer and LLM Biases in Code Evaluation](https://arxiv.org/abs/2603.24586v1)** | 2026-03-25 |  |
-| **[Boosting LLMs for Mutation Generation](https://arxiv.org/abs/2603.24560v1)** | 2026-03-25 | <details><summary>to be...</summary><p>to be published in the collection of FSE 2026</p></details> |
-| **[DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation](https://arxiv.org/abs/2603.21430v2)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to AAMAS 2026 EA</p></details> |
-| **[Agentic Verification of Software Systems](https://arxiv.org/abs/2511.17330v2)** | 2026-03-25 | <details><summary>To ap...</summary><p>To appear in FSE 2026</p></details> |
-| **[Patterns of Bot Participation and Emotional Influence in Open-Source Development](https://arxiv.org/abs/2601.11138v2)** | 2026-03-25 | <details><summary>The 7...</summary><p>The 7th International Workshop on Bots and Agents in Software Engineering (BoatSE 2026)</p></details> |
-| **[LLM-Powered Workflow Optimization for Multidisciplinary Software Development: An Automotive Industry Case Study](https://arxiv.org/abs/2603.21439v3)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 Industrial Track</p></details> |
-| **[Efficiency for Experts, Visibility for Newcomers: A Case Study of Label-Code Alignment in Kubernetes](https://arxiv.org/abs/2603.24501v1)** | 2026-03-25 | <details><summary>The 3...</summary><p>The 30th International Conference on Evaluation and Assessment in Software Engineering (EASE 2026), 9-12 June, 2026, Glasgow, Scotland, United Kingdom</p></details> |
-| **[Composer 2 Technical Report](https://arxiv.org/abs/2603.24477v1)** | 2026-03-25 |  |
-| **[QLCoder: A Query Synthesizer For Static Analysis of Security Vulnerabilities](https://arxiv.org/abs/2511.08462v4)** | 2026-03-25 |  |
-| **[Gendered Prompting and LLM Code Review: How Gender Cues in the Prompt Shape Code Quality and Evaluation](https://arxiv.org/abs/2603.24359v1)** | 2026-03-25 |  |
+| **[Learning to Commit: Generating Organic Pull Requests via Online Repository Memory](https://arxiv.org/abs/2603.26664v1)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint. Work in progress</p></details> |
+| **[Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification](https://arxiv.org/abs/2603.26648v1)** | 2026-03-27 |  |
+| **[From Technical Debt to Cognitive and Intent Debt: Rethinking Software Health in the Age of AI](https://arxiv.org/abs/2603.22106v3)** | 2026-03-27 | 9 pages,1 figure |
+| **[A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Code Smell Detection](https://arxiv.org/abs/2412.13801v4)** | 2026-03-27 | <details><summary>Prepr...</summary><p>Preprint accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM), 2026</p></details> |
+| **[Sustainability Is Not Linear: Quantifying Performance, Energy, and Privacy Trade-offs in On-Device Intelligence](https://arxiv.org/abs/2603.26603v1)** | 2026-03-27 | <details><summary>Under...</summary><p>Under review at Empirical Software Engineering (EMSE)</p></details> |
+| **[Beyond Code Snippets: Benchmarking LLMs on Repository-Level Question Answering](https://arxiv.org/abs/2603.26567v1)** | 2026-03-27 |  |
+| **[SWE Context Bench: A Benchmark for Context Learning in Coding](https://arxiv.org/abs/2602.08316v2)** | 2026-03-27 |  |
+| **[Architecting software monitors for control-flow anomaly detection through large language models and conformance checking](https://arxiv.org/abs/2511.10876v2)** | 2026-03-27 |  |
+| **[Reentrancy Detection in the Age of LLMs](https://arxiv.org/abs/2603.26497v1)** | 2026-03-27 |  |
+| **[Beyond Banning AI: A First Look at GenAI Governance in Open Source Software Communities](https://arxiv.org/abs/2603.26487v1)** | 2026-03-27 |  |
+| **[Can AI Models Direct Each Other? Organizational Structure as a Probe into Training Limitations](https://arxiv.org/abs/2603.26458v1)** | 2026-03-27 |  |
+| **[BayesFLo: Bayesian fault localization of complex software systems](https://arxiv.org/abs/2403.08079v3)** | 2026-03-27 |  |
+| **[Build-Aware Incremental C-to-Rust Migration via Skeleton-First Translation and Historical Knowledge Reuse](https://arxiv.org/abs/2603.02617v3)** | 2026-03-27 |  |
 
