@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2026
+title: Latest 15 Papers - April 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,169 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReCodeAgent: A Multi-Agent Workflow for Language-agnostic Translation and Validation of Large-scale Repositories](https://arxiv.org/abs/2604.07341v1)** | 2026-04-08 |  |
-| **[Chatbot-Based Assessment of Code Understanding in Automated Programming Assessment Systems](https://arxiv.org/abs/2604.07304v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, accepted for publication at CSEDU 2026</p></details> |
-| **[Broken by Default: A Formal Verification Study of Security Vulnerabilities in AI-Generated Code](https://arxiv.org/abs/2604.05292v2)** | 2026-04-08 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, empirical study</p></details> |
-| **[From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps](https://arxiv.org/abs/2411.18084v2)** | 2026-04-08 | <details><summary>45 pa...</summary><p>45 pages, 11 figures. Accepted by TOSEM2026</p></details> |
-| **[TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories](https://arxiv.org/abs/2604.07223v1)** | 2026-04-08 |  |
-| **[Automated Functional Testing for Malleable Mobile Application Driven from User Intent](https://arxiv.org/abs/2604.02079v2)** | 2026-04-08 |  |
-| **[Compact Constraint Encoding for LLM Code Generation: An Empirical Study of Token Economics and Constraint Compliance](https://arxiv.org/abs/2604.07192v1)** | 2026-04-08 |  |
-| **[Story Point Estimation Using Large Language Models](https://arxiv.org/abs/2603.06276v2)** | 2026-04-08 | 10 pages |
-| **[IssueGuard: Real-Time Secret Leak Prevention Tool for GitHub Issue Reports](https://arxiv.org/abs/2602.08072v3)** | 2026-04-08 |  |
+| **[sciwrite-lint: Verification Infrastructure for the Age of Science Vibe-Writing](https://arxiv.org/abs/2604.08501v1)** | 2026-04-09 | <details><summary>Code:...</summary><p>Code: https://github.com/authentic-research-partners/sciwrite-lint</p></details> |
+| **[Vulnerability Detection with Interprocedural Context in Multiple Languages: Assessing Effectiveness and Cost of Modern LLMs](https://arxiv.org/abs/2604.08417v1)** | 2026-04-09 |  |
+| **[Configuring Agentic AI Coding Tools: An Exploratory Study](https://arxiv.org/abs/2602.14690v3)** | 2026-04-09 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 3 tables, accepted at AIware 2026</p></details> |
+| **[Security Concerns in Generative AI Coding Assistants: Insights from Online Discussions on GitHub Copilot](https://arxiv.org/abs/2604.08352v1)** | 2026-04-09 | <details><summary>Accep...</summary><p>Accepted for publication at EASE '26 Companion</p></details> |
 
