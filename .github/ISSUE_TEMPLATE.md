@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,156 +7,117 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Enhancing Large Language Models with Retrieval Augmented Generation for Software Testing and Inspection Automation](https://arxiv.org/abs/2604.15270v1)** | 2026-04-16 |  |
-| **[An Empirical Study of API Misuses of Data-Centric Libraries](https://arxiv.org/abs/2408.15853v2)** | 2026-04-16 |  |
-| **[AI-Assisted Requirements Engineering: An Empirical Evaluation Relative to Expert Judgment](https://arxiv.org/abs/2604.15222v1)** | 2026-04-16 | 13 pages, 7 Figures |
-| **[Secret Leak Detection in Software Issue Reports using LLMs: A Comprehensive Evaluation](https://arxiv.org/abs/2410.23657v4)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at the International Conference on Mining Software Repositories (MSR) 2026</p></details> |
-| **[From Procedural Skills to Strategy Genes: Towards Experience-Driven Test-Time Evolution](https://arxiv.org/abs/2604.15097v1)** | 2026-04-16 | Technical Report |
-| **[From Charts to Code: A Hierarchical Benchmark for Multimodal Models](https://arxiv.org/abs/2510.17932v3)** | 2026-04-16 | <details><summary>This ...</summary><p>This work has been accepted by ACL 2026 Main</p></details> |
-| **[Beyond the Golden Record: Toward a Design Theory for Trustworthy Master Data Management with Self-Sovereign Identity](https://arxiv.org/abs/2604.11537v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted at DESRIST 2026 (21st International Conference on Design Science Research in Information Systems and Technology). 15 pages</p></details> |
-| **[Atropos: Improving Cost-Benefit Trade-off of LLM-based Agents under Self-Consistency with Early Termination and Model Hotswap](https://arxiv.org/abs/2604.15075v1)** | 2026-04-16 | <details><summary>Will ...</summary><p>Will appear at ISSTA 2026</p></details> |
+| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
+| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
+| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
 
