@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 22, 2026
+title: Latest 15 Papers - April 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Privacy Policies Match with the Logs? An Empirical Study of Privacy Disclosure in Android Application Logs](https://arxiv.org/abs/2604.18552v1)** | 2026-04-20 |  |
-| **[Towards Better Static Code Analysis Reports: Sentence Transformer-based Filtering of Non-Actionable Alerts](https://arxiv.org/abs/2604.18525v1)** | 2026-04-20 |  |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[OpenGame: Open Agentic Coding for Games](https://arxiv.org/abs/2604.18394v1)** | 2026-04-20 | OpenGame Report-v1 |
-| **[ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning](https://arxiv.org/abs/2603.05863v2)** | 2026-04-20 |  |
+| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
+| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
+| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
+| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
+| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
+| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
+| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
+| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
 
