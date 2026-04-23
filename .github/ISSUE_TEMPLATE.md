@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,156 +7,156 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PlayCoder: Making LLM-Generated GUI Code Playable](https://arxiv.org/abs/2604.19742v1)** | 2026-04-21 | <details><summary>Septe...</summary><p>September 11, 2025 Submitted to FSE2026</p></details> |
-| **[VLA Foundry: A Unified Framework for Training Vision-Language-Action Models](https://arxiv.org/abs/2604.19728v1)** | 2026-04-21 | <details><summary>32 pa...</summary><p>32 pages, 16 figures, technical report</p></details> |
-| **[Revisiting Code Debloating with Ground Truth-based Evaluation](https://arxiv.org/abs/2604.17717v2)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 3 tables, 1 figure, 17 code listings (plus 9 in appendix), Submitted to ASE 2026</p></details> |
-| **[SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion](https://arxiv.org/abs/2510.17925v2)** | 2026-04-21 | <details><summary>In Pr...</summary><p>In Proceedings of the Sixty-Fourth Annual Meeting of the Association for Computational Linguistics (2026)</p></details> |
-| **[Predictive Autoscaling for Node.js on Kubernetes: Lower Latency, Right-Sized Capacity](https://arxiv.org/abs/2604.19705v1)** | 2026-04-21 | 46 pages, 27 figures |
-| **[TypeScript Repository Indexing for Code Agent Retrieval](https://arxiv.org/abs/2604.18413v2)** | 2026-04-21 | <details><summary>This ...</summary><p>This is a tool demonstration paper. 4 tables and 1 listing</p></details> |
-| **[On Reasoning-Centric LLM-based Automated Theorem Proving](https://arxiv.org/abs/2604.19558v1)** | 2026-04-21 |  |
-| **[Evaluating LLM-Generated Obfuscated XSS Payloads for Machine Learning-Based Detection](https://arxiv.org/abs/2604.19526v1)** | 2026-04-21 |  |
+| **[Autonomous LLM-generated Feedback for Student Exercises in Introductory Software Engineering Courses](https://arxiv.org/abs/2604.20803v1)** | 2026-04-22 |  |
+| **[SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779v1)** | 2026-04-22 |  |
+| **[QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation](https://arxiv.org/abs/2604.08570v2)** | 2026-04-22 | <details><summary>24 pa...</summary><p>24 pages total, 25 figures, 5 tables, including supplementary material. Accepted to the ICLR 2026 Workshop on I Can't Believe It's Not Better</p></details> |
+| **[Autark: A Serverless Toolkit for Prototyping Urban Visual Analytics Systems](https://arxiv.org/abs/2604.20759v1)** | 2026-04-22 | <details><summary>Autar...</summary><p>Autark is available at https://autarkjs.org/</p></details> |
+| **[Evaluating Software Defect Prediction Models via the Area Under the ROC Curve Can Be Misleading](https://arxiv.org/abs/2604.20742v1)** | 2026-04-22 |  |
+| **[QuanForge: A Mutation Testing Framework for Quantum Neural Networks](https://arxiv.org/abs/2604.20706v1)** | 2026-04-22 | <details><summary>23 pa...</summary><p>23 pages, 4 figures, accepted at FSE 2026</p></details> |
+| **[Quo Vadis, Code Review? Exploring the Future of Code Review](https://arxiv.org/abs/2508.06879v5)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at EASE 2026</p></details> |
+| **[CodeRL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment](https://arxiv.org/abs/2510.18471v2)** | 2026-04-22 | Accepted by ACL 2026 |
 
