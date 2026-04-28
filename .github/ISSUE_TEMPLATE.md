@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,195 +7,195 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](https://arxiv.org/abs/2604.22750v1)** | 2026-04-24 |  |
-| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
-| **[VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation](https://arxiv.org/abs/2604.21375v2)** | 2026-04-24 | <details><summary>The f...</summary><p>The first two authors contribute equally</p></details> |
-| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
-| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
-| **[RealBench: A Repo-Level Code Generation Benchmark Aligned with Real-World Software Development Practices](https://arxiv.org/abs/2604.22659v1)** | 2026-04-24 |  |
-| **[Verifier Warnings Do Not Improve Comprehensibility Prediction](https://arxiv.org/abs/2604.22653v1)** | 2026-04-24 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026</p></details> |
-| **[Quality-Driven Selective Mutation for Deep Learning](https://arxiv.org/abs/2604.22640v1)** | 2026-04-24 |  |
-| **[From Natural Language to Verified Code: Toward AI Assisted Problem-to-Code Generation with Dafny-Based Formal Verification](https://arxiv.org/abs/2604.22601v1)** | 2026-04-24 | 16 pages |
-| **[A Comparison of ROS 2 and AUTOSAR Adaptive Platform Against Industry-Elicited Automotive Middleware Requirements](https://arxiv.org/abs/2604.22576v1)** | 2026-04-24 |  |
-| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[When Prompt Under-Specification Improves Code Correctness: An Exploratory Study of Prompt Wording and Structure Effects on LLM-Based Code Generation](https://arxiv.org/abs/2604.24712v1)** | 2026-04-27 |  |
+| **[Defective Task Descriptions in LLM-Based Code Generation: Detection and Analysis](https://arxiv.org/abs/2604.24703v1)** | 2026-04-27 |  |
+| **[Leveraging LLMs for Multi-File DSL Code Generation: An Industrial Case Study](https://arxiv.org/abs/2604.24678v1)** | 2026-04-27 | Accepted at EASE'26 |
+| **[Conjecture and Inquiry: Quantifying Software Performance Requirements via Interactive Retrieval-Augmented Preference Elicitation](https://arxiv.org/abs/2604.21380v2)** | 2026-04-27 | <details><summary>9 pag...</summary><p>9 pages,accepted by ACL 2026</p></details> |
+| **[Analyzing Chain of Thought (CoT) Approaches in Control Flow Code Deobfuscation Tasks](https://arxiv.org/abs/2604.15390v3)** | 2026-04-27 |  |
+| **[Less Is More: Engineering Challenges of On-Device Small Language Model Integration in a Mobile Application](https://arxiv.org/abs/2604.24636v1)** | 2026-04-27 | <details><summary>28 pa...</summary><p>28 pages, 8 tables, 17 references</p></details> |
+| **[Evaluation of LLM-Based Software Engineering Tools: Practices, Challenges, and Future Directions](https://arxiv.org/abs/2604.24621v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to EASE 2026</p></details> |
+| **[The AI Codebase Maturity Model: From Assisted Coding to Fully Autonomous Systems](https://arxiv.org/abs/2604.09388v2)** | 2026-04-27 | <details><summary>30 pa...</summary><p>30 pages, 7 tables. v2: Extended to 6 levels. Added Level 6 (Fully Autonomous), Hive reference implementation, Beads for agent memory continuity, throughput acceleration data. Metrics updated to 100 days. Source: https://github.com/kubestellar/console and https://github.com/kubestellar/hive</p></details> |
+| **[A Course on the Introduction to Quantum Software Engineering: Experience Report](https://arxiv.org/abs/2602.07589v2)** | 2026-04-27 | <details><summary>Added...</summary><p>Added implementation details</p></details> |
+| **[Measuring the Unmeasurable: Markov Chain Reliability for LLM Agents](https://arxiv.org/abs/2604.24579v1)** | 2026-04-27 |  |
+| **[Mono2Sls: Automated Monolith-to-Serverless Migration via Multi-Stage Pipeline with Static Analysis](https://arxiv.org/abs/2604.24550v1)** | 2026-04-27 |  |
 
