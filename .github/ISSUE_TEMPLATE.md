@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 13, 2026
+title: Latest 15 Papers - May 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,169 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using Logs to support Programming Education](https://arxiv.org/abs/2605.10920v1)** | 2026-05-11 | <details><summary>Autho...</summary><p>Author version of the paper accepted for publication at XX Conferência Latino-Americana de Tecnologias de Aprendizagem - LACLO 2025</p></details> |
-| **[Code Comprehension with GitHub Copilot: Performance Gains, Comprehension Trade-offs, and Behavioral Predictors in Brownfield Programming](https://arxiv.org/abs/2511.02922v2)** | 2026-05-11 | 12 pages |
-| **[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace](https://arxiv.org/abs/2605.10913v1)** | 2026-05-11 | <details><summary>56 pa...</summary><p>56 pages, 21 figures, 14 tables</p></details> |
-| **[CppPerf: An Automated Pipeline and Dataset for Performance-Improving C++ Commits](https://arxiv.org/abs/2605.10890v1)** | 2026-05-11 |  |
-| **[BenchCAD: A Comprehensive, Industry-Standard Benchmark for Programmatic CAD](https://arxiv.org/abs/2605.10865v1)** | 2026-05-11 | 9 page 7 figures |
-| **[Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments](https://arxiv.org/abs/2601.19914v2)** | 2026-05-11 |  |
-| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v5)** | 2026-05-11 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the Journal of Systems and Software (JSS)</p></details> |
-| **[StartFlow: From Method Conception to Multi-Perspective Evaluation in UX Prototyping for Software Startups](https://arxiv.org/abs/2605.10824v1)** | 2026-05-11 | <details><summary>Paper...</summary><p>Paper accepted for publication in Information and Software Technology</p></details> |
-| **[ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox](https://arxiv.org/abs/2605.10787v1)** | 2026-05-11 |  |
+| **[Basilisk and Docker for Reproducible GN&C Simulation: A Workflow Reference](https://arxiv.org/abs/2605.12443v1)** | 2026-05-12 | 21 pages, 8 figures |
+| **[From Data Lifting to Continuous Risk Estimation: A Process-Aware Pipeline for Predictive Monitoring of Clinical Pathways](https://arxiv.org/abs/2605.03895v2)** | 2026-05-12 |  |
+| **[SmellBench: Evaluating LLM Agents on Architectural Code Smell Repair](https://arxiv.org/abs/2605.07001v2)** | 2026-05-12 |  |
+| **[Evolutionary Optimization of AI-Collapsed Software Development Stacks: Labor Tipping Points and Workforce Realignment](https://arxiv.org/abs/2604.05948v2)** | 2026-05-12 | <details><summary>5 Pag...</summary><p>5 Pages, Part of the book AI for Humanity: Architecting a Better Future</p></details> |
 
