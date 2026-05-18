@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 15, 2026
+title: Latest 15 Papers - May 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,117 +7,91 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neurosymbolic Auditing of Natural-Language Software Requirements](https://arxiv.org/abs/2605.13817v1)** | 2026-05-13 | 10 |
-| **[(How) Do Large Language Models Understand High-Level Message Sequence Charts?](https://arxiv.org/abs/2605.13773v1)** | 2026-05-13 |  |
-| **[BoostAPR: Boosting Automated Program Repair via Execution-Grounded Reinforcement Learning with Dual Reward Models](https://arxiv.org/abs/2605.09134v3)** | 2026-05-13 | <details><summary>21 pa...</summary><p>21 pages, 2 figures. Accepted at ICML 2026</p></details> |
-| **[Learning Responsibility-Attributed Adversarial Scenarios for Testing Autonomous Vehicles](https://arxiv.org/abs/2605.13751v1)** | 2026-05-13 |  |
-| **[SkillOps: Managing LLM Agent Skill Libraries as Self-Maintaining Software Ecosystems](https://arxiv.org/abs/2605.13716v1)** | 2026-05-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures. Submitted to NeurIPS 2026. Code is available at https://github.com/Hik289/SkillOps.git</p></details> |
+| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
+| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
+| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
 
