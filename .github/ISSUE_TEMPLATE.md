@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,91 +7,104 @@ labels: documentation
 ## "code generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "test generation"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "debugging"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "bug localization"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "program repair"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "software maintenance"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "automated testing"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "llm"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "large language model"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "prompt engineering"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "nl2code"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## "code completion"
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
 ## 
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Backup Restoration to Minimum Viable Factory Recovery: A Systematization of Ransomware Recovery in Manufacturing Systems](https://arxiv.org/abs/2605.16167v1)** | 2026-05-15 | <details><summary>46 pa...</summary><p>46 pages, submitted manuscript. Includes taxonomy, recovery lifecycle, and benchmarking framework for ransomware recovery in manufacturing/ICS environments</p></details> |
-| **[The Dangers of Non-Self-Fixed Architecture Technical Debt and Its Impact on Time-to-Fix](https://arxiv.org/abs/2605.16133v1)** | 2026-05-15 | <details><summary>This ...</summary><p>This manuscript is currently under review</p></details> |
-| **[Graph Construction and Matching for Imperative Programs using Neural and Structural Methods](https://arxiv.org/abs/2604.26578v2)** | 2026-05-15 | <details><summary>20 Pa...</summary><p>20 Pages. Technical Report. Maynooth University, Ireland. Submitted on 29 April 2026</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[Towards LLM-Assisted Architecture Recovery for Real-World ROS~2 Systems: An Agent-Based Multi-Level Approach to Hierarchical Structural Architecture Reconstruction](https://arxiv.org/abs/2605.20055v1)** | 2026-05-19 |  |
+| **[Does Code Cleanliness Affect Coding Agents? A Controlled Minimal-Pair Study](https://arxiv.org/abs/2605.20049v1)** | 2026-05-19 |  |
+| **[A Case for Agentic Tuning: From Documentation to Action in PostgreSQL](https://arxiv.org/abs/2605.19988v1)** | 2026-05-19 |  |
 
